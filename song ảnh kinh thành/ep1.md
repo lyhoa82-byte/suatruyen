@@ -2,13 +2,13 @@ Song Ảnh Kinh Thành. Hồi một: Người chết trong lồng Vô Tướng.
 
 Mười ba năm trước, trong hậu đài của Vô Tướng Ban, tiếng trống bên ngoài dồn từng hồi. Khán giả đã ngồi kín rạp.
 
-Hai thiếu nữ mười sáu tuổi đang thay y phục. Một người mặc váy đỏ, cúi xuống buộc sợi chỉ quanh cổ chân. Người kia mặc váy trắng, đang loay hoay với hạt ngọc trai bên tai trái. Cả hai trang điểm giống nhau, cùng kiểu tóc, cùng đường mắt kéo dài. Đứng xa vài bước, người trong đoàn cũng dễ nhận nhầm.
+Hai thiếu nữ mười sáu tuổi đang thay y phục. Một người mặc váy đỏ, cúi xuống buộc sợi chỉ quanh cổ chân. Người kia mặc váy trắng, loay hoay với hạt ngọc trai bên tai trái. Hai người trang điểm giống hệt nhau, đứng xa vài bước cũng dễ nhận nhầm.
 
 Thiếu nữ áo đỏ liếc sang, nói: "Muội buộc lệch rồi."
 
-Thiếu nữ áo trắng hỏi lại: "Lệch đâu?"
+"Lệch đâu?" áo trắng hỏi.
 
-"Khuyên tai," áo đỏ đáp.
+"Khuyên tai."
 
 Áo trắng sờ thử, hạt ngọc suýt rơi. Nàng càu nhàu: "Tỷ đừng nói lúc ta đang cài. Tay ta run."
 
@@ -20,75 +20,73 @@ Thiếu nữ áo trắng hỏi lại: "Lệch đâu?"
 
 Một giọng đàn ông vang lên ở cửa: "Hai đứa đổi áo nữa rồi?"
 
-Cố Bách Xảo đứng đó từ lúc nào. Trên tay ông là một chiếc gương đồng hình bán nguyệt, cán quấn vải.
+Cố Bách Xảo đứng đó từ lúc nào, trên tay là một chiếc gương đồng hình bán nguyệt, cán quấn vải.
 
-Áo trắng quay lại, nói: "Chúng con chỉ thử xem sư phụ có nhận ra không."
+Áo trắng quay lại: "Chúng con chỉ thử xem sư phụ có nhận ra không."
 
-Cố Bách Xảo hỏi: "Từ lúc hai đứa sáu tuổi đến giờ, lần nào ta nhận nhầm chưa?"
+"Từ lúc hai đứa sáu tuổi đến giờ, lần nào ta nhận nhầm chưa?" Cố Bách Xảo hỏi.
 
-Áo đỏ không đáp. Nàng đang nhìn bàn tay ông. Máu chảy dọc theo ngón cái, thấm vào mép gương. Nàng hỏi: "Tay người bị gì vậy?"
+Áo đỏ không đáp. Nàng đang nhìn bàn tay ông: máu chảy dọc theo ngón cái, thấm vào mép gương. "Tay người bị gì vậy?"
 
-Cố Bách Xảo lập tức bọc kín chiếc gương, nói: "Không có gì."
+Cố Bách Xảo lập tức bọc kín chiếc gương. "Không có gì."
 
 "Máu dính vào Mẫu Kính rồi," áo đỏ nói.
 
 "Ta thấy," ông đáp, rồi đặt chiếc gương vào hòm, khóa lại.
 
-Áo trắng hỏi: "Không có nó thì lát nữa diễn Phượng Môn thế nào?"
+"Không có nó thì lát nữa diễn Phượng Môn thế nào?" áo trắng hỏi.
 
-"Bỏ màn ấy," Cố Bách Xảo nói.
+"Bỏ màn ấy."
 
 Áo trắng phản đối: "Khán giả tới đây đều chờ Phượng Môn. Bây giờ bỏ…"
 
-Nàng chưa nói hết, ông đã cắt ngang: "Bỏ."
-
-Giọng ông không lớn, nhưng khiến cả hai im ngay.
+"Bỏ," ông cắt ngang. Giọng ông không lớn, nhưng khiến cả hai im ngay.
 
 Ngoài sân khấu, tiếng trống đột nhiên ngừng. Ba tiếng chuông vang lên, báo sắp khai màn.
 
-Cố Bách Xảo kéo hai người lại gần, dặn: "Lát nữa nếu có chuyện, đi thẳng ra cửa sau. Đừng tìm ta."
+Cố Bách Xảo kéo hai người lại gần. "Lát nữa nếu có chuyện, đi thẳng ra cửa sau. Đừng tìm ta."
 
-Áo đỏ hỏi: "Có chuyện gì?"
+"Có chuyện gì?" áo đỏ hỏi.
 
-Ông không trả lời câu ấy, chỉ nói tiếp: "Còn nữa. Không được gọi tên nhau."
+Ông không trả lời, chỉ nói tiếp: "Còn nữa. Không được gọi tên nhau."
 
-Áo trắng nhìn ông, nói: "Sư phụ, người làm con sợ rồi đấy."
+"Sư phụ, người làm con sợ rồi đấy," áo trắng nói.
 
-"Sợ thì nhớ kỹ hơn," ông đáp.
+"Sợ thì nhớ kỹ hơn."
 
 Một hồi trống lạ bất chợt nổi lên ngoài sân khấu, không phải nhịp của Vô Tướng Ban. Cố Bách Xảo quay phắt lại.
 
-Ngay sau đó, lửa xanh phụt lên sau rèm. Khán giả bên ngoài reo hò, tưởng màn diễn đã bắt đầu. Người trong hậu đài thì lập tức nhốn nháo. Có người hét lên: "Bình dầu đổ rồi!" Người khác gọi: "Dập lửa!" Một giọng nữa kêu thất thanh: "Trong Phượng Môn còn người!"
+Ngay sau đó, lửa xanh phụt lên sau rèm. Khán giả bên ngoài reo hò, tưởng màn diễn đã bắt đầu, còn hậu đài thì nhốn nháo. Có người hét: "Bình dầu đổ rồi!" Người khác gọi: "Dập lửa!" Một giọng nữa kêu thất thanh: "Trong Phượng Môn còn người!"
 
-Lửa bám vào rèm rất nhanh. Mùi dầu cháy ập vào, cay xộc mắt. Hai thiếu nữ vừa định chạy ra thì Cố Bách Xảo đã chặn lại, quát: "Cửa sau!"
+Lửa bám vào rèm rất nhanh, mùi dầu cháy cay xộc mắt. Hai thiếu nữ vừa định chạy ra thì Cố Bách Xảo chặn lại, quát: "Cửa sau!"
 
-Một mũi tên xuyên qua rèm, cắm vào vai ông. Áo trắng bật kêu. Cố Bách Xảo loạng choạng nhưng không ngã. Ông đẩy hai đệ tử vào gian đặt cơ quan.
+Một mũi tên xuyên qua rèm, cắm vào vai ông. Áo trắng bật kêu. Cố Bách Xảo loạng choạng nhưng không ngã, đẩy hai đệ tử vào gian đặt cơ quan.
 
-Qua lớp khói, một người đeo mặt nạ đồng bước lên sân khấu. Hắn không hề nhìn đám cháy. Ánh mắt hắn chỉ lướt qua từng chiếc hòm, như đang tìm một thứ biết chắc là có ở đây.
+Qua lớp khói, một người đeo mặt nạ đồng bước lên sân khấu. Hắn không nhìn đám cháy, chỉ lướt mắt qua từng chiếc hòm, như đang tìm một thứ biết chắc là có ở đây.
 
-Cố Bách Xảo mở hòm, lấy chiếc gương ra rồi đập mạnh lên cạnh bàn. Gương vỡ làm đôi. Ông nhét một nửa vào tay áo đỏ, nửa kia đưa cho áo trắng, dặn: "Giữ lấy. Đừng để ai lấy cả hai mảnh."
+Cố Bách Xảo mở hòm, lấy chiếc gương ra rồi đập mạnh lên cạnh bàn. Gương vỡ làm đôi. Ông nhét một nửa vào tay áo đỏ, nửa kia đưa cho áo trắng. "Giữ lấy. Đừng để ai lấy cả hai mảnh."
 
-Áo đỏ hỏi: "Còn người?"
+"Còn người?" áo đỏ hỏi.
 
-"Ta theo sau," ông nói.
+"Ta theo sau."
 
-Áo trắng nói khẽ: "Người lại nói dối."
+"Người lại nói dối," áo trắng nói khẽ.
 
-Cố Bách Xảo khựng lại một chút. Phía ngoài đã có tiếng chân đến gần. Ông kéo hai đứa vào Phượng Môn. Đó là một khung gương cao quá đầu người, phía sau chằng chịt bánh răng và lối thoát hẹp.
+Cố Bách Xảo khựng lại một chút. Phía ngoài đã có tiếng chân đến gần. Ông kéo hai đứa vào Phượng Môn, một khung gương cao quá đầu người, phía sau chằng chịt bánh răng và lối thoát hẹp.
 
-Ông nói: "Nghe đây. Nếu muốn sống, từ đêm nay đừng làm chính mình nữa."
+"Nghe đây. Nếu muốn sống, từ đêm nay đừng làm chính mình nữa."
 
 Áo đỏ nhìn ông, chưa hiểu.
 
-Một tiếng nổ vang lên. Khung gương nghiêng xuống, hàng trăm mảnh kính vỡ tung, rơi khắp sàn. Một thanh gỗ cháy đổ xuống, đè lên chân áo đỏ.
+Một tiếng nổ vang lên. Khung gương nghiêng xuống, hàng trăm mảnh kính vỡ tung khắp sàn. Một thanh gỗ cháy đổ xuống, đè lên chân áo đỏ.
 
-Áo trắng quay lại kéo nàng. Áo đỏ hét: "Đi đi!"
+Áo trắng quay lại kéo nàng. "Đi đi!" áo đỏ hét.
 
-Áo trắng quát lại: "Im đi. Đưa tay đây!"
+"Im đi. Đưa tay đây!" áo trắng quát lại.
 
-Một bàn tay đeo găng đen thò qua màn khói, túm lấy tóc áo trắng. Áo đỏ nhặt mảnh kính dưới đất, đâm mạnh vào cánh tay hắn. Kẻ đeo mặt nạ buông ra.
+Một bàn tay đeo găng đen thò qua màn khói, túm lấy tóc áo trắng. Áo đỏ nhặt mảnh kính dưới đất, đâm mạnh vào cánh tay hắn, và kẻ đeo mặt nạ buông ra.
 
-Lửa bùng lên giữa hai người. Trong một khoảnh khắc, áo đỏ và áo trắng cùng biến mất sau khói. Chỉ còn những mảnh gương dưới đất, mảnh nào cũng phản chiếu hai khuôn mặt giống nhau.
+Lửa bùng lên giữa hai người, và cả hai biến mất sau khói. Chỉ còn những mảnh gương dưới đất, mảnh nào cũng phản chiếu hai khuôn mặt giống nhau.
 
 Một giọng thiếu nữ vang lên, rất gần: "Ta là…"
 
@@ -102,73 +100,59 @@ Mười ba năm sau, trên hồ sen của Thủy Nguyệt Các, Tạ Vân Cơ b�
 
 Ở tầng hai, Đường Tiểu Sơn nhoài người ra lan can, hỏi: "Nàng đi trên nước thật à?"
 
-Hạ Tử Khiêm của Đại Lý Tự đang uống trà bên cạnh. Hắn đáp: "Dưới nước có trụ kính."
+Hạ Tử Khiêm của Đại Lý Tự đang uống trà bên cạnh. "Dưới nước có trụ kính."
 
-"Đại nhân nhìn thấy?" Tiểu Sơn hỏi.
+"Đại nhân nhìn thấy?"
 
-Hạ Tử Khiêm nói gọn: "Đoán."
-
-"Vậy mà nói chắc như tận tay dựng lên," Tiểu Sơn lẩm bẩm.
-
-Hạ Tử Khiêm liếc hắn. Tiểu Sơn ngồi ngay ngắn lại.
+"Đoán."
 
 Trên sân khấu, một thị nữ mang ra chiếc hộp gỗ nhỏ, mở nắp cho khán giả nhìn. Bên trong trống không. Vân Cơ đặt hộp lên mặt hồ rồi dùng trâm bạc gõ ba lần, cộc, cộc, cộc.
 
-Nắp hộp bật lên. Một con bướm trắng bay ra, rồi con thứ hai. Sau đó hàng trăm con bướm đồng loạt tràn khỏi chiếc hộp, tản ra khắp đại sảnh. Có người đứng bật dậy. Một đứa trẻ bên dưới vừa cười vừa với tay bắt.
+Nắp hộp bật lên. Một con bướm trắng bay ra, rồi con thứ hai, rồi hàng trăm con đồng loạt tràn khỏi hộp, tản ra khắp đại sảnh. Có người đứng bật dậy. Một đứa trẻ vừa cười vừa với tay bắt.
 
-Tiểu Sơn quay sang. Hạ Tử Khiêm không nói gì. Tiểu Sơn hỏi: "Lần này trụ kính làm được không?"
+Tiểu Sơn quay sang. Hạ Tử Khiêm không nói gì. "Lần này trụ kính làm được không?" Tiểu Sơn hỏi.
 
-"Không," Hạ Tử Khiêm đáp.
+"Không."
 
-"Vậy là phép thật?" Tiểu Sơn hỏi tiếp.
+"Vậy là phép thật?"
 
-"Ta chưa biết," hắn nói.
-
-Tiểu Sơn cười: "Đại nhân cũng có lúc chịu nói chưa biết."
-
-"Có. Khi ngươi chịu im," Hạ Tử Khiêm đáp.
+"Ta chưa biết."
 
 Tiếng vỗ tay nổi lên. Vân Cơ vừa cúi chào, toàn bộ đèn trong đại sảnh bỗng tắt.
 
-Trên mái có tiếng chuông bạc. Một chiếc đèn lồng đỏ sáng lên giữa không trung. Dưới ánh đèn, một nữ nhân áo đen đang ngồi trên sợi dây căng ngang đại sảnh. Nửa mặt nàng che bằng mặt nạ đỏ, trong tay cầm chiếc ô giấy đen. Đó là Lục Thanh La.
+Trên mái có tiếng chuông bạc, và một chiếc đèn lồng đỏ sáng lên giữa không trung. Dưới ánh đèn, một nữ nhân áo đen ngồi trên sợi dây căng ngang đại sảnh, nửa mặt che bằng mặt nạ đỏ, tay cầm chiếc ô giấy đen. Đó là Lục Thanh La.
 
-Khán giả rì rầm. Có người vội giấu chén trà vào trong áo, như sợ lát nữa sân khấu lại bốc cháy.
+Thanh La nghiêng ô. Cánh hoa đen trút xuống hồ sen. Những cánh sen bạc vừa chạm vào chúng đã bén lửa, và trên mặt hồ hiện ra bốn chữ: Hữu danh vô thực.
 
-Thanh La nghiêng ô. Cánh hoa đen trút xuống hồ sen. Những cánh sen bạc vừa chạm vào chúng đã bén lửa. Trên mặt hồ hiện ra bốn chữ: Hữu danh vô thực.
-
-Vân Cơ nhìn một lát rồi dùng mũi chân chạm xuống nước. Mặt hồ dựng lên thành một bức màn. Nước cuốn đám lửa thành hình phượng hoàng, lao thẳng về phía Thanh La. Thanh La mở ô. Con phượng hoàng xuyên qua thân thể nàng, và cả người nàng vỡ thành một đám giấy đen.
+Vân Cơ dùng mũi chân chạm xuống nước. Mặt hồ dựng lên thành một bức màn, cuốn đám lửa thành hình phượng hoàng lao thẳng về phía Thanh La. Thanh La mở ô. Con phượng hoàng xuyên qua thân thể nàng, và cả người nàng vỡ thành một đám giấy đen.
 
 Ngay sau đó, giọng Thanh La vang lên sau lưng Vân Cơ: "Tỷ vẫn không thích lửa."
 
-Vân Cơ không quay lại, chỉ nói: "Ta không thích người khác đốt nhà mình."
+Vân Cơ không quay lại. "Ta không thích người khác đốt nhà mình."
 
-Thanh La đã đứng giữa hồ từ lúc nào. Nàng đáp: "Ta chỉ đốt mấy bông sen."
-
-"Mái nhà lần trước cũng chỉ cháy một góc?" Vân Cơ hỏi.
-
-"Đã bảo ta sẽ trả," Thanh La nói.
+Thanh La đã đứng giữa hồ từ lúc nào. "Ta chỉ đốt mấy bông sen."
 
 "Ba trăm lượng. Tiền lãi tính riêng," Vân Cơ đáp.
 
 Thanh La bật cười: "Sau ngày mai đi. Nếu cả hai còn rảnh."
 
-Nụ cười trên môi Vân Cơ nhạt đi. Nàng hỏi: "Ngày mai muội làm gì?"
+Nụ cười trên môi Vân Cơ nhạt đi. "Ngày mai muội làm gì?"
 
-Thanh La ném qua một tấm thiếp đỏ. Tấm thiếp cắm vào cây cột sau lưng Vân Cơ. Trên đó viết: Giờ Tý, La Sinh Đài. Người chết bước ra. Người sống ở lại.
+Thanh La ném qua một tấm thiếp đỏ, cắm vào cây cột sau lưng Vân Cơ. Trên đó viết: Giờ Tý, La Sinh Đài. Người chết bước ra. Người sống ở lại.
 
 "Vô Tướng Ngục," Thanh La nói.
 
-Khán giả xung quanh lập tức xôn xao. Sau vụ cháy Vô Tướng Ban, bản vẽ màn diễn ấy đã thất truyền. Những người từng xem chỉ nhớ một chiếc lồng bị khóa, chìm xuống nước, rồi người bên trong xuất hiện ở nơi khác. Không ai biết nàng thoát ra bằng cách nào.
+Khán giả xung quanh xôn xao. Sau vụ cháy Vô Tướng Ban, bản vẽ màn diễn ấy đã thất truyền. Người từng xem chỉ nhớ một chiếc lồng bị khóa, chìm xuống nước, rồi người bên trong xuất hiện ở nơi khác. Không ai biết nàng thoát bằng cách nào.
 
 "Sư phụ không cho diễn," Vân Cơ nói.
 
-"Sư phụ đâu còn ở đây mà đánh ta," Thanh La đáp.
+"Sư phụ đâu còn ở đây mà đánh ta."
 
-Vân Cơ nói: "Nếu còn, người sẽ đánh thật đấy."
+"Nếu còn, người sẽ đánh thật đấy."
 
-"Vậy tỷ đến mà xem," Thanh La nói.
+"Vậy tỷ đến mà xem."
 
-"Ta sẽ đến," Vân Cơ đáp.
+"Ta sẽ đến."
 
 Thanh La tiến lại gần, ghé sát tai Vân Cơ, hạ giọng: "Chiếc khóa thứ chín xuất hiện rồi."
 
@@ -176,25 +160,13 @@ Bàn tay Vân Cơ trong tay áo khựng lại. Thanh La lùi ra, lại cười n
 
 Nàng bật ô. Một đàn quạ bay vọt lên, che kín mặt hồ. Khi quạ tản ra, Thanh La đã biến mất.
 
-Đường Tiểu Sơn nghiêng người nhìn xuống, hỏi: "Lần này dưới hồ có đường ngầm?"
+Đường Tiểu Sơn nghiêng người nhìn xuống. "Lần này dưới hồ có đường ngầm?"
 
 "Có thể," Hạ Tử Khiêm đáp.
 
-"Đây là hồ của Tạ cô nương," Tiểu Sơn nói.
-
-"Ta biết," Hạ Tử Khiêm nói.
-
-Tiểu Sơn nói tiếp: "Lục cô nương biết đường ngầm nhà người ta."
-
-"Ta cũng biết," Hạ Tử Khiêm đáp.
-
 "Vậy hai người họ không ghét nhau như lời đồn?" Tiểu Sơn hỏi.
 
-Hạ Tử Khiêm nhìn Vân Cơ. Nàng đang cúi xuống nhặt một cánh hoa đen.
-
-Tiểu Sơn gọi: "Đại nhân?"
-
-"Ta chưa biết," Hạ Tử Khiêm nói.
+Hạ Tử Khiêm nhìn Vân Cơ, người đang cúi xuống nhặt một cánh hoa đen. "Ta chưa biết."
 
 Lần này Tiểu Sơn không hỏi nữa.
 
@@ -208,101 +180,93 @@ Nàng rạch cánh hoa đen bằng đầu trâm. Bên trong có một sợi tóc
 
 Nàng lấy dưới bàn ra một chiếc hộp nhỏ. Bên trong là mấy mảnh kim loại trông giống răng khóa. Vân Cơ đặt sợi tóc vào cạnh chúng.
 
-Có tiếng gõ cửa. Vân Cơ hỏi: "Ai?"
+Có tiếng gõ cửa. "Ai?" Vân Cơ hỏi.
 
-Bên ngoài đáp: "Đại Lý Tự."
+"Đại Lý Tự."
 
 Nàng đóng hộp, đẩy vào ngăn kín rồi mới mở cửa. Hạ Tử Khiêm đứng bên ngoài một mình.
 
-Vân Cơ hỏi: "Đại nhân tới bắt ta vì thả bướm?"
+"Đại nhân tới bắt ta vì thả bướm?"
 
 "Sáu thợ cơ quan mất tích trong ba tháng," hắn nói.
 
-"Vậy càng không liên quan tới bướm," nàng đáp.
+"Vậy càng không liên quan tới bướm."
 
-Hạ Tử Khiêm bước vào, nói: "Cô mua lại nhà của ba người."
+Hạ Tử Khiêm bước vào. "Cô mua lại nhà của ba người."
 
 "Sau khi họ mất tích. Người nhà cần tiền," Vân Cơ đáp.
 
-"Cô trả nợ cho hai người khác," hắn nói.
+"Cô trả nợ cho hai người khác."
 
-"Ta có tiền," nàng đáp.
+"Ta có tiền."
 
-Hắn nói tiếp: "Người cuối cùng là Trương Đồng. Ông ta đúc tám chiếc khóa cho Vô Tướng Ngục. Mất tích ba ngày trước."
+"Người cuối cùng là Trương Đồng. Ông ta đúc tám chiếc khóa cho Vô Tướng Ngục. Mất tích ba ngày trước," hắn nói tiếp.
 
-Vân Cơ nhìn hắn, hỏi: "Đại nhân nghi Thanh La bắt ông ấy?"
+Vân Cơ nhìn hắn. "Đại nhân nghi Thanh La bắt ông ấy?"
 
-"Ta chưa nói vậy," Hạ Tử Khiêm đáp.
+"Ta chưa nói vậy."
 
-"Nhưng đại nhân tới hỏi ta," nàng nói.
+"Nhưng đại nhân tới hỏi ta."
 
-"Cô biết màn diễn ấy. Cô cũng biết Lục Thanh La," hắn nói.
+"Cô biết màn diễn ấy. Cô cũng biết Lục Thanh La."
 
 "Mười ba năm không qua lại," Vân Cơ đáp.
 
-"Nàng ta vừa đi bằng đường ngầm dưới hồ nhà cô," hắn nói.
+"Nàng ta vừa đi bằng đường ngầm dưới hồ nhà cô."
 
-Vân Cơ hơi mím môi: "Đường ngầm ấy có từ thời chủ cũ."
+Vân Cơ hơi mím môi. "Đường ngầm ấy có từ thời chủ cũ."
 
-"Cô không bịt lại?" hắn hỏi.
+"Cô không bịt lại?"
 
-"Ta đã bịt ba lần," nàng đáp.
+"Ta đã bịt ba lần."
 
-"Nàng ta đào lại ba lần?" hắn hỏi.
+"Nàng ta đào lại ba lần?"
 
-Vân Cơ đáp: "Bốn."
+"Bốn," Vân Cơ đáp.
 
-Hạ Tử Khiêm không hỏi vì sao lần thứ tư nàng không bịt nữa. Hắn cầm chiếc hộp gỗ dùng trong màn diễn lên, gõ vào đáy, hỏi: "Bướm giấu ở đâu?"
+Hạ Tử Khiêm không hỏi vì sao lần thứ tư nàng không bịt nữa. Hắn cầm chiếc hộp gỗ dùng trong màn diễn lên, gõ vào đáy. "Bướm giấu ở đâu?"
 
-"Đại nhân tới điều tra mất tích hay xem đạo cụ?" Vân Cơ hỏi lại.
+"Đại nhân tới điều tra mất tích hay xem đạo cụ?"
 
-"Cả hai," hắn đáp.
+"Cả hai."
 
-"Mua vé rồi ta nói," nàng nói.
+Hạ Tử Khiêm đặt hộp xuống. "Ngày mai cô vẫn tới La Sinh Đài?"
 
-"Ta được mời," hắn đáp.
+"Phải."
 
-"Vậy người mời đại nhân nói đi," Vân Cơ nói.
+"Cô cho rằng sẽ có chuyện?"
 
-Hạ Tử Khiêm đặt hộp xuống, hỏi: "Ngày mai cô vẫn tới La Sinh Đài?"
+"Nếu chắc chắn, ta đã không đứng đây nói với đại nhân."
 
-"Phải," nàng đáp.
+"Cô muốn ta đến?"
 
-"Cô cho rằng sẽ có chuyện?" hắn hỏi.
+"Ta muốn đại nhân nhìn kỹ người bước vào lồng."
 
-Vân Cơ nói: "Nếu chắc chắn, ta đã không đứng đây nói với đại nhân."
-
-"Cô muốn ta đến?" hắn hỏi.
-
-"Ta muốn đại nhân nhìn kỹ người bước vào lồng," nàng đáp.
-
-Hạ Tử Khiêm nói: "Ta từng gặp Lục Thanh La. Ta nhận ra nàng ta."
+"Ta từng gặp Lục Thanh La. Ta nhận ra nàng ta."
 
 "Dựa vào mặt?" Vân Cơ hỏi.
 
-"Mặt, giọng, dáng đi," hắn đáp.
+"Mặt, giọng, dáng đi."
 
-"Đều luyện được," nàng nói.
+"Đều luyện được."
 
-"Còn thứ gì khó luyện?" hắn hỏi.
+"Còn thứ gì khó luyện?"
 
-Vân Cơ nhìn tay hắn, nói: "Những việc người ta làm mà không biết mình đang làm."
+Vân Cơ nhìn tay hắn. "Những việc người ta làm mà không biết mình đang làm."
 
-"Chẳng hạn?" hắn hỏi.
+"Chẳng hạn?"
 
-"Đại nhân nghĩ thì thường dùng ngón cái miết cạnh chén trà," nàng đáp.
+"Đại nhân nghĩ thì thường dùng ngón cái miết cạnh chén trà."
 
-Hạ Tử Khiêm nhìn xuống. Ngón cái hắn đang đặt đúng cạnh chén. Hắn buông tay, hỏi: "Thói quen của Lục Thanh La là gì?"
+Hạ Tử Khiêm nhìn xuống. Ngón cái hắn đang đặt đúng cạnh chén. Hắn buông tay. "Thói quen của Lục Thanh La là gì?"
 
-Vân Cơ đáp: "Tự đi mà nhìn."
+"Tự đi mà nhìn."
 
-Nàng mở cửa. Hạ Tử Khiêm đi được hai bước rồi dừng lại, nói: "Ngày mai nếu cô biết có nguy hiểm mà vẫn im lặng, ta sẽ không giúp cô giấu bất kỳ chuyện gì."
+Nàng mở cửa. Hạ Tử Khiêm đi được hai bước rồi dừng lại. "Ngày mai nếu cô biết có nguy hiểm mà vẫn im lặng, ta sẽ không giúp cô giấu bất kỳ chuyện gì."
 
-"Đại nhân đã giúp ta giấu chuyện gì đâu," Vân Cơ nói.
+"Đại nhân đã giúp ta giấu chuyện gì đâu."
 
-Hắn đáp: "Chưa."
-
-Rồi hắn rời đi.
+"Chưa," hắn đáp, rồi rời đi.
 
 Vân Cơ đóng cửa, lấy chiếc hộp ra lần nữa. Nàng lật cánh hoa đen lại. Mặt sau có một chấm đỏ rất nhỏ. Nàng chạm vào rồi đưa lên ngửi. Đó là máu.
 
@@ -310,17 +274,17 @@ Vân Cơ đóng cửa, lấy chiếc hộp ra lần nữa. Nàng lật cánh hoa
 
 Sáng hôm sau, Hạ Tử Khiêm tới La Sinh Đài.
 
-Nơi ấy nằm trong một ngôi miếu bỏ hoang ở phía tây kinh thành. Vừa bước vào đã nghe mùi sáp, dầu đèn và gỗ ẩm. Trên xà treo đầy mặt nạ quỷ. Gió thổi qua, những chiếc chuông xương va vào nhau lách cách.
+Nơi ấy là một ngôi miếu bỏ hoang ở phía tây kinh thành, nồng mùi sáp, dầu đèn và gỗ ẩm. Trên xà treo đầy mặt nạ quỷ, gió thổi qua làm những chiếc chuông xương va vào nhau lách cách.
 
 Giữa sân khấu là một chiếc lồng đồng hình bát giác, cao gần một trượng. Mỗi mặt lồng có một ổ khóa riêng. Phía dưới là bể nước sâu, nối với hệ thống guồng kéo.
 
 Đường Tiểu Sơn vừa chui từ gầm sân khấu lên, trên đầu dính một mạng nhện lớn. Hắn báo: "Không có cửa ngầm. Đáy lồng đúc liền. Thuộc hạ gõ hết rồi."
 
-Hạ Tử Khiêm nói: "Mặt thứ năm."
+"Mặt thứ năm," Hạ Tử Khiêm nói.
 
-"Gì cơ?" Tiểu Sơn hỏi.
+"Gì cơ?"
 
-"Gõ lại," Hạ Tử Khiêm nói.
+"Gõ lại."
 
 Tiểu Sơn gõ lại từng mặt, tiếng keng vang lên đều đều. Tới mặt thứ năm, âm thanh trầm hơn đôi chút. Hạ Tử Khiêm tiến lại.
 
@@ -330,43 +294,41 @@ Một người thợ lập tức giải thích: "Tám mặt cùng một khuôn, 
 
 Một giọng nữ đáp: "Ta."
 
-Thanh La đứng ở hành lang sau sân khấu. Hôm nay nàng không đeo mặt nạ, chỉ phủ một tấm mạng đen qua nửa mặt trái. Nàng bước tới, mở một chốt nhỏ trên mặt thứ năm. Bên trong là khoang chứa cát.
+Thanh La đứng ở hành lang sau sân khấu. Hôm nay nàng không đeo mặt nạ, chỉ phủ một tấm mạng đen qua nửa mặt trái. Nàng bước tới, mở một chốt nhỏ trên mặt thứ năm. Bên trong là khoang chứa cát. "Cát để giữ thăng bằng lúc lồng chìm."
 
-Thanh La nói: "Cát để giữ thăng bằng lúc lồng chìm."
+"Bản vẽ không ghi."
 
-"Bản vẽ không ghi," Hạ Tử Khiêm nói.
+"Bản vẽ đưa Đại Lý Tự kiểm tra, không phải đưa học nghề."
 
-"Bản vẽ đưa Đại Lý Tự kiểm tra, không phải đưa học nghề," nàng đáp.
+"Đêm nay tám khóa do người của ta mang tới. Chìa khóa cũng do họ giữ," Hạ Tử Khiêm nói.
 
-Hạ Tử Khiêm nói: "Đêm nay tám khóa do người của ta mang tới. Chìa khóa cũng do họ giữ."
+"Được."
 
-"Được," Thanh La đáp.
+"Không ai của La Sinh Đài được chạm vào lồng sau khi khóa."
 
-"Không ai của La Sinh Đài được chạm vào lồng sau khi khóa," hắn nói tiếp.
+"Được."
 
-"Được," nàng đáp.
+"Tất cả tóc, y phục, mặt nạ và đạo cụ đều phải kiểm tra."
 
-"Tất cả tóc, y phục, mặt nạ và đạo cụ đều phải kiểm tra," hắn nói.
+Thanh La nhìn hắn một lát. "Hạ đại nhân muốn kiểm tra cả tóc?"
 
-Thanh La nhìn hắn một lát, hỏi: "Hạ đại nhân muốn kiểm tra cả tóc?"
+"Nếu cô mang nó vào lồng."
 
-"Nếu cô mang nó vào lồng," hắn đáp.
+"Được thôi."
 
-"Được thôi," nàng nói.
+Nàng đồng ý quá nhanh. "Cô không sợ chúng ta nhìn ra cách thoát?" Hạ Tử Khiêm hỏi.
 
-Nàng đồng ý quá nhanh. Hạ Tử Khiêm hỏi: "Cô không sợ chúng ta nhìn ra cách thoát?"
+"Nếu đại nhân nhìn ra được thì tối nay ta đổi tiết mục."
 
-"Nếu đại nhân nhìn ra được thì tối nay ta đổi tiết mục," Thanh La đáp.
+"Cô định thoát ra bằng cách nào?"
 
-"Cô định thoát ra bằng cách nào?" hắn hỏi.
-
-Thanh La đưa tay sờ mặt lồng, hỏi lại: "Ai bảo ta sẽ thoát?"
+Thanh La đưa tay sờ mặt lồng. "Ai bảo ta sẽ thoát?"
 
 Hạ Tử Khiêm nhìn nàng. Thanh La nói: "Mười ba năm trước có người đáng lẽ chết trong Phượng Môn. Ta chỉ trả lại một thứ đã giữ hơi lâu."
 
-"Thứ gì?" hắn hỏi.
+"Thứ gì?"
 
-Nàng đáp: "Tên."
+"Tên."
 
 Từ hành lang vang lên ba tiếng trống, cốc, cốc, cốc. A Yên, cô đồ đệ không nói được của Thanh La, đứng đó, hai tay ôm một chiếc hộp gỗ. Thanh La vừa nhìn thấy đã đổi sắc mặt.
 
@@ -374,31 +336,31 @@ Nàng mở hộp. Bên trong là một con chim sẻ chết, hai mắt bị kho�
 
 Thanh La vo tờ giấy lại.
 
-Hạ Tử Khiêm hỏi: "Ai gửi?"
+"Ai gửi?" Hạ Tử Khiêm hỏi.
 
-"Không ký tên," Thanh La đáp.
+"Không ký tên."
 
-"Ta có thể hủy buổi diễn," hắn nói.
+"Ta có thể hủy buổi diễn."
 
-"Không cần," nàng đáp.
+"Không cần."
 
-"Đây là lời đe dọa giết người," hắn nói.
+"Đây là lời đe dọa giết người."
 
-"Ta đọc được," nàng đáp.
+"Ta đọc được."
 
-"Vậy cô còn diễn?" hắn hỏi.
+"Vậy cô còn diễn?"
 
-Thanh La đáp: "Vé bán hết rồi."
+"Vé bán hết rồi," Thanh La đáp.
 
-Hạ Tử Khiêm nhìn nàng, không biết nàng đang đùa hay cố né. Hắn gọi: "Lục cô nương."
+Hạ Tử Khiêm nhìn nàng, không biết nàng đang đùa hay cố né. "Lục cô nương."
 
 Thanh La đã quay đi. Hắn hỏi với theo: "Người bước vào lồng đêm nay có phải cô không?"
 
-Nàng dừng lại. Một lúc sau mới quay đầu, hỏi: "Tạ Vân Cơ nói gì với đại nhân?"
+Nàng dừng lại. Một lúc sau mới quay đầu. "Tạ Vân Cơ nói gì với đại nhân?"
 
-"Bảo ta nhìn kỹ," hắn đáp.
+"Bảo ta nhìn kỹ."
 
-Thanh La nâng tay phải lên. Ngón trỏ và ngón giữa dính mực đỏ. Nàng nói: "Vậy nhìn cho kỹ."
+Thanh La nâng tay phải lên. Ngón trỏ và ngón giữa dính mực đỏ. "Vậy nhìn cho kỹ."
 
 Rồi nàng bỏ đi. Hạ Tử Khiêm nhìn theo bàn tay phải ấy.
 
@@ -408,93 +370,93 @@ Chạng vạng, Vân Cơ tới La Sinh Đài trước giờ diễn.
 
 A Yên dẫn nàng qua ba lớp rèm đen rồi dừng trước căn phòng cuối hành lang. Thanh La đang ngồi trước gương. Trên bàn có hai chiếc mặt nạ giống hệt nhau, một đỏ, một trắng.
 
-Vân Cơ đóng cửa, hỏi: "Khóa thứ chín ở đâu?"
+Vân Cơ đóng cửa. "Khóa thứ chín ở đâu?"
 
-"Trong mộ sư phụ," Thanh La đáp.
+"Trong mộ sư phụ."
 
-"Mộ bị đào?" Vân Cơ hỏi.
+"Mộ bị đào?"
 
-"Ta đào," Thanh La đáp.
+"Ta đào."
 
-Vân Cơ nhìn nàng. Thanh La nói: "Đừng nhìn nữa. Quan tài trống."
+Vân Cơ nhìn nàng. "Đừng nhìn nữa. Quan tài trống," Thanh La nói.
 
-"Muội chắc?" Vân Cơ hỏi.
+"Muội chắc?"
 
-"Ta còn chui vào xem. Không có ai nằm dưới," Thanh La đáp.
+"Ta còn chui vào xem. Không có ai nằm dưới."
 
 Thanh La lấy nửa Mẫu Kính từ trong áo. Vân Cơ cũng lấy ra nửa còn lại. Hai vết vỡ khớp nhau hoàn toàn. Nhưng khi đặt cạnh nhau, mặt gương chỉ phản chiếu Vân Cơ. Thanh La ngồi ngay trước gương mà không có bóng.
 
-Vân Cơ lập tức úp gương xuống, hỏi: "Muội dùng máu gọi Kính Ảnh?"
+Vân Cơ lập tức úp gương xuống. "Muội dùng máu gọi Kính Ảnh?"
 
-"Một lần," Thanh La đáp.
+"Một lần."
 
-"Mất ký ức gì?" Vân Cơ hỏi.
+"Mất ký ức gì?"
 
 Thanh La cúi xuống kẻ tiếp đường bạc bên má, không trả lời.
 
-Vân Cơ hỏi lại: "Muội quên gì rồi?"
+"Muội quên gì rồi?" Vân Cơ hỏi lại.
 
-"Không biết," Thanh La đáp.
+"Không biết."
 
-"Đừng né," Vân Cơ nói.
+"Đừng né."
 
-Thanh La đáp: "Ta không nhớ thì biết bằng cách nào?"
+"Ta không nhớ thì biết bằng cách nào?"
 
-Vân Cơ giật cây bút khỏi tay nàng, nói: "Hủy màn diễn."
+Vân Cơ giật cây bút khỏi tay nàng. "Hủy màn diễn."
 
-Thanh La nhìn bàn tay trống không của mình, hỏi: "Tỷ chạy sang đây chỉ để giật đồ của ta?"
+Thanh La nhìn bàn tay trống không của mình. "Tỷ chạy sang đây chỉ để giật đồ của ta?"
 
-"Ta còn có thể trói muội vào ghế," Vân Cơ nói.
+"Ta còn có thể trói muội vào ghế."
 
-"Tỷ trói thử đi," Thanh La đáp.
+"Tỷ trói thử đi."
 
 Vân Cơ nắm cổ tay nàng. Hai người nhìn nhau, giữa họ là mặt gương đang úp trên bàn.
 
-Thanh La hỏi: "Tỷ sợ ta chết à?"
+"Tỷ sợ ta chết à?" Thanh La hỏi.
 
-"Ta không muốn dọn xác cho muội," Vân Cơ đáp.
+"Ta không muốn dọn xác cho muội."
 
-"Tỷ từng dọn rồi," Thanh La nói.
+"Tỷ từng dọn rồi."
 
-Vân Cơ nói: "Lần đó muội giả chết ba ngày. Ta đền hai cái quan tài, còn phải nghe một bà lão khóc nhầm trước linh vị."
+"Lần đó muội giả chết ba ngày. Ta đền hai cái quan tài, còn phải nghe một bà lão khóc nhầm trước linh vị."
 
-Thanh La bật cười. Tiếng cười chỉ kéo dài một lát. Nàng nói: "Muộn rồi."
+Thanh La bật cười, nhưng tiếng cười chỉ kéo dài một lát. "Muộn rồi."
 
-"Màn còn chưa mở," Vân Cơ nói.
+"Màn còn chưa mở."
 
-"Ta không nói màn diễn," Thanh La đáp.
+"Ta không nói màn diễn."
 
-Vân Cơ buông cổ tay nàng. Thanh La tháo khuyên tai trái, đặt hạt ngọc cũ lên bàn, nói: "Đêm Phượng Môn cháy, người mặc áo trắng là ta."
+Vân Cơ buông cổ tay nàng. Thanh La tháo khuyên tai trái, đặt hạt ngọc cũ lên bàn. "Đêm Phượng Môn cháy, người mặc áo trắng là ta."
 
-"Ta nhớ," Vân Cơ đáp.
+"Ta nhớ."
 
-"Tỷ chắc không?" Thanh La hỏi.
+"Tỷ chắc không?"
 
-"Muội muốn nói gì?" Vân Cơ hỏi lại.
+"Muội muốn nói gì?"
 
-Thanh La đáp: "Chẳng có gì. Chỉ là chúng ta đổi áo quá nhiều. Có lúc ta cũng không nhớ đêm ấy mình mặc màu nào."
+"Chẳng có gì. Chỉ là chúng ta đổi áo quá nhiều. Có lúc ta cũng không nhớ đêm ấy mình mặc màu nào."
 
-Vân Cơ hỏi: "Muội không nhớ, hay Kính Ảnh đã lấy mất?"
+"Muội không nhớ, hay Kính Ảnh đã lấy mất?" Vân Cơ hỏi.
 
 Thanh La không trả lời. Bên ngoài vang lên ba hồi trống, báo khán giả đã vào đủ.
 
-Thanh La cầm chiếc mặt nạ đỏ lên. Vân Cơ nói: "Ít nhất nói cho ta biết muội định làm gì."
+Thanh La cầm chiếc mặt nạ đỏ lên. "Ít nhất nói cho ta biết muội định làm gì," Vân Cơ nói.
 
-"Nếu nói, tỷ sẽ ngăn," Thanh La đáp.
+"Nếu nói, tỷ sẽ ngăn."
 
-"Ta đang ngăn đây," Vân Cơ nói.
+"Ta đang ngăn đây."
 
-"Cho nên ta mới không nói," Thanh La đáp.
+"Cho nên ta mới không nói."
 
-Nàng định đeo mặt nạ thì bỗng dừng lại, hỏi: "Nếu có ngày tỷ không còn nhớ mặt ta, tỷ còn nhận ra không?"
+Nàng định đeo mặt nạ thì bỗng dừng lại. "Nếu có ngày tỷ không còn nhớ mặt ta, tỷ còn nhận ra không?"
 
-"Có," Vân Cơ đáp.
+"Có."
 
-"Bằng gì?" Thanh La hỏi.
+"Bằng gì?"
 
-Vân Cơ đáp: "Mỗi lần giấu chuyện, ngón út tay trái của muội đều co lại."
+"Mỗi lần giấu chuyện, ngón út tay trái của muội đều co lại," Vân Cơ đáp.
 
-Thanh La nhìn xuống bàn tay trái của mình. Năm ngón vẫn duỗi thẳng. Nàng lại nhìn sang tay Vân Cơ, nói: "Tỷ nhìn nhầm người rồi."
+Thanh La nhìn xuống bàn tay trái của mình. Năm ngón vẫn duỗi thẳng. Nàng lại nhìn sang tay Vân Cơ. "Tỷ nhìn nhầm người rồi."
 
 Vân Cơ chưa kịp đáp, Thanh La đã đeo mặt nạ, mở cửa bước ra. Bàn tay phải buông bên người nàng khẽ siết lại, ngón út tay phải co vào.
 
@@ -504,69 +466,65 @@ Vân Cơ nhìn theo. Rồi nàng cúi xuống bàn tay mình. Ngón út tay trá
 
 Giờ Tý đêm ấy, trời không trăng.
 
-Khán đài La Sinh Đài chật kín. Người tới muộn phải đứng dọc hành lang, ghé đầu qua vai nhau để nhìn chiếc lồng đồng giữa sân khấu. Mấy đứa trẻ ngồi hàng đầu bị người nhà giữ chặt, không cho đến gần bể nước. Một người đàn ông chỉ chiếc lồng, quả quyết phía dưới có cửa ngầm. Người bên cạnh lập tức cá cược năm lượng rằng Thanh La sẽ chui ra từ mái nhà.
+Khán đài La Sinh Đài chật kín. Người tới muộn phải đứng dọc hành lang, ghé đầu qua vai nhau để nhìn chiếc lồng đồng giữa sân khấu.
 
-Quốc sư Phí Kinh Hồng ngồi ở hàng ghế cao nhất. Trước mặt ông là chiếc lư hương bằng ngọc. Từ lúc tới, ông chưa nhìn người diễn lần nào. Ông chỉ quan sát chiếc lồng.
+Quốc sư Phí Kinh Hồng ngồi ở hàng ghế cao nhất, trước mặt là chiếc lư hương bằng ngọc. Từ lúc tới, ông chưa nhìn người diễn lần nào, chỉ quan sát chiếc lồng.
 
-Khi người thợ xoay mặt thứ năm ra phía khán giả, ngón cái Phí Kinh Hồng dừng lại trên thành chén, chỉ trong một thoáng. Sau đó ông gọi thị vệ, bảo dịch lư hương sang bên trái. Làn khói vừa đổi hướng liền bị hút xuống khe sàn gần bể nước. Phí Kinh Hồng nhìn theo luồng khói, không nói gì.
+Khi người thợ xoay mặt thứ năm ra phía khán giả, ngón cái Phí Kinh Hồng dừng lại trên thành chén, chỉ một thoáng. Sau đó ông bảo thị vệ dịch lư hương sang trái. Làn khói vừa đổi hướng liền bị hút xuống khe sàn gần bể nước, và ông nhìn theo, không nói gì.
 
-Vân Cơ đi ngang qua. Phí Kinh Hồng gọi: "Tạ cô nương."
+Vân Cơ đi ngang qua. "Tạ cô nương," Phí Kinh Hồng gọi.
 
-Vân Cơ chào: "Quốc sư."
+"Quốc sư."
 
-Phí Kinh Hồng nói: "Lệnh sư mất đã lâu, không ngờ vẫn có người dựng lại màn này."
+"Lệnh sư mất đã lâu, không ngờ vẫn có người dựng lại màn này."
 
 "Thanh La thích làm những việc không ai nhờ," Vân Cơ đáp.
 
-"Cô không ngăn?" ông hỏi.
+"Cô không ngăn?"
 
-"Ngăn rồi. Nàng có nghe đâu," nàng đáp.
+"Ngăn rồi. Nàng có nghe đâu."
 
-Phí Kinh Hồng hơi mỉm cười. Ánh mắt ông vẫn đặt trên mặt thứ năm của chiếc lồng. Ông nói: "Chiếc lồng làm rất giống năm xưa."
+Phí Kinh Hồng hơi mỉm cười, mắt vẫn đặt trên mặt thứ năm của chiếc lồng. "Chiếc lồng làm rất giống năm xưa."
 
-Vân Cơ quay sang hỏi: "Quốc sư từng xem Vô Tướng Ngục?"
+"Quốc sư từng xem Vô Tướng Ngục?" Vân Cơ hỏi.
 
-Phí Kinh Hồng nhấc chén trà, đáp: "Đã quá lâu. Có lẽ ta nhớ nhầm."
+Phí Kinh Hồng nhấc chén trà. "Đã quá lâu. Có lẽ ta nhớ nhầm."
 
 "Hy vọng chỉ là nhớ nhầm," Vân Cơ nói, rồi đi về chỗ.
 
 Tiếng chuông đầu tiên vang lên.
 
-Hạ Tử Khiêm đứng cạnh sân khấu. Tám thuộc hạ Đại Lý Tự, mỗi người giữ một ổ khóa và một chìa riêng. Chiếc lồng được nâng lên bằng bốn sợi xích. Ánh đèn xuyên qua hàng nghìn lỗ nhỏ trên mặt đồng, khiến bóng chiếc lồng phủ kín khán đài.
+Hạ Tử Khiêm đứng cạnh sân khấu. Tám thuộc hạ Đại Lý Tự, mỗi người giữ một ổ khóa và một chìa riêng. Chiếc lồng được nâng lên bằng bốn sợi xích, ánh đèn xuyên qua hàng nghìn lỗ nhỏ trên mặt đồng khiến bóng nó phủ kín khán đài.
 
 Đường Tiểu Sơn đọc lớn: "Tám mặt đồng đúc liền. Không cửa ngầm. Không vách kép. Tám khóa do Đại Lý Tự chuẩn bị. Sau khi khóa, chìa được niêm phong riêng."
 
 Có người dưới khán đài hỏi: "Vậy Lục cô nương ra bằng đâu?"
 
-Tiểu Sơn nhìn chiếc lồng, lại nhìn Hạ Tử Khiêm, rồi đáp: "Việc ấy… không nằm trong phần Đại Lý Tự được báo."
+Tiểu Sơn nhìn chiếc lồng, lại nhìn Hạ Tử Khiêm. "Việc ấy… không nằm trong phần Đại Lý Tự được báo."
 
 Khán giả bật cười. Một người khác hét lên: "Nếu nàng không ra được thì sao?"
 
-Lần này Tiểu Sơn không cười. Hắn đáp: "Chúng ta sẽ kéo lồng lên."
+Lần này Tiểu Sơn không cười. "Chúng ta sẽ kéo lồng lên."
 
-Tiếng cười dưới khán đài nhỏ dần.
+Tiếng cười nhỏ dần, rồi đèn vụt tắt.
 
-Rồi đèn vụt tắt.
+Giọng hát của Thanh La vang lên trong bóng tối, không nhạc đệm. Một ngọn đèn đỏ sáng giữa sân khấu: nàng đứng dưới đó, tóc xõa, áo đen, nửa mặt che bằng mặt nạ đỏ, tay cầm một đóa trà trắng. Vân Cơ ngồi thẳng lại. Đóa trà trắng là dấu hiệu của Thủy Nguyệt Các.
 
-Giọng hát của Thanh La vang lên trong bóng tối, không có nhạc đệm. Một ngọn đèn đỏ sáng lên giữa sân khấu. Nàng đứng dưới đó, tóc xõa dài, mặc áo đen, nửa mặt che bằng mặt nạ đỏ, trong tay cầm một đóa trà trắng.
-
-Vân Cơ ngồi thẳng lại. Đóa trà trắng là dấu hiệu của Thủy Nguyệt Các.
-
-Thanh La bước quanh chiếc lồng, nói: "Mười ba năm trước, Vô Tướng Ban cháy trong một đêm."
+Thanh La bước quanh chiếc lồng. "Mười ba năm trước, Vô Tướng Ban cháy trong một đêm."
 
 Màn vải phía sau sáng lên. Những bóng người nhỏ xuất hiện: hai thiếu nữ đang luyện tập, một ông lão đi quanh chỉnh tay áo cho họ.
 
-Thanh La nói tiếp: "Người ta bảo cơ quan hỏng. Bình dầu đổ. Sư phụ ta không chạy kịp."
+"Người ta bảo cơ quan hỏng. Bình dầu đổ. Sư phụ ta không chạy kịp," Thanh La nói tiếp.
 
 Bóng lửa bò lên màn vải. Hai thiếu nữ chạy về hai phía.
 
-"Sau đó họ lại kể hai đệ tử của ông vì tranh bí thuật mà trở mặt," Thanh La nói.
+"Sau đó họ lại kể hai đệ tử của ông vì tranh bí thuật mà trở mặt."
 
 Hai cái bóng quay lại, rút dao hướng về nhau.
 
-Thanh La nhìn Vân Cơ, nói: "Nhưng chẳng ai hỏi người bước ra khỏi Phượng Môn hôm ấy… có đúng là người đã bước vào không."
+Thanh La nhìn Vân Cơ. "Nhưng chẳng ai hỏi người bước ra khỏi Phượng Môn hôm ấy… có đúng là người đã bước vào không."
 
-Đóa trà trong tay nàng bốc cháy. Khán đài im hẳn. Ngay cả những người vừa cá cược cũng không nói nữa.
+Đóa trà trong tay nàng bốc cháy. Khán đài im hẳn.
 
 Thanh La bước vào lồng. Tám quan sai tiến lên khóa lại.
 
@@ -576,15 +534,13 @@ Hạ Tử Khiêm kiểm tra từng dấu khóa rồi niêm phong chìa trong tá
 
 Thanh La đứng giữa lồng, hai tay trống không. Nàng nhìn Vân Cơ, môi khẽ động, không thành tiếng: "Đừng gọi tên ta."
 
-Guồng máy bắt đầu quay. Sợi xích rít lên. Chiếc lồng hạ dần xuống bể. Nước lên tới mắt cá chân Thanh La, rồi tới đầu gối, rồi tới thắt lưng. Những người ngồi gần vô thức rướn tới. Khi nước chạm cổ, một phụ nhân vội quay mặt, không dám nhìn tiếp.
+Guồng máy quay, sợi xích rít lên, chiếc lồng hạ dần xuống bể. Nước lên tới mắt cá chân Thanh La, rồi đầu gối, rồi thắt lưng. Những người ngồi gần vô thức rướn tới. Khi nước chạm cổ, một phụ nhân vội quay mặt.
 
 Thanh La đặt bàn tay phải lên vách đồng. Ngón út tay phải co vào. Vân Cơ thấy rõ. Lần này, Thanh La đang nhìn thẳng về phía nàng.
 
 Chiếc lồng chìm hẳn. Những lỗ nhỏ trên tám mặt đồng bắt đầu phát sáng. Bóng Thanh La hiện lên bên trong, tóc và tay áo chuyển động trong nước.
 
-Tiếng chuông thứ nhất vang lên. Phí Kinh Hồng khẽ gõ ngón tay lên chén.
-
-Tiếng chuông thứ hai vang lên. Ngón tay ông gõ thêm một nhịp.
+Tiếng chuông thứ nhất vang lên. Phí Kinh Hồng khẽ gõ ngón tay lên chén. Tiếng chuông thứ hai vang lên. Ngón tay ông gõ thêm một nhịp.
 
 Thanh La đưa hai tay lên. Tiếng chuông thứ ba vang lên. Bóng hai bàn tay nàng ghép thành hình con chim.
 
@@ -592,77 +548,71 @@ Trước khi tiếng chuông thứ tư vang lên, Phí Kinh Hồng bỗng nhìn 
 
 Vân Cơ cũng nhận ra. Nàng quay nhìn Phí Kinh Hồng. Ông đã trở lại vẻ bình thản, như chưa từng có gì khác thường.
 
-Tiếng chuông thứ năm vang lên. Hàng chục bóng người xuất hiện quanh bể nước, tất cả đều mang khuôn mặt Thanh La. Khán giả đồng loạt đứng lên. Có người tưởng đó là một phần của màn diễn, vỗ tay. Có người lùi khỏi hàng ghế vì một cái bóng vừa xuất hiện sát bên mình.
+Tiếng chuông thứ năm vang lên. Hàng chục bóng người xuất hiện quanh bể nước, tất cả đều mang khuôn mặt Thanh La. Khán giả đồng loạt đứng lên. Có người tưởng đó là một phần của màn diễn nên vỗ tay, có người lùi khỏi ghế vì một cái bóng vừa hiện sát bên mình.
 
 Tiếng chuông thứ sáu vang lên. Các bóng người cùng quay về phía Vân Cơ, tóc và tay áo vẫn bay. Chỉ có bóng người trong lồng đã thôi cử động.
 
 Vân Cơ bật dậy, hét: "Dừng lại!"
 
-Tiếng trống lấn át nàng. Hạ Tử Khiêm quay sang. Vân Cơ hét lần nữa: "Kéo lồng lên!"
+Tiếng trống lấn át nàng. Hạ Tử Khiêm quay sang. "Kéo lồng lên!" Vân Cơ hét lần nữa.
 
 Tiếng chuông thứ bảy vang lên. Tất cả bóng người biến mất. Một tiếng kim loại trượt khỏi rãnh vang lên rất nhỏ.
 
-Vân Cơ chạy xuống sân khấu. Hạ Tử Khiêm quát: "Quay guồng!"
+Vân Cơ chạy xuống sân khấu. "Quay guồng!" Hạ Tử Khiêm quát.
 
-Bốn quan sai lao tới. Tay quay bị kẹt. Khán giả bắt đầu nhốn nháo. Mấy người hàng đầu đứng dậy định chạy, bị quan sai chặn lại.
+Bốn quan sai lao tới nhưng tay quay bị kẹt. Khán giả nhốn nháo, mấy người hàng đầu định chạy thì bị quan sai chặn lại. Đường Tiểu Sơn rút đao chém đứt dây khóa an toàn. Guồng giật ngược, kéo cả người hắn về phía bể, và hai quan sai vội giữ lấy áo hắn.
 
-Đường Tiểu Sơn rút đao chém đứt dây khóa an toàn. Guồng giật ngược, kéo cả người hắn về phía bể. Hai quan sai giữ lấy áo hắn.
-
-Chiếc lồng từ từ trồi lên. Nước đổ ra khỏi những lỗ đồng. Bên trong có một người nằm bất động.
-
-Không còn ai nghĩ đây là màn diễn.
+Chiếc lồng từ từ trồi lên. Nước đổ ra khỏi những lỗ đồng. Bên trong có một người nằm bất động. Không còn ai nghĩ đây là màn diễn.
 
 Tám hộp sắt được mang tới, niêm phong vẫn còn nguyên. Bảy ổ khóa mở bình thường. Ổ thứ tám không xoay được.
 
-Tiểu Sơn kêu lên: "Kẹt rồi!"
+"Kẹt rồi!" Tiểu Sơn kêu lên.
 
 Hạ Tử Khiêm và Vân Cơ dùng thanh sắt nạy tấm đồng. Cánh lồng bật ra. Thi thể đổ xuống sàn. Đó là một nữ nhân áo đen, đeo mặt nạ đỏ. Một cây kim bạc xuyên qua ngực nàng. Bàn tay phải nắm chặt đóa trà trắng đã cháy dở.
 
-Tiểu Sơn cúi xuống kiểm tra. Hắn giữ hai ngón tay dưới mũi nàng lâu hơn bình thường, rồi rút tay lại, nói: "Không còn thở."
+Tiểu Sơn cúi xuống kiểm tra. Hắn giữ hai ngón tay dưới mũi nàng lâu hơn bình thường, rồi rút tay lại. "Không còn thở."
 
-Từ khán đài có người hét: "Lục Thanh La chết rồi!"
+Từ khán đài có người hét: "Lục Thanh La chết rồi!" Đám đông lập tức hỗn loạn.
 
-Đám đông lập tức hỗn loạn.
-
-Hạ Tử Khiêm dùng khăn giữ cây kim. Trên chuôi khắc hình đám mây, dấu của Thủy Nguyệt Các. Hắn hỏi: "Kim của cô?"
+Hạ Tử Khiêm dùng khăn giữ cây kim. Trên chuôi khắc hình đám mây, dấu của Thủy Nguyệt Các. "Kim của cô?"
 
 "Phải," Vân Cơ đáp.
 
-"Đóa trà?" hắn hỏi.
+"Đóa trà?"
 
-"Cũng của ta," nàng đáp.
+"Cũng của ta."
 
-Hạ Tử Khiêm nhìn nàng rồi quay sang quan sai, ra lệnh: "Tạm giữ Tạ Vân Cơ. Phong tỏa nơi này."
+Hạ Tử Khiêm nhìn nàng rồi quay sang quan sai. "Tạm giữ Tạ Vân Cơ. Phong tỏa nơi này."
 
 Bốn quan sai tiến lên. Vân Cơ không chống cự. Nàng chỉ nhìn bàn tay phải của người chết. Ngón út đã duỗi thẳng.
 
-Hạ Tử Khiêm hỏi: "Cô nhìn gì?"
+"Cô nhìn gì?" Hạ Tử Khiêm hỏi.
 
-Vân Cơ đáp: "Người chết không phải Lục Thanh La."
+"Người chết không phải Lục Thanh La."
 
 Những người đứng gần cùng quay lại.
 
-"Cô vừa nhìn thấy nàng bước vào lồng," Hạ Tử Khiêm nói.
+"Cô vừa nhìn thấy nàng bước vào lồng."
 
-"Ta nhìn thấy một người mang mặt nàng bước vào," Vân Cơ đáp.
+"Ta nhìn thấy một người mang mặt nàng bước vào."
 
-"Cô dựa vào đâu?" hắn hỏi.
+"Cô dựa vào đâu?"
 
-Vân Cơ nhìn bàn tay phải ấy, đáp: "Lục Thanh La thuận tay trái."
+Vân Cơ nhìn bàn tay phải ấy. "Lục Thanh La thuận tay trái."
 
 Một viên quan gần đó xen vào: "Lúc sắp chết dùng tay nào chẳng được?"
 
-Vân Cơ không nhìn ông ta, chỉ nói: "Người bước vào lồng cố ý co ngón út tay phải. Nàng muốn ta nhận ra có gì đó không đúng."
+Vân Cơ không nhìn ông ta. "Người bước vào lồng cố ý co ngón út tay phải. Nàng muốn ta nhận ra có gì đó không đúng."
 
-Hạ Tử Khiêm nhớ lại buổi sáng. Thanh La cũng đã cố tình nâng bàn tay phải dính mực đỏ cho hắn nhìn. Hắn ra lệnh: "Tháo mặt nạ."
+Hạ Tử Khiêm nhớ lại buổi sáng: Thanh La cũng đã cố tình nâng bàn tay phải dính mực đỏ cho hắn nhìn. "Tháo mặt nạ," hắn ra lệnh.
 
 Hắn cúi xuống, từ từ nhấc chiếc mặt nạ đỏ. Phía dưới vẫn là khuôn mặt Lục Thanh La, không có lớp hóa trang, cũng không có mặt nạ da.
 
-Đường Tiểu Sơn nhìn Vân Cơ, nói: "Đúng là nàng ấy."
+"Đúng là nàng ấy," Đường Tiểu Sơn nói, nhìn Vân Cơ.
 
-Vân Cơ không đáp. Dưới tai trái thi thể có một hạt ngọc trai cũ. Nàng từng thấy nó trong đêm Phượng Môn cháy. Sắc mặt Vân Cơ trắng đi.
+Vân Cơ không đáp. Dưới tai trái thi thể có một hạt ngọc trai cũ. Nàng từng thấy nó trong đêm Phượng Môn cháy. Sắc mặt nàng trắng đi.
 
-Hạ Tử Khiêm hỏi: "Cô nhận ra?"
+"Cô nhận ra?"
 
 "Không thể nào," Vân Cơ nói.
 
@@ -674,9 +624,9 @@ Trong bóng tối, Vân Cơ nghe một giọng rất khẽ, như vọng lên t�
 
 Đèn sáng trở lại. Thi thể vẫn nằm nguyên. Không ai khác có vẻ đã nghe thấy.
 
-Hạ Tử Khiêm ra lệnh: "Không ai được rời khỏi đây. Kiểm tra cả đường ngầm."
+"Không ai được rời khỏi đây. Kiểm tra cả đường ngầm," Hạ Tử Khiêm ra lệnh.
 
-Vân Cơ nhìn lên hàng ghế cao nhất. Phí Kinh Hồng đã biến mất. Chén trà của ông vẫn còn ấm. Lư hương đã tắt khói, dù bên trong vẫn còn nửa viên trầm. Trên bàn chỉ còn một chiếc gương đồng nhỏ, mặt gương quay về phía sân khấu.
+Vân Cơ nhìn lên hàng ghế cao nhất. Phí Kinh Hồng đã biến mất, chén trà vẫn còn ấm, lư hương đã tắt khói dù còn nửa viên trầm. Trên bàn chỉ còn một chiếc gương đồng nhỏ, mặt gương quay về phía sân khấu.
 
 Vân Cơ nhìn vào. Trong gương, thi thể không nằm dưới đất. Người phụ nữ ấy đang đứng sau lưng nàng.
 

@@ -6,10 +6,6 @@ Rạng sáng, trong mật thất Đại Lý Tự, Cố Bách Xảo nằm trên m
 
 Cố Bách Xảo đưa tay lấy bút. Tô Mạn đập nhẹ vào mu bàn tay ông. "Ta vừa nói xong."
 
-"Ông ấy không nghe được hay không muốn nghe?" Đường Tiểu Sơn hỏi.
-
-"Lưỡi bị cắt, tai vẫn còn. Là không muốn nghe."
-
 Hạ Tử Khiêm đặt trước mặt Cố Bách Xảo ba tấm thẻ. Thẻ thứ nhất viết: Hoàng đế đã chết thật? Thẻ thứ hai: Hoàng đế bị đánh tráo? Thẻ thứ ba: Hoàng đế đang bị giam?
 
 Cố Bách Xảo đặt tay lên thẻ thứ nhất. Sau đó ông chạm vào thẻ thứ ba.
@@ -26,7 +22,7 @@ Cố Bách Xảo gật. Ông vẽ một người nằm trong quan tài, dưới 
 
 "Dưỡng Tâm Lộ?" Tô Mạn hỏi.
 
-Cố Bách Xảo tiếp tục gật.
+Cố Bách Xảo gật.
 
 "Mỗi ngày một giọt có thể giữ tim chưa chết hẳn. Nhưng nhiều nhất là mười ngày."
 
@@ -46,7 +42,7 @@ Cố Bách Xảo vẽ thêm một người mặc long bào đứng phía sau chi
 
 Cố Bách Xảo chỉ vào bình máu của người chết trong lồng được vẽ trên giấy. Sau đó ông viết: Một canh giờ.
 
-Căn phòng im lặng. Một canh giờ đủ để xuất hiện trước bá quan, đọc thánh chỉ rồi lui vào tẩm điện. Không cần người giả vượt qua một cuộc trò chuyện dài. Chỉ cần không ai tới đủ gần.
+Một canh giờ đủ để xuất hiện trước bá quan, đọc thánh chỉ rồi lui vào tẩm điện. Chỉ cần không ai tới đủ gần.
 
 Hạ Tử Khiêm nhìn sơ đồ những ngọn đèn đang được treo khắp kinh thành. "Các mảnh gương trên đèn sẽ truyền cùng một hình ảnh."
 
@@ -56,11 +52,7 @@ Cố Bách Xảo gật.
 
 Tô Mạn giật cây bút khỏi tay Cố Bách Xảo. "Hết. Bây giờ nghỉ đủ một canh giờ."
 
-Cố Bách Xảo trừng mắt nhìn nàng.
-
-"Trừng nữa cũng không viết."
-
-Vân Cơ đặt tay lên mép giường. "Tên kẻ mang mặt Phí Kinh Hồng là gì?"
+Vân Cơ hỏi: "Tên kẻ mang mặt Phí Kinh Hồng là gì?"
 
 Cố Bách Xảo nhìn nàng. Tô Mạn thở ra, trả lại bút. Ông viết ba chữ: Kỷ Vô Nhai. Phía dưới ông viết thêm: Đại đệ tử.
 
@@ -72,7 +64,7 @@ Hạ Tử Khiêm đặt hồ sơ cũ của Phí Kinh Hồng và Tạ Kính Thầ
 
 Kỷ Vô Nhai từng là đại đệ tử đầu tiên của Cố Bách Xảo. Khuôn mặt hắn bị hủy khi còn nhỏ, và Cố Bách Xảo dạy hắn chế tạo mặt nạ để có thể ra ngoài mà không bị người khác nhìn chằm chằm. Sau này, Kỷ Vô Nhai bắt đầu dùng mặt nạ để sống dưới tên người khác. Ban đầu chỉ vài ngày. Sau đó vài tháng. Cuối cùng, hắn giết người rồi giữ luôn thân phận của họ.
 
-Đường Tiểu Sơn đọc một hồ sơ thất lạc cũ. "Có ba người từng nhận mình là con trai một thương nhân ở Nam Thành. Cả ba đều biết chữ ký, chuyện trong nhà và vết sẹo sau lưng của người đã chết."
+Đường Tiểu Sơn đọc một hồ sơ cũ. "Ba người cùng nhận mình là con trai một thương nhân ở Nam Thành. Cả ba đều biết chữ ký và vết sẹo sau lưng của người đã chết."
 
 "Vô Danh Môn dùng nhiều người học cùng một thân phận," Hạ Tử Khiêm nói. "Ai thành công thì giữ lại."
 
@@ -106,8 +98,6 @@ Cố Bách Xảo nhắm mắt. Mộc Dung chỉ cần đổi lọ thuốc. Ngư�
 
 Tô Mạn đứng trước Hoán Danh Phổ. Trang bị xé chỉ còn lại một chữ: Chiêu. Nàng nhìn nó rất lâu, rồi đóng cửa phòng.
 
-Đường Tiểu Sơn nhận ra vẻ mặt nàng. "Tô cô nương?"
-
 Tô Mạn lấy từ đáy hòm dụng cụ một tờ giấy đã ố vàng. Mảnh giấy vừa khít với phần bị xé. Tên đầy đủ hiện ra: Chiêu Hòa Công chúa. Phía dưới: Tên mới, Tô Mạn.
 
 Tiểu Sơn nhìn trang giấy, rồi nhìn nàng. "Thuộc hạ có phải..."
@@ -117,8 +107,6 @@ Tiểu Sơn nhìn trang giấy, rồi nhìn nàng. "Thuộc hạ có phải..."
 "Thuộc hạ còn chưa hỏi."
 
 "Ngươi định hỏi có phải quỳ không. Không cần," Tô Mạn nói.
-
-Tiểu Sơn đứng thẳng lại.
 
 "Cố tiên sinh đưa cô ra khỏi cung?" Hạ Tử Khiêm hỏi.
 
@@ -136,33 +124,25 @@ Tiểu Sơn đứng thẳng lại.
 
 Tô Mạn trải bản đồ hoàng cung ra. Nàng chỉ vào hồ sen phía bắc. "Bên dưới hồ có một hầm băng. Mùa hè dùng để giữ thi thể hoàng tộc trước khi nhập lăng. Một nhánh đường nước từ Tháp Quan Tinh kết thúc ngay dưới đó."
 
-"Nếu muốn giữ người trong trạng thái giả chết, không có nơi nào tốt hơn," Vân Cơ nói.
-
 "Cô nhận ra Hoàng đế thật bằng cách nào?" Hạ Tử Khiêm hỏi.
 
 Tô Mạn im lặng một lát. "Hồi nhỏ, đệ ấy trèo cây trốn học rồi ngã xuống. Ngón út chân phải gãy, nối lệch vào trong."
 
-Đường Tiểu Sơn cố không nhìn xuống chân nàng.
-
-"Ta thấy," Tô Mạn nói.
-
-Tiểu Sơn lập tức nhìn thẳng phía trước.
-
 ***
 
-Nửa đêm, một chiếc xe chở thi thể đi qua cửa phụ hoàng cung. Tô Mạn có lệnh bài ngỗ tác, và nàng được gọi vào khám nghiệm một cung nữ chết bất thường. Đường Tiểu Sơn đánh xe. Vân Cơ và Hạ Tử Khiêm nằm dưới hai lớp vải liệm.
+Nửa đêm, một chiếc xe chở thi thể đi qua cửa phụ hoàng cung. Tô Mạn có lệnh bài ngỗ tác để vào khám nghiệm một cung nữ chết bất thường. Đường Tiểu Sơn đánh xe. Vân Cơ và Hạ Tử Khiêm nằm dưới hai lớp vải liệm.
 
-Xe qua ba trạm kiểm tra. Ở trạm cuối, một thị vệ dùng giáo chọc vào lớp vải. Mũi giáo dừng sát mặt Vân Cơ, người nằm ở phía trên. Nàng nín thở. Từ lớp vải bên cạnh, Hạ Tử Khiêm khẽ đẩy cán giáo lệch sang một bên, và mũi giáo xuyên vào đống rơm sát vai nàng. Thị vệ rút giáo, và chiếc xe tiếp tục đi.
+Xe qua ba trạm kiểm tra. Ở trạm cuối, một thị vệ dùng giáo chọc vào lớp vải, mũi giáo dừng sát mặt Vân Cơ. Nàng nín thở. Từ lớp vải bên cạnh, Hạ Tử Khiêm khẽ đẩy cán giáo lệch sang, và mũi giáo xuyên vào đống rơm. Chiếc xe tiếp tục đi.
 
-Tới hồ sen, Tô Mạn dẫn họ xuống đường thoát nước. Cuối hành lang là một cánh cửa đá phủ băng, giữa cửa có một khe hình phượng hoàng. Tô Mạn lấy từ cổ áo ra một miếng ngọc nhỏ. Nó vừa khít với khe. Nàng xoay ba vòng, và cánh cửa mở. Hơi lạnh ập ra, khiến ngọn đèn trong tay Vân Cơ suýt tắt.
+Tới hồ sen, Tô Mạn dẫn họ xuống đường thoát nước. Cuối hành lang là một cánh cửa đá phủ băng, giữa cửa có một khe hình phượng hoàng. Tô Mạn lấy từ cổ áo ra một miếng ngọc nhỏ. Nó vừa khít với khe. Nàng xoay ba vòng, và cánh cửa mở. Hơi lạnh ập ra.
 
-Bên trong có mười hai quan tài đá. Mười một chiếc trống không. Chiếc cuối cùng bị đóng bằng chín cây đinh bạc, và trên nắp đặt một chiếc mặt nạ rồng. Hạ Tử Khiêm kiểm tra quanh phòng. Không có dấu chân mới nào ngoài một lối dẫn tới quan tài.
+Bên trong có mười hai quan tài đá. Mười một chiếc trống không. Chiếc cuối cùng bị đóng bằng chín cây đinh bạc, và trên nắp đặt một chiếc mặt nạ rồng. Hạ Tử Khiêm kiểm tra quanh phòng.
 
-Tô Mạn chạm tay lên nắp đá. Da tay nàng lập tức đỏ lên vì lạnh. "Mở."
+Tô Mạn chạm tay lên nắp đá. "Mở."
 
 Ba người cùng nâng. Bên trong là một người đàn ông mặc áo lót màu trắng, mang khuôn mặt Hoàng đế. Da lạnh. Không mạch.
 
-Tô Mạn tháo giày chân phải của ông. Ngón út lệch vào trong. Các đầu ngón tay nàng vẫn đặt trên vết xương nối sai. Nàng đứng im, như thể chỉ cần chưa nói ra thì người nằm trong quan tài vẫn có thể là một kẻ đóng giả khác. Sau cùng, Tô Mạn khép mắt.
+Tô Mạn tháo giày chân phải của ông. Ngón út lệch vào trong. Nàng đứng im, như thể chỉ cần chưa nói ra thì người nằm trong quan tài vẫn có thể là một kẻ đóng giả khác. Sau cùng, Tô Mạn khép mắt.
 
 "Là đệ ấy."
 
@@ -198,8 +178,6 @@ Hạ Tử Khiêm đứng chắn trước quan tài. "Ngươi để chúng ta m�
 
 Kỷ Vô Nhai nhìn phần cổ tay lộ ra khỏi áo nàng. "Một chén máu."
 
-Tô Mạn không đáp.
-
 "Máu Tạ gia giữ tàn ảnh tồn tại," Hạ Tử Khiêm nói. "Còn máu hoàng thất, ngươi cần để làm gì?"
 
 "Không bắt buộc. Nhưng có nó, tàn ảnh sẽ ổn định hơn."
@@ -210,19 +188,13 @@ Tô Mạn không đáp.
 
 "Vạn Đăng Yến là lần đầu hắn xuất hiện trước bá quan," Hạ Tử Khiêm nói.
 
-Kỷ Vô Nhai không cần trả lời.
-
 Vân Cơ nhìn Mộc Dung. "Cô đã đổi thuốc giải của Tạ Vân Cơ."
 
 "Phải."
 
 "Nàng biết mình có thể chết không?"
 
-Kỷ Vô Nhai xen vào. "Nàng nghĩ mình sẽ tỉnh lại sau hai canh giờ." Hắn lấy lọ Thanh Tâm Lộ trong tay áo ra, xoay nhẹ. "Nàng tự chuẩn bị Hàn Thiền và Bế Tâm Sa. Tự giấu cây kim trong áo. Tự lấy máu cho cơ quan."
-
-"Mộc Dung đổi thuốc trong lọ," Vân Cơ nói.
-
-"Ta chỉ đổi phần bên trong," Mộc Dung đáp.
+Kỷ Vô Nhai xen vào. "Nàng nghĩ mình sẽ tỉnh lại sau hai canh giờ." Hắn lấy lọ Thanh Tâm Lộ trong tay áo ra, xoay nhẹ.
 
 "Tạ Vân Cơ dàn dựng một vụ án để kéo Đại Lý Tự vào cuộc," Kỷ Vô Nhai nói. "Nàng muốn sau khi sống lại, sẽ có hai Lục Thanh La xuất hiện cùng lúc. Một người ở La Sinh Đài, một người trước quan phủ."
 
@@ -262,8 +234,6 @@ Hạ Tử Khiêm định đuổi theo, nhưng nghe tiếng Tô Mạn gọi. "Gi�
 
 Quan tài đang mắc ở miệng đường nước. Hoàng đế bắt đầu co giật dữ dội. Hạ Tử Khiêm quay lại, cùng Vân Cơ đẩy quan tài xuống máng. Phía cuối đường, Đường Tiểu Sơn và sáu quan sai Đại Lý Tự đang chờ.
 
-"Nhanh!" Tiểu Sơn hô.
-
 Họ kéo Hoàng đế ra khỏi quan tài, đặt lên tấm ván đã chuẩn bị. Tô Mạn tiếp tục châm cứu. Sau gần nửa khắc, lồng ngực Hoàng đế khẽ nâng lên. Một hơi thở rất yếu, nhưng có thật. Tô Mạn ngồi sụp xuống cạnh ông.
 
 "Bệ hạ tỉnh chưa?" Tiểu Sơn hỏi.
@@ -276,7 +246,7 @@ Họ kéo Hoàng đế ra khỏi quan tài, đặt lên tấm ván đã chuẩn 
 
 Vân Cơ vẫn ngồi tựa vào vách. Hạ Tử Khiêm bước tới. "Cô mất ký ức gì?"
 
-Vân Cơ nhìn bàn tay dính máu của mình. Nàng biết người chết trong lồng, người mang tên Thanh La, từng phá Thủy Nguyệt Các vào ngày khai trương. Biết hai người đã cãi nhau. Biết sau đó khách tới kín rạp. Nhưng nàng không còn nhớ Thanh La đã phá thứ gì, đã mắng nàng ra sao.
+Vân Cơ nhìn bàn tay dính máu của mình. Nàng biết người chết trong lồng, người mang tên Thanh La, từng phá Thủy Nguyệt Các vào ngày khai trương. Biết hai người đã cãi nhau. Nhưng nàng không còn nhớ Thanh La đã phá thứ gì, đã mắng nàng ra sao.
 
 "Ngày đầu Thủy Nguyệt Các mở cửa," nàng đáp.
 
@@ -284,7 +254,7 @@ Vân Cơ nhìn bàn tay dính máu của mình. Nàng biết người chết tro
 
 "Không. Ta nhớ chuyện đã xảy ra." Nàng chạm vào thái dương. "Chỉ không còn nghe thấy giọng nàng trong ngày ấy."
 
-Vân Cơ nhắm mắt, cố nhớ lại một câu. Bất kỳ câu nào cũng được. Nàng vẫn thấy Thanh La đứng giữa sân khấu, thấy miệng nàng mở ra, thấy khán giả ngoài cửa chen nhau nhìn vào. Nhưng trong ký ức không có tiếng. Chỉ là một màn diễn câm.
+Vân Cơ nhắm mắt, cố nhớ lại một câu. Nàng vẫn thấy Thanh La đứng giữa sân khấu, thấy miệng nàng mở ra, nhưng trong ký ức không có tiếng. Chỉ là một màn diễn câm.
 
 Vân Cơ mở mắt. Đường Tiểu Sơn đang ngồi xổm gần đó.
 
@@ -298,15 +268,13 @@ Vân Cơ bật cười một tiếng, nhưng mắt nàng đỏ lên.
 
 ***
 
-Chiếc lồng Vô Tướng Ngục được đưa vào sân kín của Đại Lý Tự. Khoang cát ở mặt thứ năm đã được mở từ mấy hôm trước. Lần này, Vân Cơ tháo từng đinh tán giữ lớp đồng lót phía sau khoang. Sau lớp đồng có một tấm kim loại mỏng. Nàng hơ nó trên lửa, và một sơ đồ hiện ra.
+Chiếc lồng Vô Tướng Ngục được đưa vào sân kín của Đại Lý Tự. Vân Cơ tháo từng đinh tán giữ lớp đồng lót phía sau khoang cát ở mặt thứ năm. Sau lớp đồng có một tấm kim loại mỏng. Nàng hơ nó trên lửa, và một sơ đồ hiện ra.
 
 Đó là sơ đồ Vạn Đăng Yến. Mười hai tháp đèn bao quanh quảng trường, mỗi tháp có một mặt gương lớn hướng về đài trung tâm. Mẫu Kính sẽ được đặt trên đỉnh đài. Ở góc tấm đồng, người chết trong lồng đã để lại ba dòng: Tàn ảnh chỉ lặp lại việc đã xảy ra. Đừng đập Mẫu Kính. Đảo mười hai gương chủ ở tiếng chuông thứ bảy.
 
 Đường Tiểu Sơn đọc lại. "Nếu đập Mẫu Kính thì sao?"
 
-Cố Bách Xảo vẽ nhiều bóng người tràn ra từ một mặt gương vỡ. Vân Cơ nhìn hình vẽ.
-
-"Máu Tạ gia đang giữ rất nhiều tàn ảnh bên trong. Gương vỡ, chúng sẽ thoát ra cùng lúc."
+Cố Bách Xảo vẽ nhiều bóng người tràn ra từ một mặt gương vỡ. "Máu Tạ gia đang giữ rất nhiều tàn ảnh bên trong. Gương vỡ, chúng sẽ thoát ra cùng lúc."
 
 "Giữa hàng vạn người," Hạ Tử Khiêm nói.
 
@@ -326,17 +294,13 @@ Vân Cơ nhìn Hoán Danh Phổ. Hai mươi bảy cái tên.
 
 ***
 
-Đêm trước Vạn Đăng Yến, từng nữ nhân lần lượt bước vào Thủy Nguyệt Các. Một chủ tiệm thuốc. Một nữ tiên sinh. Một người bán hoa. Một đầu bếp. Một thợ thêu. Một phu nhân tới bằng cửa trước, còn nha hoàn của nàng lại lẻn vào từ cửa bếp. Có người đã có gia đình mới. Có người vẫn dùng tên mà Thanh La đã làm giấy hộ tịch từ nhiều năm trước. Trên bàn đặt hai mươi bảy chiếc mặt nạ đỏ. Không ai tranh nhau nói.
+Đêm trước Vạn Đăng Yến, từng nữ nhân lần lượt bước vào Thủy Nguyệt Các. Một chủ tiệm thuốc, một nữ tiên sinh, một người bán hoa, một thợ thêu. Một phu nhân tới bằng cửa trước, còn nha hoàn của nàng lẻn vào từ cửa bếp. Có người đã có gia đình mới. Có người vẫn dùng tên mà Thanh La đã làm giấy hộ tịch từ nhiều năm trước. Trên bàn đặt hai mươi bảy chiếc mặt nạ đỏ.
 
 Người chủ tiệm thuốc cầm mặt nạ lên trước. "Ta phụ trách tháp nào?"
 
 Vân Cơ trải sơ đồ ra. "Không ai buộc phải đi."
 
 Một nữ nhân lớn tuổi đang kiểm tra dây mặt nạ ngẩng lên. "Nếu không muốn thì chúng ta đã không tới."
-
-Người thợ thêu chỉ vào tháp phía tây. "Chỗ này gần phủ cũ của chồng ta. Đừng giao cho ta. Ta mà nhìn thấy hắn có khi quên mất việc chính."
-
-Vài người bật cười. Vân Cơ đổi ký hiệu sang tháp khác.
 
 A Yên đặt chiếc trống nhỏ xuống bàn. Nàng viết: Sư phụ không muốn mọi người chết thay người.
 
@@ -350,15 +314,13 @@ A Yên viết: Nếu thiếu một gương?
 
 "Ta sẽ nghĩ cách khác," Vân Cơ đáp.
 
-A Yên nhìn nàng. Rõ ràng là không tin.
-
 Vân Cơ lấy chiếc mặt nạ đỏ cuối cùng, đặt trước mặt mình. "Kỷ Vô Nhai mất mười ba năm vẫn không tìm được Thanh La thật." Nàng nhìn quanh căn phòng. "Ngày mai hắn phải tìm giữa hai mươi tám người."
 
 ***
 
-Mọi người đã rời đi chuẩn bị. Vân Cơ đứng một mình giữa sân khấu Thủy Nguyệt Các. Một góc mái phía trên hồ sen vẫn còn ám khói từ vụ cháy trước. Mùi gỗ ẩm và tro cũ còn vương trong không khí.
+Mọi người đã rời đi chuẩn bị. Vân Cơ đứng một mình giữa sân khấu Thủy Nguyệt Các.
 
-Hạ Tử Khiêm bước vào. Hắn đưa nàng một cuốn sổ mới. Vân Cơ mở ra. A Yên đã ghi những thói quen của sư phụ. Tô Mạn ghi các vết thương trên thi thể. Đường Tiểu Sơn chép lại những câu mắng hắn từng nghe Thanh La nói, và có vài câu bị gạch vì Tô Mạn cho rằng không nên để trẻ con đọc. Mỗi người trong Hoán Danh Phổ viết lại một chuyện nhỏ. Có người được Thanh La đưa ra khỏi thành trong thùng rau. Có người từng cãi nhau với nàng vì tiền xe. Có người chỉ nhớ nàng ghét hành nhưng lại ăn được bánh hẹ.
+Hạ Tử Khiêm bước vào. Hắn đưa nàng một cuốn sổ mới. Vân Cơ mở ra. A Yên đã ghi những thói quen của sư phụ. Tô Mạn ghi các vết thương trên thi thể. Đường Tiểu Sơn chép lại những câu mắng hắn từng nghe Thanh La nói. Mỗi người trong Hoán Danh Phổ viết lại một chuyện nhỏ. Có người được Thanh La đưa ra khỏi thành trong thùng rau. Có người chỉ nhớ nàng ghét hành nhưng lại ăn được bánh hẹ.
 
 "Đại nhân bảo họ viết sao?" Vân Cơ hỏi.
 

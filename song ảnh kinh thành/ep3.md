@@ -10,15 +10,11 @@ Tô Mạn quỳ dưới chân bàn. Nàng cạo một ít dầu trên bánh xe, 
 
 "Thử đi," Hạ Tử Khiêm nói.
 
-Hai quan sai đẩy bàn. Nó không tiến thẳng mà xoay thành nửa vòng, và dưới nền vang lên tiếng bánh răng chuyển động. Một phiến đá chậm rãi trượt ra, để lộ miệng giếng tối đen. Hơi lạnh mang theo mùi rêu bốc lên.
+Hai quan sai đẩy bàn. Nó không tiến thẳng mà xoay thành nửa vòng, và dưới nền vang lên tiếng bánh răng chuyển động. Một phiến đá chậm rãi trượt ra, để lộ miệng giếng tối đen.
 
 Tiểu Sơn nhìn xuống. "Đại Lý Tự có giếng dưới nhà xác sao?"
 
-"Bây giờ thì có."
-
-Tiểu Sơn quay sang viên quan quản kho. Người kia tái mặt. "Thuộc hạ làm ở đây mười một năm, chưa từng..."
-
-"Tòa nhà này có từ tiền triều," Hạ Tử Khiêm nói. "Ngươi không biết cũng không lạ."
+"Tòa nhà này có từ tiền triều," Hạ Tử Khiêm nói.
 
 "Người dưới giếng đi lên đúng lúc chúng ta chạy ra xem trống Đăng Văn," Tô Mạn nói.
 
@@ -36,12 +32,6 @@ Tô Mạn quay lại bức tường. Nàng lấy dao cạo một ít chất đ�
 
 "Máu lươn trộn chu sa."
 
-"Không phải máu người?" Tiểu Sơn hỏi.
-
-"Muốn nếm thử không?"
-
-"Không cần. Thuộc hạ tin cô," Tiểu Sơn đáp.
-
 Hạ Tử Khiêm áp giấy lên dấu tay rồi chà than. Khi nhấc ra, đường vân của năm ngón thật hiện rõ. Riêng ngón thứ sáu chỉ có những nét cắt ngang đều nhau.
 
 "Ngón giả," hắn nói. "Làm bằng gỗ hoặc da cuộn."
@@ -52,23 +42,19 @@ Vân Cơ nhìn bản in. "Vậy vật ta chém rơi đêm ấy cũng là một n
 
 "Chỉ cần cùng một tổ chức," Vân Cơ nói.
 
-Nàng nhìn xuống giếng. Ánh sáng từ miệng giếng chỉ soi được một đoạn ngắn, phần dưới hoàn toàn tối. Từ sâu bên trong vọng lên một tiếng chuông.
-
-Đường Tiểu Sơn siết chặt cây đèn. "Thuộc hạ bắt đầu không thích tiếng chuông rồi."
+Nàng nhìn xuống giếng. Từ sâu trong bóng tối vọng lên một tiếng chuông.
 
 "Chuẩn bị dây," Hạ Tử Khiêm nói.
 
 ***
 
-Hạ Tử Khiêm dẫn sáu quan sai xuống trước. Vân Cơ đi sau hắn, còn Đường Tiểu Sơn phụ trách chốt cuối, vừa đi vừa ngoái lại kiểm tra.
+Hạ Tử Khiêm dẫn sáu quan sai xuống trước. Vân Cơ theo sau, Đường Tiểu Sơn chốt cuối.
 
-Đường nước ngầm chỉ vừa đủ hai người tránh nhau. Nước lạnh ngập tới mắt cá chân. Cứ cách vài trượng lại có một tấm gương nhỏ gắn trên vách. Tiểu Sơn đưa đèn tới gần.
+Đường nước ngầm hẹp, nước lạnh ngập tới mắt cá chân. Cứ cách vài trượng lại có một tấm gương nhỏ gắn trên vách. Tiểu Sơn đưa đèn tới gần.
 
 "Đặt gương dưới này để làm gì?"
 
 Vân Cơ chỉnh mặt gương sang trái. Ánh sáng từ ngọn đèn phản qua tấm thứ hai, rồi tấm thứ ba, và một đoạn đường dài phía trước dần sáng lên. "Dẫn sáng. Không cần đốt đèn dọc đường."
-
-"Gương đã xanh màu," Hạ Tử Khiêm nói. "Đặt ở đây nhiều năm rồi."
 
 Đường hầm chia thành ba nhánh. Trên vách có ba biểu tượng: một đóa trà trắng, một con quạ đen, và một bàn tay sáu ngón.
 
@@ -76,21 +62,15 @@ Vân Cơ chạm vào đóa trà. Phiến đá phía sau lõm xuống, để lộ
 
 Hạ Tử Khiêm lật mở. Mỗi trang đều có tên cũ, tên mới và nơi người ấy đang sống. Trang đầu ghi: Hàn Tố Nương, chết trong hỏa hoạn. Tên mới: Lưu thị, chủ tiệm thuốc Tây Thành.
 
-Tiểu Sơn lật thêm vài trang rồi dừng lại. "Dương Tiểu Điệp. Thuộc hạ nhớ người này."
+Tiểu Sơn dừng lại ở một trang. "Dương Tiểu Điệp. Thuộc hạ nhớ người này."
 
 "Ba năm trước," Hạ Tử Khiêm nói. "Người chồng báo nàng bị cướp giết."
-
-"Hắn tới nha môn khóc hai ngày."
 
 "Trước đó hắn đánh nàng gãy ba cái xương sườn," Vân Cơ nói. "Thanh La đưa nàng ra khỏi thành."
 
 "Hai người làm giả cái chết?"
 
 "Một đôi giày bên sông, ít máu, sau đó đổi giấy hộ tịch," Vân Cơ đáp.
-
-"Phạm pháp," Tiểu Sơn nói.
-
-"Ta biết."
 
 Các trang sau đều giống như vậy. Tổng cộng có hai mươi bảy phụ nữ.
 
@@ -106,17 +86,13 @@ Gần cuối sổ có một trang bị xé. Phần còn lại chỉ đọc đư�
 
 "Thanh La có giấu cô chuyện gì không?"
 
-Vân Cơ nhìn hắn.
-
 "Câu hỏi thừa," Hạ Tử Khiêm nói. "Nàng giấu rất nhiều."
-
-"Ít nhất đại nhân cũng tự trả lời được."
 
 Một quan sai gọi từ nhánh đường bên trái. "Có dấu kéo lê!"
 
 Vệt nước lẫn bùn dẫn họ tới một cánh cửa sắt. Trên cửa có chín ổ khóa, tám ổ xếp thành vòng tròn, ổ cuối cùng nằm ở giữa. Đường Tiểu Sơn lấy những chiếc chìa của Vô Tướng Ngục ra. Tám chiếc đều vừa khít. Chiếc chìa màu đen lấy từ miệng Trương Đồng mở được ổ thứ chín.
 
-Hạ Tử Khiêm cho tất cả lùi lại rồi mới xoay chìa. Không có tên bắn, không có lửa. Cánh cửa mở ra khá yên lặng.
+Hạ Tử Khiêm cho tất cả lùi lại rồi xoay chìa. Cánh cửa mở ra yên lặng.
 
 Bên trong là một căn phòng thay y phục. Trên giá treo bảy bộ tóc giả, bảy đôi giày và bảy chiếc vòng tay giống hệt nhau. Giữa bàn đặt một tấm mặt nạ mang khuôn mặt Lục Thanh La.
 
@@ -128,11 +104,9 @@ Vân Cơ cầm lên, bóp nhẹ phần mép. "Lụa tằm trộn keo cá. Gặp 
 
 "Một canh giờ, nếu không cười lớn," Vân Cơ đáp.
 
-"May là Lục cô nương ít khi vui thật," Tiểu Sơn nói.
-
 Trên tường treo bản đồ kinh thành, có bảy cây kim đỏ đánh dấu bảy vị trí: Thủy Nguyệt Các, La Sinh Đài, Đại Lý Tự, Tháp Quan Tinh, phủ Quốc sư, Tạ gia cũ, và tẩm điện của Hoàng đế.
 
-Không ai lên tiếng. Hạ Tử Khiêm gỡ cây kim cuối cùng khỏi bản đồ, nhìn một lát rồi cắm lại đúng chỗ.
+Hạ Tử Khiêm gỡ cây kim cuối cùng khỏi bản đồ, nhìn một lát rồi cắm lại đúng chỗ.
 
 "Đóng đường hầm. Không cho người của Khâm Thiên Giám xuống đây."
 
@@ -164,10 +138,6 @@ Vân Cơ gật đầu.
 
 "Ông ấy bảo nếu người ngoài không biết ai là ai thì cả hai còn cơ hội sống."
 
-"Cô đồng ý?" Hạ Tử Khiêm hỏi.
-
-Vân Cơ im lặng.
-
 "Cô không đồng ý," Hạ Tử Khiêm nói.
 
 "Khi ấy khói đầy phổi, chân ta bị gỗ đè. Không có thời gian ngồi bàn xem ai chịu thiệt hơn."
@@ -196,7 +166,7 @@ Hạ Tử Khiêm lật tới trang bị xé trong Hoán Danh Phổ. "Người ma
 
 "Có thể."
 
-"Trong đường hầm có bảy bộ tóc giả mang dáng nàng. Bảy địa điểm bị đánh dấu trên bản đồ, một trong số đó là hoàng cung. Cô thật sự không biết?" Hạ Tử Khiêm nói tiếp.
+"Bảy bộ tóc giả mang dáng nàng. Bảy địa điểm bị đánh dấu, một trong số đó là hoàng cung. Cô thật sự không biết?"
 
 Vân Cơ nhìn thẳng hắn. "Không biết."
 
@@ -208,21 +178,13 @@ Cửa phòng bật mở. Phí Kinh Hồng bước vào.
 
 Đường Tiểu Sơn đi theo phía sau, vẻ mặt không vui. "Thuộc hạ đã nói đại nhân đang thẩm vấn."
 
-"Ta nghe rồi," Phí Kinh Hồng nói.
+"Nếu chờ các người mời, có lẽ phải tới sau giờ Tý," Phí Kinh Hồng nói.
 
-"Quốc sư vẫn vào," Hạ Tử Khiêm nói.
-
-"Nếu chờ các người mời, có lẽ phải tới sau giờ Tý."
-
-Ông đặt một cuộn bản đồ lên bàn. Đó là toàn bộ hệ thống đường nước cũ dưới kinh thành. Một nhánh nối nhà xác Đại Lý Tự với La Sinh Đài. Nhánh còn lại chạy thẳng tới Tháp Quan Tinh. Hạ Tử Khiêm không chạm vào.
+Ông đặt một cuộn bản đồ lên bàn. Đó là toàn bộ hệ thống đường nước cũ dưới kinh thành. Một nhánh nối nhà xác Đại Lý Tự với La Sinh Đài. Nhánh còn lại chạy thẳng tới Tháp Quan Tinh.
 
 "Đêm qua ngài rời La Sinh Đài bằng đường này?" Hạ Tử Khiêm hỏi.
 
-"Phải," Phí Kinh Hồng đáp.
-
-"Tại sao?" Hạ Tử Khiêm hỏi.
-
-"Ta nhìn thấy thứ không nên thấy."
+"Phải. Ta nhìn thấy thứ không nên thấy," Phí Kinh Hồng đáp.
 
 "Trong chiếc gương ngài để lại?" Vân Cơ hỏi.
 
@@ -282,13 +244,9 @@ Câu trả lời quá gọn. Vân Cơ nhìn ông lâu hơn.
 
 "Ta tới để nói rằng kẻ hẹn các người đã biết mọi bước các người sẽ đi."
 
-"Điều đó chúng ta cũng biết," Hạ Tử Khiêm nói.
-
-"Vậy ít nhất các người không chết vì bất ngờ," Phí Kinh Hồng đáp.
-
 ***
 
-Trước giờ Tý, Hạ Tử Khiêm trải bản đồ Tháp Quan Tinh ra bàn. Tòa tháp có chín tầng, chỉ một cầu thang xoắn đi lên, phía dưới nối với đường nước cũ. Hắn chia người thành ba nhóm. Đường Tiểu Sơn giữ cửa đường ngầm. Người của Đại Lý Tự bao vây bên ngoài. Tô Mạn ở lại bảo vệ A Yên, đồng thời chuẩn bị thuốc và dụng cụ cứu chữa nếu họ tìm thấy Cố Bách Xảo.
+Trước giờ Tý, Hạ Tử Khiêm trải bản đồ Tháp Quan Tinh ra bàn. Tòa tháp có chín tầng, chỉ một cầu thang xoắn đi lên, phía dưới nối với đường nước cũ. Hắn chia người thành ba nhóm. Đường Tiểu Sơn giữ cửa đường ngầm. Người của Đại Lý Tự bao vây bên ngoài. Tô Mạn ở lại bảo vệ A Yên và chuẩn bị thuốc cứu chữa nếu họ tìm thấy Cố Bách Xảo.
 
 "Ngươi vẫn đưa nàng vào?" Phí Kinh Hồng hỏi.
 
@@ -303,16 +261,6 @@ Trước giờ Tý, Hạ Tử Khiêm trải bản đồ Tháp Quan Tinh ra bàn.
 "Mẫu Kính không phản chiếu người đã cho máu vào nó. Gương giả thì có," Vân Cơ giải thích.
 
 Hạ Tử Khiêm lấy một cuốn sổ nhỏ, viết ba dòng. Vân Cơ nhìn theo. Dòng thứ nhất: Vân Cơ có thể tin trong vụ án này. Dòng thứ hai: Phí Kinh Hồng chưa thể tin. Dòng thứ ba: Nếu mất ký ức, đọc toàn bộ ghi chép trước khi hành động.
-
-Đường Tiểu Sơn ghé nhìn. "Đại nhân không ghi thuộc hạ có thể tin sao?"
-
-"Ta nhận ra ngươi bằng tiếng nói."
-
-"Nếu đại nhân quên luôn tiếng nói?" Tiểu Sơn hỏi.
-
-"Ta sẽ tìm người ít nói hơn thay ngươi," Hạ Tử Khiêm đáp.
-
-Tiểu Sơn lập tức ngậm miệng.
 
 Vân Cơ nhìn cuốn sổ. "Nếu phải gọi tàn ảnh, ta dùng máu."
 
@@ -372,13 +320,13 @@ Vân Cơ nhìn xuống chân ông. Không có bóng. Nàng rút trâm bạc, né
 
 Tàn ảnh đưa tay chỉ về phía sau. Trên một chiếc ghế, thi thể của người chết trong lồng đang ngồi. Nàng đã được thay sang áo trắng, hai tay đặt ngay ngắn trên đầu gối. Trên cổ tay trái có một vết cắt dài, còn mới. Dưới chân nàng là một bình ngọc chứa máu đỏ sẫm, và bên cạnh bình có nửa Mẫu Kính còn lại.
 
-Vân Cơ bước tới, chạm tay vào cổ thi thể. Lạnh. Không mạch. Mái tóc còn bết nước, những sợi bạc do thuốc ăn mất màu dính sát vào cổ.
+Vân Cơ bước tới, chạm tay vào cổ thi thể. Lạnh. Không mạch.
 
 "Họ đưa nàng qua đường nước rồi mang lên đây."
 
 Hạ Tử Khiêm quan sát hai nửa gương. "Kẻ trong tháp muốn chúng ta ghép lại."
 
-Tàn ảnh Cố Bách Xảo lặp lại động tác chỉ vào gương. "Muốn biết ai giết nàng, hãy để Mẫu Kính nhìn lại lần cuối."
+Tàn ảnh Cố Bách Xảo chỉ vào gương. "Muốn biết ai giết nàng, hãy để Mẫu Kính nhìn lại lần cuối."
 
 "Tàn ảnh không thể nói," Vân Cơ nói.
 
@@ -410,13 +358,13 @@ Hạ Tử Khiêm loạng choạng, chống một tay xuống bàn. Vân Cơ đ�
 
 "Đại nhân?"
 
-Hắn nhìn nàng. Không nhận ra. Hắn cúi xuống bàn tay đang chảy máu của mình. Hắn không biết vết cắt từ đâu, cũng không hiểu vì sao trước mặt lại có một thi thể và một tấm gương ghép đôi. Tay phải hắn đưa về chuôi đao theo phản xạ. Vân Cơ chậm rãi buông hắn ra.
+Hắn nhìn nàng, không nhận ra. Hắn cúi xuống bàn tay đang chảy máu, không biết vết cắt từ đâu, không hiểu vì sao trước mặt có một thi thể và tấm gương ghép đôi. Tay phải hắn đưa về chuôi đao theo phản xạ. Vân Cơ chậm rãi buông hắn ra.
 
 "Cô là ai?"
 
 "Tạ Vân Cơ," nàng đáp.
 
-Hắn nhìn nàng thêm một nhịp. Các ngón tay chạm phải cuốn sổ trong ngực áo. Hạ Tử Khiêm lấy nó ra nhưng chưa mở ngay. Hắn nhìn nét chữ ngoài bìa, xác nhận đó là chữ của mình rồi mới lật trang đầu. Vân Cơ có thể tin trong vụ án này.
+Hắn nhìn nàng thêm một nhịp, rồi tay chạm phải cuốn sổ trong ngực áo. Hắn nhìn nét chữ ngoài bìa, xác nhận là chữ của mình rồi mới lật trang đầu. Vân Cơ có thể tin trong vụ án này.
 
 Hạ Tử Khiêm vừa đọc xong thì phía sau dãy gương vang lên tiếng vỗ tay. Một nữ nhân áo trắng bước ra. Nàng có khuôn mặt giống hệt Vân Cơ. Không phải khuôn mặt của thi thể, mà là khuôn mặt Vân Cơ đang mang, từ đôi mắt, sống mũi tới vết sẹo nhỏ dưới cằm. Chỉ có khóe miệng hơi cứng, như thể nàng không dám cười quá lớn.
 
@@ -428,15 +376,11 @@ Người kia đưa tay chạm lên mặt mình. "Tạ Vân Cơ."
 
 "Tạ Vân Cơ đang ngồi trên ghế."
 
-"Người chết kia chỉ mang tên ta." Nàng nhìn Vân Cơ từ đầu tới chân. "Còn cô vẫn tưởng mình là Lục Thanh La?"
+"Người chết kia chỉ mang tên ta." Nàng nhìn Vân Cơ. "Còn cô vẫn tưởng mình là Lục Thanh La?"
 
 Vân Cơ không đáp. Trong đầu nàng chợt hiện lên một đêm mưa ở Vô Tướng Ban. Có một đứa trẻ cuộn mình dưới chăn, sợ tiếng sấm đến mức không dám thở mạnh. Nàng vẫn luôn nhớ đứa trẻ ấy là mình. Nhưng nếu cái tên Lục Thanh La cũng không thuộc về nàng, thì đứa trẻ trong ký ức đó là ai?
 
-Người kia tiến thêm một bước. Khóe miệng vẫn chỉ cong lên rất ít.
-
 "Cô chưa từng là Lục Thanh La."
-
-Hạ Tử Khiêm vô thức siết cuốn sổ. Trang giấy nói Vân Cơ có thể tin, nhưng trước mặt hắn đang có hai người cùng mang một khuôn mặt, và hắn không còn nhớ mình đã viết về người nào.
 
 Người áo trắng giẫm lên một chốt nhỏ dưới sàn. Cánh cửa gương phía sau khép lại, cạch một tiếng. Ánh nến chạy qua hàng trăm mặt gương. Hai người phụ nữ mang khuôn mặt Vân Cơ bị nhân lên khắp căn phòng. Trong những khoảng trống giữa họ, thi thể trên ghế cũng xuất hiện hết lần này tới lần khác, vẫn mang một khuôn mặt khác, vẫn im lặng nhìn về phía trước.
 

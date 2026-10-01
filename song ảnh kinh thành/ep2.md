@@ -1,8 +1,8 @@
 Song Ảnh Kinh Thành. Hồi hai: Cái tên của người chết.
 
-Các cửa của La Sinh Đài đều đã bị đóng. Quan sai Đại Lý Tự tách khán giả thành từng nhóm để kiểm tra. Người đòi về, kẻ la lối. Một vị quan say rượu còn đem chức tước ra dọa, và bị Đường Tiểu Sơn mời ngồi riêng ngay cạnh bể nước.
+Các cửa của La Sinh Đài đều đã bị đóng. Quan sai Đại Lý Tự tách khán giả thành từng nhóm để kiểm tra. Người đòi về, kẻ la lối.
 
-Thi thể vẫn nằm bên chiếc lồng. Vân Cơ bị khóa hai cổ tay nhưng chưa bị đưa khỏi sân khấu. Quan sai mới kịp thu của nàng chiếc trâm và con dao nhỏ.
+Thi thể vẫn nằm bên chiếc lồng. Vân Cơ bị khóa hai cổ tay nhưng chưa bị đưa khỏi sân khấu.
 
 Chiếc gương đồng Phí Kinh Hồng để lại đã được đặt lên bàn vật chứng cạnh sân khấu. Vân Cơ nhìn vào mặt gương ấy. Ánh đèn dưới bể nước hắt xiên lên kính, và cùng lúc đó, nửa Mẫu Kính giấu trong tay áo nàng bỗng nóng lên.
 
@@ -20,7 +20,7 @@ Vân Cơ vừa bước tới thì một quan sai đã chặn lại.
 
 "Cho nàng nhìn," Hạ Tử Khiêm nói. Sau đó hắn nhấc chiếc gương khỏi bàn.
 
-Góc phản chiếu bị phá. Nửa Mẫu Kính trong tay áo Vân Cơ nguội dần, và bóng người biến mất. Hạ Tử Khiêm xoay gương về phía chiếc lồng, rồi về phía thi thể. Không có gì khác thường.
+Góc phản chiếu bị phá. Nửa Mẫu Kính trong tay áo Vân Cơ nguội dần, và bóng người biến mất. Hạ Tử Khiêm xoay gương về phía chiếc lồng và thi thể. Không có gì khác thường.
 
 "Cô vừa thấy gì?"
 
@@ -30,43 +30,25 @@ Góc phản chiếu bị phá. Nửa Mẫu Kính trong tay áo Vân Cơ nguội 
 
 "Khi nó còn nằm đúng chỗ."
 
-Đường Tiểu Sơn đang cúi kiểm tra ổ khóa thứ tám, nghe vậy thì ngẩng lên. "Nàng ấy đứng bằng cách nào?"
-
-"Nếu biết, ta đã không nhìn lâu như vậy," Vân Cơ đáp.
-
 Hạ Tử Khiêm lật mặt sau chiếc gương. Trên cán có một vệt máu chưa khô. Hắn lấy khăn chạm thử.
 
 "Mới để lại."
 
 "Không phải máu của người chết," Vân Cơ nói. "Tay nàng đã lạnh."
 
-Hạ Tử Khiêm nhìn lên hàng ghế cao nhất, chỗ Phí Kinh Hồng đã ngồi, rồi hỏi hai quan sai canh cửa xem có ai thấy Quốc sư rời đi không. Cả hai đều lắc đầu.
+Hạ Tử Khiêm hỏi hai quan sai canh cửa xem có ai thấy Quốc sư rời đi không. Cả hai đều lắc đầu.
 
-"Ông ta không đi cửa đông, cũng không đi cửa tây," Tiểu Sơn lẩm bẩm. "Chẳng lẽ chui xuống dưới ghế?"
+"Không cửa đông, không cửa tây," Tiểu Sơn lẩm bẩm. "Chẳng lẽ chui xuống dưới ghế?"
 
 Hạ Tử Khiêm nhìn khe sàn cạnh bể nước, nơi luồng khói từ lư hương đã bị hút xuống. "Có thể."
 
-Hắn đưa chiếc gương cho Tiểu Sơn. Tiểu Sơn không nhận ngay.
-
-"Đại nhân, tay thuộc hạ đang bẩn."
-
-"Lau đi."
-
-"Hay để nguyên trên bàn? Vật chứng đặt đâu cũng là vật chứng."
-
-"Cầm."
-
-Tiểu Sơn đành bọc gương bằng hai lớp vải rồi ôm sát ngực.
+Hắn đưa chiếc gương cho Tiểu Sơn. Tiểu Sơn đành bọc nó bằng hai lớp vải rồi ôm sát ngực.
 
 Hạ Tử Khiêm quay lại phía thi thể. "Cô nói đây không phải Lục Thanh La."
 
 "Phải."
 
-"Mặt giống. Giọng nói giống. Dáng người cũng giống."
-
-"Ta thấy."
-
-"Vậy cô nói nó khác ở chỗ nào?"
+"Mặt giống. Giọng giống. Dáng người cũng giống. Vậy cô nói nó khác ở chỗ nào?"
 
 Vân Cơ nhìn xuống hai bàn tay người chết. "Cho ta xem tay nàng."
 
@@ -87,8 +69,6 @@ Ngón út bàn tay trái của Vân Cơ khẽ co lại. Nàng vội nắm tay.
 "Xem tai trái đi," nàng nói.
 
 Hạ Tử Khiêm tháo hạt ngọc trai khỏi tai trái người chết. Lỗ xỏ khuyên còn mới, máu đen rỉ ra theo thân kim. Đường Tiểu Sơn nhìn thấy, quên cả sợ chiếc gương đang ôm.
-
-"Khuyên tai vừa mới xỏ sao?"
 
 "Có lẽ trước buổi diễn không lâu," Hạ Tử Khiêm nói, rồi đặt hạt ngọc vào túi vật chứng. "Cô biết nó?"
 
@@ -118,7 +98,7 @@ Hạ Tử Khiêm im lặng. Tiểu Sơn quay sang nhìn hắn.
 
 Vân Cơ nhìn hắn. Hắn nói thêm: "Ta cũng nghe thấy."
 
-Rồi hắn ra lệnh cho quan sai đưa thi thể về Đại Lý Tự, tịch thu chiếc lồng cùng toàn bộ tóc, y phục và đạo cụ, và tìm lối xuống dưới sân khấu. Xong việc, hắn nhìn sang Vân Cơ.
+Rồi hắn ra lệnh đưa thi thể về Đại Lý Tự, tịch thu chiếc lồng và đạo cụ, tìm lối xuống dưới sân khấu, rồi nhìn sang Vân Cơ.
 
 "Còn cô, đi cùng ta."
 
@@ -126,17 +106,9 @@ Rồi hắn ra lệnh cho quan sai đưa thi thể về Đại Lý Tự, tịch 
 
 Gần sáng, mưa rơi lộp độp trên mái ngói nhà xác Đại Lý Tự.
 
-Tô Mạn kéo tấm vải khỏi thi thể. Nàng đã xắn tay áo, bày dao, kẹp và mấy chiếc chén bạc thành một hàng ngay ngắn. Đường Tiểu Sơn đứng sát cửa.
+Tô Mạn kéo tấm vải khỏi thi thể. Đường Tiểu Sơn đứng sát cửa.
 
-"Đóng cửa," Tô Mạn nói.
-
-Tiểu Sơn đóng lại, nhưng vẫn đứng nguyên chỗ cũ.
-
-"Lại đây cầm đèn."
-
-"Ở đây cũng sáng mà."
-
-"Ta cần sáng trên bàn, không cần sáng sau lưng ngươi."
+"Lại đây cầm đèn," Tô Mạn nói.
 
 Hắn miễn cưỡng bước tới. Vân Cơ bị khóa một tay vào cây cột gần đó. Hạ Tử Khiêm cho nàng đứng xem khám nghiệm, nhưng không cho chạm vào thi thể.
 
@@ -148,17 +120,11 @@ Tô Mạn rút cây kim bạc khỏi ngực người chết. Không có máu tr�
 
 "Không."
 
-"Nhưng nó xuyên qua tim mà."
-
 "Ngươi đâm người đã chết thêm một nhát, họ cũng không chết lần hai."
 
 Tiểu Sơn ngậm miệng.
 
-Tô Mạn kiểm tra mũi, miệng, rồi rạch một đường nhỏ dưới xương sườn. Tiểu Sơn vội quay mặt đi.
-
-"Đèn," Tô Mạn nói.
-
-Hắn nhắm một mắt, chìa đèn tới.
+Tô Mạn rạch một đường nhỏ dưới xương sườn. Tiểu Sơn vội quay mặt đi.
 
 "Trong phổi không có nước."
 
@@ -168,7 +134,7 @@ Hắn nhắm một mắt, chìa đèn tới.
 
 "Tim ngừng trước khi nước tràn vào phổi," Vân Cơ nói.
 
-Tô Mạn quay sang nhìn nàng. "Có thể."
+Tô Mạn gật đầu.
 
 Tô Mạn dùng dao cạo một ít phấn ở hai bên hàm thi thể, bỏ vào chén bạc rồi nhỏ thuốc thử. Chất lỏng chuyển sang màu xanh.
 
@@ -178,15 +144,11 @@ Tô Mạn dùng dao cạo một ít phấn ở hai bên hàm thi thể, bỏ và
 
 "Không hẳn. Bôi ít thì mạch yếu, da lạnh. Người ngoài sờ vào sẽ tưởng đã chết. Bôi nhiều quá thì khỏi cần giả."
 
-Tiểu Sơn vô thức lùi nửa bước.
-
 Tô Mạn nhổ một sợi tóc bạc của người chết, hơ qua lửa. Ngọn lửa chuyển sang màu tím. Vẻ trêu chọc trên mặt Tô Mạn tắt hẳn.
 
 "Bế Tâm Sa."
 
 Vân Cơ nhìn sợi tóc. "Gặp nước mới phát độc."
-
-"Cô dùng rồi sao?"
 
 "La Sinh Đài dùng nó để tạo lửa tím. Bột khô thì không đáng ngại. Gặp nước sẽ sinh khí."
 
@@ -196,13 +158,9 @@ Hạ Tử Khiêm nhớ lại các tiếng chuông trong buổi diễn. "Tiếng 
 
 "Nếu lượng độc đủ lớn, tới tiếng thứ sáu hoặc thứ bảy tim sẽ dừng."
 
-Tiểu Sơn nghe tới đó thì lên tiếng: "Vậy nàng ấy bước vào lồng khi còn sống. Độc nằm sẵn trong tóc. Đến khi lồng chìm, nàng ấy mới chết."
+Tiểu Sơn nói: "Vậy nàng ấy bước vào lồng khi còn sống. Độc nằm sẵn trong tóc. Đến khi lồng chìm, nàng ấy mới chết."
 
 Tô Mạn nhìn hắn. "Lần này ngươi nói đúng."
-
-Tiểu Sơn hơi thẳng lưng.
-
-"Đừng vui quá. Chỉ là không nói sai thôi."
 
 Hạ Tử Khiêm đặt cây kim gần khay sắt. Thân kim khẽ rung. Vân Cơ nhìn vòng lò xo nhỏ quanh chuôi kim.
 
@@ -219,10 +177,6 @@ Hạ Tử Khiêm đặt cây kim gần khay sắt. Thân kim khẽ rung. Vân C�
 Nàng đặt cây kim mang dấu Thủy Nguyệt Các trước mặt Vân Cơ. Sau đó nàng nâng bàn tay phải của thi thể lên. Các ngón tay đã cứng lại quanh cành hoa cháy dở.
 
 "Đóa hoa ở trong tay từ trước khi nàng chết. Không phải ai đó đặt vào sau."
-
-Hạ Tử Khiêm nhìn Vân Cơ. "Nàng ta tự mang dấu hiệu của cô vào lồng."
-
-"Có vẻ vậy."
 
 Tô Mạn lật thi thể nằm nghiêng. Trên lưng có một vết bỏng cũ chạy từ bả vai trái xuống gần thắt lưng. Nàng ấn nhẹ quanh phần xương vai.
 
@@ -248,15 +202,9 @@ Tô Mạn tiếp tục kiểm tra cổ tay phải. Sát mạch có một vết s
 
 Đúng lúc ấy, một quan sai chạy vào, áo mưa còn nhỏ nước xuống nền.
 
-"Hạ đại nhân, La Sinh Đài cháy rồi!"
-
-"A Yên đâu?"
-
-"Không tìm thấy ạ."
+"Hạ đại nhân, La Sinh Đài cháy rồi! A Yên không tìm thấy ạ!"
 
 Vân Cơ giật mạnh sợi xích. "Mở khóa cho ta."
-
-"Cô vẫn là nghi phạm."
 
 "Nếu A Yên chết, đại nhân sẽ mất người cuối cùng biết Thanh La đã chuẩn bị gì trước buổi diễn."
 
@@ -266,7 +214,7 @@ Hạ Tử Khiêm nhìn nàng một lát rồi lấy chìa khóa.
 
 ***
 
-Trời gần sáng, họ tới La Sinh Đài. Lửa đã thiêu rụi gần hết hậu đài. Mưa rơi qua phần mái sập, tạt xuống những tấm rèm còn cháy âm ỉ. Không khí nồng mùi dầu và tóc giả cháy.
+Trời gần sáng, họ tới La Sinh Đài. Lửa đã thiêu rụi gần hết hậu đài, không khí nồng mùi dầu và tóc giả cháy.
 
 Vân Cơ bước vào phòng hóa trang. Chiếc bàn trước gương đã đen một nửa. Hai chiếc mặt nạ, một đỏ một trắng, chỉ còn lại vài mảnh vụn. Nàng ngồi xuống, đặt tay lên lớp tro.
 
@@ -279,8 +227,6 @@ Vân Cơ bước vào phòng hóa trang. Chiếc bàn trước gương đã đen
 Hạ Tử Khiêm nhìn nàng.
 
 "Dầu ở đây trộn bột ngọc trai, cháy lên sẽ có màu đỏ. Còn lửa vừa rồi lên màu xanh, quan sai nào cũng nói vậy."
-
-Cả hai cùng nghĩ tới đêm Vô Tướng Ban.
 
 Đường Tiểu Sơn đang lục dưới đống xà gỗ. "Không có thi thể. Cũng không thấy A Yên."
 
@@ -302,11 +248,7 @@ Hạ Tử Khiêm mở một lá khác. "Chiếc khóa thứ tư ở nhà Tôn qu
 
 Tiểu Sơn đọc tiếp dòng bên dưới. "Cứ trừ tiền thuốc vào ba trăm lượng ta nợ tỷ."
 
-Hắn nhìn Vân Cơ. "Nàng ấy thật sự có ghi sổ."
-
-"Nàng chỉ ghi phần có lợi cho mình."
-
-Hạ Tử Khiêm mở thêm hai lá nữa. Tên những thợ cơ quan mất tích đều xuất hiện trong đó. Có người từng giữ khóa, có người sửa Phượng Môn, có người bán lửa xanh.
+Hạ Tử Khiêm mở thêm hai lá nữa. Tên những thợ cơ quan mất tích đều xuất hiện trong đó.
 
 "Hai người vẫn điều tra vụ cháy."
 
@@ -327,8 +269,6 @@ Bên dưới là sơ đồ Vô Tướng Ngục, với mặt thứ năm được 
 Chiếc lồng đã được Đại Lý Tự kéo khỏi bể. Tấm đồng thứ năm đang mở, cát chảy thành đống dưới sàn. Vân Cơ quỳ xuống, bới lớp cát. Tay nàng chạm phải một chiếc hộp sắt nhỏ. Trên nắp khắc hai chữ: Vân Cơ.
 
 Bên trong có một con mắt thủy tinh và một đoạn xương ngón tay.
-
-Tiểu Sơn nhăn mặt. "Lục cô nương không thể để lại một bức thư bình thường sao?"
 
 Hạ Tử Khiêm nhấc đoạn xương lên. Trên đó có khắc chữ. "Đêm mười lăm. Tháp Quan Tinh. Mang Mẫu Kính đổi A Yên."
 
@@ -362,7 +302,7 @@ Vân Cơ soi đèn vào máng. "Khi nước trong bể dâng tới mức này, n
 
 "Nhưng có người lắp cơ quan."
 
-Trên tường treo hàng chục bức chân dung Lục Thanh La. Thoạt nhìn đều giống nhau. Nhìn lâu mới thấy mỗi bức có một điểm khác. Người thì có nốt ruồi dưới mắt trái, người thì không. Người cầm bút bằng tay trái, người dùng tay phải. Có người mang vết bỏng trên vai, có người lại có sẹo ở chân. Dưới mỗi bức đều ghi ngày tháng và nơi xuất hiện.
+Trên tường treo hàng chục bức chân dung Lục Thanh La. Thoạt nhìn đều giống nhau, nhưng mỗi bức có một điểm khác. Người có nốt ruồi dưới mắt trái, người không. Người cầm bút tay trái, người tay phải. Người mang vết bỏng trên vai, người có sẹo ở chân. Dưới mỗi bức đều ghi ngày tháng và nơi xuất hiện.
 
 Tiểu Sơn soi hai bức cạnh nhau. Một bức ghi giờ Dậu, Tây Thành. Bức kia ghi giờ Tuất, Đông Thành. Hai nơi cách nhau hơn ba mươi dặm.
 
@@ -392,7 +332,7 @@ Nàng vẫn lấy nửa Mẫu Kính ra. Hạ Tử Khiêm giữ cổ tay nàng l�
 
 "Đập cửa mất bao lâu?"
 
-Không ai trả lời. Từ bên trong chỉ còn vọng ra một tiếng gõ rất khẽ.
+Từ bên trong chỉ còn vọng ra một tiếng gõ rất khẽ.
 
 Vân Cơ đặt nửa gương vào khe. Cạnh kim loại cứa vào lòng bàn tay nàng, một giọt máu rơi xuống. Mặt gương sáng lên, và đèn dầu trong đường hầm tắt phụt.
 
@@ -432,17 +372,13 @@ Vân Cơ dùng vải bọc Mẫu Kính lại.
 
 ***
 
-A Yên được đưa về Đại Lý Tự khi trời bắt đầu hửng sáng. Tô Mạn kiểm tra rồi xác nhận nàng chỉ bị đánh ngất. Trên cổ tay còn hằn hai vòng dây tím sẫm.
+A Yên được đưa về Đại Lý Tự khi trời bắt đầu hửng sáng. Tô Mạn kiểm tra rồi xác nhận nàng chỉ bị đánh ngất.
 
-A Yên không nói được, mọi lời của nàng đều phải viết ra. Nàng ôm bảng gỗ vào ngực, ngón tay cầm than run tới mức nét đầu tiên kéo lệch khỏi hàng.
+A Yên không nói được, mọi lời của nàng đều phải viết ra. Nàng ôm bảng gỗ vào ngực, ngón tay cầm than run.
 
 Nàng viết: "Sư phụ biết màn diễn có thể xảy ra chuyện."
 
-Chữ cuối bị nhòe. A Yên lấy tay áo lau, càng lau càng bẩn. Vân Cơ giữ cổ tay nàng lại.
-
-"Không cần viết đẹp. Chậm thôi."
-
-A Yên hít một hơi rồi gật đầu.
+Chữ cuối bị nhòe. Vân Cơ giữ cổ tay nàng lại. "Chậm thôi."
 
 "Ai bắt muội?"
 
@@ -454,7 +390,7 @@ A Yên viết: "Hộp đặt ở cửa sau. Ta không thấy ai."
 
 "Đêm qua ai bước vào lồng?" Hạ Tử Khiêm hỏi.
 
-Viên than trong tay A Yên gãy đôi. Nàng cúi xuống tìm mảnh còn lại, tìm hai lần vẫn không nhặt được. Vân Cơ nhặt lên, đặt vào tay nàng.
+Viên than trong tay A Yên gãy đôi. Vân Cơ nhặt mảnh còn lại, đặt vào tay nàng.
 
 A Yên viết rất chậm: "Sư phụ."
 
@@ -482,7 +418,7 @@ A Yên lắc đầu.
 
 A Yên chỉ vào mình.
 
-Đường Tiểu Sơn khẽ đổi tư thế đứng. A Yên nhìn thấy. Nàng vội cúi xuống viết, nhưng tay run làm chữ xiêu hẳn sang một bên: "Thuốc do sư phụ đưa. Ta không biết có Bế Tâm Sa." Nàng viết thêm hai chữ "ta không", đè lên nét cũ mạnh tới mức viên than vỡ vụn trong tay.
+Đường Tiểu Sơn khẽ đổi tư thế đứng. A Yên vội viết, tay run làm chữ xiêu hẳn sang một bên: "Thuốc do sư phụ đưa. Ta không biết có Bế Tâm Sa."
 
 "Còn mặt nạ?" Vân Cơ hỏi.
 
@@ -496,7 +432,7 @@ Hạ Tử Khiêm chậm rãi ngồi xuống. "Nàng ta chủ động chuẩn b�
 
 A Yên gõ mạnh lên bảng rồi viết thêm: "Sư phụ có thuốc giải."
 
-Nàng lấy từ trong áo ra một chiếc lọ nhỏ đã rỗng. Tô Mạn ngửi miệng lọ. Dưới đáy còn một lớp cặn mỏng, nàng chấm thử một chút lên đầu lưỡi dao.
+Nàng lấy từ trong áo ra một chiếc lọ nhỏ đã rỗng. Tô Mạn ngửi miệng lọ, chấm thử lớp cặn dưới đáy lên đầu lưỡi dao.
 
 "Thanh Tâm Lộ."
 
@@ -564,10 +500,6 @@ Trời rạng sáng, giữa sân Đại Lý Tự, chiếc trống Đăng Văn đ
 
 Tô Mạn quỳ xuống kiểm tra. "Mới chết. Chưa quá một khắc. Cát chặn kín cổ họng, ông ấy chết ngạt."
 
-Tiểu Sơn nhìn quanh sân. "Một người bị nhét vào trống, mang vào giữa Đại Lý Tự, rồi mới bị giết sao?"
-
-"Có thể ông ấy còn sống khi được đưa vào," Hạ Tử Khiêm nói.
-
 Tô Mạn dùng kẹp lấy một vật dưới lưỡi nạn nhân. Đó là một chiếc chìa khóa màu đen, trên thân khắc số chín. Vân Cơ nhìn con số trên thân chìa và nhớ tới chiếc khóa thứ chín mà Thanh La từng nhắc. Rồi nàng nhìn lớp cát trong miệng ông. Nó cùng loại với cát trong mặt thứ năm của Vô Tướng Ngục.
 
 Ngay khi chìa khóa vừa được lấy ra, phần áo trước ngực Trương Đồng bắt đầu bốc khói. Vân Cơ giật áo ông mở ra. Trên da hiện dần một hàng chữ: "Muốn biết Cố Bách Xảo còn sống hay không, hãy hỏi người đã chết trong lồng."
@@ -596,13 +528,9 @@ Hạ Tử Khiêm nhìn xuống nền đá. Một vệt nước mảnh kéo từ 
 
 Trên bức tường phía sau có một hàng chữ viết bằng chất lỏng đỏ sẫm: "Tháp Quan Tinh. Giờ Tý đêm nay." Bên dưới là dấu một bàn tay sáu ngón.
 
-Vân Cơ đứng chết lặng.
-
 "Cô từng thấy bàn tay này?" Hạ Tử Khiêm hỏi.
 
 "Đêm Vô Tướng Ban cháy."
-
-Nàng bước tới gần dấu tay.
 
 "Ta đã dùng mảnh gương chém vào bàn tay ấy."
 
