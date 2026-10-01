@@ -630,7 +630,7 @@ Mười hai người.
 Lưu tổng quản nhìn nàng.
 
 **LƯU TỔNG QUẢN:**
-Mười một.
+…Đủ.
 
 Một khoảng lặng.
 
@@ -1073,25 +1073,6 @@ Tĩnh Nghi!
 
 Nàng ngẩng lên.
 
-**TĨNH NGHI:**
-Miếng đồng.
-
-Lưu tổng quản không hiểu.
-
-**TĨNH NGHI:**
-Bài của Nội Thủy Ty đâu?
-
-**LƯU TỔNG QUẢN:**
-Trong Ty.
-
-**TĨNH NGHI:**
-Giữ lại.
-
-Ông nhìn nàng.
-
-**TĨNH NGHI:**
-Đừng để ai động vào.
-
 ---
 
 Chuông tang xa dần.
@@ -1131,11 +1112,7 @@ A Dư không nói nữa.
 
 Tiếng chân hắn đi xa.
 
-Tĩnh Nghi lấy miếng đồng chữ **Thủy** ra.
-
-Đặt trên lòng bàn tay.
-
-Nàng nhìn nó rất lâu.
+Tĩnh Nghi ngồi yên rất lâu.
 
 Rồi nằm xuống.
 

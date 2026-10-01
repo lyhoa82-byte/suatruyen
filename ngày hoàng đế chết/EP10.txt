@@ -10,6 +10,12 @@
 
 ## CẢNH 1 — NỘI. PHÒNG VĂN THƯ TY THƯỢNG NGHI — CHIỀU
 
+Tĩnh Nghi đã định chưa cho Tôn cô cô biết.
+
+Nhưng chữ ký trong sổ mang tên bà. Hỏi sau lưng thì chỉ có thêm một người để nghi.
+
+Nàng quyết định hỏi thẳng.
+
 Cuốn sổ mượn hồ sơ nằm mở trên bàn.
 
 **Mùng năm tháng Sáu.**
@@ -446,16 +452,6 @@ Mai mình tra tiếp?
 
 Tĩnh Nghi nhìn hắn.
 
-A Dư chậm rãi nhớ ra nàng đã từng nói điều kỳ lạ.
-
-**A DƯ:**
-À.
-
-Hắn gãi mũi.
-
-**A DƯ:**
-Nếu có mai.
-
 Tĩnh Nghi im.
 
 ---
@@ -562,22 +558,13 @@ Mang giấy.
 Bên ngoài—
 
 **A DƯ:**
-Lại nữa à?
-
-Tĩnh Nghi dừng.
+Giấy ạ?
 
 Cửa mở.
 
 A Dư bước vào.
 
-**A DƯ:**
-Gì?
-
-Nàng nhìn hắn.
-
-Hắn không nhớ mình vừa nói gì khác thường.
-
-Chỉ đặt giấy xuống.
+Hắn đặt giấy xuống.
 
 ---
 
@@ -655,6 +642,24 @@ Ta chưa nói gì.
 
 **A DƯ:**
 Nên con tranh thủ.
+
+**TĨNH NGHI:**
+Đưa xong ba tờ, chạy thêm mấy nơi.
+
+**A DƯ:**
+Nơi nào?
+
+**TĨNH NGHI:**
+Đông cung: thẻ sách mới đưa tới sáng nay để nguyên, không ai được chạm. Khôn Ninh: nương nương ở yên trong cung. Bên Tam công chúa phải có người theo sát. Chiêu Dương: trưa nay bỏ trà, không dùng nước từ đường cũ.
+
+**A DƯ:**
+Lệnh ai?
+
+**TĨNH NGHI:**
+Lệnh ta.
+
+**A DƯ:**
+Vâng.
 
 ---
 
@@ -782,7 +787,7 @@ A Dư đứng cạnh.
 
 Nhìn Tĩnh Nghi.
 
-Lại một cái tên trong hộp.
+Tĩnh Nghi nhớ tới cái hộp gỗ trong phòng thủy lậu. Thêm một cái tên trong đó.
 
 ---
 
@@ -815,7 +820,7 @@ Tạ đại nhân.
 A Dư khẽ thở ra.
 
 **A DƯ:**
-Lại đại nhân.
+Người ra lệnh à?
 
 Tĩnh Nghi không nhìn hắn.
 
@@ -841,18 +846,13 @@ Hà Quý chậm lại.
 **HÀ QUÝ:**
 Không nhìn rõ.
 
-**A DƯ:**
+**TĨNH NGHI:**
 Áo mưa?
 
-Hà Quý nhìn hắn.
+Hà Quý nhìn nàng.
 
 **HÀ QUÝ:**
 Ừ.
-
-A Dư nhắm mắt.
-
-**A DƯ:**
-Đoán trúng mà không vui.
 
 ---
 
@@ -1213,7 +1213,7 @@ Lương Phúc.
 A Dư cúi đầu.
 
 **A DƯ:**
-Lại người không có.
+Người không có?
 
 ---
 
@@ -1623,9 +1623,7 @@ Hắn dừng.
 
 Tĩnh Nghi quay sang.
 
-A Dư không hiểu vì sao chính mình lại ngừng.
-
-Chỉ thấy nét mặt nàng.
+Hắn chỉ thấy nét mặt nàng.
 
 **A DƯ:**
 …Sao?
