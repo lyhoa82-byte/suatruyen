@@ -1,0 +1,321 @@
+Dưới đây là bản Story Handbook cô đọng cho Claude. Mình viết theo kiểu "production bible" để AI khác có thể đọc nhanh và sửa truyện mà không phá continuity.
+
+STORY HANDBOOK
+MƯỜI LĂM NĂM, GIÓ VẪN NHỚ
+1. BỐI CẢNH & TIMELINE
+Bối cảnh
+
+Cổ đại hư cấu, hệ thống quan trường, thương hội và Đại Lý Tự tương tự Trung Hoa phong kiến.
+
+Thời gian / Timeline
+
+15 năm trước:
+
+Hỏa hoạn Thanh Khê.
+Tô gia và Lục gia bị cuốn vào vụ án bạc cứu tế.
+Tô Vãn (Miên Miên) và Lục Hoài Chương (A Cửu) thất lạc.
+Hàn Thế Dụ phóng hỏa Thanh Khê.
+Lục Kính Sơn bị giam giữ.
+
+Hiện tại:
+
+Lục Hoài Chương là Đại Lý Tự Thiếu Khanh.
+Tô Vãn là Đông gia Trường Phong thương hội.
+Hai người gặp lại trong lúc điều tra vụ xe bạc giả.
+
+Tập 1-5:
+
+Nhận ra thân phận.
+Điều tra Thanh Khê.
+Phát hiện Lục Kính Sơn còn sống.
+
+Tập 6-8:
+
+Vạch trần Hàn Thế Dụ.
+Mở kho Hàn Giang.
+Thanh Khê được minh oan.
+Tô Vãn và Lục Hoài Chương thành thân.
+Địa điểm quan trọng
+Thanh Khê (quê cũ, nơi xảy ra hỏa hoạn)
+Bạch Thạch Kiều
+Trường Phong thương hội
+Đại Lý Tự
+Nhược Thủy Trang
+Hàn Giang
+Kho ngầm dưới Hàn Giang
+Hàn phủ
+Quy tắc thế giới đặc biệt
+
+Không có yếu tố huyền huyễn.
+
+Logic điều tra phải ưu tiên:
+
+manh mối
+bằng chứng
+lời khai
+payoff setup
+
+Không dùng trùng hợp để giải quyết xung đột lớn.
+
+2. CORE THEME
+
+Chủ đề chính:
+
+Người ta không ở bên nhau vì lời hứa năm xưa.
+
+Mà vì:
+
+Sau mười lăm năm trưởng thành, họ vẫn lựa chọn nhau.
+
+Theme phụ:
+
+Ký ức không thay thế được hiện tại.
+Bảo vệ người khác không đồng nghĩa được quyền quyết định thay họ.
+Công lý không vì tình cảm mà biến mất.
+Tình thân và tình yêu đều có thể vừa thật vừa sai.
+3. NHÂN VẬT & QUAN HỆ
+Tô Vãn (Miên Miên)
+Mục tiêu
+Tìm sự thật Thanh Khê.
+Bảo vệ Trường Phong.
+Đòi lại công bằng cho mẫu thân.
+Điểm yếu
+Khó tin người hoàn toàn.
+Thích tự gánh trách nhiệm.
+Năng lực
+Thương nghiệp.
+Phân tích sổ sách.
+Quan sát dấu vết.
+Tư duy thực tế.
+Quan hệ
+Lục Hoài Chương: người yêu, thanh mai trúc mã.
+A Đào: tâm phúc.
+Tô Nhược Lan: mẫu thân đã mất.
+Lục Hoài Chương (A Cửu)
+Mục tiêu
+Tìm sự thật Thanh Khê.
+Minh oan cho phụ thân.
+Bảo vệ Tô Vãn.
+Điểm yếu
+Thói quen tự quyết định thay người khác.
+Ít nói về cảm xúc.
+Gánh trách nhiệm quá mức.
+Năng lực
+Điều tra.
+Kiếm thuật.
+Suy luận.
+Lãnh đạo.
+Quan hệ
+Tô Vãn: người yêu.
+Lục Kính Sơn: phụ thân.
+Hàn Thế Dụ: nghĩa phụ cũ.
+A Đào
+Vai trò
+
+Comic relief + trợ thủ cảm xúc.
+
+Mục tiêu
+
+Bảo vệ Tô Vãn.
+
+Quan hệ
+Tô Vãn: chủ nhân.
+Tần Phong: tình cảm về sau.
+Tần Phong
+Vai trò
+
+Cánh tay phải của Lục Hoài Chương.
+
+Mục tiêu
+
+Bảo vệ đại nhân.
+
+Quan hệ
+Lục Hoài Chương: tuyệt đối trung thành.
+A Đào: tuyến tình cảm phụ.
+Lục Kính Sơn
+Vai trò
+
+Người cha mắc sai lầm.
+
+Sự thật
+
+Không phóng hỏa Thanh Khê.
+
+Xung đột
+
+Yêu con nhưng từng tự quyết định thay con.
+
+Hàn Thế Dụ
+Vai trò
+
+Phản diện chính.
+
+Mục tiêu
+
+Chiếm đoạt bạc cứu tế. Xây dựng thế lực riêng.
+
+Đặc điểm
+
+Yêu thương Lục Hoài Chương là thật.
+
+Lợi dụng Lục Hoài Chương cũng là thật.
+
+Hai điều cùng tồn tại.
+
+Xưng hô
+Tô Vãn ↔ Lục Hoài Chương
+
+Ban đầu:
+
+ngài / ta
+
+Sau nhận ra:
+
+huynh
+nàng / ta
+Tô Vãn
+
+Không dùng cách gọi quá ngọt.
+
+A Đào
+đông gia
+người
+Tần Phong
+đại nhân
+thuộc hạ
+Hàn Thế Dụ
+con
+A Chương
+4. CHARACTER VOICE
+Tô Vãn
+Thông minh.
+Đi thẳng vào vấn đề.
+Châm biếm nhẹ.
+Ít bi lụy.
+Không nói lời hoa mỹ.
+Lục Hoài Chương
+Ít lời.
+Trả lời ngắn.
+Hành động nhiều hơn nói.
+Khi nói thật lòng sẽ rất trực diện.
+A Đào
+Duyên dáng.
+Quan sát sắc bén.
+Đôi lúc cố tình phá không khí.
+Tần Phong
+Thẳng.
+Khô.
+Thường vô tình gây hài.
+Hàn Thế Dụ
+Bình tĩnh.
+Kiểm soát.
+Không gào thét.
+Tin mình đúng.
+5. CANON & CONTINUITY
+Thông tin đã xác nhận
+Miên Miên = Tô Vãn.
+A Cửu = Lục Hoài Chương.
+Hàn Thế Dụ là thủ phạm Thanh Khê.
+Hứa Quảng là thuộc hạ thân tín.
+Lục Kính Sơn vô tội với vụ cháy.
+Tô Nhược Lan bị đầu độc kéo dài.
+Hai nửa chim gỗ chứa bản đồ.
+Tuyệt đối không thay đổi
+Theme "chọn người hiện tại".
+Ba tiếng gõ.
+Hai nửa chim gỗ.
+Bạch Thạch Kiều.
+Cây hòe.
+Hàn Thế Dụ từng thật lòng thương A Chương.
+Hôn nhân không xuất phát từ lời hứa tuổi thơ.
+Kiến thức nhân vật
+
+Tô Vãn biết:
+
+thân phận A Cửu
+sự thật Thanh Khê
+
+Lục Hoài Chương biết:
+
+Miên Miên là Tô Vãn
+Hàn Thế Dụ là chủ mưu
+
+A Đào:
+
+biết gần như toàn bộ sự việc từ giữa truyện.
+Cần kiểm tra continuity
+Vết thương vai phải của Lục Hoài Chương.
+Hai nửa chim gỗ.
+Ba tiếng gõ.
+Thói quen không ăn hạt sen của Tô Vãn.
+Thói quen tự quyết định của Lục Hoài Chương.
+6. SETUP → PAYOFF
+Setup đã hoàn thành
+Hai nửa chim gỗ
+
+Setup: Tập 1-2
+
+Payoff: Ghép lại mở kho Hàn Giang.
+
+Ba tiếng gõ
+
+Setup: Ký hiệu nhận nhau thời nhỏ.
+
+Payoff: Nhận ra nhau. Kết thúc truyện: "Ta ở đây." "Ta cũng vậy."
+
+Hỏa hoạn Thanh Khê
+
+Setup: Bí mật trung tâm.
+
+Payoff: Hàn Thế Dụ nhận tội.
+
+Lời hứa năm xưa
+
+Setup: Thanh mai trúc mã.
+
+Payoff: "Tôi chọn người hiện tại."
+
+Món nợ cảm xúc
+Tô Vãn ↔ Lục Hoài Chương
+
+Nợ: Thất lạc 15 năm.
+
+Trạng thái: Đã hóa giải.
+
+Lục Hoài Chương ↔ Lục Kính Sơn
+
+Nợ: Bị bỏ lại trong hiểu lầm.
+
+Trạng thái: Hòa giải một phần. Không hoàn toàn tha thứ.
+
+Lục Hoài Chương ↔ Hàn Thế Dụ
+
+Nợ: Ân cứu mạng và phản bội.
+
+Trạng thái: Khép lại. Không tha thứ.
+
+7. GHI CHÚ BIÊN TẬP
+Tuyệt đối giữ
+Romance là slow-burn trưởng thành.
+Không dùng hiểu lầm ngớ ngẩn.
+Không dùng drama chia tay cưỡng ép.
+Tô Vãn luôn là người có năng lực.
+Lục Hoài Chương không được biến thành "sủng thê vô não".
+Nếu viết ngoại truyện
+
+Ưu tiên:
+
+Sau hôn nhân.
+Thanh Khê khôi phục.
+A Đào × Tần Phong.
+Lục Kính Sơn học làm cha lần nữa.
+Không được làm
+Hồi sinh phản diện.
+Thêm hiểu lầm chia ly.
+Lật ngược Hàn Thế Dụ vô tội.
+Biến ending HE thành BE hoặc OE.
+
+Logline chuẩn của truyện:
+
+Hai đứa trẻ thất lạc sau hỏa hoạn Thanh Khê gặp lại nhau sau mười lăm năm, rồi cùng vạch trần âm mưu đã phá hủy cả tuổi thơ của họ, để cuối cùng lựa chọn ở bên nhau không phải vì lời hẹn năm xưa, mà vì con người họ đã trở thành hôm nay.

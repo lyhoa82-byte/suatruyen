@@ -1,0 +1,320 @@
+Dưới đây là bản STORY HANDBOOK dạng ngắn gọn để nạp cho Claude khi dùng chung với một MASTER STORY BIBLE + EDITING PROTOCOL. Mục tiêu là giúp AI hiểu nhanh cấu trúc truyện, nhân vật, canon và các ưu tiên biên tập mà không cần đọc lại 10 tập.
+
+STORY HANDBOOK
+CĂN NHÀ KHÔNG CÒN TÊN TÔI
+1. BỐI CẢNH & TIMELINE
+
+Bối cảnh: Drama hiện đại Việt Nam, hôn nhân, doanh nghiệp gia đình, tranh chấp cổ phần, giả mạo danh tính, điều tra tài chính.
+
+Thời gian / Timeline:
+
+Tập 1-9 diễn ra trong khoảng vài tuần đến vài tháng.
+Tập 10 nhảy thời gian khoảng 11 tháng sau cao trào.
+Kết thúc thêm khoảng 1 năm sau ly hôn.
+
+Địa điểm quan trọng:
+
+Nhà Hoàng Minh và Thu An.
+Công ty An Thịnh.
+Công ty Bình An.
+Nhà bà Thu Hà.
+Căn hộ Tùng Bách.
+Nhà kho cũ An Thịnh.
+Văn phòng luật sư Nguyễn Diệp.
+Mộc An Studio.
+
+Quy tắc thế giới:
+
+Truyện hiện thực, không có yếu tố siêu nhiên.
+Mọi xung đột được giải bằng hồ sơ, chữ ký, dữ liệu, pháp lý và nhân chứng.
+Không dùng "trời giáng", quyền lực bí ẩn hay bàn tay vàng để giải quyết.
+2. CORE THEME
+
+Chủ đề trung tâm:
+
+Một người phụ nữ phải giành lại quyền sở hữu đối với chính tên tuổi, chữ ký và cuộc đời của mình.
+
+Các chủ đề phụ:
+
+Quyền sở hữu và danh tính.
+Niềm tin trong hôn nhân.
+Gia đình và sự kiểm soát.
+Sự khác biệt giữa yêu và tôn trọng.
+Cái giá của việc im lặng trước sai phạm.
+
+Motif trung tâm:
+
+Chữ ký.
+Tên trên giấy tờ.
+Phụ lục bị thiếu.
+Mật mã cửa.
+Cây bút.
+3. NHÂN VẬT & QUAN HỆ
+Nhân vật chính
+Nguyễn Thu An
+
+Mục tiêu:
+
+Chứng minh mình không liên quan Bình An.
+Lấy lại quyền lợi tại An Thịnh.
+Giành lại quyền kiểm soát cuộc sống.
+
+Điểm yếu / giới hạn:
+
+Quá tin người thân.
+Từng bỏ điều hành công ty nhiều năm.
+Bị tổn thương vì hiếm muộn và hôn nhân đổ vỡ.
+
+Năng lực / nghề nghiệp:
+
+Đồng sáng lập An Thịnh.
+Mạnh về vận hành và quản trị.
+Đọc hợp đồng cẩn thận.
+Giỏi xử lý hệ thống.
+
+Quan hệ quan trọng:
+
+Chồng cũ: Hoàng Minh.
+Bạn thân: Mai Phương.
+Luật sư: Nguyễn Diệp.
+Mối quan hệ phức tạp với Tú Linh và Thu Thủy.
+Nhân vật phụ
+Trần Hoàng Minh
+
+Vai trò:
+
+Chồng.
+Đối thủ pháp lý.
+Người vừa yêu vừa phản bội Thu An.
+
+Mục tiêu:
+
+Bảo vệ An Thịnh.
+Bảo vệ tài sản và quyền kiểm soát.
+Ban đầu muốn ép Thu An ký và rút khỏi công ty.
+Thu Hà
+
+Vai trò:
+
+Mẹ chồng.
+Antagonist chính.
+
+Mục tiêu:
+
+Bảo vệ gia đình họ Trần bằng mọi giá.
+Duy trì quyền kiểm soát tài sản.
+Lê Thu Thủy (Ngô Thanh Hạnh)
+
+Vai trò:
+
+Nút thắt lớn của bí mật.
+
+Mục tiêu:
+
+Đòi lại công bằng cũ.
+Lấy lại con gái.
+Bảo vệ Tú Linh và Quốc Duy.
+Tú Linh
+
+Vai trò:
+
+Người cung cấp dữ liệu.
+Nhân vật vùng xám.
+
+Mục tiêu:
+
+Tìm sự thật về mẹ.
+Tìm sự thật về An Thịnh.
+Giảm thiểu tổn thất.
+Gia Kỳ
+
+Vai trò:
+
+Em chồng.
+Người dao động giữa các phe.
+
+Mục tiêu:
+
+Tự bảo vệ bản thân.
+Tránh chịu trách nhiệm pháp lý.
+Mai Phương
+
+Vai trò:
+
+Bạn thân.
+Comic relief.
+Điểm tựa tâm lý.
+
+Mục tiêu:
+
+Bảo vệ Thu An.
+Nguyễn Diệp
+
+Vai trò:
+
+Luật sư.
+Neo lý trí của câu chuyện.
+
+Mục tiêu:
+
+Bảo vệ quyền lợi pháp lý của Thu An.
+Anh Tuấn
+
+Vai trò:
+
+Nhân chứng.
+Người giữ hồ sơ gốc.
+
+Mục tiêu:
+
+Làm điều đúng.
+Trả món nợ ân tình với Thu An.
+Quốc Duy
+
+Vai trò:
+
+Quản lý kế toán Bình An.
+
+Mục tiêu:
+
+Giảm trách nhiệm của mình.
+4. CHARACTER VOICE
+
+Thu An
+
+Bình tĩnh.
+Ít nói.
+Không diễn thuyết dài.
+Phản ứng sắc nhưng tiết chế.
+
+Hoàng Minh
+
+Ngắn gọn.
+Kiểm soát.
+Luôn tin mình đang giải quyết vấn đề.
+
+Thu Hà
+
+Thường dùng ngôn ngữ gia đình để hợp thức hóa áp lực.
+Ít khi thừa nhận sai.
+
+Mai Phương
+
+Hài hước.
+Châm biếm.
+Nói nhanh.
+
+Nguyễn Diệp
+
+Chuẩn xác.
+Trung tính.
+Không cảm tính.
+
+Tú Linh
+
+Lạnh.
+Thẳng.
+Nói ít hơn nghĩ.
+5. CANON & CONTINUITY
+Thông tin đã xác nhận
+Thu An từng sở hữu 45% An Thịnh.
+Chữ ký năm 2019 bị sao chép.
+Thu An không điều hành Bình An.
+Thu An không nhận lợi ích từ 18 tỷ.
+Hoàng Minh chọn tên Thu An cho Bình An.
+Thu Hà tham gia kế hoạch.
+Thu Thủy giả danh Thu An.
+Tú Linh là con Thu Thủy.
+Hoàng Minh biết thân phận Thu Thủy.
+Thu An và Hoàng Minh ly hôn.
+Thu An thành lập Mộc An Studio.
+Tuyệt đối không thay đổi
+Thu An không ngoại tình.
+Hoàng Minh và Tú Linh không có quan hệ tình cảm.
+Thu An không chỉ đạo Bình An.
+Thu An thật sự góp vốn cho An Thịnh.
+Cổ phần cuối cùng xác định tương đương 32%.
+Kết thúc là ly hôn, không tái hợp.
+Nhân vật đã biết gì
+
+Thu An:
+
+Biết toàn bộ sự thật về Bình An.
+
+Hoàng Minh:
+
+Biết Thu Thủy là ai.
+Biết cổ phần 45%.
+
+Thu Hà:
+
+Biết gần như toàn bộ kế hoạch.
+
+Tú Linh:
+
+Biết thân phận mẹ từ 5 năm trước.
+6. SETUP → PAYOFF
+Setup đã mở đầu truyện
+Chữ ký giả.
+Hồ sơ ly hôn bí mật.
+Công ty Bình An.
+18 tỷ đồng.
+Người phụ nữ hình xăm.
+
+Tất cả đã payoff.
+
+Món nợ cảm xúc
+Thu An ↔ Hoàng Minh
+
+Nợ:
+
+Niềm tin bị phản bội.
+
+Trạng thái:
+
+Không hòa giải.
+Không tha thứ.
+Thu An ↔ Gia Kỳ
+
+Nợ:
+
+Lời khai giả.
+
+Trạng thái:
+
+Chưa tha thứ.
+Tú Linh ↔ Thu Thủy
+
+Nợ:
+
+Dùng tên người khác để bảo vệ con.
+
+Trạng thái:
+
+Chưa hòa giải.
+Payoff đã hoàn thành
+Bình An → Thu An được minh oan.
+Chữ ký giả → Giám định xác nhận.
+45% cổ phần → Xác nhận 32%.
+Mật mã bị đổi → Nhà mới mang tên Thu An.
+Cây bút → Thu An dùng bút của chính mình ký nhà mới.
+Hồ sơ ly hôn → Ly hôn hoàn tất.
+7. GHI CHÚ BIÊN TẬP
+
+Các nguyên tắc giữ khi sửa:
+
+Thu An chiến thắng bằng năng lực, không bằng may mắn.
+Không biến Hoàng Minh thành phản diện hoạt hình.
+Không biến Thu An thành nữ cường bất khả chiến bại.
+Tăng hậu quả cảm xúc, giảm giải thích pháp lý.
+Ưu tiên motif:
+Chữ ký.
+Tên trên giấy tờ.
+Mật mã.
+Cây bút.
+Mỗi tập phải có:
+1 xung đột chính.
+1 chuyển động nhân vật.
+1 câu/chi tiết cảm xúc đáng nhớ.
+Tránh thêm twist huyết thống hoặc bí mật gia đình mới sau tập 10.
+Kết luận chủ đề phải luôn quay về: "Tên tôi, chữ ký của tôi, lựa chọn cũng phải là của tôi."

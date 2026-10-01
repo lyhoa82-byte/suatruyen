@@ -1,0 +1,300 @@
+STORY HANDBOOK
+
+NGÀY HOÀNG ĐẾ CHẾT
+
+Mục đích: Tài liệu continuity và định hướng biên tập cho Claude khi sửa script do GPT viết. Luôn ưu tiên MASTER STORY BIBLE + EDITING PROTOCOL nếu có chỉ dẫn cấp cao hơn. Handbook này dùng để giữ canon, logic, giọng nhân vật và mức độ bí ẩn. Không tự ý mở rộng lore hoặc giải thích những điều tác giả chưa chốt.
+
+---
+
+1. BỐI CẢNH & TIMELINE
+
+* Bối cảnh: Cổ trang, hoàng cung hư cấu. Câu chuyện xoay quanh Ty Thượng Nghi, Nội Thủy Ty, các điện trong nội cung và hệ thống cửa, đường nước, đường ngầm cổ dưới cung.
+* Thời gian / timeline: Tĩnh Nghi mắc kẹt trong một ngày cố định, bắt đầu từ buổi sáng và kết thúc bằng một chuỗi biến cố quanh giờ Ngọ. Mỗi lần chết/reset, nàng quay lại cùng buổi sáng đó. Hiện canon đã xác nhận ngày lặp bắt đầu với ngày 16 tháng 9.
+* Địa điểm quan trọng: Ty Thượng Nghi; điện Thái Hòa; điện Chiêu Dương; Khôn Ninh cung; Đông cung; cửa Tuyên Hòa; kho hương; giếng cũ; đường ngầm dưới cung; lầu chuông.
+* Quy tắc thế giới đặc biệt:
+
+  * Chỉ Tĩnh Nghi nhớ các vòng lặp.
+  * Người khác, bao gồm A Dư, không nhớ các vòng trước.
+  * Vật thể Tĩnh Nghi mang theo không tồn tại nguyên vẹn qua reset; bằng chứng vật chất phải được khám phá lại.
+  * Những gì đã xảy ra có thể thay đổi về người chết, cách chết và phương tiện, nhưng hiện tượng chết quanh giờ Ngọ vẫn có tính lặp.
+  * Tĩnh Nghi chưa xác định hoàn toàn “luật” của cái chết. Không được biến giả thuyết thành sự thật.
+  * Các sự kiện quan trọng thường đã được chuẩn bị từ đầu giờ Mão, trước khi Tĩnh Nghi tỉnh vào cuối giờ Mão.
+  * “Chín tiếng chuông” là một quy thức báo đại tang nội cung và đã trở thành motif điều tra quan trọng.
+  * Time loop là cơ chế truyện; không viết theo hướng trọng sinh. Tĩnh Nghi không sống lại một cuộc đời khác và không có kiến thức tương lai ngoài những gì nàng đã trực tiếp trải qua trong các vòng.
+
+---
+
+2. NHÂN VẬT & QUAN HỆ
+
+Nhân vật chính — Tạ Tĩnh Nghi
+
+* Mục tiêu: Tìm nguyên nhân đầu tiên tạo ra chuỗi cái chết, phá vòng lặp và giữ những người trong hoàng thất sống sót.
+* Điểm yếu / giới hạn: Chỉ thức dậy vào cuối giờ Mão nên luôn bỏ lỡ giai đoạn đầu tiên của kế hoạch. Chỉ có ký ức, không có vật chứng từ vòng trước. Dễ bị giới hạn bởi thông tin không đầy đủ và lời khai sai lệch.
+* Năng lực / nghề nghiệp: Nữ quan Ty Thượng Nghi; giỏi quan sát, giấy tờ, quy trình cung đình, đối chiếu chữ viết/ấn tín, suy luận từ hành vi và vật chứng.
+* Quan hệ quan trọng: A Dư là người theo nàng làm việc và ngày càng trở thành cộng sự thực địa. Lưu tổng quản là cấp trên/đầu mối hành chính. Hoàng đế và Hoàng hậu tin dùng nàng ở mức nhất định nhưng nàng vẫn phải chịu trách nhiệm cho hành động của mình.
+
+Giọng: Ngắn, thực tế, khô. Khi căng thẳng càng ít lời. Không độc thoại triết lý dài. Không nói những câu “thâm sâu” chỉ để tạo chất văn.
+
+Nhân vật phụ
+
+A Dư
+
+* Vai trò: Người chạy việc/cận trợ trẻ của Tĩnh Nghi.
+* Tính cách: Thực tế, trung thành, hơi lệch nhịp một chút; hài nhẹ qua phản ứng và tình huống, không phải cây hài.
+* Không nhớ loop. Không được vô tình nói những câu chứng minh hắn nhớ vòng trước.
+* Quan hệ: Tin Tĩnh Nghi nhưng bắt đầu nhận ra nàng biết nhiều điều bất thường.
+
+Tiểu Hòa
+
+* Vai trò: Cung nữ trẻ tại Ty Thượng Nghi.
+* Đặc điểm: Vụng về, thường suýt/ngã trong buổi sáng; là motif nhận diện vòng lặp.
+* Không biến sự vụng về thành trò hề quá mức.
+
+Lưu tổng quản / Lưu Đức Hải
+
+* Vai trò: Quản sự cung đình, nắm quy trình, nhân sự và điều động.
+* Tính cách: Túc, trực tiếp, hơi khó chịu khi Tĩnh Nghi tự ý hành động.
+* Không ngu để phục vụ plot.
+
+Hoàng đế
+
+* Vai trò: Người đứng đầu triều đình, mục tiêu chết đầu tiên trong chuỗi.
+* Tính cách: Ngắn gọn, bình tĩnh, có hài ý khô qua hành động/phản ứng.
+* Không biến thành nhân vật thích diễn thuyết.
+
+Hoàng hậu
+
+* Ấm áp, điềm đạm, có tình cảm rõ với Hoàng đế và Thái tử.
+* Quan hệ gia đình phải thể hiện qua hành động nhỏ, không qua những bài phát biểu cảm động.
+
+Thái tử
+
+* Điềm tĩnh, lễ phép, có tình cảm với cha mẹ.
+* Cái chết của Thái tử ở vòng 3 là payoff quan trọng cho việc “đổi nạn nhân”.
+
+Trương An
+
+* Người khả nghi liên quan đến Nội Thủy Ty, thẻ “THỦY” và đường nước.
+* Chưa xác nhận là chủ mưu.
+* Không biết về time loop.
+* Câu “Lạ thật” khi tự sát bằng độc phải giữ tính mơ hồ.
+
+Tôn cô cô
+
+* Người quản lý phòng văn thư, nhân chứng quan trọng về việc mượn ấn.
+* Không hoàn toàn đáng tin về nhận dạng; lời khai chịu ảnh hưởng bởi quần áo, token, bóng sáng và hoàn cảnh.
+
+Xưng hô
+
+* Tĩnh Nghi với A Dư: “ta/ngươi”; A Dư gọi “đại nhân”, tự xưng “con” hoặc “tiểu nhân” tùy ngữ cảnh.
+* Quan viên/nội thị/cung nữ gọi Tĩnh Nghi là “Tạ đại nhân”.
+* Lưu tổng quản giữ cách nói hành chính, trực tiếp.
+* Hoàng đế dùng “Trẫm”; người khác với Hoàng đế dùng “Bệ hạ”.
+* Không tự ý hiện đại hóa xưng hô.
+* Thay đổi xưng hô chỉ dùng khi quan hệ hoặc trạng thái cảm xúc thực sự thay đổi.
+
+---
+
+3. CANON & CONTINUITY
+
+* Tĩnh Nghi đã trải qua nhiều vòng trong đó lần lượt Hoàng đế, Hoàng hậu và Thái tử chết.
+* Vòng 1: Hoàng đế chết sau khi uống trà, môi tím.
+* Vòng 2: trà được ngăn chặn; Hoàng đế sống nhưng Hoàng hậu chết sau khi Tam công chúa được báo là bất tỉnh gần hồ.
+* Vòng 3: Hoàng đế và Hoàng hậu được bảo vệ; Thái tử chết vì độc liên quan đến thẻ tre/phiến tre mới đưa từ đầu giờ Mão.
+* EP3 xác nhận nhiều sự kiện quan trọng đã bắt đầu trước khi Tĩnh Nghi tỉnh.
+* Thẻ đồng hình cá có chữ “THỦY” liên quan Nội Thủy Ty và hệ thống đường nước cổ. Có 12 thẻ được ghi nhận nhưng chỉ 11 người được đối chiếu.
+* Trương An từng làm rơi một thẻ có khấc tam giác; Lý Thuận có thẻ thật với cùng đặc điểm, khiến nguồn gốc thẻ Trương An trở thành vấn đề cần điều tra.
+* Ấn Ty Thượng Nghi từng bị mượn bằng giấy có chữ viết giống hệt Tĩnh Nghi. Tĩnh Nghi không viết.
+* A Dư từng bị lợi dụng token/quần áo để khiến nhân chứng tưởng người khác là hắn.
+* EP3 xác lập nguyên tắc: nhân chứng có thể “nhìn thấy” một danh tính dựa trên quần áo, token, ánh sáng, giọng nói và bối cảnh; không mặc định đây là dịch dung hay hóa trang vật lý.
+* EP4 xác nhận đường ngầm có nhánh liên quan Đông cung, Chiêu Dương và lầu chuông; có dấu sơn son/ấn, vải xám, vải xanh, đồ nữ quan và cơ chế dây kéo chuông.
+* “Chín tiếng” có liên quan quy thức đại tang và việc đổi đội ở cửa Tuyên Hòa.
+* EP4 kết thúc với Phùng Kế biến mất khỏi vị trí đội Phùng; dấu chân bùn kéo lê chân phải đi vào nội cung. Chưa xác nhận Phùng Kế là chủ mưu.
+
+Chi tiết tuyệt đối không được thay đổi:
+
+* Chỉ Tĩnh Nghi nhớ loop.
+* A Dư không nhớ loop.
+* Không biến Trương An thành mastermind nếu chưa có canon mới.
+* Không biến nhân chứng nhận dạng sai thành bằng chứng chắc chắn về dịch dung.
+* Không làm vật chứng sống sót qua reset nếu chưa có cơ chế được xác lập.
+* Không tiết lộ thủ phạm/nguồn gốc loop sớm hơn canon.
+* Không đổi “đầu giờ Mão” thành một mốc thời gian tuyệt đối chính xác nếu nhân vật chưa chứng minh được.
+
+Cần kiểm tra continuity: thời điểm chết; người chết từng vòng; nguồn trà/nước; vị trí các nhân vật; ai biết gì ở từng vòng; nguồn gốc thẻ THỦY; các lệnh có ấn; đội Trần/đội Phùng; đường ngầm và các cửa ra vào.
+
+---
+
+4. SETUP → PAYOFF
+
+Setup đang mở
+
+* Đầu giờ Mão: Chuỗi hành động quan trọng bắt đầu trước khi Tĩnh Nghi tỉnh. Trạng thái: đang điều tra.
+* Thẻ THỦY / Nội Thủy Ty: Liên quan đường nước và tuyến ngầm. Trạng thái: chưa xác định chủ mưu.
+* Trương An: Nhân vật khả nghi nhưng chưa kết luận vai trò. Trạng thái: mở.
+* Người giả danh A Dư: Đã lợi dụng token/quần áo/bối cảnh. Cơ chế cụ thể chưa hoàn toàn rõ.
+* Ấn Ty Thượng Nghi: Có người giả chữ Tĩnh Nghi và sử dụng ấn thật. Chưa xác định ai làm và làm để phục vụ mục tiêu nào.
+* Đường ngầm: Có nhiều nhánh và dấu vết thay quần áo/di chuyển. Chưa xác định toàn bộ mạng lưới.
+* Chín tiếng chuông: Có liên hệ với cái chết nhưng EP4 cho thấy chuông có thể là phương tiện, không nhất thiết là nguyên nhân cái chết.
+* Cửa Tuyên Hòa / Phùng Kế: Phùng Kế biến mất khỏi đội đang chờ ngoài cửa; dấu chân đi vào nội cung. Trạng thái: rất đáng ngờ, chưa kết luận.
+
+Món nợ cảm xúc
+
+* Tĩnh Nghi với A Dư: Nàng biết những nguy hiểm hắn chưa hiểu nhưng không thể giải thích toàn bộ. A Dư ngày càng nhận ra điều bất thường và vẫn lựa chọn giúp nàng.
+* Tĩnh Nghi với những người đã chết: Nàng mang ký ức về những cái chết mà họ không biết. Đây là động lực cảm xúc dài hạn.
+* A Dư với Tĩnh Nghi: Tin tưởng nhưng muốn được xem là người có ích, không chỉ là người chạy việc.
+
+Payoff đã hoàn thành
+
+* Trà không phải nguyên nhân duy nhất: EP1–EP2.
+* Đổi nạn nhân: Hoàng đế → Hoàng hậu → Thái tử qua các vòng.
+* Nhận dạng có thể bị thao túng: EP2–EP3.
+* Đầu giờ Mão là khoảng thời gian then chốt: EP3.
+* Chuông có thể được điều khiển từ đường ngầm: EP4.
+* Chín tiếng chuông chưa hoàn tất nhưng vẫn được chuẩn bị: EP4.
+
+---
+
+5. GHI CHÚ BIÊN TẬP
+
+* Không “nâng văn” thành cổ phong quá bóng bẩy. Ưu tiên câu nói tự nhiên khi đọc thành tiếng.
+* Giảm narrator giải thích điều khán giả đã tự suy ra.
+* Tránh các cấu trúc lặp kiểu: “Không phải X. Không phải Y. Mà là Z.” hoặc những đoạn liệt kê đối xứng quá hoàn hảo; chỉ dùng khi thật sự có tác dụng.
+* Không biến mọi cảnh thành cliffhanger. Một số cảnh được phép kết bằng hành động hoặc phản ứng đời thường.
+* Dialogue phải có hơi thở người thật: ngập ngừng, cắt câu, né câu hỏi, hiểu nhau qua ngữ cảnh.
+* A Dư hài nhẹ, không punchline liên tục.
+* Tĩnh Nghi càng căng càng ít lời.
+
+6. CORE THEME
+
+* Chủ đề cốt lõi:
+  Đây không phải câu chuyện về việc “biết trước tương lai để cứu người”, mà là câu chuyện về việc hiểu đúng nguyên nhân của một chuỗi sự kiện khi mọi thứ luôn xảy ra trước khi mình kịp nhìn thấy.
+
+* Trục cảm xúc:
+  Tĩnh Nghi càng cố cứu từng người, nàng càng nhận ra mình đang chỉ thay đổi cách cái chết xảy ra, chứ chưa chạm được vào nguyên nhân đầu tiên.
+
+* Ý niệm trung tâm:
+
+  * Một sự việc có thể lặp lại dù hình thức thay đổi.
+  * Người chứng kiến không phải lúc nào cũng nhìn thấy sự thật; họ nhìn qua quần áo, chức vụ, hoàn cảnh, ký ức và những gì họ được dẫn tới để tin.
+  * Biết nhiều hơn người khác không có nghĩa là hiểu toàn bộ sự việc.
+  * Muốn phá vòng lặp, Tĩnh Nghi phải tìm điểm bắt đầu của chuỗi nhân quả, không chỉ ngăn cái chết cuối cùng.
+
+* Điều truyện không muốn trở thành:
+
+  * Không phải truyện trọng sinh.
+  * Không phải truyện nữ chính “biết trước mọi thứ”.
+  * Không phải cuộc đấu trí nơi nhân vật chính luôn đúng.
+  * Không phải mystery mà cuối mỗi tập đều phải có một câu triết lý hoặc cliffhanger.
+  * Không giải thích toàn bộ bí ẩn chỉ để khán giả cảm thấy “đã được trả lời”.
+
+* Tinh thần kể chuyện:
+  Căng thẳng đến từ việc Tĩnh Nghi thiếu thời gian và thiếu thông tin, không phải từ việc mọi nhân vật đều nói chuyện bí hiểm. Những chi tiết đời thường như ăn trứng, sửa tóc, giấy tờ, chạy việc, trách nhiệm hành chính vẫn phải tồn tại giữa các cảnh căng thẳng.
+
+* Nguyên tắc ưu tiên:
+  Nhân vật thật → hành động thật → manh mối → suy luận → mới đến giải thích.
+  Không đảo ngược thành: tác giả biết đáp án → nhân vật nói ra → khán giả được giải thích.
+
+---
+
+7. CHARACTER VOICE
+
+#Tạ Tĩnh Nghi
+
+Từ khóa: thực tế / khô / ngắn / quan sát / chịu áp lực.
+
+* Nói ít, thường đi thẳng vào việc.
+* Khi chưa chắc, nói “chưa biết”, “để ta xem”, thay vì đoán thành kết luận.
+* Khi căng thẳng, câu càng ngắn.
+* Không tự nói thành triết lý.
+* Không dùng những câu quá đẹp, quá cân đối hoặc quá “ngầu”.
+* Có thể cáu, mệt, bỏ qua phép lịch sự khi đang điều tra.
+* Sự thông minh thể hiện qua câu hỏi và hành động, không phải qua những bài độc thoại.
+
+Ví dụ nhịp:
+“Không phải trà.”
+“Vậy là gì?”
+“Chưa biết.”
+“Đi xem.”
+
+---
+
+#A Dư
+
+Từ khóa: trẻ / thực tế / trung thành / hơi lệch nhịp / hài nhẹ.
+
+* Không phải comic relief.
+* Hài chủ yếu bằng phản ứng tự nhiên, đôi khi nói một câu hơi lệch nhưng hợp hoàn cảnh.
+* Có quyền sợ, mệt, đói, bực.
+* Không được thông minh quá mức chỉ để giúp Tĩnh Nghi giải án.
+* Không nhớ loop và không được vô tình nói như thể đã trải qua vòng trước.
+* Khi nhận ra Tĩnh Nghi biết điều bất thường, hắn hỏi nhưng không ép nàng khai hết.
+
+Nguyên tắc: A Dư làm câu chuyện có hơi người, không làm câu chuyện thành hài.
+
+---
+
+#Lưu tổng quản
+
+Từ khóa: hành chính / nguyên tắc / ngắn / khó chịu vừa đủ.
+
+* Luôn nghĩ đến quy trình, trách nhiệm và hậu quả.
+* Có thể phản đối Tĩnh Nghi khi nàng tự ý hành động.
+* Không được biến thành người cản đường ngu ngốc.
+* Khi phát hiện vấn đề nghiêm trọng, phản ứng bằng việc xử lý chứ không diễn thuyết.
+
+---
+
+#Hoàng đế
+
+Từ khóa: điềm / ngắn / quan sát / hài khô.
+
+* Không cần tự giới thiệu quyền lực.
+* Quyền lực thể hiện qua cách người khác phản ứng và qua quyết định của ông.
+* Không nói dài.
+* Có thể trêu hoặc nhận xét khô, nhưng không biến thành nhân vật hài.
+* Quan hệ với Hoàng hậu và Thái tử nên thể hiện bằng những hành động nhỏ hơn là lời tình cảm dài.
+
+---
+
+#Hoàng hậu
+
+Từ khóa: ấm / điềm / tinh tế / có tình cảm gia đình.
+
+* Không nói quá nhiều về cảm xúc.
+* Tình cảm với Hoàng đế và Thái tử thể hiện qua phản ứng, ánh mắt, chăm sóc, cách gọi.
+* Không biến thành hình tượng “người mẹ hoàn hảo” một chiều.
+
+---
+
+#Thái tử
+
+Từ khóa: lễ phép / kiềm chế / trẻ hơn vẻ ngoài / tình cảm kín.
+
+* Nói có khuôn phép nhưng không cứng như văn bản.
+* Quan hệ với Hoàng đế nên có những đoạn rất đời thường.
+* Không biến thành nhân vật chỉ tồn tại để chết ở EP3.
+
+---
+
+#Trương An
+
+Từ khóa: khó đọc / ít lời / không omniscient.
+
+* Không được nói như người biết toàn bộ kế hoạch.
+* Không được xác nhận hắn biết time loop.
+* “Lạ thật” là câu có chủ ý mơ hồ.
+* Hành vi đáng ngờ quan trọng hơn lời giải thích của hắn.
+* Không tự biến thành villain bằng những câu kiểu “ngươi sẽ không bao giờ hiểu”.
+
+---
+
+#Tôn cô cô & nhân chứng
+* Không phải người kể chuyện đáng tin tuyệt đối.
+* Có thể nhớ sai, suy diễn hoặc nhận dạng dựa trên dấu hiệu bên ngoài.
+* Khi sửa thoại, phải giữ sự tự nhiên của một người tin rằng mình đã nhìn thấy đúng, thay vì để nhân vật cố tình nói mập mờ nhằm giấu plot.
+
+---
+
+
+
