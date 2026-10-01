@@ -1,1263 +1,611 @@
-SONG ẢNH KINH THÀNH
+Hồi hai: Cái tên của người chết
 
-HỒI II — CÁI TÊN CỦA NGƯỜI CHẾT
+Các cửa của La Sinh Đài đều đã bị đóng. Quan sai Đại Lý Tự tách khán giả thành từng nhóm để kiểm tra. Người đòi về, kẻ la lối. Một vị quan say rượu còn đem chức tước ra dọa, và bị Đường Tiểu Sơn mời ngồi riêng ngay cạnh bể nước.
 
-CẢNH 7 — LA SINH ĐÀI — NGAY SAU ÁN MẠNG
+Thi thể vẫn nằm bên chiếc lồng. Vân Cơ bị khóa hai cổ tay nhưng chưa bị đưa khỏi sân khấu. Quan sai mới kịp thu của nàng chiếc trâm và con dao nhỏ.
 
-Các cửa ra vào La Sinh Đài đều bị đóng.
+Chiếc gương đồng Phí Kinh Hồng để lại đã được đặt lên bàn vật chứng cạnh sân khấu. Vân Cơ nhìn vào mặt gương ấy. Ánh đèn dưới bể nước hắt xiên lên kính, và cùng lúc đó, nửa Mẫu Kính giấu trong tay áo nàng bỗng nóng lên.
 
-Quan sai Đại Lý Tự tách khán giả thành từng nhóm để kiểm tra. Người đòi về, kẻ la lối. Một vị quan say rượu còn lấy chức tước ra dọa, bị Đường Tiểu Sơn mời ngồi riêng ngay cạnh bể nước.
+Trong gương, người chết đang đứng ngay sau lưng nàng.
 
-Thi thể vẫn nằm bên chiếc lồng.
+Vân Cơ quay lại. Phía sau chỉ có khoảng không.
 
-Vân Cơ bị khóa hai cổ tay nhưng chưa rời khỏi sân khấu.
+Nàng dịch sang bên nửa bước. Luồng sáng trên mặt gương lệch đi, bóng người nhạt xuống. Khi nàng trở về chỗ cũ, người ấy lại hiện ra, đưa một ngón tay lên môi rồi chỉ về phía chiếc lồng.
 
-Vân Cơ nhìn vào chiếc gương Phí Kinh Hồng để lại.
+Vân Cơ vừa bước tới thì một quan sai đã chặn lại.
 
-Ánh đèn dưới bể nước hắt xiên lên mặt gương. Cùng lúc đó, nửa Mẫu Kính giấu trong tay áo nàng bỗng nóng lên.
+“Tạ cô nương, xin đừng lại gần.”
 
-Trong gương, người chết đang đứng sau lưng nàng.
+“Ta chỉ nhìn thôi.”
 
-Vân Cơ quay lại.
+“Cho nàng nhìn,” Hạ Tử Khiêm nói. Sau đó hắn nhấc chiếc gương khỏi bàn.
 
-Không có ai.
+Góc phản chiếu bị phá. Nửa Mẫu Kính trong tay áo Vân Cơ nguội dần, và bóng người biến mất. Hạ Tử Khiêm xoay gương về phía chiếc lồng, rồi về phía thi thể. Không có gì khác thường.
 
-Nàng dịch sang bên nửa bước. Luồng sáng trên mặt gương lệch đi, bóng người lập tức nhạt xuống. Khi nàng trở lại vị trí cũ, người ấy lại hiện ra, đưa một ngón tay lên môi rồi chỉ về phía chiếc lồng.
+“Cô vừa thấy gì?”
 
-Vân Cơ vừa bước tới, một quan sai đã chặn lại.
+“Người chết đứng sau lưng ta.”
 
-QUAN SAI
-Tạ cô nương, đừng tới gần.
+“Trong chiếc gương này?”
 
-VÂN CƠ
-Ta chỉ nhìn.
+“Khi nó còn nằm đúng chỗ.”
 
-HẠ TỬ KHIÊM
-Cho nàng nhìn.
+Đường Tiểu Sơn đang cúi kiểm tra ổ khóa thứ tám, nghe vậy thì ngẩng lên. “Nàng ấy đứng bằng cách nào?”
 
-Hạ Tử Khiêm cầm chiếc gương lên.
+“Nếu biết, ta đã không nhìn lâu như vậy,” Vân Cơ đáp.
 
-Góc phản chiếu bị phá. Nửa Mẫu Kính trong tay áo Vân Cơ cũng nguội xuống.
+Hạ Tử Khiêm lật mặt sau chiếc gương. Trên cán có một vệt máu chưa khô. Hắn lấy khăn chạm thử.
 
-Bóng người biến mất.
+“Mới để lại.”
 
-Hạ Tử Khiêm xoay gương về phía chiếc lồng rồi về phía thi thể.
+“Không phải máu của người chết,” Vân Cơ nói. “Tay nàng đã lạnh.”
 
-Không có gì khác thường.
+Hạ Tử Khiêm nhìn lên hàng ghế cao nhất, chỗ Phí Kinh Hồng đã ngồi, rồi hỏi hai quan sai canh cửa xem có ai thấy Quốc sư rời đi không. Cả hai đều lắc đầu.
 
-HẠ TỬ KHIÊM
-Cô vừa thấy gì?
+“Ông ta không đi cửa đông, cũng không đi cửa tây,” Tiểu Sơn lẩm bẩm. “Chẳng lẽ chui xuống dưới ghế?”
 
-VÂN CƠ
-Người chết đứng sau lưng ta.
+Hạ Tử Khiêm nhìn khe sàn cạnh bể nước, nơi luồng khói từ lư hương đã bị hút xuống. “Có thể.”
 
-HẠ TỬ KHIÊM
-Trong chiếc gương này?
+Hắn đưa chiếc gương cho Tiểu Sơn. Tiểu Sơn không nhận ngay.
 
-VÂN CƠ
-Khi nó còn nằm đúng chỗ.
+“Đại nhân, tay thuộc hạ đang bẩn.”
 
-Đường Tiểu Sơn đang cúi kiểm tra ổ khóa thứ tám, nghe vậy thì ngẩng lên.
+“Lau đi.”
 
-ĐƯỜNG TIỂU SƠN
-Nàng ấy đứng bằng cách nào?
+“Hay để nguyên trên bàn? Vật chứng đặt đâu cũng là vật chứng.”
 
-VÂN CƠ
-Nếu biết, ta đã không nhìn lâu như vậy.
-
-Hạ Tử Khiêm lật mặt sau chiếc gương.
-
-Trên cán có một vệt máu chưa khô.
-
-Hắn dùng khăn chạm thử.
-
-HẠ TỬ KHIÊM
-Mới để lại.
-
-VÂN CƠ
-Không phải máu của người chết. Tay nàng đã lạnh.
-
-Hạ Tử Khiêm nhìn lên chỗ ngồi của Phí Kinh Hồng.
-
-HẠ TỬ KHIÊM
-Có ai thấy Quốc sư rời đi không?
-
-Hai quan sai canh cửa lần lượt lắc đầu.
-
-ĐƯỜNG TIỂU SƠN
-Ông ta không đi cửa đông, không đi cửa tây. Chẳng lẽ chui xuống dưới ghế?
-
-Hạ Tử Khiêm nhìn khe sàn cạnh bể nước, nơi luồng khói từ lư hương đã bị hút xuống.
-
-HẠ TỬ KHIÊM
-Có thể.
-
-Hắn đưa gương cho Tiểu Sơn.
-
-Tiểu Sơn không nhận ngay.
-
-ĐƯỜNG TIỂU SƠN
-Đại nhân, tay thuộc hạ đang bẩn.
-
-HẠ TỬ KHIÊM
-Lau đi.
-
-ĐƯỜNG TIỂU SƠN
-Hay để nguyên trên bàn? Vật chứng đặt đâu cũng là vật chứng.
-
-HẠ TỬ KHIÊM
-Cầm.
+“Cầm.”
 
 Tiểu Sơn đành bọc gương bằng hai lớp vải rồi ôm sát ngực.
 
-Hạ Tử Khiêm quay lại thi thể.
+Hạ Tử Khiêm quay lại phía thi thể. “Cô nói đây không phải Lục Thanh La.”
 
-HẠ TỬ KHIÊM
-Cô nói đây không phải Lục Thanh La.
+“Phải.”
 
-VÂN CƠ
-Phải.
+“Mặt giống. Giọng nói giống. Dáng người cũng giống.”
 
-HẠ TỬ KHIÊM
-Mặt giống. Giọng nói giống. Dáng người cũng giống.
+“Ta thấy.”
 
-VÂN CƠ
-Ta thấy.
+“Vậy cô nói nó khác ở chỗ nào?”
 
-HẠ TỬ KHIÊM
-Vậy cô nói khác ở đâu?
+Vân Cơ nhìn xuống hai bàn tay người chết. “Cho ta xem tay nàng.”
 
-Vân Cơ nhìn hai bàn tay của người chết.
+Hạ Tử Khiêm đeo găng, nâng bàn tay trái lên. Không có vết chai đáng kể. Bàn tay phải thì có một lớp chai mỏng ở ngón cái và ngón trỏ.
 
-VÂN CƠ
-Cho ta xem tay nàng.
+“Người này quen dùng tay phải.”
 
-Hạ Tử Khiêm đeo găng, nâng bàn tay trái lên.
+“Lục Thanh La thuận tay trái.”
 
-Không có vết chai đáng kể.
-
-Bàn tay phải có một lớp chai mỏng ở ngón cái và ngón trỏ.
-
-HẠ TỬ KHIÊM
-Người chết thường dùng tay phải.
-
-VÂN CƠ
-Lục Thanh La thuận tay trái.
-
-Hạ Tử Khiêm nhìn nàng.
-
-HẠ TỬ KHIÊM
-Người trong kinh thành gọi người chết này là Lục Thanh La suốt mười ba năm.
+Hạ Tử Khiêm nhìn nàng. “Người trong kinh thành gọi người chết này là Lục Thanh La suốt mười ba năm.”
 
 Vân Cơ không đáp.
 
-HẠ TỬ KHIÊM
-Cô đang nói tới Lục Thanh La nào?
+“Vậy cô đang nói tới Lục Thanh La nào?”
 
-Ngón út tay trái của Vân Cơ khẽ co lại.
+Ngón út bàn tay trái của Vân Cơ khẽ co lại. Nàng vội nắm tay.
 
-Nàng lập tức nắm tay.
+“Xem tai trái đi,” nàng nói.
 
-VÂN CƠ
-Xem tai trái đi.
+Hạ Tử Khiêm tháo hạt ngọc trai khỏi tai trái người chết. Lỗ xỏ khuyên còn mới, máu đen rỉ ra theo thân kim. Đường Tiểu Sơn nhìn thấy, quên cả sợ chiếc gương đang ôm.
 
-Hạ Tử Khiêm tháo hạt ngọc trai khỏi tai người chết.
+“Khuyên tai vừa mới xỏ sao?”
 
-Lỗ xỏ khuyên còn mới. Máu đen rỉ ra theo thân kim.
+“Có lẽ trước buổi diễn không lâu,” Hạ Tử Khiêm nói, rồi đặt hạt ngọc vào túi vật chứng. “Cô biết nó?”
 
-Đường Tiểu Sơn nhìn thấy, quên cả sợ chiếc gương đang ôm.
+“Từng thấy.”
 
-ĐƯỜNG TIỂU SƠN
-Khuyên tai vừa mới xỏ?
+“Ở đâu?”
 
-HẠ TỬ KHIÊM
-Có lẽ trước buổi diễn không lâu.
+“Trên tai một người, trong đêm Vô Tướng Ban cháy.”
 
-Hắn đặt hạt ngọc vào túi vật chứng.
-
-HẠ TỬ KHIÊM
-Cô biết nó?
-
-VÂN CƠ
-Từng thấy.
-
-HẠ TỬ KHIÊM
-Ở đâu?
-
-VÂN CƠ
-Trên tai một người trong đêm Vô Tướng Ban cháy.
-
-HẠ TỬ KHIÊM
-Tên gì?
+“Người đó tên gì?”
 
 Vân Cơ quay mặt đi.
 
-HẠ TỬ KHIÊM
-Cô đang bị tình nghi giết người. Cây kim của cô nằm trong ngực nạn nhân. Hoa của cô nằm trong tay nàng. Nếu còn giấu—
+Hạ Tử Khiêm nói tiếp, giọng vẫn không đổi. “Cô đang bị tình nghi giết người. Cây kim của cô nằm trong ngực nạn nhân. Đóa trà của cô nằm trong tay nàng ta. Nếu cô còn giấu…”
 
-VÂN CƠ
-Ta nói ra bây giờ cũng không giúp tìm hung thủ.
+“Bây giờ ta nói ra cũng không giúp tìm được hung thủ.”
 
-HẠ TỬ KHIÊM
-Việc đó để ta quyết định.
+“Việc đó để ta quyết định.”
 
-VÂN CƠ
-Vậy đại nhân điều tra tiếng chuông thứ tư trước đi.
+“Vậy đại nhân điều tra tiếng chuông thứ tư trước đi.”
 
-Hạ Tử Khiêm im lặng.
+Hạ Tử Khiêm im lặng. Tiểu Sơn quay sang nhìn hắn.
 
-Đường Tiểu Sơn nhìn hắn.
+“Tiếng chuông thứ tư có gì ạ?”
 
-ĐƯỜNG TIỂU SƠN
-Tiếng chuông thứ tư có gì?
+“Nó phát ra từ dưới sân khấu,” Hạ Tử Khiêm đáp.
 
-HẠ TỬ KHIÊM
-Nó phát ra từ dưới sân khấu.
+Vân Cơ nhìn hắn. Hắn nói thêm: “Ta cũng nghe thấy.”
 
-Vân Cơ nhìn hắn.
+Rồi hắn ra lệnh cho quan sai đưa thi thể về Đại Lý Tự, tịch thu chiếc lồng cùng toàn bộ tóc, y phục và đạo cụ, và tìm lối xuống dưới sân khấu. Xong việc, hắn nhìn sang Vân Cơ.
 
-HẠ TỬ KHIÊM
-Ta cũng nghe thấy.
+“Còn cô, đi cùng ta.”
 
-Hắn quay sang quan sai.
+Gần sáng, mưa rơi lộp độp trên mái ngói nhà xác Đại Lý Tự.
 
-HẠ TỬ KHIÊM
-Đưa thi thể về Đại Lý Tự. Tịch thu chiếc lồng, toàn bộ tóc, y phục và đạo cụ. Tìm lối xuống dưới sân khấu.
+Tô Mạn kéo tấm vải khỏi thi thể. Nàng đã xắn tay áo, bày dao, kẹp và mấy chiếc chén bạc thành một hàng ngay ngắn. Đường Tiểu Sơn đứng sát cửa.
 
-Sau đó hắn nhìn Vân Cơ.
+“Đóng cửa,” Tô Mạn nói.
 
-HẠ TỬ KHIÊM
-Còn cô đi cùng ta.
+Tiểu Sơn đóng lại, nhưng vẫn đứng nguyên chỗ cũ.
 
----
+“Lại đây cầm đèn.”
 
-## CẢNH 8 — NHÀ XÁC ĐẠI LÝ TỰ — GẦN SÁNG
+“Ở đây cũng sáng mà.”
 
-Mưa rơi trên mái ngói.
+“Ta cần sáng trên bàn, không cần sáng sau lưng ngươi.”
 
-Trong nhà xác, Tô Mạn kéo tấm vải khỏi thi thể.
+Hắn miễn cưỡng bước tới. Vân Cơ bị khóa một tay vào cây cột gần đó. Hạ Tử Khiêm cho nàng đứng xem khám nghiệm, nhưng không cho chạm vào thi thể.
 
-Nàng đã xắn tay áo, bày dao, kẹp và mấy chiếc chén bạc thành một hàng.
+Tô Mạn rút cây kim bạc khỏi ngực người chết. Không có máu trào ra. Nàng tách mép vết thương, nhìn một lát rồi đặt cây kim xuống khay.
 
-Đường Tiểu Sơn đứng sát cửa.
+“Lúc kim xuyên vào, tim nàng đã ngừng.”
 
-TÔ MẠN
-Đóng cửa.
+“Nàng ấy không chết vì cây kim sao?” Tiểu Sơn hỏi.
 
-Tiểu Sơn đóng lại nhưng vẫn đứng nguyên chỗ cũ.
+“Không.”
 
-TÔ MẠN
-Lại đây cầm đèn.
+“Nhưng nó xuyên qua tim mà.”
 
-ĐƯỜNG TIỂU SƠN
-Ở đây cũng sáng.
-
-TÔ MẠN
-Ta cần sáng trên bàn, không cần sáng sau lưng ngươi.
-
-Hắn miễn cưỡng bước tới.
-
-Vân Cơ bị khóa một tay vào cây cột gần đó. Hạ Tử Khiêm cho nàng chứng kiến khám nghiệm nhưng không được chạm vào thi thể.
-
-Tô Mạn rút cây kim bạc khỏi ngực người chết.
-
-Không có máu trào ra.
-
-Nàng tách mép vết thương, nhìn một lát rồi đặt cây kim xuống khay.
-
-TÔ MẠN
-Lúc kim xuyên vào, tim đã ngừng.
-
-ĐƯỜNG TIỂU SƠN
-Nàng không chết vì cây kim?
-
-TÔ MẠN
-Không.
-
-ĐƯỜNG TIỂU SƠN
-Nhưng nó xuyên qua tim.
-
-TÔ MẠN
-Ngươi đâm người đã chết thêm một nhát, họ cũng không chết lần hai.
+“Ngươi đâm người đã chết thêm một nhát, họ cũng không chết lần hai.”
 
 Tiểu Sơn ngậm miệng.
 
-Tô Mạn kiểm tra mũi, miệng rồi rạch một đường nhỏ dưới xương sườn.
+Tô Mạn kiểm tra mũi, miệng, rồi rạch một đường nhỏ dưới xương sườn. Tiểu Sơn vội quay mặt đi.
 
-Tiểu Sơn quay mặt đi.
-
-TÔ MẠN
-Đèn.
+“Đèn,” Tô Mạn nói.
 
 Hắn nhắm một mắt, chìa đèn tới.
 
-TÔ MẠN
-Trong phổi không có nước.
+“Trong phổi không có nước.”
 
-HẠ TỬ KHIÊM
-Nàng không chết đuối.
+“Vậy nàng không chết đuối,” Hạ Tử Khiêm nói.
 
-TÔ MẠN
-Ít nhất lúc chìm xuống, nàng không hít nước vào.
+“Ít nhất lúc chìm xuống, nàng không hít nước vào.”
 
-VÂN CƠ
-Tim ngừng trước khi nước tràn vào phổi.
+“Tim ngừng trước khi nước tràn vào phổi,” Vân Cơ nói.
 
-Tô Mạn quay sang nàng.
+Tô Mạn quay sang nhìn nàng. “Có thể.”
 
-TÔ MẠN
-Có thể.
+Tô Mạn dùng dao cạo một ít phấn ở hai bên hàm thi thể, bỏ vào chén bạc rồi nhỏ thuốc thử. Chất lỏng chuyển sang màu xanh.
 
-Nàng dùng dao cạo một ít phấn ở hai bên hàm thi thể, bỏ vào chén bạc rồi nhỏ thuốc thử.
+“Hàn Thiền.”
 
-Chất lỏng chuyển xanh.
+“Là độc?” Hạ Tử Khiêm hỏi.
 
-TÔ MẠN
-Hàn Thiền.
-
-HẠ TỬ KHIÊM
-Độc?
-
-TÔ MẠN
-Không hẳn. Bôi ít thì mạch yếu, da lạnh. Người ngoài sờ vào sẽ tưởng đã chết. Bôi nhiều quá thì khỏi cần giả.
+“Không hẳn. Bôi ít thì mạch yếu, da lạnh. Người ngoài sờ vào sẽ tưởng đã chết. Bôi nhiều quá thì khỏi cần giả.”
 
 Tiểu Sơn vô thức lùi nửa bước.
 
-Tô Mạn nhổ một sợi tóc bạc, hơ qua lửa.
+Tô Mạn nhổ một sợi tóc bạc của người chết, hơ qua lửa. Ngọn lửa chuyển sang màu tím. Vẻ trêu chọc trên mặt Tô Mạn tắt hẳn.
 
-Ngọn lửa chuyển tím.
+“Bế Tâm Sa.”
 
-Vẻ trêu chọc trên mặt Tô Mạn tắt hẳn.
+Vân Cơ nhìn sợi tóc. “Gặp nước mới phát độc.”
 
-TÔ MẠN
-Bế Tâm Sa.
+“Cô dùng rồi sao?”
 
-Vân Cơ nhìn sợi tóc.
+“La Sinh Đài dùng nó để tạo lửa tím. Bột khô thì không đáng ngại. Gặp nước sẽ sinh khí.”
 
-VÂN CƠ
-Gặp nước mới phát độc.
+“Hít vào thì tim tê liệt,” Tô Mạn nói.
 
-TÔ MẠN
-Cô dùng rồi?
+Hạ Tử Khiêm nhớ lại các tiếng chuông trong buổi diễn. “Tiếng thứ tư báo nước đã ngập tóc.”
 
-VÂN CƠ
-La Sinh Đài dùng nó tạo lửa tím. Bột khô không đáng ngại. Gặp nước sẽ sinh khí.
+“Nếu lượng độc đủ lớn, tới tiếng thứ sáu hoặc thứ bảy tim sẽ dừng.”
 
-TÔ MẠN
-Hít vào thì tim tê liệt.
+Tiểu Sơn nghe tới đó thì lên tiếng: “Vậy nàng ấy bước vào lồng khi còn sống. Độc nằm sẵn trong tóc. Đến khi lồng chìm, nàng ấy mới chết.”
 
-Hạ Tử Khiêm nhớ lại các tiếng chuông.
-
-HẠ TỬ KHIÊM
-Tiếng thứ tư báo nước đã ngập tóc.
-
-TÔ MẠN
-Nếu lượng độc đủ lớn, tới tiếng thứ sáu hoặc thứ bảy tim sẽ dừng.
-
-ĐƯỜNG TIỂU SƠN
-Vậy nàng bước vào lồng khi còn sống. Độc nằm sẵn trong tóc. Khi lồng chìm, nàng mới chết.
-
-Tô Mạn nhìn hắn.
-
-TÔ MẠN
-Lần này nói đúng.
+Tô Mạn nhìn hắn. “Lần này ngươi nói đúng.”
 
 Tiểu Sơn hơi thẳng lưng.
 
-TÔ MẠN
-Đừng vui quá. Chỉ là không nói sai.
+“Đừng vui quá. Chỉ là không nói sai thôi.”
 
-Hạ Tử Khiêm đặt cây kim gần khay sắt.
+Hạ Tử Khiêm đặt cây kim gần khay sắt. Thân kim khẽ rung. Vân Cơ nhìn vòng lò xo nhỏ quanh chuôi kim.
 
-Thân kim khẽ rung.
+“Kim đã được giấu sẵn trong áo,” nàng nói. “Nam châm ở mặt thứ năm không kéo kim vào tim. Nó chỉ kéo cái chốt giữ ra.”
 
-Vân Cơ nhìn vòng lò xo nhỏ quanh chuôi.
+“Sau đó lò xo bật,” Hạ Tử Khiêm nói.
 
-VÂN CƠ
-Kim đã được giấu sẵn trong áo. Nam châm ở mặt thứ năm không kéo kim vào tim. Nó chỉ kéo chốt giữ ra.
+“Phải. Không cần ai mở lồng.”
 
-HẠ TỬ KHIÊM
-Sau đó lò xo bật.
+Đường Tiểu Sơn nhìn chiếc kim. “Vậy vết đâm này chỉ để chúng ta nhìn nhầm chỗ sao?”
 
-VÂN CƠ
-Phải. Không cần ai mở lồng.
+“Và nhìn nhầm người,” Tô Mạn đáp.
 
-Đường Tiểu Sơn nhìn chiếc kim.
+Nàng đặt cây kim mang dấu Thủy Nguyệt Các trước mặt Vân Cơ. Sau đó nàng nâng bàn tay phải của thi thể lên. Các ngón tay đã cứng lại quanh cành hoa cháy dở.
 
-ĐƯỜNG TIỂU SƠN
-Vậy vết đâm này chỉ để chúng ta nhìn nhầm chỗ?
+“Đóa hoa ở trong tay từ trước khi nàng chết. Không phải ai đó đặt vào sau.”
 
-TÔ MẠN
-Và nhìn nhầm người.
+Hạ Tử Khiêm nhìn Vân Cơ. “Nàng ta tự mang dấu hiệu của cô vào lồng.”
 
-Nàng đặt cây kim mang dấu Thủy Nguyệt Các trước mặt Vân Cơ.
+“Có vẻ vậy.”
 
-Nàng cầm bàn tay phải của thi thể lên.
+Tô Mạn lật thi thể nằm nghiêng. Trên lưng có một vết bỏng cũ chạy từ bả vai trái xuống gần thắt lưng. Nàng ấn nhẹ quanh phần xương vai.
 
-Các ngón tay đã cứng quanh cành hoa cháy.
-
-TÔ MẠN
-Đóa hoa ở trong tay trước khi nàng chết. Không phải đặt vào sau đó.
-
-Hạ Tử Khiêm nhìn Vân Cơ.
-
-HẠ TỬ KHIÊM
-Nàng chủ động mang dấu hiệu của cô vào lồng.
-
-VÂN CƠ
-Có vẻ vậy.
-
-Tô Mạn lật thi thể nằm nghiêng.
-
-Trên lưng có một vết bỏng cũ chạy từ bả vai trái xuống gần thắt lưng.
-
-Nàng ấn nhẹ quanh phần xương vai.
-
-TÔ MẠN
-Từng bị vật nặng đè lên. Hơn mười năm rồi.
+“Từng bị vật nặng đè lên. Hơn mười năm rồi.”
 
 Vân Cơ kéo căng sợi xích.
 
-Trong đầu nàng chớp lên những mảnh rời rạc.
-
-Áo đỏ bị thanh gỗ đè lên chân.
-
-Áo trắng quay lại kéo người kia.
-
-Lửa trùm xuống.
+Trong đầu nàng chớp lên những mảnh rời rạc. Cô gái áo đỏ bị thanh gỗ cháy đè lên chân. Cô gái áo trắng quay lại kéo người kia. Rồi lửa trùm xuống.
 
 Sau đó thì sao?
 
-Nàng không nhớ rõ vai của ai bị thương.
+Nàng không nhớ nổi vai của ai đã bị thương.
 
-Tô Mạn tiếp tục kiểm tra cổ tay phải.
+Tô Mạn tiếp tục kiểm tra cổ tay phải. Sát mạch có một vết sẹo hình bán nguyệt. Vân Cơ nhìn nó rất lâu.
 
-Một vết sẹo hình bán nguyệt nằm sát mạch.
+“Cô từng thấy nó?” Hạ Tử Khiêm hỏi.
 
-Vân Cơ nhìn nó rất lâu.
+“Ta… không chắc.”
 
-HẠ TỬ KHIÊM
-Cô từng thấy?
+“Vừa rồi cô rất chắc người chết không phải Lục Thanh La.”
 
-VÂN CƠ
-Ta… không chắc.
+“Bây giờ ta không chắc trí nhớ của mình.”
 
-HẠ TỬ KHIÊM
-Vừa rồi cô rất chắc người chết không phải Lục Thanh La.
+Đúng lúc ấy, một quan sai chạy vào, áo mưa còn nhỏ nước xuống nền.
 
-VÂN CƠ
-Bây giờ ta không chắc trí nhớ của mình.
+“Hạ đại nhân, La Sinh Đài cháy rồi!”
 
-Một quan sai chạy vào, áo mưa còn nhỏ nước xuống nền.
+“A Yên đâu?”
 
-QUAN SAI
-Hạ đại nhân, La Sinh Đài cháy rồi!
+“Không tìm thấy ạ.”
 
-HẠ TỬ KHIÊM
-A Yên đâu?
+Vân Cơ giật mạnh sợi xích. “Mở khóa cho ta.”
 
-QUAN SAI
-Không tìm thấy.
+“Cô vẫn là nghi phạm.”
 
-Vân Cơ kéo mạnh sợi xích.
-
-VÂN CƠ
-Mở khóa cho ta.
-
-HẠ TỬ KHIÊM
-Cô vẫn là nghi phạm.
-
-VÂN CƠ
-Nếu A Yên chết, đại nhân mất người cuối cùng biết Thanh La chuẩn bị gì trước buổi diễn.
+“Nếu A Yên chết, đại nhân sẽ mất người cuối cùng biết Thanh La đã chuẩn bị gì trước buổi diễn.”
 
 Hạ Tử Khiêm nhìn nàng một lát rồi lấy chìa khóa.
 
-HẠ TỬ KHIÊM
-Cô đi trước mặt ta.
+“Cô đi trước mặt ta.”
 
----
+Trời gần sáng, họ tới La Sinh Đài. Lửa đã thiêu rụi gần hết hậu đài. Mưa rơi qua phần mái sập, tạt xuống những tấm rèm còn cháy âm ỉ. Không khí nồng mùi dầu và tóc giả cháy.
 
-## CẢNH 9 — LA SINH ĐÀI — TRỜI GẦN SÁNG
+Vân Cơ bước vào phòng hóa trang. Chiếc bàn trước gương đã đen một nửa. Hai chiếc mặt nạ, một đỏ một trắng, chỉ còn lại vài mảnh vụn. Nàng ngồi xuống, đặt tay lên lớp tro.
 
-Lửa đã thiêu rụi gần hết hậu đài.
+“Lửa bắt đầu ở đây.”
 
-Mưa rơi qua phần mái sập, tạt nước xuống những tấm rèm còn cháy âm ỉ. Không khí nồng mùi dầu và tóc giả bị cháy.
+“Dầu đèn bị đổ,” Hạ Tử Khiêm nói.
 
-Vân Cơ bước vào phòng hóa trang.
-
-Chiếc bàn trước gương đã đen một nửa. Hai mặt nạ đỏ và trắng chỉ còn vài mảnh.
-
-Nàng ngồi xuống, chạm tay vào lớp tro.
-
-VÂN CƠ
-Lửa bắt đầu ở đây.
-
-HẠ TỬ KHIÊM
-Dầu đèn bị đổ.
-
-VÂN CƠ
-Không phải dầu của La Sinh Đài.
+“Không phải dầu của La Sinh Đài.”
 
 Hạ Tử Khiêm nhìn nàng.
 
-VÂN CƠ
-Dầu ở đây trộn bột ngọc trai. Cháy đỏ. Lửa vừa rồi màu xanh.
+“Dầu ở đây trộn bột ngọc trai, cháy lên sẽ có màu đỏ. Còn lửa vừa rồi lên màu xanh, quan sai nào cũng nói vậy.”
 
-Cả hai cùng nhớ đêm Vô Tướng Ban.
+Cả hai cùng nghĩ tới đêm Vô Tướng Ban.
 
-Đường Tiểu Sơn đang lục dưới đống xà gỗ.
+Đường Tiểu Sơn đang lục dưới đống xà gỗ. “Không có thi thể. Cũng không thấy A Yên.”
 
-ĐƯỜNG TIỂU SƠN
-Không có thi thể. Cũng không thấy A Yên.
+Vân Cơ dùng thanh sắt gõ lên mặt bàn. Âm thanh đục và đặc. Nàng chuyển sang góc bên phải, gõ lần nữa. Lần này tiếng gõ rỗng.
 
-Vân Cơ dùng thanh sắt gõ lên mặt bàn.
+Nàng cạy tấm gỗ cháy lên. Bên dưới là một ngăn nhỏ bọc đồng, bên trong có mười ba phong thư gói bằng da chống lửa.
 
-Cộc.
+Tiểu Sơn mở lá đầu tiên. Chỉ là tờ giấy trắng.
 
-Nàng chuyển sang góc phải.
+“Nàng ấy cất mười ba tờ giấy trắng sao?”
 
-Cộp.
+Vân Cơ đặt tờ giấy lên than nóng. Mực dần hiện ra.
 
-Âm thanh rỗng.
+“Mùng bảy tháng tư,” Tiểu Sơn đọc. “Ta tìm thấy người đúc Phượng Môn. Ông ấy bị cắt lưỡi. Trong nhà còn một bình lửa xanh.”
 
-Vân Cơ cạy tấm gỗ cháy lên.
+Cuối thư là hình một con quạ bị cắt mất một cánh.
 
-Bên dưới là một ngăn nhỏ bọc đồng. Trong đó có mười ba phong thư được gói bằng da chống lửa.
+Hạ Tử Khiêm mở một lá khác. “Chiếc khóa thứ tư ở nhà Tôn quản sự. Ta đã lấy được. Hắn gãy một cánh tay. Không phải ta cố ý.”
 
-Đường Tiểu Sơn mở lá đầu tiên.
+Tiểu Sơn đọc tiếp dòng bên dưới. “Cứ trừ tiền thuốc vào ba trăm lượng ta nợ tỷ.”
 
-Tờ giấy trắng.
+Hắn nhìn Vân Cơ. “Nàng ấy thật sự có ghi sổ.”
 
-ĐƯỜNG TIỂU SƠN
-Nàng cất mười ba tờ giấy không chữ?
+“Nàng chỉ ghi phần có lợi cho mình.”
 
-Vân Cơ lấy tờ giấy hơ trên than nóng.
+Hạ Tử Khiêm mở thêm hai lá nữa. Tên những thợ cơ quan mất tích đều xuất hiện trong đó. Có người từng giữ khóa, có người sửa Phượng Môn, có người bán lửa xanh.
 
-Mực dần hiện ra.
+“Hai người vẫn điều tra vụ cháy.”
 
-**MÙNG BẢY THÁNG TƯ.
-TA TÌM THẤY NGƯỜI ĐÚC PHƯỢNG MÔN. ÔNG ẤY BỊ CẮT LƯỠI. TRONG NHÀ CÒN MỘT BÌNH LỬA XANH.**
+“Thỉnh thoảng.”
 
-Cuối thư là hình con quạ bị cắt mất một cánh.
+“Mỗi năm một lá thư. Phá sân khấu của nhau. Giành khách. Chửi nhau giữa phố.”
 
-Hạ Tử Khiêm mở lá khác.
+“Nếu không làm đủ, người ta sẽ không tin.”
 
-**CHIẾC KHÓA THỨ TƯ Ở NHÀ TÔN QUẢN SỰ. TA ĐÃ LẤY ĐƯỢC. HẮN GÃY MỘT CÁNH TAY. KHÔNG PHẢI TA CỐ Ý.**
+“Phần nào là giả?”
 
-Đường Tiểu Sơn đọc xuống dòng dưới:
+Vân Cơ phủi tro khỏi lá thư. “Không phải lúc nào cũng phân biệt được.”
 
-**CỨ TRỪ TIỀN THUỐC VÀO BA TRĂM LƯỢNG TA NỢ TỶ.**
+Lá cuối cùng chỉ có một dòng: “Ta tìm thấy sư phụ.”
 
-Tiểu Sơn nhìn Vân Cơ.
+Bên dưới là sơ đồ Vô Tướng Ngục, với mặt thứ năm được khoanh tròn. Mọi người lập tức quay ra sân khấu.
 
-ĐƯỜNG TIỂU SƠN
-Nàng ấy thật sự có ghi sổ.
-
-VÂN CƠ
-Nàng ghi phần có lợi cho mình.
-
-Hạ Tử Khiêm mở thêm hai lá.
-
-Tên những thợ cơ quan mất tích đều xuất hiện trong đó. Có người từng giữ khóa, có người sửa Phượng Môn, có người bán lửa xanh.
-
-HẠ TỬ KHIÊM
-Hai người vẫn điều tra trận cháy.
-
-VÂN CƠ
-Thỉnh thoảng.
-
-HẠ TỬ KHIÊM
-Mỗi năm một lá thư. Phá sân khấu của nhau. Giành khách. Chửi nhau giữa phố.
-
-VÂN CƠ
-Nếu không làm đủ, người ta sẽ không tin.
-
-HẠ TỬ KHIÊM
-Phần nào là giả?
-
-Vân Cơ phủi tro khỏi lá thư.
-
-VÂN CƠ
-Không phải lúc nào cũng phân biệt được.
-
-Lá cuối cùng chỉ có một dòng:
-
-**TA TÌM THẤY SƯ PHỤ.**
-
-Bên dưới là sơ đồ Vô Tướng Ngục.
-
-Mặt thứ năm được khoanh tròn.
-
-Mọi người lập tức quay ra sân khấu.
-
-Chiếc lồng đã được Đại Lý Tự kéo khỏi bể. Tấm đồng thứ năm đang mở, cát chảy thành đống dưới sàn.
-
-Vân Cơ quỳ xuống đào.
-
-Tay nàng chạm phải một chiếc hộp sắt nhỏ.
-
-Trên nắp khắc hai chữ:
-
-**VÂN CƠ.**
+Chiếc lồng đã được Đại Lý Tự kéo khỏi bể. Tấm đồng thứ năm đang mở, cát chảy thành đống dưới sàn. Vân Cơ quỳ xuống, bới lớp cát. Tay nàng chạm phải một chiếc hộp sắt nhỏ. Trên nắp khắc hai chữ: Vân Cơ.
 
 Bên trong có một con mắt thủy tinh và một đoạn xương ngón tay.
 
-Đường Tiểu Sơn nhăn mặt.
+Tiểu Sơn nhăn mặt. “Lục cô nương không thể để lại một bức thư bình thường sao?”
 
-ĐƯỜNG TIỂU SƠN
-Lục cô nương không thể để lại một bức thư bình thường sao?
+Hạ Tử Khiêm nhấc đoạn xương lên. Trên đó có khắc chữ. “Đêm mười lăm. Tháp Quan Tinh. Mang Mẫu Kính.”
 
-Hạ Tử Khiêm lấy đoạn xương lên.
+Tiểu Sơn ngẩng nhìn trời. “Hôm nay mới mười bốn. Qua giờ Tý là sang mười lăm rồi.”
 
-Trên đó khắc:
+Vân Cơ cầm con mắt thủy tinh lên. Trong đồng tử có một mảnh giấy cuộn nhỏ. Nàng dùng kim kéo nó ra.
 
-**ĐÊM MƯỜI LĂM. THÁP QUAN TINH.
-MANG MẪU KÍNH ĐỔI A YÊN.**
+Trên giấy vẽ một người đeo mặt nạ đồng. Từ tay áo hắn thò ra một bàn tay sáu ngón. Mặt sau có dòng chữ viết bằng máu: “Hắn không già đi.”
 
-Tiểu Sơn nhìn trời.
+“Cô từng gặp hắn?” Hạ Tử Khiêm hỏi.
 
-ĐƯỜNG TIỂU SƠN
-Hôm nay mười bốn.
+“Đêm Vô Tướng Ban cháy.”
 
-Vân Cơ cầm con mắt thủy tinh.
+“Mười ba năm, khuôn mặt dưới mặt nạ vẫn giống?”
 
-Trong đồng tử có một mảnh giấy cuộn nhỏ.
+“Thanh La đã nhìn thấy.”
 
-Nàng lấy kim kéo ra.
+“Vậy hoặc hắn không già…” Hạ Tử Khiêm nhìn bức vẽ. “Hoặc chiếc mặt nạ đã đổi chủ.”
 
-Trên giấy vẽ người đeo mặt nạ đồng. Một bàn tay sáu ngón thò khỏi tay áo.
+Khi quan sai dọn xong cát khỏi mặt thứ năm, một viên gạch dưới sàn bỗng lún xuống. Phía dưới là một cầu thang hẹp. Vân Cơ, Hạ Tử Khiêm và Đường Tiểu Sơn cầm đèn đi xuống.
 
-Mặt sau viết bằng máu:
+Đường hầm dẫn tới một căn phòng nằm ngay dưới bể nước. Giữa phòng treo một chiếc chuông đồng, bên cạnh có một máng gỗ nối với ống nước từ phía trên. Hạ Tử Khiêm gõ thử. Tiếng chuông vang lên, trầm hơn chiếc chuông trên sân khấu.
 
-**HẮN KHÔNG GIÀ ĐI.**
+“Tiếng thứ tư,” hắn nói.
 
-HẠ TỬ KHIÊM
-Cô từng gặp hắn?
+Vân Cơ soi đèn vào máng. “Khi nước trong bể dâng tới mức này, nó chảy xuống. Máng nghiêng, tự kéo dùi chuông.”
 
-VÂN CƠ
-Đêm Vô Tướng Ban cháy.
+“Không có người đánh,” Tiểu Sơn nói.
 
-HẠ TỬ KHIÊM
-Mười ba năm, khuôn mặt dưới mặt nạ vẫn giống?
+“Nhưng có người lắp cơ quan.”
 
-VÂN CƠ
-Thanh La đã nhìn thấy.
+Trên tường treo hàng chục bức chân dung Lục Thanh La. Thoạt nhìn đều giống nhau. Nhìn lâu mới thấy mỗi bức có một điểm khác. Người thì có nốt ruồi dưới mắt trái, người thì không. Người cầm bút bằng tay trái, người dùng tay phải. Có người mang vết bỏng trên vai, có người lại có sẹo ở chân. Dưới mỗi bức đều ghi ngày tháng và nơi xuất hiện.
 
-HẠ TỬ KHIÊM
-Vậy hoặc hắn không già…
+Tiểu Sơn soi hai bức cạnh nhau. Một bức ghi giờ Dậu, Tây Thành. Bức kia ghi giờ Tuất, Đông Thành. Hai nơi cách nhau hơn ba mươi dặm.
 
-Hắn nhìn bức vẽ.
+“Một canh giờ không thể đi kịp.”
 
-HẠ TỬ KHIÊM
-Hoặc chiếc mặt nạ đã đổi chủ.
+“Không phải cùng một người,” Hạ Tử Khiêm nói.
 
----
+Sau bức tường vang lên một tiếng động. Một tiếng gõ. Rồi hai tiếng gõ liền nhau.
 
-## CẢNH 10 — DƯỚI SÂN KHẤU LA SINH ĐÀI
+Ba tiếng nhanh, hai tiếng chậm. Vân Cơ áp tai vào tường.
 
-Khi quan sai dọn cát khỏi mặt thứ năm, một viên gạch dưới sàn bị lún xuống.
+“A Yên.”
 
-Phía dưới là cầu thang hẹp.
+Họ kéo các bức tranh xuống. Phía sau là một cánh cửa đá không có tay cầm, giữa cửa có một khe hình bán nguyệt. Tiếng gõ bên trong yếu dần.
 
-Vân Cơ, Hạ Tử Khiêm và Đường Tiểu Sơn cầm đèn đi xuống.
+“Đừng đặt Mẫu Kính vào,” Hạ Tử Khiêm nói.
 
-Đường hầm dẫn tới căn phòng nằm ngay dưới bể nước.
+“A Yên ở bên trong.”
 
-Giữa phòng treo một chiếc chuông đồng. Một máng gỗ nối với ống nước từ phía trên.
+“Người nhốt nàng cũng biết cô sẽ tìm tới.”
 
-Hạ Tử Khiêm gõ thử.
+“Ta biết.”
 
-Keng.
+Nàng vẫn lấy nửa Mẫu Kính ra. Hạ Tử Khiêm giữ cổ tay nàng lại.
 
-Âm thanh trầm hơn chiếc chuông trên sân khấu.
+“Còn cách khác.”
 
-HẠ TỬ KHIÊM
-Tiếng thứ tư.
+“Đập cửa mất bao lâu?”
 
-Vân Cơ soi đèn vào máng.
+Không ai trả lời. Từ bên trong chỉ còn vọng ra một tiếng gõ rất khẽ.
 
-VÂN CƠ
-Khi nước trong bể dâng tới mức này, nó chảy xuống. Máng nghiêng, tự kéo dùi chuông.
+Vân Cơ đặt nửa gương vào khe. Cạnh kim loại cứa vào lòng bàn tay nàng, một giọt máu rơi xuống. Mặt gương sáng lên, và đèn dầu trong đường hầm tắt phụt.
 
-ĐƯỜNG TIỂU SƠN
-Không có người đánh.
+Bảy bóng người xuất hiện giữa phòng. Tất cả đều mang khuôn mặt Lục Thanh La. Người thứ nhất mặc đồ biểu diễn. Người thứ hai mặc áo thị nữ. Người thứ ba giả làm nam nhân. Người thứ tư chống gậy như một bà lão. Người thứ năm bịt kín mặt. Người thứ sáu mặc áo thợ cơ quan. Còn người cuối cùng mặc y phục trắng của Vân Cơ.
 
-HẠ TỬ KHIÊM
-Nhưng có người lắp cơ quan.
+Đường Tiểu Sơn đưa tay rút đao. Hạ Tử Khiêm ngăn lại.
 
-Trên tường treo hàng chục bức chân dung Lục Thanh La.
+“Nhìn dưới chân.”
 
-Thoạt nhìn đều giống nhau.
+Bảy bóng người không đổ bóng, cũng không làm bụi trên sàn dịch chuyển. Họ bắt đầu lặp lại những hành động khác nhau. Người thứ nhất đặt một túi tiền lên bàn. Người thứ hai trao một gói thuốc. Người thứ ba tháo mặt nạ. Người thứ tư mở cánh cửa đá. Người thứ năm giấu một chiếc hộp vào khoang cát.
 
-Nhìn lâu mới thấy từng bức có một điểm khác.
+Người mặc y phục trắng bước tới trước mặt Vân Cơ. Trên tay người ấy đeo chiếc vòng bạc của Thủy Nguyệt Các. Người ấy đưa tay về phía má Vân Cơ nhưng không chạm được. Môi người ấy khẽ động. Không có tiếng, nhưng Vân Cơ đọc được hai chữ: xin lỗi.
 
-Người có nốt ruồi dưới mắt trái.
-
-Người không có.
-
-Người cầm bút bằng tay trái.
-
-Người dùng tay phải.
-
-Có người mang vết bỏng trên vai, có người lại có sẹo ở chân.
-
-Dưới mỗi bức đều ghi ngày tháng và nơi xuất hiện.
-
-Đường Tiểu Sơn soi hai bức cạnh nhau.
-
-Một bức ghi:
-
-**GIỜ DẬU — TÂY THÀNH.**
-
-Bức kia:
-
-**GIỜ TUẤT — ĐÔNG THÀNH.**
-
-Hai nơi cách nhau hơn ba mươi dặm.
-
-ĐƯỜNG TIỂU SƠN
-Một canh giờ không thể đi kịp.
-
-HẠ TỬ KHIÊM
-Không phải cùng một người.
-
-Một tiếng động vang lên sau bức tường.
-
-Cộc.
-
-Cộc. Cộc.
-
-Ba tiếng nhanh, hai tiếng chậm.
-
-Vân Cơ áp tai vào.
-
-VÂN CƠ
-A Yên.
-
-Họ kéo các bức tranh xuống.
-
-Phía sau là một cánh cửa đá không có tay cầm. Ở giữa cửa có một khe hình bán nguyệt.
-
-Tiếng gõ bên trong yếu dần.
-
-HẠ TỬ KHIÊM
-Đừng đặt Mẫu Kính vào.
-
-VÂN CƠ
-A Yên ở bên trong.
-
-HẠ TỬ KHIÊM
-Người nhốt nàng cũng biết cô sẽ tìm tới.
-
-VÂN CƠ
-Ta biết.
-
-Nàng vẫn lấy nửa Mẫu Kính ra.
-
-Hạ Tử Khiêm giữ cổ tay nàng.
-
-HẠ TỬ KHIÊM
-Còn cách khác.
-
-VÂN CƠ
-Đập cửa mất bao lâu?
-
-Không ai trả lời.
-
-Từ bên trong chỉ còn một tiếng gõ rất khẽ.
-
-Vân Cơ đặt nửa gương vào khe.
-
-Cạnh kim loại cứa vào lòng bàn tay nàng.
-
-Một giọt máu rơi xuống.
-
-Mặt gương sáng lên.
-
-Đèn dầu trong đường hầm tắt phụt.
-
-Bảy bóng người xuất hiện trong phòng.
-
-Tất cả đều mang khuôn mặt Lục Thanh La.
-
-Một người mặc đồ biểu diễn.
-
-Một người mặc áo thị nữ.
-
-Một người giả nam nhân.
-
-Một người chống gậy như bà lão.
-
-Một người bịt mặt.
-
-Một người mặc áo thợ cơ quan.
-
-Người cuối cùng mặc y phục trắng của Vân Cơ.
-
-Đường Tiểu Sơn đưa tay rút đao.
-
-Hạ Tử Khiêm ngăn lại.
-
-HẠ TỬ KHIÊM
-Nhìn dưới chân.
-
-Bảy bóng người không đổ bóng, cũng không làm bụi trên sàn dịch chuyển.
-
-Chúng bắt đầu lặp lại những hành động khác nhau.
-
-Người thứ nhất đặt túi tiền lên bàn.
-
-Người thứ hai trao một gói thuốc.
-
-Người thứ ba tháo mặt nạ.
-
-Người thứ tư mở cửa đá.
-
-Người thứ năm giấu hộp vào khoang cát.
-
-Người mặc áo Vân Cơ bước tới trước mặt nàng.
-
-Trên tay người đó đeo chiếc vòng bạc của Thủy Nguyệt Các.
-
-Nàng đưa tay về phía má Vân Cơ nhưng không chạm được.
-
-Môi khẽ động.
-
-**Xin lỗi.**
-
-Những bóng người biến mất.
-
-Đèn dầu sáng lại.
-
-Cửa đá đã mở.
-
-A Yên ngã ra ngoài, hai tay bị trói, miệng dán kín.
+Rồi những bóng người biến mất. Đèn dầu sáng lại. Cánh cửa đá đã mở, và A Yên ngã ra ngoài, hai tay bị trói, miệng bị dán kín.
 
 Vân Cơ đỡ lấy nàng.
 
-Hạ Tử Khiêm nhìn nửa Mẫu Kính.
+Hạ Tử Khiêm nhìn nửa Mẫu Kính trong tay Vân Cơ. “Vừa rồi là gì?”
 
-HẠ TỬ KHIÊM
-Vừa rồi là gì?
+“Tàn ảnh.”
 
-VÂN CƠ
-Tàn ảnh.
+“Người thật?”
 
-HẠ TỬ KHIÊM
-Người thật?
+“Những hành động ấy từng xảy ra, là thật. Còn những thứ khác, chưa chắc.”
 
-VÂN CƠ
-Hành động từng xảy ra là thật. Những thứ khác chưa chắc.
+“Cô phải trả giá gì?”
 
-HẠ TỬ KHIÊM
-Cô phải trả giá gì?
+Vân Cơ không đáp ngay. Nàng nhìn những bức chân dung trên tường, và một khoảng trống vừa xuất hiện trong đầu nàng. Nàng biết mình đã gặp Thanh La từ khi còn nhỏ. Biết hai người từng chia nhau một chiếc bánh khô, từng ngủ chung giường vào mùa đông. Nhưng nàng không còn nhớ lần đầu gặp ở đâu. Không nhớ ai đã chìa tay trước.
 
-Vân Cơ không đáp ngay.
+“Ta quên ngày đầu tiên gặp nàng.”
 
-Nàng nhìn bảy bức chân dung trên tường.
-
-Một khoảng trống vừa xuất hiện trong đầu.
-
-Nàng biết mình đã gặp Thanh La khi còn nhỏ. Biết hai người từng chia nhau một chiếc bánh khô, từng ngủ chung giường vào mùa đông.
-
-Nhưng không còn nhớ lần đầu gặp ở đâu.
-
-Không nhớ ai đã chìa tay trước.
-
-VÂN CƠ
-Ta quên ngày đầu tiên gặp nàng.
-
-Tiểu Sơn nhìn chiếc gương.
-
-ĐƯỜNG TIỂU SƠN
-Nó lấy ký ức?
+Tiểu Sơn nhìn chiếc gương. “Nó lấy ký ức sao?”
 
 Vân Cơ dùng vải bọc Mẫu Kính lại.
 
-VÂN CƠ
-Và không cho người dùng chọn phần bị lấy.
+“Và không cho người dùng chọn phần bị lấy.”
 
----
+A Yên được đưa về Đại Lý Tự khi trời bắt đầu hửng sáng. Tô Mạn kiểm tra rồi xác nhận nàng chỉ bị đánh ngất. Trên cổ tay còn hằn hai vòng dây tím sẫm.
 
-## CẢNH 11 — LỜI KHAI CỦA A YÊN
+A Yên không nói được, mọi lời của nàng đều phải viết ra. Nàng ôm bảng gỗ vào ngực, ngón tay cầm than run tới mức nét đầu tiên kéo lệch khỏi hàng.
 
-A Yên được đưa lên mặt đất.
+Nàng viết: “Sư phụ biết màn diễn có thể xảy ra chuyện.”
 
-Tô Mạn kiểm tra rồi xác nhận nàng chỉ bị đánh ngất. Trên cổ tay còn hằn hai vòng dây tím sẫm.
+Chữ cuối bị nhòe. A Yên lấy tay áo lau, càng lau càng bẩn. Vân Cơ giữ cổ tay nàng lại.
 
-A Yên ôm bảng gỗ vào ngực. Các ngón tay cầm than run đến mức nét đầu tiên kéo lệch khỏi hàng.
+“Không cần viết đẹp. Chậm thôi.”
 
-Nàng viết:
+A Yên hít một hơi rồi gật đầu.
 
-SƯ PHỤ BIẾT MÀN DIỄN CÓ THỂ XẢY RA CHUYỆN.
+“Ai bắt muội?”
 
-Chữ cuối bị nhòe. A Yên lấy tay áo lau, càng lau càng bẩn.
+Nàng viết: “Người đeo mặt nạ. Không nhìn thấy mặt.”
 
-Vân Cơ giữ cổ tay nàng lại.
+“Đêm qua ai bước vào lồng?” Hạ Tử Khiêm hỏi.
 
-VÂN CƠ
-Không cần viết đẹp. Chậm thôi.
+Viên than trong tay A Yên gãy đôi. Nàng cúi xuống tìm mảnh còn lại, tìm hai lần vẫn không nhặt được. Vân Cơ nhặt lên, đặt vào tay nàng.
 
-A Yên hít một hơi, gật đầu.
-
-VÂN CƠ
-Ai bắt muội?
-
-Nàng viết:
-
-NGƯỜI ĐEO MẶT NẠ. KHÔNG NHÌN THẤY MẶT.
-
-HẠ TỬ KHIÊM
-Đêm qua ai bước vào lồng?
-
-Viên than trong tay A Yên gãy đôi.
-
-Nàng cúi xuống tìm mảnh còn lại nhưng tìm hai lần vẫn không nhặt được. Vân Cơ nhặt lên, đặt vào tay nàng.
-
-A Yên viết rất chậm:
-
-SƯ PHỤ.
+A Yên viết rất chậm: “Sư phụ.”
 
 Viết xong, nàng lập tức ôm bảng vào lòng, như thể chỉ cần che dòng chữ ấy đi thì người chết vẫn có thể trở về.
 
-HẠ TỬ KHIÊM
-Chính Lục Thanh La?
+“Chính Lục Thanh La?” Hạ Tử Khiêm hỏi.
 
 A Yên gật đầu.
 
-Vân Cơ nhìn dòng chữ ấy một lúc.
+Vân Cơ nhìn dòng chữ ấy một lúc. “Ba tháng nay, nàng dạy muội cách giả làm nàng?”
 
-VÂN CƠ
-Ba tháng qua nàng dạy muội đóng giả mình?
+A Yên lại gật. Nàng kéo cổ áo xuống. Trên vai có một vết bỏng giống hệt vết sẹo của người chết. A Yên dùng khăn tẩm thuốc lau đi. Nó chỉ là màu hóa trang.
 
-A Yên lại gật.
+Nàng viết: “Sư phụ dạy ta dáng đi, cách cầm đồ và cách co ngón tay phải.”
 
-Nàng kéo cổ áo xuống. Trên vai có một vết bỏng giống vết sẹo của người chết.
+“Để làm gì?” Hạ Tử Khiêm hỏi.
 
-A Yên dùng khăn tẩm thuốc lau đi.
+A Yên viết: “Nếu Lục Thanh La xuất hiện ở hai nơi cùng lúc, kẻ theo dõi sẽ phải chọn một người.”
 
-Chỉ là màu hóa trang.
-
-Nàng viết:
-
-**SƯ PHỤ DẠY TA DÁNG ĐI, CÁCH CẦM ĐỒ VÀ CÁCH CO NGÓN TAY PHẢI.**
-
-Hạ Tử Khiêm hỏi:
-
-HẠ TỬ KHIÊM
-Để làm gì?
-
-**NẾU LỤC THANH LA XUẤT HIỆN Ở HAI NƠI CÙNG LÚC, KẺ THEO DÕI SẼ PHẢI CHỌN MỘT NGƯỜI.**
-
-VÂN CƠ
-Nhưng đêm diễn, nàng không dùng muội thay mình.
+“Nhưng đêm diễn, nàng không dùng muội thay mình,” Vân Cơ nói.
 
 A Yên lắc đầu.
 
-HẠ TỬ KHIÊM
-Ai chuẩn bị tóc?
+“Ai chuẩn bị tóc?”
 
 A Yên chỉ vào mình.
 
-Đường Tiểu Sơn hơi đổi tư thế.
+Đường Tiểu Sơn khẽ đổi tư thế đứng. A Yên nhìn thấy. Nàng vội cúi xuống viết, nhưng tay run làm chữ xiêu hẳn sang một bên: “Thuốc do sư phụ đưa. Ta không biết có Bế Tâm Sa.” Nàng viết thêm hai chữ “ta không”, đè lên nét cũ mạnh tới mức viên than vỡ vụn trong tay.
 
-A Yên nhìn thấy. Nàng vội cúi xuống viết, nhưng tay run làm chữ xiêu sang một bên:
+“Còn mặt nạ?” Vân Cơ hỏi.
 
-**THUỐC DO SƯ PHỤ ĐƯA. TA KHÔNG BIẾT CÓ BẾ TÂM SA.**
+“Sư phụ tự làm.”
 
-Nàng viết thêm hai chữ **“TA KHÔNG”**, đè lên nét cũ đến mức viên than vỡ vụn trong tay.
+“Cây kim và đóa trà?”
 
-VÂN CƠ
-Mặt nạ?
+A Yên viết: “Sư phụ tự mang vào.”
 
-**SƯ PHỤ TỰ LÀM.**
+Hạ Tử Khiêm chậm rãi ngồi xuống. “Nàng ta chủ động chuẩn bị một vụ giết người, mà mọi chứng cứ đều chỉ vào Vân Cơ.”
 
-VÂN CƠ
-Cây kim và đóa trà?
+A Yên gõ mạnh lên bảng rồi viết thêm: “Sư phụ có thuốc giải.”
 
-A Yên viết:
+Nàng lấy từ trong áo ra một chiếc lọ nhỏ đã rỗng. Tô Mạn ngửi miệng lọ.
 
-**SƯ PHỤ TỰ MANG VÀO.**
+“Thanh Tâm Lộ.”
 
-Hạ Tử Khiêm chậm rãi ngồi xuống.
+“Giải được Bế Tâm Sa,” Vân Cơ nói.
 
-HẠ TỬ KHIÊM
-Nàng chủ động chuẩn bị một vụ giết người có tất cả chứng cứ chỉ vào Vân Cơ.
+“Nếu thuốc trong lọ là thật.”
 
-A Yên gõ mạnh lên bảng rồi viết thêm:
+“Ai biết chỗ cất?” Hạ Tử Khiêm hỏi.
 
-**SƯ PHỤ CÓ THUỐC GIẢI.**
+A Yên viết ba cái tên: “Ta. Sư phụ. Sở Mậu.”
 
-Nàng lấy từ trong áo một lọ nhỏ đã rỗng.
+Đường Tiểu Sơn nhìn quanh. “Quản sự Sở Mậu đâu rồi?”
 
-Tô Mạn ngửi miệng lọ.
+Một quan sai đáp: “Từ lúc cháy, không ai thấy ông ta ạ.”
 
-TÔ MẠN
-Thanh Tâm Lộ.
+“Cho người tìm,” Hạ Tử Khiêm nói. “Kiểm tra các cổng thành, quán trọ và bến xe. Đừng đánh động người của Khâm Thiên Giám.”
 
-VÂN CƠ
-Giải được Bế Tâm Sa.
+Quan sai rời đi. A Yên kéo tay áo Vân Cơ rồi viết: “Sư phụ dặn, nếu người chết đeo hạt ngọc, phải mở nó.”
 
-TÔ MẠN
-Nếu thuốc trong lọ là thật.
+Hạ Tử Khiêm lấy túi vật chứng ra. Vân Cơ đặt hạt ngọc lên bàn rồi dùng kìm tách đôi. Bên trong có một cuộn lụa nhỏ. Nàng mở ra.
 
-HẠ TỬ KHIÊM
-Ai biết chỗ cất?
+“Tạ Vân Cơ đã chết trong Phượng Môn.”
 
-A Yên viết ba cái tên:
+Ở dòng dưới là một câu nữa: “Người đang mang tên nàng không phải con gái họ Tạ.”
 
-**TA.
-SƯ PHỤ.
-SỞ MẬU.**
+A Yên nhìn Vân Cơ. Đường Tiểu Sơn cũng nhìn nàng, nhưng không dám hỏi.
 
-Đường Tiểu Sơn nhìn quanh.
+Hạ Tử Khiêm lên tiếng. “Tên thật của cô là gì?”
 
-ĐƯỜNG TIỂU SƠN
-Quản sự Sở Mậu đâu?
+Vân Cơ nhìn tấm lụa. Nàng đã giữ bí mật này mười ba năm. Đến lúc thật sự phải nói, giọng nàng lại bình thường đến lạ.
 
-Một quan sai đáp:
+“Lục Thanh La.”
 
-QUAN SAI
-Từ lúc cháy không ai thấy hắn.
+Hạ Tử Khiêm không phản ứng ngay. Hắn nhìn về phía nhà xác.
 
-HẠ TỬ KHIÊM
-Cho người tìm. Kiểm tra các cổng thành, quán trọ và bến xe. Đừng đánh động người của Khâm Thiên Giám.
+“Vậy người chết trong lồng?”
 
-Quan sai rời đi.
+“Tạ Vân Cơ.”
 
-A Yên kéo tay áo Vân Cơ.
+A Yên đánh rơi bảng gỗ. Vân Cơ cúi xuống nhặt lên cho nàng.
 
-Nàng viết:
+“Mười ba năm trước, chúng ta đã đổi tên.”
 
-**SƯ PHỤ DẶN NẾU NGƯỜI CHẾT ĐEO HẠT NGỌC, PHẢI MỞ NÓ.**
+“Vì sao?”
 
-Hạ Tử Khiêm lấy túi vật chứng.
+“Ta chưa biết phải kể từ đâu.”
 
-Vân Cơ đặt hạt ngọc lên bàn rồi dùng kìm tách đôi.
+“Từ phần khiến người ta muốn giết cả hai,” Hạ Tử Khiêm nói.
 
-Bên trong có một cuộn lụa nhỏ.
+Vân Cơ chưa kịp đáp thì ngoài sân vang lên một tiếng trống lớn. Rồi tiếng thứ hai.
 
-Nàng mở ra.
+Đường Tiểu Sơn quay phắt ra cửa. “Trống Đăng Văn! Có người kêu oan?”
 
-**TẠ VÂN CƠ ĐÃ CHẾT TRONG PHƯỢNG MÔN.**
+“Cổng còn chưa mở,” Hạ Tử Khiêm nói.
 
-Ở dòng dưới:
+Tiếng trống thứ ba vang lên. Mọi người chạy ra ngoài.
 
-**NGƯỜI ĐANG MANG TÊN NÀNG KHÔNG PHẢI CON GÁI HỌ TẠ.**
+Trời rạng sáng, giữa sân Đại Lý Tự, chiếc trống Đăng Văn đang đung đưa trên giá. Không có ai đứng cạnh. Máu chảy từ mép trống xuống giá gỗ.
 
-A Yên nhìn Vân Cơ.
+Đường Tiểu Sơn bước tới, dùng dao rạch mặt da trống. Một thi thể đàn ông đổ ra, hai tay bị trói sau lưng, miệng nhét đầy cát vàng. Tiểu Sơn nhận ra ngay.
 
-Đường Tiểu Sơn cũng nhìn nàng, nhưng không dám hỏi.
+“Trương Đồng! Người thợ đúc tám chiếc khóa, mất tích ba ngày rồi.”
 
-Hạ Tử Khiêm lên tiếng:
+Tô Mạn quỳ xuống kiểm tra. “Mới chết. Chưa quá một khắc.”
 
-HẠ TỬ KHIÊM
-Tên thật của cô?
+Tiểu Sơn nhìn quanh sân. “Một người bị nhét vào trống, mang vào giữa Đại Lý Tự, rồi mới bị giết sao?”
 
-Vân Cơ nhìn tấm lụa.
+“Có thể ông ấy còn sống khi được đưa vào,” Hạ Tử Khiêm nói.
 
-Nàng đã giữ bí mật này mười ba năm. Đến lúc thật sự phải nói, giọng nàng lại bình thường đến lạ.
+Tô Mạn dùng kẹp lấy một vật dưới lưỡi nạn nhân. Đó là một chiếc chìa khóa màu đen, trên thân khắc số chín. Vân Cơ nhìn lớp cát trong miệng ông. Nó cùng loại với cát trong mặt thứ năm của Vô Tướng Ngục.
 
-VÂN CƠ
-Lục Thanh La.
+Ngay khi chìa khóa vừa được lấy ra, phần áo trước ngực Trương Đồng bắt đầu bốc khói. Vân Cơ giật áo ông mở ra. Trên da hiện dần một hàng chữ: “Muốn biết Cố Bách Xảo còn sống hay không, hãy hỏi người đã chết trong lồng.”
 
-Hạ Tử Khiêm không phản ứng ngay.
+Đường Tiểu Sơn đọc xong thì quay về phía nhà xác. “Hỏi bằng cách nào?”
 
-Hắn nhìn về phía nhà xác.
+Từ bên trong nhà xác vang lên tiếng kim loại rơi xuống nền. Rồi quan sai canh cửa chạy ra, mặt cắt không còn giọt máu.
 
-HẠ TỬ KHIÊM
-Người chết trong lồng?
+“Hạ đại nhân…”
 
-VÂN CƠ
-Tạ Vân Cơ.
+“Nói.”
 
-A Yên đánh rơi bảng gỗ.
+“Thi thể nữ nhân kia… không còn trong phòng ạ.”
 
-Vân Cơ cúi nhặt lên cho nàng.
+Mọi người lập tức chạy vào. Tấm vải trắng nằm dưới đất. Trên bàn đá chỉ còn một vũng nước đen. Tô Mạn quỳ xuống, chạm đầu ngón tay vào nước rồi đưa lên ngửi.
 
-VÂN CƠ
-Mười ba năm trước, chúng ta đổi tên.
+“Nước ngầm. Có mùi rêu và bùn, không phải nước trong bể diễn.”
 
-HẠ TỬ KHIÊM
-Vì sao?
+Hạ Tử Khiêm nhìn xuống nền đá. Một vệt nước mảnh kéo từ bàn xác xuống chân bàn, rồi dừng lại ở đó. Nó không dẫn về phía cửa. Bánh xe dưới chân bàn có một vệt dầu mới, và trên nền đá có một đường xước hình vòng cung, rất mờ. Hắn chưa chạm vào.
 
-VÂN CƠ
-Ta chưa biết phải kể từ đâu.
+“Không ai rời căn phòng này bằng đường cửa.”
 
-HẠ TỬ KHIÊM
-Từ phần khiến người ta muốn giết cả hai.
+“Vậy thi thể đi đâu?” Tiểu Sơn hỏi.
 
-Vân Cơ chưa kịp đáp.
+“Chưa biết. Giữ nguyên bàn đá. Không ai được di chuyển.”
 
-Ngoài sân vang lên một tiếng trống lớn.
-
-Ầm.
-
-Sau đó là tiếng thứ hai.
-
-Ầm.
-
-Đường Tiểu Sơn quay phắt ra cửa.
-
-ĐƯỜNG TIỂU SƠN
-Trống Đăng Văn.
-
-HẠ TỬ KHIÊM
-Cổng chưa mở.
-
-Tiếng trống thứ ba vang lên.
-
-Ầm.
-
-Mọi người chạy ra ngoài.
-
----
-
-## CẢNH 12 — SÂN ĐẠI LÝ TỰ — RẠNG SÁNG
-
-Chiếc trống Đăng Văn giữa sân đang đung đưa.
-
-Không có người đứng cạnh.
-
-Máu chảy từ mép trống xuống giá gỗ.
-
-Đường Tiểu Sơn bước tới, dùng dao rạch mặt da.
-
-Một thi thể đàn ông đổ ra.
-
-Hai tay bị trói sau lưng, miệng nhét đầy cát vàng.
-
-Tiểu Sơn nhận ra ngay.
-
-ĐƯỜNG TIỂU SƠN
-Trương Đồng.
-
-Người thợ đúc tám chiếc khóa đã mất tích ba ngày trước.
-
-Tô Mạn quỳ xuống kiểm tra.
-
-TÔ MẠN
-Vừa chết. Chưa quá một khắc.
-
-Đường Tiểu Sơn nhìn quanh sân.
-
-ĐƯỜNG TIỂU SƠN
-Một người bị nhét trong trống, mang vào giữa Đại Lý Tự, rồi mới bị giết?
-
-HẠ TỬ KHIÊM
-Có thể ông ấy còn sống khi được đưa vào.
-
-Tô Mạn dùng kẹp lấy một vật dưới lưỡi nạn nhân.
-
-Một chiếc chìa khóa màu đen.
-
-Trên thân khắc số chín.
-
-Vân Cơ nhìn lớp cát trong miệng ông ta.
-
-Cùng loại cát trong mặt thứ năm của Vô Tướng Ngục.
-
-Ngay khi chìa khóa được lấy ra, phần áo trước ngực Trương Đồng bắt đầu bốc khói.
-
-Vân Cơ giật áo ông mở ra.
-
-Trên da hiện dần một hàng chữ:
-
-**MUỐN BIẾT CỐ BÁCH XẢO CÒN SỐNG HAY KHÔNG, HÃY HỎI NGƯỜI ĐÃ CHẾT TRONG LỒNG.**
-
-Đường Tiểu Sơn đọc xong, quay về phía nhà xác.
-
-ĐƯỜNG TIỂU SƠN
-Hỏi bằng cách nào?
-
-Từ bên trong vang lên tiếng kim loại rơi xuống nền.
-
-Keng.
-
-Quan sai canh cửa nhà xác chạy ra, mặt cắt không còn giọt máu.
-
-QUAN SAI
-Hạ đại nhân…
-
-HẠ TỬ KHIÊM
-Nói.
-
-QUAN SAI
-Thi thể nữ nhân kia không còn trong phòng.
-
-Mọi người lập tức chạy vào.
-
-Tấm vải trắng nằm dưới đất.
-
-Trên bàn đá chỉ còn một vũng nước đen.
-
-Tô Mạn quỳ xuống, chạm đầu ngón tay vào nước rồi đưa lên ngửi.
-
-TÔ MẠN
-Nước ngầm. Có mùi rêu và bùn, không phải nước trong bể diễn.
-
-Hạ Tử Khiêm nhìn nền đá.
-
-Một vệt nước mảnh kéo từ bàn xác xuống chân bàn rồi dừng lại ở đó. Nó không dẫn về phía cửa.
-
-Bánh xe dưới chân bàn có một vệt dầu mới. Trên nền đá cũng xuất hiện một đường xước hình vòng cung, rất mờ.
-
-Hạ Tử Khiêm chưa chạm vào.
-
-HẠ TỬ KHIÊM
-Không ai ra khỏi phòng qua cửa.
-
-ĐƯỜNG TIỂU SƠN
-Vậy thi thể đi đâu?
-
-HẠ TỬ KHIÊM
-Chưa biết. Giữ nguyên bàn đá. Không được di chuyển.
-
-Trên bức tường phía sau có hàng chữ viết bằng chất lỏng đỏ sẫm:
-
-THÁP QUAN TINH. GIỜ TÝ ĐÊM NAY.
-
-Phía dưới là dấu một bàn tay sáu ngón.
+Trên bức tường phía sau có một hàng chữ viết bằng chất lỏng đỏ sẫm: “Tháp Quan Tinh. Giờ Tý đêm nay. Mang Mẫu Kính.” Bên dưới là dấu một bàn tay sáu ngón.
 
 Vân Cơ đứng chết lặng.
 
-Hạ Tử Khiêm nhìn nàng.
+“Cô từng thấy bàn tay này?” Hạ Tử Khiêm hỏi.
 
-HẠ TỬ KHIÊM
-Cô từng thấy bàn tay này?
-
-VÂN CƠ
-Đêm Vô Tướng Ban cháy.
+“Đêm Vô Tướng Ban cháy.”
 
 Nàng bước tới gần dấu tay.
 
-VÂN CƠ
-Ta đã dùng mảnh gương chém vào bàn tay ấy.
+“Ta đã dùng mảnh gương chém vào bàn tay ấy.”
 
-HẠ TỬ KHIÊM
-Có trúng không?
+“Có trúng không?”
 
-VÂN CƠ
-Ngón thứ sáu rơi ngay trước mặt ta.
+“Ngón thứ sáu rơi ngay trước mặt ta.”
 
 Hạ Tử Khiêm nhìn dấu tay còn mới.
 
-VÂN CƠ
-Nhưng đường vân của ngón thứ sáu không nối với lòng bàn tay.
+“Nhưng ngón thứ sáu trong dấu tay này không nối liền với lòng bàn tay.”
 
-Nàng nhớ lại vật mình đã chém rơi giữa biển lửa.
+Nàng nhớ lại vật mình đã chém rơi giữa biển lửa. Khi ấy có quá nhiều khói, quá nhiều gương vỡ.
 
-Khi ấy có quá nhiều khói. Quá nhiều gương vỡ.
+“Có lẽ nó chưa từng là ngón tay thật.”
 
-VÂN CƠ
-Có lẽ nó chưa từng là ngón tay thật.
-
-Vân Cơ nhìn bàn tay mình.
-
-Nó đang run.
-
-Nàng nhớ rất rõ ngón tay thứ sáu đã rơi xuống. Trước đây nàng chưa bao giờ nghi ngờ chuyện đó.
+Vân Cơ nhìn xuống bàn tay mình. Nó đang run. Nàng nhớ rất rõ ngón tay thứ sáu đã rơi xuống. Trước đây nàng chưa bao giờ nghi ngờ chuyện đó.
 
 Bây giờ thì có.
 
-**HẾT HỒI II**
+Hết hồi hai.
