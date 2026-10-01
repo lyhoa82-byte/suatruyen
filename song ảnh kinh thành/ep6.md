@@ -1,1548 +1,551 @@
-SONG ẢNH KINH THÀNH
+Song Ảnh Kinh Thành. Hồi sáu: Màn diễn cuối cùng.
 
-HỒI VI — MÀN DIỄN CUỐI CÙNG
-
-ẢNH 32 — VẠN ĐĂNG YẾN
-
-Đêm Vạn Đăng Yến, gần như cả kinh thành đổ về quảng trường trước hoàng cung.
-
-Mười hai tháp đèn dựng thành vòng tròn. Trên đỉnh mỗi tháp là một mặt gương lớn, cùng hướng về đài trung tâm.
-
-Hàng vạn ngọn đèn nhỏ treo dọc phố. Mảnh gương bên trong bắt ánh sáng từ tháp gần nhất rồi truyền sang chiếc kế tiếp.
-
-Nhìn từ trên cao, kinh thành giống như được phủ bằng một tấm lưới sáng.
+Đêm Vạn Đăng Yến, gần như cả kinh thành đổ về quảng trường trước hoàng cung. Mười hai tháp đèn dựng thành vòng tròn, trên đỉnh mỗi tháp là một mặt gương lớn cùng hướng về đài trung tâm. Hàng vạn ngọn đèn nhỏ treo dọc các con phố, và mảnh gương bên trong mỗi ngọn bắt ánh sáng từ tháp gần nhất rồi truyền sang chiếc kế tiếp. Nhìn từ trên cao, kinh thành giống như được phủ bằng một tấm lưới sáng.
 
 Giữa đài trung tâm, Mẫu Kính đặt trên giá đồng. Phía sau là một bức rèm mỏng, đủ để che người đứng bên trong nhưng vẫn cho ánh đèn xuyên qua.
 
-Kỷ Vô Nhai xuất hiện dưới khuôn mặt Phí Kinh Hồng.
+Kỷ Vô Nhai xuất hiện dưới khuôn mặt Phí Kinh Hồng. Lớp da sau tai đã được dán kín, và nếu không đứng gần, chẳng ai nhìn ra vết nối. Hắn đi dọc các chân đèn, tự tay kiểm tra từng sợi dây. Mộc Dung đứng phía sau. Hôm nay nàng mang khuôn mặt Vân Cơ. Phần da dưới cằm được dán chặt hơn, nhưng môi vẫn chỉ mở được một khoảng nhỏ.
 
-Lớp da sau tai đã được dán kín. Nếu không đứng gần, chẳng ai nhìn ra vết nối.
-
-Hắn đi dọc các chân đèn, tự tay kiểm tra từng sợi dây.
-
-Mộc Dung đứng phía sau.
-
-Hôm nay nàng mang khuôn mặt Vân Cơ.
-
-Phần da dưới cằm được dán chặt hơn, nhưng môi vẫn chỉ mở được một khoảng nhỏ.
-
-KỶ VÔ NHAI
-Gương thứ mười hai.
+"Gương thứ mười hai," Kỷ Vô Nhai nói.
 
 Mộc Dung nhìn hắn.
 
-KỶ VÔ NHAI
-Cô ở đó.
+"Cô ở đó."
 
-MỘC DUNG
-Ta biết.
+"Ta biết," Mộc Dung đáp.
 
-KỶ VÔ NHAI
-Khi nghe tiếng chuông thứ bảy, khóa trục lại. Dù có chuyện gì cũng không được để gương xoay.
+"Khi nghe tiếng chuông thứ bảy, khóa trục lại. Dù có chuyện gì cũng không được để gương xoay."
 
-Mộc Dung kéo khăn che nửa mặt.
+Mộc Dung kéo khăn che nửa mặt. "Ngươi đã nói ba lần rồi."
 
-MỘC DUNG
-Ngươi đã nói ba lần rồi.
+Kỷ Vô Nhai vẫn nhìn nàng. Mộc Dung quay đi trước.
 
-Kỷ Vô Nhai vẫn nhìn nàng.
+Ở cổng nam, đoàn biểu diễn của Thủy Nguyệt Các đang bị khám xét. Tất cả hòm đạo cụ đều được mở. Trâm, dây thép và những bình thuốc dễ cháy bị lấy ra riêng. Đường Tiểu Sơn đứng cạnh quan sai kiểm đồ. Một người lính nhấc chiếc hộp đựng bướm lên.
 
-Mộc Dung quay đi trước.
+"Trong này có gì?" người lính hỏi.
 
-Ở cổng nam, đoàn biểu diễn của Thủy Nguyệt Các đang bị khám xét.
+"Nếu mở không đúng cách thì có thể là bướm," Tiểu Sơn đáp.
 
-Tất cả hòm đạo cụ đều được mở. Trâm, dây thép và những bình thuốc dễ cháy bị lấy ra riêng.
+"Còn mở đúng cách?"
 
-Đường Tiểu Sơn đứng cạnh quan sai kiểm đồ.
+"Cũng là bướm."
 
-Một người lính nhấc chiếc hộp đựng bướm lên.
+Người lính nhìn hắn. Tiểu Sơn lấy chiếc hộp lại. "Thuộc hạ chỉ muốn ngươi nhẹ tay."
 
-NGƯỜI LÍNH
-Trong này có gì?
+Hạ Tử Khiêm đứng phía sau Vân Cơ. Hắn đã thay cuốn sổ cũ bằng một cuốn bọc da đen, buộc vào cổ tay để khỏi đánh rơi. Kỷ Vô Nhai bước tới.
 
-ĐƯỜNG TIỂU SƠN
-Nếu mở không đúng cách thì có thể là bướm.
+"Hạ đại nhân vẫn phải đọc sổ mới nhận ra người bên cạnh sao?"
 
-NGƯỜI LÍNH
-Còn mở đúng cách?
+Hạ Tử Khiêm nhìn bìa sổ. "Không cần."
 
-ĐƯỜNG TIỂU SƠN
-Cũng là bướm.
+"Ngài nhớ lại rồi?"
 
-Người lính nhìn hắn.
-
-Tiểu Sơn lấy chiếc hộp lại.
-
-ĐƯỜNG TIỂU SƠN
-Ta chỉ muốn ngươi nhẹ tay.
-
-Hạ Tử Khiêm đứng phía sau Vân Cơ.
-
-Hắn đã thay cuốn sổ cũ bằng một cuốn bọc da đen, buộc vào cổ tay để khỏi đánh rơi.
-
-Kỷ Vô Nhai bước tới.
-
-KỶ VÔ NHAI
-Hạ đại nhân vẫn phải đọc sổ mới nhận ra người bên cạnh?
-
-Hạ Tử Khiêm nhìn bìa sổ.
-
-HẠ TỬ KHIÊM
-Không cần.
-
-KỶ VÔ NHAI
-Ngài nhớ lại rồi?
-
-HẠ TỬ KHIÊM
-Ta đã gặp cô ấy liên tục ba ngày. Chưa kịp quên.
+"Ta đã gặp cô ấy liên tục ba ngày. Chưa kịp quên."
 
 Vân Cơ kéo tay áo xuống, che vết cắt cũ.
 
-KỶ VÔ NHAI
-Cố Bách Xảo đâu?
+"Cố Bách Xảo đâu?" Kỷ Vô Nhai hỏi.
 
-VÂN CƠ
-Người bị nhốt mười ba năm, tối nay không muốn xem đèn.
+"Người bị nhốt mười ba năm, tối nay không muốn xem đèn," Vân Cơ đáp.
 
-KỶ VÔ NHAI
-Còn Tô Mạn?
+"Còn Tô Mạn?"
 
-VÂN CƠ
-Ngỗ tác không được mời tới yến tiệc.
+"Ngỗ tác không được mời tới yến tiệc."
 
 Kỷ Vô Nhai nhìn nàng một lúc.
 
-VÂN CƠ
-Quốc sư còn muốn hỏi ai nữa không? Ta có thể đưa luôn danh sách.
+"Quốc sư còn muốn hỏi ai nữa không?" Vân Cơ nói. "Ta có thể đưa luôn danh sách."
 
-KỶ VÔ NHAI
-Không cần.
+"Không cần." Hắn nghiêng người nhường đường. "Tạ cô nương, mong màn diễn tối nay đừng xảy ra chuyện."
 
-Hắn nghiêng người nhường đường.
+"Ngài gọi nhầm rồi. Ta vẫn chưa chọn tên mới."
 
-KỶ VÔ NHAI
-Tạ cô nương, mong màn diễn tối nay đừng xảy ra chuyện.
+Kỷ Vô Nhai khựng lại. Nàng đi qua hắn. Hắn nhìn theo bàn tay trái của nàng. Ngón út hoàn toàn duỗi thẳng.
 
-VÂN CƠ
-Ngài gọi nhầm rồi.
+Quanh quảng trường, hai mươi bảy nữ nhân đã vào vị trí. Có người mặc áo người bán hàng. Có người mang thùng dầu lên tháp. Có người ngồi trong đội nhạc. Người thợ thêu đang cãi nhau với một lính gác vì hắn giẫm lên vạt váy nàng. Không ai nhìn họ quá lâu. Chỉ có A Yên ngồi bên chiếc trống hiệu trên đài phía đông. Nàng đặt tay lên mặt trống. Ba tiếng nhanh, hai tiếng chậm. Chưa đánh. Chỉ thử lại trong đầu.
 
-Kỷ Vô Nhai khựng lại.
+***
 
-VÂN CƠ
-Ta vẫn chưa chọn tên mới.
+Tiếng chuông đầu tiên vang lên. Tất cả đèn quanh quảng trường đồng loạt hạ thấp.
 
-Nàng đi qua hắn.
+Kỷ Vô Nhai cắt đầu ngón tay của người đóng giả Hoàng đế, trộn máu ấy với phần máu còn lại của Tạ Vân Cơ. Mộc Dung không lấy được máu Tô Mạn. Hỗn hợp trong chén vừa chạm vào Mẫu Kính đã sủi lên, chuyển thành màu đen. Mặt gương sáng, và khuôn mặt Hoàng đế hiện ra trên bức rèm.
 
-Kỷ Vô Nhai nhìn theo bàn tay trái của nàng.
+Phía sau hình ảnh ấy là một người đàn ông mặc long bào. Người thật và tàn ảnh chồng khít lên nhau, chỉ đôi lúc cánh tay lệch đi một chút rồi lại trở về đúng vị trí. Dân chúng đồng loạt quỳ xuống. Bá quan cúi đầu. Người đóng giả Hoàng đế bắt đầu đọc chiếu thư, giọng hắn truyền qua những ống đồng giấu dưới đài.
 
-Ngón út hoàn toàn duỗi thẳng.
+"Trẫm phụng mệnh trời, mở Vạn Đăng Yến, cầu cho quốc thái dân an..."
 
-Ở quanh quảng trường, hai mươi bảy nữ nhân đã vào vị trí.
+Hạ Tử Khiêm bước khỏi hàng quan viên. "Đại Lý Tự có mật chỉ cần trình."
 
-Có người mặc áo người bán hàng.
+Tiếng đọc ngừng lại. Tàn ảnh trên rèm vẫn tiếp tục chuyển môi thêm hai chữ rồi mới dừng. Một vài vị quan ngẩng lên. Kỷ Vô Nhai tiến tới.
 
-Có người mang thùng dầu lên tháp.
+"Bệ hạ đang chủ trì đại lễ. Việc của Đại Lý Tự để sau."
 
-Có người ngồi trong đội nhạc.
+"Mật chỉ do chính bệ hạ để lại," Hạ Tử Khiêm nói. "Người dặn phải mở trước bá quan trong đêm Vạn Đăng."
 
-Người thợ thêu đang cãi nhau với một lính gác vì hắn giẫm lên vạt váy nàng.
+Hắn lấy ra một ống đồng có niêm phong. Người đứng sau rèm không biết phải làm gì. Tàn ảnh Hoàng đế vẫn giữ nguyên tư thế nhìn thẳng phía trước. Kỷ Vô Nhai nói nhỏ qua ống truyền âm.
 
-Không ai nhìn họ quá lâu.
+"Bệ hạ long thể chưa hồi phục. Giao cho nội thị."
 
-Chỉ có A Yên ngồi bên chiếc trống hiệu trên đài phía đông.
+"Không được," Hạ Tử Khiêm đáp. "Trên niêm phong ghi chính tay người mở."
 
-Nàng đặt tay lên mặt trống.
+Hắn đi thêm một bước. Bốn thị vệ chặn lại. Đường Tiểu Sơn chen lên, ôm một chiếc hộp sắt. Hắn vấp vào bậc đài, và chiếc hộp rơi xuống, vang lên một tiếng choang. Âm thanh khiến những người đứng gần đồng loạt giật mình. Người đóng giả Hoàng đế sau rèm cũng quay đầu. Tàn ảnh phủ trên người hắn thì không. Trong một khoảnh khắc, quảng trường nhìn thấy hai khuôn mặt Hoàng đế lệch khỏi nhau, một cái quay sang trái, một cái vẫn nhìn thẳng.
 
-Ba tiếng nhanh.
+Kỷ Vô Nhai lập tức chỉnh góc Mẫu Kính, và hai hình ảnh nhập lại. "Bắt Đường Tiểu Sơn."
 
-Hai tiếng chậm.
+"Thuộc hạ tự ngã cũng phạm luật sao?" Tiểu Sơn hỏi.
 
-Chưa đánh.
+Hai thị vệ giữ lấy vai hắn. Vân Cơ bước lên sân khấu.
 
-Chỉ thử lại trong đầu.
-
----
-
-## CẢNH 33 — NGƯỜI Ở SAU BÓNG
-
-Tiếng chuông đầu tiên vang lên.
-
-Tất cả đèn quanh quảng trường đồng loạt hạ thấp.
-
-Kỷ Vô Nhai cắt đầu ngón tay của người đóng giả Hoàng đế, trộn máu ấy với phần máu còn lại của Tạ Vân Cơ.
-
-Mộc Dung không lấy được máu Tô Mạn.
-
-Hỗn hợp trong chén vừa chạm vào Mẫu Kính đã sủi lên, chuyển thành màu đen.
-
-Mặt gương sáng.
-
-Khuôn mặt Hoàng đế hiện ra trên bức rèm.
-
-Phía sau hình ảnh ấy là một người đàn ông mặc long bào. Người thật và tàn ảnh chồng khít lên nhau, chỉ đôi lúc cánh tay lệch đi một chút rồi lại trở về đúng vị trí.
-
-Dân chúng đồng loạt quỳ xuống.
-
-Bá quan cúi đầu.
-
-Người đóng giả Hoàng đế bắt đầu đọc chiếu thư.
-
-Giọng hắn truyền qua những ống đồng giấu dưới đài.
-
-HOÀNG ĐẾ GIẢ
-Trẫm phụng mệnh trời, mở Vạn Đăng Yến, cầu cho quốc thái dân an—
-
-Hạ Tử Khiêm bước khỏi hàng quan viên.
-
-HẠ TỬ KHIÊM
-Đại Lý Tự có mật chỉ cần trình.
-
-Tiếng đọc ngừng lại.
-
-Tàn ảnh trên rèm vẫn tiếp tục chuyển môi thêm hai chữ rồi mới dừng.
-
-Một vài vị quan ngẩng lên.
-
-Kỷ Vô Nhai tiến tới.
-
-KỶ VÔ NHAI
-Bệ hạ đang chủ trì đại lễ. Việc của Đại Lý Tự để sau.
-
-HẠ TỬ KHIÊM
-Mật chỉ do chính bệ hạ để lại. Người dặn phải mở trước bá quan trong đêm Vạn Đăng.
-
-Hắn lấy ra một ống đồng có niêm phong.
-
-Người đứng sau rèm không biết phải làm gì.
-
-Tàn ảnh Hoàng đế vẫn giữ nguyên tư thế nhìn thẳng phía trước.
-
-Kỷ Vô Nhai nói nhỏ qua ống truyền âm.
-
-KỶ VÔ NHAI
-Bệ hạ long thể chưa hồi phục. Giao cho nội thị.
-
-HẠ TỬ KHIÊM
-Không được. Trên niêm phong ghi chính tay người mở.
-
-Hắn đi thêm một bước.
-
-Bốn thị vệ chặn lại.
-
-Đường Tiểu Sơn chen lên, ôm một chiếc hộp sắt.
-
-Hắn vấp vào bậc đài.
-
-Chiếc hộp rơi xuống.
-
-Choang!
-
-Âm thanh khiến những người đứng gần đồng loạt giật mình.
-
-Người đóng giả Hoàng đế sau rèm cũng quay đầu.
-
-Tàn ảnh phủ trên người hắn thì không.
-
-Trong một khoảnh khắc, quảng trường nhìn thấy hai khuôn mặt Hoàng đế lệch khỏi nhau.
-
-Một cái quay sang trái.
-
-Một cái vẫn nhìn thẳng.
-
-Kỷ Vô Nhai lập tức chỉnh góc Mẫu Kính.
-
-Hai hình ảnh nhập lại.
-
-KỶ VÔ NHAI
-Bắt Đường Tiểu Sơn.
-
-ĐƯỜNG TIỂU SƠN
-Thuộc hạ tự ngã cũng phạm luật à?
-
-Hai thị vệ giữ lấy vai hắn.
-
-Vân Cơ bước lên sân khấu.
-
-VÂN CƠ
-Khoan đã.
+"Khoan đã."
 
 Kỷ Vô Nhai nhìn nàng.
 
-VÂN CƠ
-Thủy Nguyệt Các được chỉ định dâng một màn thuật trước tiếng chuông thứ hai. Quốc sư định bỏ?
+"Thủy Nguyệt Các được chỉ định dâng một màn thuật trước tiếng chuông thứ hai," Vân Cơ nói. "Quốc sư định bỏ?"
 
-KỶ VÔ NHAI
-Bỏ.
+"Bỏ."
 
-VÂN CƠ
-Trước mặt nhiều người thế này?
+"Trước mặt nhiều người thế này?"
 
-Phía dưới bắt đầu có tiếng bàn tán.
+Phía dưới bắt đầu có tiếng bàn tán. Người ta đã nhìn thấy hình ảnh vừa lệch khỏi nhau. Nếu bây giờ đột ngột dừng lễ, chuyện ấy sẽ càng khó giấu. Kỷ Vô Nhai đưa mắt ra hiệu, và thị vệ thả Tiểu Sơn.
 
-Người ta đã nhìn thấy hình ảnh vừa lệch khỏi nhau.
+"Diễn đi."
 
-Nếu bây giờ đột ngột dừng lễ, chuyện ấy sẽ càng khó giấu.
+Vân Cơ cho người mang lên một khung gương cao quá đầu người. Nàng đứng trước gương. Trong đó phản chiếu đúng y phục, khuôn mặt và từng cử động của nàng. Vân Cơ nâng tay phải, và người trong gương cũng nâng tay phải. Nàng quay người, và bóng trong gương quay theo. Có người dưới đài cười vì màn diễn quá bình thường.
 
-Kỷ Vô Nhai đưa mắt ra hiệu.
+Vân Cơ cúi xuống nhặt một đóa trà trắng. Trong gương, người kia không cúi. Tiếng cười tắt dần. Vân Cơ bước sang trái, và bóng trong gương vẫn đứng yên. Sau đó người trong gương tự nâng đóa trà lên dù Vân Cơ không hề cầm nó. Khán giả phía dưới ồ lên.
 
-Thị vệ thả Tiểu Sơn.
+Vân Cơ giật tấm lụa bạc phủ sau khung. Một nữ nhân khác bước ra. Nàng đeo khuôn mặt Vân Cơ, mặc y phục giống hệt, và đã bắt chước mọi động tác từ phía bên kia. Chỉ vì góc ánh sáng và lớp gương mỏng, không ai nhận ra đó là một người khác.
 
-KỶ VÔ NHAI
-Diễn đi.
+"Không có phép gì cả," Vân Cơ nói.
 
-Vân Cơ cho người mang lên một khung gương cao quá đầu người.
+Nàng tháo khuôn mặt giả khỏi người kia, đưa cho một vị quan ngồi gần xem. "Người trong gương chỉ cần tập đúng phần của mình. Bên ngoài xảy ra chuyện gì, nàng ta không cần biết."
 
-Nàng đứng trước gương.
+Không ít người quay nhìn về đài trung tâm. Vân Cơ cũng nhìn về phía tàn ảnh Hoàng đế. "Nếu tập đủ lâu, ngay cả người thân cũng có thể nhìn nhầm."
 
-Trong đó phản chiếu đúng y phục, khuôn mặt và từng cử động của nàng.
+"Màn diễn kết thúc rồi," Kỷ Vô Nhai nói.
 
-Vân Cơ nâng tay phải.
+"Chưa."
 
-Người trong gương cũng nâng tay phải.
+Tiếng chuông thứ hai vang lên. Trên mười hai tháp đèn, những sợi xích bắt đầu chuyển động.
 
-Nàng quay người.
+***
 
-Bóng trong gương quay theo.
+Ở tháp thứ nhất, người chủ tiệm thuốc đưa cho lính canh một bình rượu pha thuốc ngủ. Hắn mới uống nửa chén đã gục xuống bàn. Nàng đỡ đầu hắn đặt ngay ngắn rồi lấy chìa khóa.
 
-Có người dưới đài cười vì màn diễn quá bình thường.
+Ở tháp thứ ba, người thợ thêu vẫn đang cãi nhau với lính gác. "Ngươi đền váy cho ta trước."
 
-Vân Cơ cúi xuống nhặt một đóa trà trắng.
+"Ta có giẫm một chút..."
 
-Trong gương, người kia không cúi.
+Nàng kéo mạnh chiếc khăn trên cổ hắn, siết tới khi hắn ngất đi. "Một chút của ngươi dài bằng cả bàn chân," nàng nói.
 
-Tiếng cười tắt dần.
+Ở tháp thứ sáu, hai nữ nhân chui ra từ thùng dầu rỗng. Một người vừa bước ra đã bị chuột chạy qua chân. Nàng cắn môi để khỏi kêu, giẫm nhầm lên tay người bên cạnh. Người kia trừng mắt nhưng không dám lên tiếng.
 
-Vân Cơ bước sang trái.
+Tiếng chuông thứ ba vang lên. Họ bắt đầu tháo khóa trục. Mỗi chiếc gương nặng hơn ba người cộng lại, và muốn đảo hướng phải nhả hai chốt sắt rồi dùng dây kéo.
 
-Bóng trong gương vẫn đứng yên.
+Tiếng chuông thứ tư. Lính gác phát hiện một người mang mặt nạ đỏ trên tháp phía bắc. Hắn vừa hô lên, ba nữ nhân khác cũng đeo mặt nạ giống hệt, chạy về ba phía.
 
-Sau đó người trong gương tự nâng đóa trà lên dù Vân Cơ không hề cầm nó.
+"Lục Thanh La!"
 
-Khán giả phía dưới ồ lên.
+"Ở phía tây!"
 
-Vân Cơ giật tấm lụa bạc phủ sau khung.
+"Không, vừa xuống dưới kia!" một người khác hét.
 
-Một nữ nhân khác bước ra.
+Mệnh lệnh bắt người truyền qua các tháp rồi rối thành một đám. Kỷ Vô Nhai đứng giữa đài, nhìn những chiếc mặt nạ đỏ xuất hiện trong đám đông.
 
-Nàng đeo khuôn mặt Vân Cơ, mặc y phục giống hệt và đã bắt chước mọi động tác từ phía bên kia.
+"Khóa tất cả cổng."
 
-Chỉ vì góc ánh sáng và lớp gương mỏng, không ai nhận ra đó là một người khác.
+Hạ Tử Khiêm rút lệnh bài Đại Lý Tự. "Không được đóng. Nếu xảy ra cháy, hàng vạn người sẽ giẫm chết nhau."
 
-VÂN CƠ
-Không có phép gì cả.
+"Hạ đại nhân đang giúp phản tặc bỏ trốn sao?"
 
-Nàng tháo khuôn mặt giả khỏi người kia, đưa cho một vị quan ngồi gần xem.
+"Ta đang ngăn Quốc sư giết dân ngay trước cửa cung."
 
-VÂN CƠ
-Người trong gương chỉ cần tập đúng phần của mình. Bên ngoài xảy ra chuyện gì, nàng ta không cần biết.
+Tiếng chuông thứ năm vang lên. Trên đài phía đông, A Yên nhìn từng ngọn đèn hiệu. Một. Hai. Ba. Những ngọn lửa xanh lần lượt chuyển thành đỏ, báo rằng chốt gương đã được mở. Tới ngọn thứ mười một thì dừng. Ngọn thứ mười hai vẫn xanh. A Yên nhìn về tháp cuối cùng. Không thấy người bán hoa xuất hiện.
 
-Không ít người quay nhìn đài trung tâm.
+Tiếng chuông thứ sáu. Ở tháp mười hai, người bán hoa đang bị trói cạnh chân gương. Mộc Dung đứng trước nàng. Người bán hoa cố giật dây nhưng không thoát.
 
-Vân Cơ cũng nhìn về phía tàn ảnh Hoàng đế.
+"Cô định giữ ta tới khi nào?"
 
-VÂN CƠ
-Nếu tập đủ lâu, ngay cả người thân cũng có thể nhìn nhầm.
+"Qua tiếng chuông thứ bảy," Mộc Dung đáp.
 
-KỶ VÔ NHAI
-Màn diễn kết thúc rồi.
+"Sau đó?"
 
-VÂN CƠ
-Chưa.
+"Ta chưa biết."
 
-Tiếng chuông thứ hai vang lên.
+Mộc Dung nhìn xuống quảng trường. Qua lớp mặt nạ, nàng thấy hàng trăm khuôn mặt giống nhau bị ánh đèn kéo dài. Người bán hoa nhận ra bàn tay nàng đang run.
 
-Trên mười hai tháp đèn, những sợi xích bắt đầu chuyển động.
+"Nếu muốn giết ta thì làm nhanh đi. Dây này cứa đau lắm."
 
----
+"Ta không định giết cô," Mộc Dung nói.
 
-## CẢNH 34 — MƯỜI HAI TẤM GƯƠNG
+"Vậy cởi ra."
 
-Ở tháp thứ nhất, người chủ tiệm thuốc đưa cho lính canh một bình rượu pha thuốc ngủ.
+"Cũng không được," Mộc Dung đáp.
 
-Hắn mới uống nửa chén đã gục xuống bàn.
-
-Nàng đỡ đầu hắn đặt ngay ngắn rồi lấy chìa khóa.
-
-Ở tháp thứ ba, người thợ thêu vẫn đang cãi nhau.
-
-THỢ THÊU
-Ngươi đền váy cho ta trước.
-
-LÍNH GÁC
-Ta có giẫm một chút—
-
-Nàng kéo mạnh chiếc khăn trên cổ hắn, siết tới khi hắn ngất đi.
-
-THỢ THÊU
-Một chút của ngươi dài bằng cả bàn chân.
-
-Ở tháp thứ sáu, hai nữ nhân chui ra từ thùng dầu rỗng.
-
-Một người vừa bước ra đã bị chuột chạy qua chân.
-
-Nàng cắn môi để khỏi kêu, giẫm nhầm lên tay người bên cạnh.
-
-Người kia trừng mắt nhưng không dám lên tiếng.
-
-Tiếng chuông thứ ba.
-
-Họ bắt đầu tháo khóa trục.
-
-Mỗi chiếc gương nặng hơn ba người cộng lại. Muốn đảo hướng phải nhả hai chốt sắt rồi dùng dây kéo.
-
-Tiếng chuông thứ tư.
-
-Lính gác phát hiện một người mang mặt nạ đỏ trên tháp phía bắc.
-
-Hắn vừa hô lên, ba nữ nhân khác cũng đeo mặt nạ giống hệt, chạy về ba phía.
-
-“Lục Thanh La!”
-
-“Ở phía tây!”
-
-“Không, vừa xuống dưới kia!”
-
-Mệnh lệnh bắt người truyền qua các tháp rồi rối thành một đám.
-
-Kỷ Vô Nhai đứng giữa đài, nhìn những chiếc mặt nạ đỏ xuất hiện trong đám đông.
-
-KỶ VÔ NHAI
-Khóa tất cả cổng.
-
-Hạ Tử Khiêm rút lệnh bài Đại Lý Tự.
-
-HẠ TỬ KHIÊM
-Không được đóng. Nếu xảy ra cháy, hàng vạn người sẽ giẫm chết nhau.
-
-KỶ VÔ NHAI
-Hạ đại nhân đang giúp phản tặc bỏ trốn?
-
-HẠ TỬ KHIÊM
-Ta đang ngăn Quốc sư giết dân ngay trước cửa cung.
-
-Tiếng chuông thứ năm.
-
-Trên đài phía đông, A Yên nhìn từng ngọn đèn hiệu.
-
-Một.
-
-Hai.
-
-Ba.
-
-Những ngọn lửa xanh lần lượt chuyển thành đỏ, báo rằng chốt gương đã được mở.
-
-Tới ngọn thứ mười một thì dừng.
-
-Ngọn thứ mười hai vẫn xanh.
-
-A Yên nhìn về tháp cuối cùng.
-
-Không thấy người bán hoa xuất hiện.
-
-Tiếng chuông thứ sáu.
-
-Ở tháp mười hai, người bán hoa đang bị trói cạnh chân gương.
-
-Mộc Dung đứng trước nàng.
-
-Người bán hoa cố giật dây nhưng không thoát.
-
-NGƯỜI BÁN HOA
-Cô định giữ ta tới khi nào?
-
-MỘC DUNG
-Qua tiếng chuông thứ bảy.
-
-NGƯỜI BÁN HOA
-Sau đó?
-
-MỘC DUNG
-Ta chưa biết.
-
-Mộc Dung nhìn xuống quảng trường.
-
-Qua lớp mặt nạ, nàng thấy hàng trăm khuôn mặt giống nhau bị ánh đèn kéo dài.
-
-Người bán hoa nhận ra bàn tay nàng đang run.
-
-NGƯỜI BÁN HOA
-Nếu muốn giết ta thì làm nhanh đi. Dây này cứa đau lắm.
-
-MỘC DUNG
-Ta không định giết cô.
-
-NGƯỜI BÁN HOA
-Vậy cởi ra.
-
-MỘC DUNG
-Cũng không được.
-
-NGƯỜI BÁN HOA
-Cô đúng là người khó nói chuyện.
+"Cô đúng là người khó nói chuyện," người bán hoa nói.
 
 Mộc Dung không đáp.
 
-Dưới quảng trường, A Yên nâng dùi trống.
+Dưới quảng trường, A Yên nâng dùi trống. Ba tiếng nhanh, cốc, cốc, cốc. Hai tiếng chậm, cốc, cốc. Mười một nữ nhân đồng loạt kéo dây. Những mặt gương khổng lồ bắt đầu xoay. Tiếng chuông thứ bảy vang lên, và mười một luồng sáng dội ngược về đài trung tâm. Gương thứ mười hai vẫn đứng yên.
 
-Ba tiếng nhanh.
+***
 
-Cốc. Cốc. Cốc.
+Ánh sáng từ mười một hướng đập vào Mẫu Kính. Mặt gương rung dữ dội nhưng chưa thể đảo tàn ảnh. Khuôn mặt Hoàng đế trên rèm méo đi rồi ổn định trở lại. Kỷ Vô Nhai nhìn tháp thứ mười hai.
 
-Hai tiếng chậm.
+"Mộc Dung, giữ trục!" Giọng hắn truyền qua ống đồng lên tháp.
 
-Cốc.
+Vân Cơ lao về phía Mẫu Kính. Hai người đeo mặt nạ đồng chặn nàng. Hạ Tử Khiêm rút đao, dùng vỏ đánh vào đầu gối người thứ nhất. Đường Tiểu Sơn ôm ngang người thứ hai, và cả hai lăn khỏi bậc đài.
 
-Cốc.
+"Đại nhân, lần sau cho thuộc hạ người thấp hơn!" Tiểu Sơn hô.
 
-Mười một nữ nhân đồng loạt kéo dây.
+Vân Cơ nhảy qua giá đèn. Kỷ Vô Nhai kéo một sợi dây thép. Sợi dây căng ngang mặt sàn, quật vào cổ chân nàng, và Vân Cơ ngã xuống. Hắn giẫm lên tay nàng.
 
-Những mặt gương khổng lồ bắt đầu xoay.
+"Cô không mang máu họ Tạ. Chạm vào cũng vô dụng."
 
-Tiếng chuông thứ bảy vang lên.
+"Ta biết," Vân Cơ nói.
 
-Mười một luồng sáng dội ngược về đài trung tâm.
+Nàng rút một mảnh kim loại giấu trong ống tay, cắt thẳng vào lòng bàn tay mình. Kỷ Vô Nhai vừa lùi lại, Vân Cơ đã chộp lấy cổ tay hắn, kéo cả hai sát Mẫu Kính. Hạ Tử Khiêm chặn một nhát dao từ phía sau. Kỷ Vô Nhai đá hắn khỏi bậc đài. Hạ Tử Khiêm xoay người, lưỡi đao quét qua bắp chân trái hắn, và máu thấm xuống ống giày. Kỷ Vô Nhai khựng một nhịp rồi đạp Hạ Tử Khiêm ngã xuống.
 
-Gương thứ mười hai vẫn đứng yên.
+Vân Cơ áp bàn tay chảy máu lên Mẫu Kính. Gương lập tức tối đen. Cả quảng trường như tắt tiếng. Hàng vạn người cùng nín thở nhìn mặt gương đen kịt, và trong bảy nhịp thở, Vân Cơ không còn nghe thấy gì ngoài tiếng tim mình.
 
----
+Tàn ảnh của Tạ Vân Cơ, người chết trong lồng, hiện lên trên mười một mặt gương đã đảo. Nàng không đứng trong lồng. Nàng đang ở phòng chế tác mặt nạ của Mộc Dung. Mộc Dung trong tàn ảnh ngồi quay lưng, mang khuôn mặt Vân Cơ chưa dán xong. Tạ Vân Cơ đặt một chiếc mặt nạ đỏ lên bàn, lật mặt trong lên. Ở đó có khắc số mười hai. Mộc Dung định che lại nhưng Tạ Vân Cơ giữ tay nàng. Tạ Vân Cơ lấy bút viết vào mặt sau một mảnh lụa: Nếu ta không tỉnh, xoay gương. Mộc Dung giật mảnh lụa, vo lại. Tạ Vân Cơ không lấy về. Nàng chỉ đặt bàn tay lên chiếc mặt nạ đang che nửa khuôn mặt Mộc Dung rồi chậm rãi tháo nó xuống. Mộc Dung quay mặt đi. Tạ Vân Cơ đẩy chiếc gương đồng về trước mặt nàng, và trên lớp bụi của bàn, nàng viết hai chữ: Tự chọn.
 
-## CẢNH 35 — GƯƠNG CUỐI CÙNG
+Bảy nhịp kết thúc. Tàn ảnh biến mất khỏi mười một mặt gương. Nhưng luồng sáng đã chạy đến tháp thứ mười hai. Mộc Dung nhìn thấy toàn bộ. Người bán hoa cũng nhìn thấy.
 
-Ánh sáng từ mười một hướng đập vào Mẫu Kính.
+"Nàng ấy biết cô sẽ đổi thuốc sao?" người bán hoa hỏi.
 
-Mặt gương rung dữ dội nhưng chưa thể đảo tàn ảnh.
+"Không."
 
-Khuôn mặt Hoàng đế trên rèm méo đi rồi ổn định trở lại.
+"Vậy mảnh lụa này..."
 
-Kỷ Vô Nhai nhìn tháp thứ mười hai.
+"Nàng chỉ biết Kỷ Vô Nhai sẽ dùng ta," Mộc Dung nói. "Còn ta sẽ nghe hắn tới đâu… nàng không biết."
 
-KỶ VÔ NHAI
-Mộc Dung, giữ trục!
+Mộc Dung đưa tay lên khuôn mặt đang mang. Nàng tìm mép da dưới cằm rồi kéo mạnh. Lớp mặt Vân Cơ bong xuống. Phía dưới là những vết bỏng co rút của nàng. Không còn gì che lại.
 
-Giọng hắn truyền qua ống đồng lên tháp.
+"Vậy bây giờ cô định làm gì?" người bán hoa hỏi.
 
-Vân Cơ lao về phía Mẫu Kính.
+"Làm phần nàng để lại."
 
-Hai người đeo mặt nạ đồng chặn nàng.
+Mộc Dung lấy mảnh kim loại trong tay áo, cắt dây trói cho nàng. Sau đó nàng chộp lấy sợi xích. Ở đài trung tâm, Kỷ Vô Nhai nhìn thấy. Hắn giật cần gạt màu đen dưới Mẫu Kính. Trên tháp mười hai vang lên một tiếng cạch. Mộc Dung quay đầu. Một cây kim bạc bật khỏi khung gương, xuyên vào dưới xương sườn nàng. Cơ thể nàng giật mạnh, và người bán hoa đỡ lấy.
 
-Hạ Tử Khiêm rút đao, dùng vỏ đánh vào đầu gối người thứ nhất. Đường Tiểu Sơn ôm ngang người thứ hai, cả hai lăn khỏi bậc đài.
+"Cô..."
 
-ĐƯỜNG TIỂU SƠN
-Đại nhân, lần sau cho thuộc hạ người thấp hơn!
+Mộc Dung không nói được. Nàng quấn sợi xích quanh cánh tay rồi thả cả người khỏi bậc tháp. Sức nặng cơ thể kéo trục chuyển động. Mặt gương thứ mười hai từ từ xoay lại, và luồng sáng cuối cùng dội về đài trung tâm.
 
-Vân Cơ nhảy qua giá đèn.
+***
 
-Kỷ Vô Nhai kéo một sợi dây thép.
+Mẫu Kính nứt một đường nhỏ ở mép. Vân Cơ lập tức dùng hai tay giữ chặt khung. "Đừng để nó vỡ!"
 
-Sợi dây căng ngang mặt sàn, quật vào cổ chân nàng.
+Mười hai luồng sáng cùng hội tụ. Tàn ảnh Hoàng đế trên rèm bị kéo khỏi người đóng giả. Không còn khuôn mặt che chắn, người phía sau hiện ra rõ ràng. Hắn trẻ hơn Hoàng đế gần mười tuổi, và dưới cổ còn một mảng keo chưa tẩy hết. Bá quan phía dưới đứng bật dậy.
 
-Vân Cơ ngã xuống.
-
-Hắn giẫm lên tay nàng.
-
-KỶ VÔ NHAI
-Cô không mang máu họ Tạ. Chạm vào cũng vô dụng.
-
-VÂN CƠ
-Ta biết.
-
-Nàng rút một mảnh kim loại giấu trong ống tay, cắt thẳng vào lòng bàn tay mình.
-
-Kỷ Vô Nhai vừa lùi lại, Vân Cơ đã chộp lấy cổ tay hắn, kéo cả hai sát Mẫu Kính.
-
-Hạ Tử Khiêm chặn một nhát dao từ phía sau.
-
-Kỷ Vô Nhai đá hắn khỏi bậc đài.
-
-Hạ Tử Khiêm xoay người, lưỡi đao quét qua bắp chân trái hắn.
-
-Máu thấm xuống ống giày.
-
-Kỷ Vô Nhai khựng một nhịp rồi đạp Hạ Tử Khiêm ngã xuống.
-
-Vân Cơ áp bàn tay chảy máu lên Mẫu Kính.
-
-Gương lập tức tối đen.
-
-Âm thanh quanh quảng trường biến mất.
-
-Không phải mọi người ngừng la hét.
-
-Chỉ là Mẫu Kính đã nuốt hết tiếng động trong bảy nhịp thở.
-
-Tàn ảnh Tạ Vân Cơ hiện lên trên mười một mặt gương đã đảo.
-
-Nàng không đứng trong lồng.
-
-Nàng đang ở phòng chế tác mặt nạ của Mộc Dung.
-
-Mộc Dung trong tàn ảnh ngồi quay lưng, mang khuôn mặt Vân Cơ chưa dán xong.
-
-Tạ Vân Cơ đặt một chiếc mặt nạ đỏ lên bàn.
-
-Nàng lật mặt trong lên.
-
-Ở đó có khắc số mười hai.
-
-Mộc Dung định che lại nhưng Tạ Vân Cơ giữ tay nàng.
-
-Tạ Vân Cơ lấy bút viết vào mặt sau một mảnh lụa:
-
-**NẾU TA KHÔNG TỈNH — XOAY GƯƠNG.**
-
-Mộc Dung giật mảnh lụa, vo lại.
-
-Tạ Vân Cơ không lấy về.
-
-Nàng chỉ đặt bàn tay lên chiếc mặt nạ đang che nửa khuôn mặt Mộc Dung rồi chậm rãi tháo nó xuống.
-
-Mộc Dung quay mặt đi.
-
-Tạ Vân Cơ đẩy chiếc gương đồng về trước mặt nàng.
-
-Trên lớp bụi của bàn, nàng viết hai chữ:
-
-**TỰ CHỌN.**
-
-Bảy nhịp kết thúc.
-
-Tàn ảnh biến mất khỏi mười một mặt gương.
-
-Nhưng luồng sáng đã chạy đến tháp thứ mười hai.
-
-Mộc Dung nhìn thấy toàn bộ.
-
-Người bán hoa cũng nhìn thấy.
-
-NGƯỜI BÁN HOA
-Nàng ấy biết cô sẽ đổi thuốc?
-
-MỘC DUNG
-Không.
-
-NGƯỜI BÁN HOA
-Vậy mảnh lụa này—
-
-MỘC DUNG
-Nàng chỉ biết Kỷ Vô Nhai sẽ dùng ta. Còn ta sẽ nghe hắn tới đâu… nàng không biết.
-
-Mộc Dung đưa tay lên khuôn mặt đang mang.
-
-Nàng tìm mép da dưới cằm rồi kéo mạnh.
-
-Lớp mặt Vân Cơ bong xuống.
-
-Phía dưới là những vết bỏng co rút của nàng.
-
-Không còn gì che lại.
-
-NGƯỜI BÁN HOA
-Vậy bây giờ cô định làm gì?
-
-MỘC DUNG
-Làm phần nàng để lại.
-
-Mộc Dung lấy mảnh kim loại trong tay áo, cắt dây trói cho nàng.
-
-Sau đó nàng chộp lấy sợi xích.
-
-Ở đài trung tâm, Kỷ Vô Nhai nhìn thấy.
-
-Hắn giật cần gạt màu đen dưới Mẫu Kính.
-
-Trên tháp mười hai vang lên một tiếng cạch.
-
-Mộc Dung quay đầu.
-
-Một cây kim bạc bật khỏi khung gương, xuyên vào dưới xương sườn nàng.
-
-Cơ thể nàng giật mạnh.
-
-Người bán hoa đỡ lấy.
-
-NGƯỜI BÁN HOA
-Cô—
-
-Mộc Dung không nói được.
-
-Nàng quấn sợi xích quanh cánh tay rồi thả cả người khỏi bậc tháp.
-
-Sức nặng cơ thể kéo trục chuyển động.
-
-Mặt gương thứ mười hai từ từ xoay lại.
-
-Luồng sáng cuối cùng dội về đài trung tâm.
-
----
-
-## CẢNH 36 — NHỮNG GÌ MẪU KÍNH ĐÃ THẤY
-
-Mẫu Kính nứt một đường nhỏ ở mép.
-
-Vân Cơ lập tức dùng hai tay giữ chặt khung.
-
-VÂN CƠ
-Đừng để nó vỡ!
-
-Mười hai luồng sáng cùng hội tụ.
-
-Tàn ảnh Hoàng đế trên rèm bị kéo khỏi người đóng giả.
-
-Không còn khuôn mặt che chắn, người phía sau hiện ra rõ ràng.
-
-Hắn trẻ hơn Hoàng đế gần mười tuổi. Dưới cổ còn một mảng keo chưa tẩy hết.
-
-Bá quan phía dưới đứng bật dậy.
-
-HOÀNG ĐẾ GIẢ
-Hộ giá!
+"Hộ giá!" người đóng giả hô.
 
 Không ai biết nên tiến lên hay lùi lại.
 
-Mẫu Kính chuyển từ đen sang trắng.
+Mẫu Kính chuyển từ đen sang trắng. Một căn phòng khác hiện lên trên lớp mây phía trên quảng trường. Phí Kinh Hồng thật đang ngồi trước bàn. Kỷ Vô Nhai đứng sau lưng ông, không mang mặt nạ. Khuôn mặt hắn cháy hỏng, một bên môi không thể khép kín. Phí Kinh Hồng vừa quay lại, Kỷ Vô Nhai đã siết dây quanh cổ ông.
 
-Một căn phòng khác hiện lên trên lớp mây phía trên quảng trường.
+Hình ảnh đổi đi. Kỷ Vô Nhai ngồi trước thi thể Phí Kinh Hồng, đặt từng lớp lụa tằm lên mặt mình. Khi ngẩng lên, trong gương đã là khuôn mặt Quốc sư. Một tiếng xôn xao tràn khắp quảng trường.
 
-Phí Kinh Hồng thật đang ngồi trước bàn.
+Kỷ Vô Nhai rút dao, lao tới Mẫu Kính. Hạ Tử Khiêm chặn lại, và hai người va vào giá đồng.
 
-Kỷ Vô Nhai đứng sau lưng ông.
+Hình ảnh trên trời tiếp tục thay đổi. Cố Bách Xảo bị giữ hai tay trên bàn. Kỷ Vô Nhai mang mặt Phí Kinh Hồng, ép ngón tay ông xuống lời khai kết tội Tạ gia. Trước khi đóng dấu, hắn gắn thêm ngón thứ sáu bằng gỗ.
 
-Không mang mặt nạ.
+Tàn ảnh thứ ba xuất hiện. Hoàng đế thật đang uống trà trong tẩm điện. Kỷ Vô Nhai đứng phía sau dưới thân phận Quốc sư. Hắn nhỏ Hàn Thiền vào bình trà rồi đưa mắt ra hiệu cho một người đàn ông mặc long bào chờ sau tấm rèm.
 
-Khuôn mặt hắn cháy hỏng, một bên môi không thể khép kín.
+Tàn ảnh cuối cùng là phòng hóa trang La Sinh Đài. Mộc Dung đổi thuốc trong lọ. Kỷ Vô Nhai đứng ngoài cửa nhìn nàng làm. Tạ Vân Cơ bước vào sau khi hắn rời đi. Không ai còn có thể nói cái chết trong lồng là tai nạn.
 
-Phí Kinh Hồng vừa quay lại, Kỷ Vô Nhai đã siết dây quanh cổ ông.
+Kỷ Vô Nhai chém vào cổ Hạ Tử Khiêm. Hạ Tử Khiêm ngửa người tránh, và lưỡi dao chỉ cắt đứt sợi dây buộc cuốn sổ trên cổ tay hắn. Cuốn sổ rơi xuống. Kỷ Vô Nhai giẫm lên nó.
 
-Hình ảnh đổi đi.
+"Ngươi không nhớ gì mà cũng dám tin nàng sao?"
 
-Kỷ Vô Nhai ngồi trước thi thể Phí Kinh Hồng, đặt từng lớp lụa tằm lên mặt mình. Khi ngẩng lên, trong gương đã là khuôn mặt Quốc sư.
+Hạ Tử Khiêm nhìn Vân Cơ đang ôm Mẫu Kính. "Ba ngày qua ta thấy đủ rồi."
 
-Một tiếng xôn xao tràn khắp quảng trường.
+Hắn dùng trán đập vào mặt Kỷ Vô Nhai. Lớp da Phí Kinh Hồng rách từ sống mũi. Kỷ Vô Nhai lùi lại, kéo một viên khói khỏi tay áo.
 
-Kỷ Vô Nhai rút dao, lao tới Mẫu Kính.
+Một giọng yếu ớt vang lên ở cổng bắc. "Bắt hắn."
 
-Hạ Tử Khiêm chặn lại.
+Giọng không lớn. Người gần nhất phải im xuống mới nghe rõ.
 
-Hai người va vào giá đồng.
+Tô Mạn bước vào trước. Một tay nàng giữ hộp thuốc, tay kia đỡ người đàn ông mặc áo choàng xám. Hoàng đế thật chưa thể tự đứng vững. Mặt ông trắng bệch, môi còn tím. Cố Bách Xảo được khiêng phía sau. A Yên nhìn thấy ông, bàn tay trên dùi trống run lên.
 
-Hình ảnh trên trời tiếp tục thay đổi.
+Hoàng đế giả trên đài nhìn người vừa xuất hiện. "Hắn mới là giả! Bắt..."
 
-Cố Bách Xảo bị giữ hai tay trên bàn. Kỷ Vô Nhai mang mặt Phí Kinh Hồng, ép ngón tay ông xuống lời khai kết tội Tạ gia.
+Tô Mạn cắt ngang. "Ngươi im đi. Ta mất hai ngày mới giữ được một người sống. Không rảnh nghe thêm người thứ hai."
 
-Trước khi đóng dấu, hắn gắn thêm ngón thứ sáu bằng gỗ.
+Hoàng đế thật nhìn Hạ Tử Khiêm. "Mật chỉ đâu?"
 
-Tàn ảnh thứ ba xuất hiện.
+Hạ Tử Khiêm nhặt ống đồng dưới đất, đưa sang. Hoàng đế bẻ niêm phong. Bên trong không có thánh chỉ. Chỉ là một tờ giấy trắng. Ông nhìn một lát rồi bật ra một tiếng cười rất khẽ, sau đó ho đến cong người.
 
-Hoàng đế thật đang uống trà trong tẩm điện.
-
-Kỷ Vô Nhai đứng phía sau dưới thân phận Quốc sư. Hắn nhỏ Hàn Thiền vào bình trà rồi đưa mắt ra hiệu cho một người đàn ông mặc long bào chờ sau tấm rèm.
-
-Tàn ảnh cuối cùng là phòng hóa trang La Sinh Đài.
-
-Mộc Dung đổi thuốc trong lọ.
-
-Kỷ Vô Nhai đứng ngoài cửa nhìn nàng làm.
-
-Tạ Vân Cơ bước vào sau khi hắn rời đi.
-
-Không ai còn có thể nói cái chết trong lồng là tai nạn.
-
-Kỷ Vô Nhai chém vào cổ Hạ Tử Khiêm.
-
-Hạ Tử Khiêm ngửa người tránh. Lưỡi dao chỉ cắt đứt sợi dây buộc cuốn sổ trên cổ tay hắn.
-
-Cuốn sổ rơi xuống.
-
-Kỷ Vô Nhai giẫm lên nó.
-
-KỶ VÔ NHAI
-Ngươi không nhớ gì mà cũng dám tin nàng?
-
-Hạ Tử Khiêm nhìn Vân Cơ đang ôm Mẫu Kính.
-
-HẠ TỬ KHIÊM
-Ba ngày qua ta thấy đủ rồi.
-
-Hắn dùng trán đập vào mặt Kỷ Vô Nhai.
-
-Lớp da Phí Kinh Hồng rách từ sống mũi.
-
-Kỷ Vô Nhai lùi lại, kéo một viên khói khỏi tay áo.
-
-Một giọng yếu ớt vang lên ở cổng bắc:
-
-HOÀNG ĐẾ
-Bắt hắn.
-
-Giọng không lớn.
-
-Người gần nhất phải im xuống mới nghe rõ.
-
-Tô Mạn bước vào trước.
-
-Một tay nàng giữ hộp thuốc, tay kia đỡ người đàn ông mặc áo choàng xám.
-
-Hoàng đế thật chưa thể tự đứng vững. Mặt ông trắng bệch, môi còn tím.
-
-Cố Bách Xảo được khiêng phía sau.
-
-A Yên nhìn thấy ông, bàn tay trên dùi trống run lên.
-
-Hoàng đế giả trên đài nhìn người vừa xuất hiện.
-
-HOÀNG ĐẾ GIẢ
-Hắn mới là giả! Bắt—
-
-Tô Mạn cắt ngang.
-
-TÔ MẠN
-Ngươi im đi. Ta mất hai ngày mới giữ được một người sống. Không rảnh nghe thêm người thứ hai.
-
-Hoàng đế thật nhìn Hạ Tử Khiêm.
-
-HOÀNG ĐẾ
-Mật chỉ đâu?
-
-Hạ Tử Khiêm nhặt ống đồng dưới đất, đưa sang.
-
-Hoàng đế bẻ niêm phong.
-
-Bên trong không có thánh chỉ.
-
-Chỉ là một tờ giấy trắng.
-
-Ông nhìn một lát rồi bật ra một tiếng cười rất khẽ, sau đó ho đến cong người.
-
-HOÀNG ĐẾ
-Trẫm chưa từng viết thứ này.
+"Trẫm chưa từng viết thứ này."
 
 Trong hàng bá quan, một vị lão thần quỳ sụp xuống. Phía sau ông, có người lặng lẽ lau mắt. Những người còn lại chỉ nhìn nhau, không ai dám lên tiếng.
 
-HẠ TỬ KHIÊM
-Thần biết.
+"Thần biết," Hạ Tử Khiêm nói.
 
-HOÀNG ĐẾ
-Lần sau làm giả… ít nhất viết vài chữ.
+"Lần sau làm giả… ít nhất viết vài chữ."
 
-TÔ MẠN
-Không có lần sau.
+"Không có lần sau," Tô Mạn nói. Nàng kéo áo choàng kín hơn quanh vai ông.
 
-Nàng kéo áo choàng kín hơn quanh vai ông.
+Đám thị vệ nhìn nhau. Người thống lĩnh cấm quân quỳ xuống trước Hoàng đế thật. Những người còn lại lần lượt hạ vũ khí.
 
-Đám thị vệ nhìn nhau.
+Kỷ Vô Nhai ném viên khói xuống đất. Khói bạc tràn qua đài. Từ các cửa phụ, sáu người mang khuôn mặt Phí Kinh Hồng chạy ra sáu hướng, tất cả mặc áo tím giống nhau. Hạ Tử Khiêm nhắm mắt. Hắn nghe tiếng chân dẫm lên bậc gỗ. Năm người chạy đều. Một người kéo nhẹ chân trái. Sột. Cộp. Sột. Đó là người vừa bị chém vào bắp chân.
 
-Người thống lĩnh cấm quân quỳ xuống trước Hoàng đế thật.
+Hạ Tử Khiêm xoay người, ném vỏ đao vào hướng đông nam. Vỏ đao đập trúng sau gối một người áo tím, và hắn ngã xuống. Lớp mặt Phí Kinh Hồng trượt khỏi cằm. Đường Tiểu Sơn lao tới, ngồi thẳng lên lưng hắn.
 
-Những người còn lại lần lượt hạ vũ khí.
+"Lần này thuộc hạ chọn đúng người thấp hơn rồi!"
 
-Kỷ Vô Nhai ném viên khói xuống đất.
+Hạ Tử Khiêm khóa hai tay Kỷ Vô Nhai. Kỷ Vô Nhai vẫn cười. Hắn giật lớp mặt Phí Kinh Hồng xuống. Phía dưới là khuôn mặt của một viên thị vệ. Hắn lại kéo, và khuôn mặt thứ hai rời ra. Một thương nhân. Khuôn mặt thứ ba. Một ông lão. Từng lớp da mỏng rơi xuống sàn. Cuối cùng chỉ còn gương mặt thật đã cháy hỏng.
 
-Khói bạc tràn qua đài.
+"Ngươi định ghi tên nào vào hồ sơ?" Kỷ Vô Nhai hỏi.
 
-Từ các cửa phụ, sáu người mang khuôn mặt Phí Kinh Hồng chạy ra sáu hướng.
+Hạ Tử Khiêm nhặt cuốn sổ lên, phủi dấu giày khỏi bìa. "Kỷ Vô Nhai."
 
-Tất cả mặc áo tím giống nhau.
+"Dựa vào đâu?"
 
-Hạ Tử Khiêm nhắm mắt.
+"Nếu tên sai thì sửa sau." Hắn siết khóa sắt. "Trước mắt cứ tính tội giả mạo Quốc sư, đầu độc Hoàng đế, giết Phí Kinh Hồng, giết Tạ Vân Cơ và vừa dùng cơ quan mưu sát Mộc Dung."
 
-Tiếng chân dẫm lên bậc gỗ.
+Nụ cười trên mặt Kỷ Vô Nhai tắt đi. Hạ Tử Khiêm nhìn về tháp thứ mười hai.
 
-Năm người chạy đều.
+***
 
-Một người kéo nhẹ chân trái.
+Vân Cơ chạy lên tháp mười hai. A Yên đã tới trước nàng. Mộc Dung nằm dựa vào chân gương, cây kim bạc vẫn cắm dưới xương sườn. Người bán hoa dùng hai tay giữ vết thương, nhưng máu vẫn tràn qua các kẽ ngón. Vân Cơ quỳ xuống.
 
-Sột.
+"Đừng rút kim."
 
-Cộp.
+"Ta… biết," Mộc Dung đáp. Giọng nàng chỉ còn là hơi thở.
 
-Sột.
+Vân Cơ kiểm tra mạch. Mộc Dung nhìn bàn tay nàng. "Đừng làm mặt ấy."
 
-Kỷ Vô Nhai vừa bị chém vào bắp chân.
+"Mặt ta làm sao?"
 
-Hạ Tử Khiêm xoay người, ném vỏ đao vào hướng đông nam.
-
-Vỏ đao đập trúng sau gối một người áo tím.
-
-Hắn ngã xuống.
-
-Lớp mặt Phí Kinh Hồng trượt khỏi cằm.
-
-Đường Tiểu Sơn lao tới, ngồi thẳng lên lưng hắn.
-
-ĐƯỜNG TIỂU SƠN
-Lần này thuộc hạ chọn đúng người thấp hơn rồi!
-
-Hạ Tử Khiêm khóa hai tay Kỷ Vô Nhai.
-
-Kỷ Vô Nhai vẫn cười.
-
-Hắn giật lớp mặt Phí Kinh Hồng xuống.
-
-Phía dưới là khuôn mặt của một viên thị vệ.
-
-Hắn lại kéo.
-
-Khuôn mặt thứ hai rời ra.
-
-Một thương nhân.
-
-Khuôn mặt thứ ba.
-
-Một ông lão.
-
-Từng lớp da mỏng rơi xuống sàn.
-
-Cuối cùng chỉ còn gương mặt thật đã cháy hỏng.
-
-KỶ VÔ NHAI
-Ngươi định ghi tên nào vào hồ sơ?
-
-Hạ Tử Khiêm nhặt cuốn sổ lên, phủi dấu giày khỏi bìa.
-
-HẠ TỬ KHIÊM
-Kỷ Vô Nhai.
-
-KỶ VÔ NHAI
-Dựa vào đâu?
-
-HẠ TỬ KHIÊM
-Nếu tên sai thì sửa sau.
-
-Hắn siết khóa sắt.
-
-HẠ TỬ KHIÊM
-Trước mắt cứ tính tội giả mạo Quốc sư, đầu độc Hoàng đế, giết Phí Kinh Hồng, giết Tạ Vân Cơ và vừa dùng cơ quan mưu sát Mộc Dung.
-
-Nụ cười trên mặt Kỷ Vô Nhai tắt đi.
-
-Hạ Tử Khiêm nhìn về tháp thứ mười hai.
-
----
-
-## CẢNH 37 — KHUÔN MẶT MỘC DUNG
-
-Vân Cơ chạy lên tháp mười hai.
-
-A Yên đã tới trước nàng.
-
-Mộc Dung nằm dựa vào chân gương. Cây kim bạc vẫn cắm dưới xương sườn.
-
-Người bán hoa dùng hai tay giữ vết thương nhưng máu vẫn tràn qua các kẽ ngón.
-
-Vân Cơ quỳ xuống.
-
-VÂN CƠ
-Đừng rút kim.
-
-MỘC DUNG
-Ta… biết.
-
-Giọng nàng chỉ còn là hơi thở.
-
-Vân Cơ kiểm tra mạch.
-
-Mộc Dung nhìn bàn tay nàng.
-
-MỘC DUNG
-Đừng làm mặt ấy.
-
-VÂN CƠ
-Mặt ta làm sao?
-
-MỘC DUNG
-Giống sư phụ cô.
+"Giống sư phụ cô."
 
 Vân Cơ không hỏi nàng đang nói Cố Bách Xảo hay Tạ Vân Cơ.
 
-Mộc Dung lấy trong áo ra một mảnh lụa gấp nhỏ. Máu trên tay làm nó dính lại.
+Mộc Dung lấy trong áo ra một mảnh lụa gấp nhỏ. Máu trên tay làm nó dính lại. "Nàng đưa trước buổi diễn."
 
-MỘC DUNG
-Nàng đưa trước buổi diễn.
+"Tạ Vân Cơ?" Vân Cơ hỏi.
 
-VÂN CƠ
-Tạ Vân Cơ?
+Mộc Dung gật. "Dặn nếu nàng không tỉnh… đưa cho cô."
 
-Mộc Dung gật.
+"Tại sao cô giữ tới bây giờ?"
 
-MỘC DUNG
-Dặn nếu nàng không tỉnh… đưa cho cô.
+"Ta tưởng mình còn đường khác." Nàng nhìn lớp mặt Vân Cơ bị vứt gần đó. "Hắn hứa sau Vạn Đăng Yến sẽ cho ta một khuôn mặt không bao giờ bong."
 
-VÂN CƠ
-Tại sao cô giữ tới bây giờ?
+"Cô tin hắn?"
 
-MỘC DUNG
-Ta tưởng mình còn đường khác.
+"Không." Mộc Dung thở đứt một nhịp. "Nhưng ta muốn tin."
 
-Nàng nhìn lớp mặt Vân Cơ bị vứt gần đó.
+A Yên kéo khăn định phủ lên nửa mặt bỏng của nàng. Mộc Dung giữ cổ tay A Yên. "Để nguyên."
 
-MỘC DUNG
-Hắn hứa sau Vạn Đăng Yến sẽ cho ta một khuôn mặt không bao giờ bong.
+A Yên dừng lại. Mộc Dung nhìn vào mặt gương thứ mười hai. Trong đó chỉ có khuôn mặt thật của nàng. Không có lớp da nào khác.
 
-VÂN CƠ
-Cô tin hắn?
+"Ít nhất lần này… người chết là ta."
 
-MỘC DUNG
-Không.
+Bàn tay nàng buông khỏi A Yên. Người bán hoa áp ngón tay vào cổ nàng rồi từ từ rút lại. A Yên cúi đầu.
 
-Mộc Dung thở đứt một nhịp.
+Vân Cơ mở mảnh lụa. Nét chữ của Tạ Vân Cơ nghiêng sang phải, cuối mỗi hàng đều kéo dài thêm một nét. Tỷ tỷ. Nếu kế hoạch hỏng, đừng cứu cái tên của ta. Cứu những người còn sống. Dòng cuối viết nhỏ hơn: Lần này hãy để ta tự chọn mình là ai.
 
-MỘC DUNG
-Nhưng ta muốn tin.
+Vân Cơ đọc lại từ đầu. Nàng biết nét chữ ấy. Biết người viết thường cắn đuôi bút khi nghĩ. Biết nàng ta không bao giờ chờ mực khô, vì vậy tay áo luôn dính một vệt đen. Nhưng khi cố nhớ khuôn mặt người ấy, Vân Cơ không tìm thấy một hình ảnh hoàn chỉnh. Nàng nhớ hạt ngọc bên tai trái. Nhớ bàn tay phải cố ý co ngón út. Nhớ mái tóc bị thuốc ăn mất màu. Mắt, mũi, khóe miệng thì không.
 
-A Yên kéo khăn định phủ lên nửa mặt bỏng của nàng.
+Vân Cơ đưa tay lên má mình, thử bắt đầu từ đôi mắt rồi ghép dần xuống sống mũi. Nhưng mỗi nét vừa hiện ra đã biến thành một khuôn mặt khác. Mặt nàng. Mặt Mộc Dung. Những lớp da nằm dưới chân tháp. Sau tất cả chỉ còn một khoảng trắng.
 
-Mộc Dung giữ cổ tay A Yên.
+A Yên nhận ra trước. Nàng lấy bảng gỗ, nhưng cầm than rất lâu mà không viết.
 
-MỘC DUNG
-Để nguyên.
+"Ta quên mặt nàng rồi," Vân Cơ nói.
 
-A Yên dừng lại.
+A Yên lắc đầu thật mạnh, như thể chỉ cần không chấp nhận thì ký ức ấy vẫn còn ở đâu đó. Nàng vẽ một đường cong trên bảng. Xóa đi. Vẽ lại đôi mắt. Lại xóa. Cuối cùng mặt bảng chỉ còn một mảng than đen. Vân Cơ giữ tay nàng.
 
-Mộc Dung nhìn vào mặt gương thứ mười hai.
+"Không cần đâu."
 
-Trong đó chỉ có khuôn mặt thật của nàng.
+Hạ Tử Khiêm lên tới nơi. Hắn nhìn Mộc Dung rồi nhìn mảnh lụa trong tay Vân Cơ. "Mẫu Kính lấy gì?"
 
-Không có lớp da nào khác.
+"Mặt nàng."
 
-MỘC DUNG
-Ít nhất lần này… người chết là ta.
-
-Bàn tay nàng buông khỏi A Yên.
-
-Người bán hoa áp ngón tay vào cổ nàng rồi từ từ rút lại.
-
-A Yên cúi đầu.
-
-Vân Cơ mở mảnh lụa.
-
-Nét chữ của Tạ Vân Cơ nghiêng sang phải, cuối mỗi hàng đều kéo dài thêm một nét.
-
-**TỶ TỶ,**
-
-**NẾU KẾ HOẠCH HỎNG, ĐỪNG CỨU CÁI TÊN CỦA TA.**
-
-**CỨU NHỮNG NGƯỜI CÒN SỐNG.**
-
-Dòng cuối viết nhỏ hơn:
-
-**LẦN NÀY HÃY ĐỂ TA TỰ CHỌN MÌNH LÀ AI.**
-
-Vân Cơ đọc lại từ đầu.
-
-Nàng biết nét chữ ấy.
-
-Biết người viết thường cắn đuôi bút khi nghĩ.
-
-Biết nàng ta không bao giờ chờ mực khô, vì vậy tay áo luôn dính một vệt đen.
-
-Nhưng khi cố nhớ khuôn mặt người ấy, Vân Cơ không tìm thấy một hình ảnh hoàn chỉnh.
-
-Nàng nhớ hạt ngọc bên tai trái.
-
-Nhớ bàn tay phải cố ý co ngón út.
-
-Nhớ mái tóc bị thuốc ăn mất màu.
-
-Mắt, mũi, khóe miệng thì không.
-
-Vân Cơ đưa tay lên má mình, thử bắt đầu từ đôi mắt rồi ghép dần xuống sống mũi. Nhưng mỗi nét vừa hiện ra đã biến thành một khuôn mặt khác.
-
-Mặt nàng.
-
-Mặt Mộc Dung.
-
-Những lớp da nằm dưới chân tháp.
-
-Sau tất cả chỉ còn một khoảng trắng.
-
-A Yên nhận ra trước.
-
-Nàng lấy bảng gỗ, nhưng cầm than rất lâu mà không viết.
-
-
-VÂN CƠ
-Ta quên mặt nàng rồi.
-
-A Yên lắc đầu thật mạnh, như thể chỉ cần không chấp nhận thì ký ức ấy vẫn còn ở đâu đó.
-
-Nàng vẽ một đường cong trên bảng.
-
-Xóa đi.
-
-Vẽ lại đôi mắt.
-
-Lại xóa.
-
-Cuối cùng mặt bảng chỉ còn một mảng than đen.
-
-Vân Cơ giữ tay nàng.
-
-VÂN CƠ
-Không cần đâu.
-
-Hạ Tử Khiêm lên tới nơi.
-
-Hắn nhìn Mộc Dung rồi nhìn mảnh lụa trong tay Vân Cơ.
-
-HẠ TỬ KHIÊM
-Mẫu Kính lấy gì?
-
-VÂN CƠ
-Mặt nàng.
-
-Hạ Tử Khiêm mở cuốn sổ.
-
-Trong đó có hàng chục chuyện về Tạ Vân Cơ.
-
-Không trang nào tả khuôn mặt.
-
-Hắn khép lại.
+Hạ Tử Khiêm mở cuốn sổ. Trong đó có hàng chục chuyện về Tạ Vân Cơ. Không trang nào tả khuôn mặt. Hắn khép lại.
 
 Không ai nói rằng rồi nàng sẽ nhớ.
 
----
+***
 
-## CẢNH 38 — NHỮNG CÁI TÊN ĐƯỢC TRẢ LẠI
+Kỷ Vô Nhai bị giam trong căn phòng không có gương. Bát nước cũng làm bằng đất nung sẫm màu. Đến đai khóa trên cửa cũng được phủ một lớp than để không phản chiếu mặt người. Ba lần hắn khai ba tên khác nhau. Hạ Tử Khiêm ghi cả ba rồi gạch đi. Trong hồ sơ cuối cùng chỉ giữ tên Kỷ Vô Nhai.
 
-Kỷ Vô Nhai bị giam trong căn phòng không có gương.
+Hai mươi bốn năm giả làm Quốc sư để lại quá nhiều dấu vết. Người giữ cửa, thợ làm mặt nạ, những người từng bị thay thân phận và tàn ảnh từ Mẫu Kính lần lượt trở thành chứng cứ. Kỷ Vô Nhai không còn khuôn mặt nào để bước ra khỏi ngục.
 
-Bát nước cũng làm bằng đất nung sẫm màu. Đến đai khóa trên cửa cũng được phủ một lớp than để không phản chiếu mặt người.
+Hoàng đế mất gần một tháng mới có thể tự đi hết một hành lang. Ngày đầu trở lại triều, ông chỉ ngồi được nửa canh giờ. Tô Mạn đứng sau rèm, thấy môi ông chuyển tím liền cho người dừng buổi chầu. Sau đó Hoàng đế cho gọi nàng vào tẩm điện.
 
-Ba lần hắn khai ba tên khác nhau.
+"Trẫm đã chuẩn bị chiếu khôi phục phong hiệu Chiêu Hòa."
 
-Hạ Tử Khiêm ghi cả ba rồi gạch đi.
+"Đừng ban," Tô Mạn nói.
 
-Trong hồ sơ cuối cùng chỉ giữ tên Kỷ Vô Nhai.
+"Hoàng tỷ..."
 
-Mười sáu năm giả làm Quốc sư để lại quá nhiều dấu vết. Người giữ cửa, thợ làm mặt nạ, những người từng bị thay thân phận và tàn ảnh từ Mẫu Kính lần lượt trở thành chứng cứ.
+"Người mang tên ấy đã chết vì đậu mùa. Hồ sơ ghi rất rõ," Tô Mạn đáp.
 
-Kỷ Vô Nhai không còn khuôn mặt nào để bước ra khỏi ngục.
+"Tỷ muốn ta sửa hồ sơ nào thì nói," Hoàng đế nói.
 
-Hoàng đế mất gần một tháng mới có thể tự đi hết một hành lang.
+Tô Mạn đặt chén thuốc trước mặt ông. "Ta muốn làm ngỗ tác."
 
-Ngày đầu trở lại triều, ông chỉ ngồi được nửa canh giờ. Tô Mạn đứng sau rèm, thấy môi ông chuyển tím liền cho người dừng buổi chầu.
+Hoàng đế nhìn chén thuốc đen ngòm. "Không thể vừa làm công chúa vừa làm ngỗ tác sao?"
 
-Sau đó Hoàng đế cho gọi nàng vào tẩm điện.
+"Có thể." Nàng đẩy chén lại gần. "Nhưng làm công chúa thì không cần."
 
-HOÀNG ĐẾ
-Trẫm đã chuẩn bị chiếu khôi phục phong hiệu Chiêu Hòa.
+Hoàng đế khẽ cười, nhưng ánh mắt lại rất mệt mỏi. Ông nhìn chén thuốc, như thể trong đó phản chiếu cả những năm tháng đã mất.
 
-TÔ MẠN
-Đừng ban.
+"Uống hết," Tô Mạn nói.
 
-HOÀNG ĐẾ
-Hoàng tỷ—
+"Tỷ vẫn nói chuyện với trẫm như trước."
 
-TÔ MẠN
-Người mang tên ấy đã chết vì đậu mùa. Hồ sơ ghi rất rõ.
+"Vậy mới mau khỏe."
 
-HOÀNG ĐẾ
-Tỷ muốn ta sửa hồ sơ nào thì nói.
+Chiếu khôi phục phong hiệu không được ban. Trong hồ sơ Đại Lý Tự, nàng vẫn là Tô Mạn.
 
-Tô Mạn đặt chén thuốc trước mặt ông.
+Hai mươi bảy nữ nhân trong Hoán Danh Phổ được gọi tới để xác nhận thân phận. Một viên quan đề nghị trả họ về tên cũ. Người thợ thêu đứng lên trước.
 
-TÔ MẠN
-Ta muốn làm ngỗ tác.
+"Tên cũ của ta nằm chung mộ với nhà chồng rồi. Đại nhân thích thì tự đào lên mà trả."
 
-Hoàng đế nhìn chén thuốc đen ngòm.
+Cuối cùng, triều đình cấp giấy hộ tịch mới theo tên họ đang sử dụng. Không ai bị buộc quay về căn nhà mình từng bỏ trốn.
 
-HOÀNG ĐẾ
-Không thể vừa làm công chúa vừa làm ngỗ tác?
+Cố Bách Xảo được miễn tội vì lời khai năm xưa được ký trong lúc bị ép buộc. Ông không dựng lại Vô Tướng Ban. Ông thuê một căn nhà nhỏ phía sau Thủy Nguyệt Các, nhận dạy bọn trẻ không nơi nương tựa làm cơ quan sân khấu. Ngày đầu có bảy đứa tới. Ngày thứ hai còn sáu. Một đứa bị ông gõ thước vào tay vì tháo bánh xe khỏi ghế của Tô Mạn, sợ quá không dám quay lại. A Yên đi tìm, xách nó về vào buổi chiều.
 
-TÔ MẠN
-Có thể.
+Còn Vân Cơ bị thẩm vấn về hai mươi bảy vụ giả chết, sửa hộ tịch và che giấu người bị truy tìm. Hạ Tử Khiêm đọc danh sách tội mất gần một khắc. Vân Cơ ngồi đối diện, nghe tới giữa thì rót trà uống.
 
-Nàng đẩy chén lại gần.
+"Cô có nghe không?" Hạ Tử Khiêm hỏi.
 
-TÔ MẠN
-Nhưng làm công chúa thì không cần.
+"Có."
 
-Hoàng đế khẽ cười, nhưng ánh mắt lại rất mệt mỏi. Ông nhìn chén thuốc đen ngòm, như thể trong đó phản chiếu cả những năm tháng đã mất.
+"Không định giải thích?"
 
-TÔ MẠN
-Uống hết.
+"Đại nhân đã đọc hết đâu," Vân Cơ đáp.
 
-HOÀNG ĐẾ
-Tỷ vẫn nói chuyện với trẫm như trước.
+Hạ Tử Khiêm nhìn phần giấy còn lại. "Còn mười ba vụ."
 
-TÔ MẠN
-Vậy mới mau khỏe.
+"Vậy đọc tiếp đi."
 
-Chiếu khôi phục phong hiệu không được ban.
+Sau cùng, Hoàng đế xá miễn phần lớn tội danh vì những người được đổi tên đều là nạn nhân đang bị đe dọa tính mạng. Riêng khoản làm giả ấn quan phủ, Vân Cơ phải nộp phạt. Đường Tiểu Sơn nhìn con số.
 
-Trong hồ sơ Đại Lý Tự, nàng vẫn là Tô Mạn.
-
-Hai mươi bảy nữ nhân trong Hoán Danh Phổ được gọi tới để xác nhận thân phận.
-
-Một viên quan đề nghị trả họ về tên cũ.
-
-Người thợ thêu đứng lên trước.
-
-THỢ THÊU
-Tên cũ của ta nằm chung mộ với nhà chồng rồi. Đại nhân thích thì tự đào lên mà trả.
-
-Cuối cùng, triều đình cấp giấy hộ tịch mới theo tên họ đang sử dụng.
-
-Không ai bị buộc quay về căn nhà mình từng bỏ trốn.
-
-Cố Bách Xảo được miễn tội vì lời khai năm xưa được ký trong lúc bị ép buộc.
-
-Ông không dựng lại Vô Tướng Ban.
-
-Ông thuê một căn nhà nhỏ phía sau Thủy Nguyệt Các, nhận dạy bọn trẻ không nơi nương tựa làm cơ quan sân khấu.
-
-Ngày đầu có bảy đứa tới.
-
-Ngày thứ hai còn sáu.
-
-Một đứa bị ông gõ thước vào tay vì tháo bánh xe khỏi ghế của Tô Mạn, sợ quá không dám quay lại.
-
-A Yên đi tìm, xách nó về vào buổi chiều.
-
-Còn Vân Cơ bị thẩm vấn về hai mươi bảy vụ giả chết, sửa hộ tịch và che giấu người bị truy tìm.
-
-Hạ Tử Khiêm đọc danh sách tội mất gần một khắc.
-
-Vân Cơ ngồi đối diện, nghe tới giữa thì rót trà uống.
-
-HẠ TỬ KHIÊM
-Cô có nghe không?
-
-VÂN CƠ
-Có.
-
-HẠ TỬ KHIÊM
-Không định giải thích?
-
-VÂN CƠ
-Đại nhân đã đọc hết đâu.
-
-Hạ Tử Khiêm nhìn phần giấy còn lại.
-
-HẠ TỬ KHIÊM
-Còn mười ba vụ.
-
-VÂN CƠ
-Vậy đọc tiếp đi.
-
-Sau cùng, Hoàng đế xá miễn phần lớn tội danh vì những người được đổi tên đều là nạn nhân đang bị đe dọa tính mạng.
-
-Riêng khoản làm giả ấn quan phủ, Vân Cơ phải nộp phạt.
-
-Đường Tiểu Sơn nhìn con số.
-
-ĐƯỜNG TIỂU SƠN
-Ba trăm lượng.
+"Ba trăm lượng."
 
 Vân Cơ cầm tờ án.
 
-ĐƯỜNG TIỂU SƠN
-Đúng bằng số tiền Lục cô nương nợ cô.
+"Đúng bằng số tiền Lục cô nương nợ cô," Tiểu Sơn nói.
 
-VÂN CƠ
-Nàng tính cả rồi.
+"Nàng tính cả rồi," Vân Cơ đáp.
 
-Khi làm giấy hộ tịch mới, viên quan hỏi nàng muốn giữ tên nào.
+Khi làm giấy hộ tịch mới, viên quan hỏi nàng muốn giữ tên nào. Tạ Vân Cơ không phải tên thật của nàng. Lục Thanh La từng là tên nàng, nhưng cũng đã được một người khác mang suốt mười ba năm. Vân Cơ cầm bút rất lâu. A Yên đứng bên cạnh, nhìn mà sốt ruột. Cuối cùng nàng viết hai chữ: Vân La.
 
-Tạ Vân Cơ không phải tên thật của nàng.
+A Yên chạm vào chữ đầu rồi chữ sau. Vân Cơ gật.
 
-Lục Thanh La từng là tên nàng, nhưng cũng đã được một người khác mang suốt mười ba năm.
+"Lấy mỗi người một chữ," Vân La nói. "Đỡ phải tranh."
 
-Vân Cơ cầm bút rất lâu.
+A Yên viết lên bảng: Còn họ?
 
-A Yên đứng bên cạnh, nhìn mà sốt ruột.
+"Không cần."
 
-Cuối cùng nàng viết hai chữ:
+Viên quan ngẩng lên. "Không có họ thì lập hộ tịch thế nào?"
 
-**VÂN LA.**
+Vân La nhìn hắn. "Vậy đại nhân nghĩ giúp ta một họ ít nợ nần."
 
-A Yên chạm vào chữ đầu rồi chữ sau.
+Viên quan cúi xuống giấy. "Cứ để trống trước."
 
-Vân Cơ gật.
+A Yên mang tờ hộ tịch mới về Thủy Nguyệt Các. Ba ngày sau, nàng cho người thay biển hiệu. Khi Vân La trở về, trên cửa đã treo ba chữ lớn: Vân La Các.
 
-VÂN LA
-Lấy mỗi người một chữ. Đỡ phải tranh.
+Vân La đứng ngoài nhìn rất lâu. A Yên đưa bảng lên: Tên mới. Không nợ tiền cũ.
 
-A Yên viết lên bảng:
+"Muội học thói xấu ấy của ai vậy?" Vân La hỏi.
 
-**CÒN HỌ?**
+A Yên chỉ về căn nhà phía sau. Cố Bách Xảo đang ngồi dưới mái hiên, giả vờ không nhìn sang. Cái tên Lục Thanh La là do ông đặt cho nàng từ năm nàng sáu tuổi, còn ba chữ trên biển hiệu là tên nàng tự chọn. Ông liếc lên biển một lần, rồi gật đầu, rất khẽ.
 
-VÂN LA
-Không cần.
+***
 
-Viên quan ngẩng lên.
+Vân La Các mở màn diễn mới vào đúng ngày giỗ của Tạ Vân Cơ. Không cáo thị lớn. Không ai được báo trước rằng Vân La sẽ lên sân khấu. Tới giờ diễn, khán đài vẫn kín chỗ.
 
-VIÊN QUAN
-Không có họ thì lập hộ tịch thế nào?
+Đường Tiểu Sơn ngồi ở tầng hai, trên tay ôm một túi bánh hẹ. Tô Mạn vừa tới đã giật túi bánh khỏi tay hắn.
 
-Vân La nhìn hắn.
+"Thuộc hạ chưa ăn," Tiểu Sơn nói.
 
-VÂN LA
-Vậy đại nhân nghĩ giúp ta một họ ít nợ nần.
+"Ngươi vừa giúp ta khiêng một thi thể," Tô Mạn nói.
 
-Viên quan cúi xuống giấy.
+"Thuộc hạ rửa tay rồi."
 
-VIÊN QUAN
-Cứ để trống trước.
+"Rửa ở đâu?" Tô Mạn hỏi.
 
-A Yên mang tờ hộ tịch mới về Thủy Nguyệt Các.
+Tiểu Sơn im lặng. Tô Mạn đặt túi bánh sang chỗ Cố Bách Xảo. Ông lập tức kéo về phía mình.
 
-Ba ngày sau, nàng cho người thay biển hiệu.
+Hạ Tử Khiêm ngồi cạnh lan can. Cuốn sổ bọc da đen vẫn ở trong tay áo, nhưng đã lâu hắn không cần mở nó để nhận ra Vân La.
 
-Khi Vân La trở về, trên cửa đã treo ba chữ lớn:
+Đèn trong đại sảnh tắt. Giữa hồ sen xuất hiện hai nữ nhân, một người áo đỏ, một người áo trắng. Cả hai có cùng vóc dáng nhưng mang hai khuôn mặt khác nhau. Họ bước về hai phía của một khung gương. Khi tấm gương xoay, áo đỏ đổi thành trắng, áo trắng đổi thành đỏ. Khán giả bắt đầu đoán xem người nào đã đi qua lối ngầm.
 
-**VÂN LA CÁC.**
+Đường Tiểu Sơn nghiêng sang Hạ Tử Khiêm. "Dưới hồ có hai đường sao?"
 
-Vân La đứng ngoài nhìn rất lâu.
+"Một," Hạ Tử Khiêm đáp.
 
-A Yên đưa bảng lên:
+"Đại nhân nhìn thấy?"
 
-**TÊN MỚI. KHÔNG NỢ TIỀN CŨ.**
+"Đoán," Hạ Tử Khiêm đáp.
 
-VÂN LA
-Muội học thói xấu ấy của ai vậy?
+"Nghe quen thật," Tiểu Sơn nói.
 
-A Yên chỉ về căn nhà phía sau.
+Trên sân khấu, hai nữ nhân đi xuyên qua nhau. Một người vỡ thành đàn bướm trắng. Người còn lại bước ra khỏi khung gương. Đó là Vân La. Không có Mẫu Kính. Không có máu. Chỉ có dây kéo, ánh sáng và những người dưới sân khấu đã tập suốt ba tháng.
 
-Cố Bách Xảo đang ngồi dưới mái hiên, giả vờ không nhìn sang.
+Một đứa trẻ ở hàng đầu gọi lớn. "Vậy người nào là thật?"
 
----
+Vân La cúi xuống nhìn nó. "Người đang đứng đây."
 
-## CẢNH 39 — MỘT NĂM SAU
+Đứa trẻ chỉ đàn bướm. "Còn người kia?"
 
-Vân La Các mở màn diễn mới vào đúng ngày giỗ của Tạ Vân Cơ.
+"Là giấy," Vân La đáp.
 
-Không cáo thị lớn.
+"Lúc nãy cháu thấy nàng ấy cử động."
 
-Không ai được báo trước rằng Vân La sẽ lên sân khấu.
+"Dưới sân khấu có người kéo dây," Vân La đáp.
 
-Tới giờ diễn, khán đài vẫn kín chỗ.
+Từ bên dưới lập tức vang lên ba tiếng gõ phản đối. Khán giả bật cười. Vân La cũng cười.
 
-Đường Tiểu Sơn ngồi ở tầng hai, trên tay ôm một túi bánh hẹ.
+"Được rồi. Phần ấy không nói."
 
-Tô Mạn vừa tới đã giật túi bánh khỏi tay hắn.
+Sau buổi diễn, khán giả lần lượt ra về. Cố Bách Xảo dẫn bọn trẻ xuống kiểm tra dây kéo. Tô Mạn bắt Tiểu Sơn mang túi bánh hẹ đi bỏ. Hắn vừa đi vừa tiếc, cuối cùng lén giữ lại hai cái.
 
-ĐƯỜNG TIỂU SƠN
-Ta chưa ăn.
+Hạ Tử Khiêm đứng ở cửa sau chờ Vân La. "Ngày mai Đại Lý Tự cần mượn sân khấu."
 
-TÔ MẠN
-Ngươi vừa giúp ta khiêng một thi thể.
+"Không cho," Vân La đáp.
 
-ĐƯỜNG TIỂU SƠN
-Ta rửa tay rồi.
+"Ta còn chưa nói để làm gì."
 
-TÔ MẠN
-Rửa ở đâu?
+"Lần trước các người mượn, một người chết trong lồng. Lần này cứ sang chỗ khác," Vân La nói.
 
-Tiểu Sơn im lặng.
+"Chỉ dựng lại hiện trường," Hạ Tử Khiêm nói.
 
-Tô Mạn đặt túi bánh sang chỗ Cố Bách Xảo.
+"Hai trăm lượng," Vân La nói.
 
-Ông lập tức kéo về phía mình.
+"Trong sổ của ta ghi cô từng lấy một trăm."
 
-Hạ Tử Khiêm ngồi cạnh lan can.
-
-Cuốn sổ bọc da đen vẫn ở trong tay áo, nhưng đã lâu hắn không cần mở nó để nhận ra Vân La.
-
-Đèn trong đại sảnh tắt.
-
-Giữa hồ sen xuất hiện hai nữ nhân.
-
-Một người áo đỏ.
-
-Một người áo trắng.
-
-Cả hai có cùng vóc dáng nhưng mang hai khuôn mặt khác nhau.
-
-Họ bước về hai phía của một khung gương.
-
-Khi tấm gương xoay, áo đỏ đổi thành trắng.
-
-Áo trắng đổi thành đỏ.
-
-Khán giả bắt đầu đoán xem người nào đã đi qua lối ngầm.
-
-Đường Tiểu Sơn nghiêng sang Hạ Tử Khiêm.
-
-ĐƯỜNG TIỂU SƠN
-Dưới hồ có hai đường?
-
-HẠ TỬ KHIÊM
-Một.
-
-ĐƯỜNG TIỂU SƠN
-Đại nhân nhìn thấy?
-
-HẠ TỬ KHIÊM
-Đoán.
-
-ĐƯỜNG TIỂU SƠN
-Nghe quen thật.
-
-Trên sân khấu, hai nữ nhân đi xuyên qua nhau.
-
-Một người vỡ thành đàn bướm trắng.
-
-Người còn lại bước ra khỏi khung gương.
-
-Là Vân La.
-
-Không có Mẫu Kính.
-
-Không có máu.
-
-Chỉ có dây kéo, ánh sáng và những người dưới sân khấu đã tập suốt ba tháng.
-
-Một đứa trẻ ở hàng đầu gọi lớn:
-
-“Vậy người nào là thật?”
-
-Vân La cúi xuống nhìn nó.
-
-VÂN LA
-Người đang đứng đây.
-
-Đứa trẻ chỉ đàn bướm.
-
-“Còn người kia?”
-
-VÂN LA
-Là giấy.
-
-“Lúc nãy cháu thấy nàng ấy cử động.”
-
-VÂN LA
-Dưới sân khấu có người kéo dây.
-
-Từ bên dưới lập tức vang lên ba tiếng gõ phản đối.
-
-Khán giả bật cười.
-
-Vân La cũng cười.
-
-VÂN LA
-Được rồi. Phần ấy không nói.
-
-Sau buổi diễn, khán giả lần lượt ra về.
-
-Cố Bách Xảo dẫn bọn trẻ xuống kiểm tra dây kéo. Tô Mạn bắt Tiểu Sơn mang túi bánh hẹ đi bỏ. Hắn vừa đi vừa tiếc, cuối cùng lén giữ lại hai cái.
-
-Hạ Tử Khiêm đứng ở cửa sau chờ Vân La.
-
-HẠ TỬ KHIÊM
-Ngày mai Đại Lý Tự cần mượn sân khấu.
-
-VÂN LA
-Không cho.
-
-HẠ TỬ KHIÊM
-Ta còn chưa nói để làm gì.
-
-VÂN LA
-Lần trước các người mượn, một người chết trong lồng. Lần này cứ sang chỗ khác.
-
-HẠ TỬ KHIÊM
-Chỉ dựng lại hiện trường.
-
-VÂN LA
-Hai trăm lượng.
-
-HẠ TỬ KHIÊM
-Trong sổ của ta ghi cô từng lấy một trăm.
-
-VÂN LA
-Cuốn ấy cũ rồi.
+"Cuốn ấy cũ rồi," Vân La đáp.
 
 Hạ Tử Khiêm nhìn nàng.
 
-VÂN LA
-Một trăm tám. Không bớt nữa.
+"Một trăm tám. Không bớt nữa."
 
-HẠ TỬ KHIÊM
-Được.
+"Được," Hạ Tử Khiêm nói.
 
-VÂN LA
-Đại nhân đồng ý nhanh vậy?
+"Đại nhân đồng ý nhanh vậy?"
 
-HẠ TỬ KHIÊM
-Tiền công.
+"Tiền công," Hạ Tử Khiêm đáp.
 
-Vân La nhận túi bạc.
+Vân La nhận túi bạc. Bên trong chỉ có tám mươi lượng. Nàng ngẩng lên. Hạ Tử Khiêm đã đi được mấy bước.
 
-Bên trong chỉ có tám mươi lượng.
+"Hạ Tử Khiêm!"
 
-Nàng ngẩng lên.
+"Phần còn lại ghi nợ," hắn nói, không quay đầu.
 
-Hạ Tử Khiêm đã đi được mấy bước.
+Vân La đứng ở cửa nhìn theo, tay vẫn cầm túi bạc. A Yên bước tới, đưa cho nàng chiếc hộp gỗ nhỏ. Bên trong là mảnh lụa Mộc Dung để lại một năm trước. A Yên đã ép phẳng nó, vá lại phần bị máu làm rách. A Yên đặt mảnh lụa xuống gần chân đèn. Ánh đèn sau sân khấu hắt sát mặt bàn, và mảnh lụa dần nóng lên. Ở mặt sau, một hàng mực nhạt từ từ hiện ra: Nếu tỷ không còn nhớ mặt ta, tỷ có nhận ra ta không?
 
-VÂN LA
-Hạ Tử Khiêm!
+Vân La đưa tay chạm lên hàng chữ. Nàng thử nhớ lại. Vẫn không có khuôn mặt. Chỉ có một thiếu nữ từng đổi áo với nàng trong hậu đài. Một người đào lại đường ngầm bốn lần sau khi nàng bịt ba lần. Một người nợ nàng ba trăm lượng, tới chết vẫn chưa trả. Một người đã bước vào chiếc lồng dù biết có thể không bước ra.
 
-HẠ TỬ KHIÊM
-Phần còn lại ghi nợ.
+Vân La lấy bút. Dưới câu hỏi của Tạ Vân Cơ, nàng viết: Mặt thì không. Nàng dừng một chút rồi viết tiếp: Nhưng tỷ nhận ra muội.
 
-Hắn không quay đầu.
+Ngoài sân khấu, A Yên gõ ba tiếng gọi nàng. Cộc. Cộc. Cộc.
 
-Vân La đứng ở cửa nhìn theo, tay vẫn cầm túi bạc.
+"Tới ngay," Vân La nói. Nàng gấp mảnh lụa lại, đặt vào trong cuốn sổ rồi đi ra ngoài.
 
-A Yên bước tới, đưa cho nàng chiếc hộp gỗ nhỏ.
-
-Bên trong là mảnh lụa Mộc Dung để lại một năm trước.
-
-A Yên đã ép phẳng nó, vá lại phần bị máu làm rách.
-
-A Yên đặt mảnh lụa xuống gần chân đèn.
-
-Ánh đèn sau sân khấu hắt sát mặt bàn. Mảnh lụa dần nóng lên.
-
-Ở mặt sau, một hàng mực nhạt từ từ hiện ra:
-
-**NẾU TỶ KHÔNG CÒN NHỚ MẶT TA, TỶ CÓ NHẬN RA TA KHÔNG?**
-
-Vân La đưa tay chạm lên hàng chữ.
-
-Nàng thử nhớ lại.
-
-Vẫn không có khuôn mặt.
-
-Chỉ có một thiếu nữ từng đổi áo với nàng trong hậu đài.
-
-Một người đào lại đường ngầm bốn lần sau khi nàng bịt ba lần.
-
-Một người nợ nàng ba trăm lượng, tới chết vẫn chưa trả.
-
-Một người đã bước vào chiếc lồng dù biết có thể không bước ra.
-
-Vân La lấy bút.
-
-Dưới câu hỏi của Tạ Vân Cơ, nàng viết:
-
-**MẶT THÌ KHÔNG.**
-
-Nàng dừng một chút rồi viết tiếp:
-
-**NHƯNG TỶ NHẬN RA MUỘI.**
-
-Ngoài sân khấu, A Yên gõ ba tiếng gọi nàng.
-
-Cộc.
-
-Cộc.
-
-Cộc.
-
-Vân La gấp mảnh lụa lại.
-
-VÂN LA
-Tới ngay.
-
-Nàng đặt nó vào trong cuốn sổ rồi đi ra ngoài.
-
-Trên bàn chỉ còn chiếc gương đồng dùng trong màn diễn.
-
-Trong đó không có người chết.
-
-Chỉ phản chiếu một sân khấu đang chờ buổi diễn ngày mai.
-
-**HẾT**
+Trên bàn chỉ còn chiếc gương đồng dùng trong màn diễn. Trong đó không có người chết. Chỉ phản chiếu một sân khấu đang chờ buổi diễn ngày mai.
