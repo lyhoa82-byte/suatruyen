@@ -2688,27 +2688,27 @@ Chuyển câu.
 
 Cố Văn Lâm nhìn hắn.
 
-“Án đã kết.”
+“Chưa có án.”
 
 “Ta hỏi ngài.”
 
-“Ta không có ý kiến.”
+“Ta không bàn hồ sơ chưa lập.”
 
 Tạ Hoài Xuyên hơi nghiêng đầu.
 
-“Ba năm trước ngài có.”
+“Vậy là có hồ sơ.”
 
 Cố Văn Lâm im.
 
-“Ngài từng ký đồng ý nâng án từ sai lệch quân nhu sang nghi phản quốc.”
+“Ba năm trước, ngài từng đề nghị chuyển bản đối chiếu Lạc Thủy sang Hình bộ trước khi Đại Lý Tự kiểm xong.”
 
 Cố Văn Lâm:
 
-“Dựa trên hồ sơ lúc đó.”
+“Dựa trên những gì lúc đó có.”
 
 “Bản nào?”
 
-“Bản được chuyển sang.”
+“Bản trong hòm.”
 
 “Hòm nào?”
 
@@ -2820,7 +2820,7 @@ Chiêu Ninh:
 
 “Vì?”
 
-“Ba năm trước hắn là người đề nghị chuyển án sang Hình bộ sớm.”
+“Ba năm trước, lúc còn ở Đại Lý Tự, hắn đề nghị chuyển bản đối chiếu của ta sang Hình bộ sớm.”
 
 “Trước khi chứng cứ hoàn tất?”
 
@@ -3040,11 +3040,11 @@ Rồi thêm một số.
 
 Rồi thêm nữa.
 
-Cho tới khi một bản quân báo đủ khác để kết tội một gia tộc.
+Cho tới khi một bản quân báo đủ khác để một ngày kết tội một gia tộc.
 
 Nàng hỏi:
 
-“Hắn có biết Thẩm gia sẽ bị án?”
+“Hắn có biết số hắn sửa để làm gì?”
 
 Tạ Hoài Xuyên:
 
@@ -3052,7 +3052,7 @@ Tạ Hoài Xuyên:
 
 “Sau?”
 
-“Biết mà vẫn không dừng.”
+“Biết có tên Thẩm Tĩnh An trong đó. Vẫn không dừng.”
 
 “Vậy đủ.”
 
@@ -3144,11 +3144,11 @@ Tề Phương khai nhanh.
 
 “Ta chỉ sao hồ sơ.”
 
-“Ba năm trước?”
+“Tháng trước?”
 
 “Có.”
 
-“Bản Thẩm gia?”
+“Hồ sơ có tên Thẩm Tĩnh An?”
 
 “Có.”
 
@@ -3990,13 +3990,13 @@ Chiêu Ninh lạnh người.
 
 Không ai cần tạo ra nó để hại Thẩm gia.
 
-Thẩm gia chỉ bị nghiền nát khi một hệ thống vốn đã tồn tại bị ai đó dùng đúng lúc.
+Thẩm gia chỉ đang bị một hệ thống vốn đã tồn tại đem ra dùng đúng lúc.
 
 ---
 
 ## CẢNH 91 — NỘI. CĂN NHÀ — TIẾP
 
-“Án Thẩm gia ai đẩy?”
+“Hồ sơ có tên Thẩm Tĩnh An đang nằm ở đâu?”
 
 Tạ Hoài Xuyên hỏi.
 
@@ -4098,7 +4098,7 @@ Chiêu Ninh thấy.
 
 “Ai?”
 
-“Ba năm trước Hình bộ có một nhóm hồ sơ nội bộ gọi Hạng bốn.”
+“Hình bộ có một nhóm hồ sơ nội bộ gọi Hạng bốn. Hồ sơ chờ lập án.”
 
 “H4?”
 
@@ -4134,9 +4134,9 @@ Chiêu Ninh:
 
 “Không chứng minh Cố thay.”
 
-“Hắn đề nghị nâng án.”
+“Hắn giữ hồ sơ chưa lập.”
 
-“Dựa trên hồ sơ trước mặt.”
+“Giữ hồ sơ là việc của hắn.”
 
 Chiêu Ninh im.
 
@@ -4170,7 +4170,7 @@ Một nhịp.
 
 Cố Văn Lâm nói:
 
-“Hạng bốn không còn.”
+“Hạng bốn chưa trình.”
 
 Tạ Hoài Xuyên im.
 
@@ -4180,7 +4180,7 @@ Quá muộn.
 
 Tạ Hoài Xuyên:
 
-“Ta chưa nói Hạng bốn từng tồn tại.”
+“Ta chưa nói Hạng bốn có gì để trình.”
 
 Căn phòng yên.
 
@@ -4212,13 +4212,9 @@ Cố Văn Lâm nhìn hắn.
 
 “Bản Hạng bốn.”
 
-“Không còn.”
+“Không giao.”
 
-“Ngài tiêu hủy?”
-
-“Không.”
-
-“Vậy ai?”
+“Hồ sơ có tên Thẩm Tĩnh An?”
 
 Cố Văn Lâm im.
 
@@ -4236,7 +4232,7 @@ Tạ Hoài Xuyên dừng.
 
 “Có.”
 
-“Vẫn cho sao?”
+“Vẫn giữ để trình?”
 
 “Có.”
 
@@ -4244,7 +4240,7 @@ Tạ Hoài Xuyên dừng.
 
 Cố Văn Lâm nhìn hắn.
 
-“Vì lúc đó ta nghĩ Thẩm Tĩnh An thực sự đang che sai lệch.”
+“Vì ta nghĩ Thẩm Tĩnh An thực sự đang che sai lệch.”
 
 “Dựa vào gì?”
 
@@ -4296,13 +4292,13 @@ Tạ Hoài Xuyên nhìn hắn.
 
 “Bằng gì?”
 
-“Nhân chứng.”
+“Lời khai nhân chứng trong hồ sơ.”
 
 “Hàn Dực.”
 
 “Ừ.”
 
-“Lời giả.”
+“Lời khai chưa ký. Người ta đang ép hắn học.”
 
 Cố Văn Lâm im.
 
@@ -4360,7 +4356,7 @@ Nút thứ tư—
 
 không phải đồng phạm theo cách họ tưởng.
 
-Là một quan chức đã làm sai vì tin một bộ hồ sơ được chế tạo đủ khéo.
+Là một quan chức đang làm sai vì tin một bộ hồ sơ được chế tạo đủ khéo.
 
 ---
 
@@ -4404,7 +4400,7 @@ Bảng cuối cùng:
 
 **Mạnh Thành — chuyển tin trong Binh bộ.**
 
-**Cố Văn Lâm — không nhận tiền; đã hợp thức hóa hồ sơ sai do tin chứng cứ giả và bỏ qua dấu hiệu bất thường.**
+**Cố Văn Lâm — không nhận tiền; giữ và chuẩn bị trình hồ sơ sai do tin chứng cứ giả, bỏ qua dấu hiệu bất thường.**
 
 **Tấn Ký và các thương hành — nhiều mức tham gia khác nhau.**
 
@@ -4432,7 +4428,7 @@ Chỉ ngồi sau bình phong.
 
 Tạ Hoài Xuyên hỏi:
 
-“Ba năm trước ai đưa tên Thẩm Tĩnh An vào?”
+“Ai đưa tên Thẩm Tĩnh An vào?”
 
 Phùng Mậu im.
 
@@ -4473,6 +4469,10 @@ Tạ Hoài Xuyên dừng.
 Phùng Mậu nói:
 
 “Có người mua một bản sổ bù.”
+
+“Bao giờ?”
+
+“Đầu năm nay.”
 
 “Ai?”
 
@@ -4548,7 +4548,7 @@ Phùng Mậu nhìn bình phong.
 
 Hắn dừng.
 
-“Thẩm gia lúc đó đang bị một phe trong triều muốn kéo xuống.”
+“Thẩm gia đang bị một phe trong triều muốn kéo xuống.”
 
 Chiêu Ninh:
 
@@ -4578,9 +4578,9 @@ Tạ Hoài Xuyên hỏi:
 
 “Không.”
 
-“Sau án?”
+“Gần đây?”
 
-“Biến mất.”
+“Biến mất từ khi Đại Lý Tự bắt đầu hỏi tới hiệu bạc.”
 
 “Phùng Mậu không tìm?”
 
@@ -4654,9 +4654,9 @@ Chiêu Ninh nhìn Hoài Xuyên.
 
 Cuối cùng có một người nối:
 
-việc ép Hàn Dực làm chứng
+việc ép Hàn Dực học lời khai
 
-và việc mua sổ bù để dựng án.
+và việc mua sổ bù để dựng một vụ án.
 
 ---
 
@@ -4750,7 +4750,7 @@ Chiêu Ninh khựng.
 
 “Nhị hoàng tử?”
 
-“Ba năm trước đang tranh người ở Binh bộ.”
+“Đang tranh người ở Binh bộ.”
 
 “Với ai?”
 
@@ -4802,7 +4802,7 @@ Chiêu Ninh:
 
 “Ngài biết hắn?”
 
-“Ba năm trước hắn rời kinh trước khi án Thẩm gia kết.”
+“Hắn rời kinh từ đầu năm. Nói về quê dưỡng bệnh.”
 
 “Đi đâu?”
 
@@ -4958,9 +4958,9 @@ Nàng lạnh người.
 
 “Biết.”
 
-“Ba năm trước?”
+“Từ khi nào?”
 
-“Biết.”
+“Từ khi cô đi khắp phố Tây tìm một thư sinh.”
 
 Tạ Hoài Xuyên:
 
@@ -4986,7 +4986,7 @@ Cười.
 
 “Có.”
 
-“Dựng án Thẩm gia?”
+“Định dựng án Thẩm gia?”
 
 Bùi Tấn nhìn Chiêu Ninh.
 
@@ -5048,7 +5048,7 @@ Bùi Tấn:
 
 Chiêu Ninh nhìn hắn.
 
-“Ông giết cả nhà ta để giúp chủ tử?”
+“Ông định đẩy cả nhà ta vào chỗ chết để giúp chủ tử?”
 
 “Ta không định giết cả nhà.”
 
@@ -5056,7 +5056,7 @@ Chiêu Ninh nhìn hắn.
 
 “Ta định làm Thẩm Tĩnh An mất chức.”
 
-“Sau đó án bị đẩy thành phản quốc.”
+“Nhưng hồ sơ trong Hạng bốn có thông đồng địch.”
 
 “Bởi ai?”
 
@@ -5128,11 +5128,11 @@ Không phải vua của toàn hệ thống.
 
 ## CẢNH 117 — NỘI. ĐẠO QUÁN — TIẾP
 
-Chiêu Ninh hỏi:
+Chiêu Ninh nói:
 
-“Cha ta chết trong ngục.”
+“Nếu hồ sơ của ông thành án, cha ta sẽ chết trong ngục.”
 
-“Ta biết.”
+Bùi Tấn im.
 
 “Mẹ ta chết.”
 
@@ -5148,7 +5148,7 @@ Hắn nhìn nàng.
 
 Lần đầu có vẻ không hiểu.
 
-“Cô?”
+“Cô nói như đã thấy.”
 
 Tạ Hoài Xuyên nhìn Chiêu Ninh.
 
@@ -5158,7 +5158,7 @@ Nàng không giải thích.
 
 Bùi Tấn nói:
 
-“Ta không biết mọi thứ sẽ đi tới đó.”
+“Ta không định để mọi thứ đi tới đó.”
 
 Chiêu Ninh nhìn hắn.
 
@@ -5226,17 +5226,17 @@ Có người nhận.
 
 Có cách hắn mua từng phần.
 
-Đủ để lật án cũ?
+Đủ để kết tội hắn?
 
 Chưa hoàn toàn.
 
-Vì một số chứng cứ mất.
+Vì một số người đã chạy.
 
-Nhưng đủ để mở lại.
+Nhưng đủ để chặn hồ sơ trước khi nó thành án.
 
 Tạ Hoài Xuyên đặt tờ đề nghị trước mặt Chiêu Ninh.
 
-**Xin tái thẩm án Thẩm thị.**
+**Xin niêm phong và thu hồi hồ sơ Hạng bốn liên quan Thẩm Tĩnh An, điều tra việc làm giả chứng cứ.**
 
 Nàng nhìn.
 
@@ -5246,9 +5246,9 @@ Nàng nhìn.
 
 “Lần này chắc?”
 
-“Đủ để xin.”
+“Đủ để chặn.”
 
-“Không đủ để kết.”
+“Không đủ để kết thúc.”
 
 “Ừ.”
 
@@ -5257,6 +5257,12 @@ Chiêu Ninh gật.
 “Vậy ký.”
 
 Hắn ký.
+
+Chiêu Ninh nhìn nét mực còn ướt.
+
+Kiếp trước, chữ ký của hắn nằm trên tờ đưa chứng cứ lên.
+
+Lần này nó nằm trên tờ chặn chứng cứ lại.
 
 ---
 
@@ -5336,7 +5342,7 @@ Chỉ ghi trạng thái.
 
 Dưới:
 
-**Bùi Tấn — người kết nối các phần để dựng án Thẩm gia. Không phải người tạo ra toàn mạng.**
+**Bùi Tấn — người kết nối các phần để dựng một vụ án nhắm vào Thẩm gia. Không phải người tạo ra toàn mạng.**
 
 Nàng nhìn rất lâu.
 
@@ -5372,13 +5378,13 @@ Một sai dịch vào.
 
 “Gì?”
 
-“Hoàng thượng đã chuẩn tái thẩm án Thẩm gia.”
+“Hoàng thượng đã chuẩn cho Đại Lý Tự tra việc làm giả hồ sơ quân báo Bắc lộ. Hồ sơ Hạng bốn bị niêm.”
 
 Hắn dừng.
 
 “Bao giờ?”
 
-“Ngày mai.”
+“Ngày mai bắt đầu.”
 
 “Ừ.”
 
@@ -5396,11 +5402,11 @@ Ba năm trước—
 
 cũng bàn này.
 
-Một chữ ký đã đẩy một án đi tiếp.
+Hắn ký một tờ đề nghị tiếp tục điều tra, rồi để nó nằm im.
 
 Lần này—
 
-một chữ ký mở nó lại.
+một chữ ký chặn một vụ án trước khi nó thành hình.
 
 Hắn đặt tờ giấy xuống.
 

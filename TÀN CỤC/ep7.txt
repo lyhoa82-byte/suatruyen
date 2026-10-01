@@ -278,17 +278,19 @@ Dừng.
 
 “Ba năm trước.”
 
-“Có một khoản quân nhu bị ghi thiếu đúng khoảng này.”
+“Bản đối chiếu năm mục.”
+
+“Mục thứ năm ghi một khoản quân nhu thiếu đúng khoảng này.”
 
 Chiêu Ninh nhìn hắn.
 
-“Liên quan án Thẩm gia?”
+“Liên quan nhà ta?”
 
 Tạ Hoài Xuyên không đáp ngay.
 
 Rồi:
 
-“Có.”
+“Có tên cha cô ở cuối.”
 
 Căn phòng im.
 
@@ -320,7 +322,7 @@ Chiêu Ninh nhìn.
 
 “Còn đây?”
 
-“Là bản ta chép lại từ hồ sơ tiếp nhận sau đó.”
+“Là bản ta chép lại từ bản năm mục, sau khi bản sao thứ hai bị lấy.”
 
 Chiêu Ninh nhìn hắn.
 
@@ -358,13 +360,13 @@ Một dòng:
 
 Chiêu Ninh nhìn.
 
-“Đây là trang bị thay?”
+“Đây là mục được thêm vào?”
 
 “Ừ.”
 
-“Ngài biết nó sai khi nộp?”
+“Ngài tin nó?”
 
-“Không.”
+“Không hoàn toàn.”
 
 “Nhưng trước đó ngài từng thấy bản cha ta không có mục Bắc lộ.”
 
@@ -404,21 +406,21 @@ Lục Trầm nhìn qua lại.
 
 “Ta thật sự nghĩ ta nên đi.”
 
-Chiêu Ninh:
+Tạ Hoài Xuyên:
 
-“Ngồi.”
+“Đi đi. Cả Trần đại nhân.”
 
-Lục Trầm ngồi.
+Lục Trầm đứng dậy ngay.
 
-Trần Quảng cúi xuống giấy.
+“Cuối cùng.”
 
-Giả như không nghe.
+Trần Quảng ôm giấy theo sau.
+
+Cửa đóng.
 
 Chiêu Ninh hỏi:
 
 “Ngài có nghĩ cha ta phản quốc?”
-
-Tạ Hoài Xuyên:
 
 “Không.”
 
@@ -434,41 +436,51 @@ Tạ Hoài Xuyên:
 
 “Không.”
 
-“Vậy vì sao vẫn để án đi tiếp?”
+Chiêu Ninh im một lúc.
+
+Rồi nói:
+
+“Trong những chuyện ta biết, bản năm mục không nằm yên.”
 
 Tạ Hoài Xuyên nhìn nàng.
 
-“Vì lúc ấy án không phải án phản quốc.”
+“Nó đi đâu?”
 
-Chiêu Ninh khựng.
+“Lên công đường.”
 
-“Gì?”
+“Án gì?”
 
-“Ban đầu chỉ là điều tra sai lệch quân nhu.”
+“Ban đầu chỉ là sai lệch quân nhu.”
 
-“Phản quốc xuất hiện sau.”
+“Sau đó?”
 
-Nàng lạnh tay.
+“Phản quốc.”
 
-“Sau bao lâu?”
+Tạ Hoài Xuyên không hỏi nàng biết từ đâu.
 
-“Bảy ngày.”
+Chỉ hỏi:
+
+“Bao lâu?”
+
+“Ta không nhớ chính xác. Rất nhanh.”
 
 ---
 
 ## CẢNH 8 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-“Bảy ngày đó xảy ra gì?”
+“Có gì đẩy nó đi nhanh như vậy?”
 
-Chiêu Ninh hỏi.
+Tạ Hoài Xuyên hỏi.
 
-Tạ Hoài Xuyên lấy hồ sơ.
+Chiêu Ninh nhắm mắt.
+
+Nàng chỉ nhớ những thứ người ta đọc lên trước mặt nhà nàng.
 
 “Ba thứ.”
 
 “Thứ nhất?”
 
-“Một quân báo mới xuất hiện.”
+“Một quân báo mới.”
 
 “Thứ hai?”
 
@@ -478,85 +490,55 @@ Tạ Hoài Xuyên lấy hồ sơ.
 
 “Hàn Dực.”
 
-Chiêu Ninh cứng người.
-
-Lục Trầm cũng ngẩng lên.
+Tạ Hoài Xuyên dừng bút.
 
 “Còn thứ ba?”
 
-Tạ Hoài Xuyên nhìn nàng.
-
-“Một bản kê có dấu riêng của Thẩm đại nhân.”
+“Một bản kê có dấu riêng của cha ta.”
 
 “Dấu thật?”
 
-“Thật.”
+“Ta không biết.”
 
 “Chữ?”
 
-“Không phải tay ông ấy.”
+“Ta không được nhìn.”
 
-Chiêu Ninh im.
+Tạ Hoài Xuyên ghi.
 
-“Ngài biết lúc đó?”
-
-“Không.”
-
-“Bao giờ biết?”
-
-“Sau khi ông ấy bị bắt.”
+Không hỏi vì sao nàng biết những chuyện chưa xảy ra.
 
 ---
 
 ## CẢNH 9 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-Chiêu Ninh nhìn Hàn Dực.
+Tạ Hoài Xuyên nhìn cái tên trên giấy.
 
-Không phải người thật.
+“Hàn Dực làm chứng gì?”
 
-Chỉ là cái tên trên giấy.
-
-“Kiếp trước hắn làm chứng gì?”
-
-“Rằng quân lương bị điều sai hướng.”
-
-“Có nhắc cha ta?”
-
-“Có.”
-
-“Trực tiếp?”
-
-“Không.”
-
-“Vậy?”
-
-“Hắn nói người của Thẩm đại nhân từng xuất hiện ở kho trung chuyển.”
-
-Chiêu Ninh nhíu mày.
+“Rằng người của cha ta từng xuất hiện ở kho trung chuyển Bắc lộ.”
 
 “Người nào?”
 
-“Không biết tên.”
+“Không có tên.”
 
 “Vậy cũng dùng?”
-
-“Lời khai đó lúc đầu chỉ là manh mối.”
-
-“Sau đó?”
 
 “Có người xác nhận.”
 
 “Ai?”
 
-Tạ Hoài Xuyên lật trang.
+Chiêu Ninh cố nhớ.
 
-Dừng.
+“Một quản sự của Tấn Ký.”
 
-“Quản sự Tấn Ký.”
+Tạ Hoài Xuyên đặt bút xuống.
 
-Chiêu Ninh nhìn hắn.
+“Nếu ba thứ đó sẽ xuất hiện…”
 
-Mạng lại khép một vòng.
+Hắn dừng.
+
+“…thì lúc này chúng đang được làm.”
 
 ---
 
@@ -592,137 +574,103 @@ Thẩm Tĩnh An nghĩ.
 
 Chiêu Ninh thở ra.
 
-“Cha biết trong án có người nói người của cha xuất hiện ở đó?”
+“Nếu có người nói người của cha tới đó để đổi lệnh vận chuyển?”
 
-“Biết sau khi bị bắt.”
+“Thì người đó nói sai.”
 
-“Cha có phủ nhận?”
+“Ai làm chứng được là cha nói đúng?”
 
-“Có.”
+“Lão Trương.”
 
-“Không ai tin?”
+“Ông ấy chết rồi.”
 
-“Có người tin.”
-
-“Ai?”
+“Ừ.”
 
 Thẩm Tĩnh An nhìn nàng.
 
-“Tạ Hoài Xuyên.”
+“Con hỏi như đã có người nói.”
 
-Chiêu Ninh không ngờ.
+Chiêu Ninh không đáp.
+
+“Ai sẽ nói?”
+
+“Con không biết hết.”
 
 ---
 
 ## CẢNH 11 — NỘI. THƯ PHÒNG — TIẾP
 
-“Ngài ấy tin?”
+Thẩm Tĩnh An không ép.
 
-“Ừ.”
+Chiêu Ninh hỏi:
 
-“Vậy sao vẫn nộp chứng cứ?”
+“Cha có tin Tạ Hoài Xuyên không?”
 
-Thẩm Tĩnh An nhìn nàng.
+“Tin hắn thích chứng cứ.”
 
-“Con nghĩ Đại Lý Tự chỉ có một người?”
+“Ba năm trước cha đưa bản đối chiếu cho hắn vì tin?”
 
-Nàng im.
+“Vì hắn là người duy nhất ở kho tiếp nhận không hỏi ta muốn đổi lấy gì.”
 
-“Hoài Xuyên khi đó còn quá thấp.”
+Chiêu Ninh im.
 
-“Nhưng hắn có thể làm gì?”
+Rồi nói rất nhỏ:
 
-“Ít.”
-
-“Cha biết hắn từng thả bản sao làm mồi?”
-
-“Không.”
-
-“Sau này mới biết?”
-
-“Không.”
-
-Chiêu Ninh:
-
-“…”
-
-“Vậy cha không biết?”
-
-“Ừ.”
-
-“Nhưng cha vừa nói hắn tin cha.”
-
-“Ta biết vì hắn hỏi ta trong ngục.”
-
-Nàng ngẩng lên.
-
-“Ngài ấy gặp cha?”
-
-“Có.”
-
-“Kiếp trước?”
+“Con từng thấy hắn đưa chứng cứ lên hại nhà ta.”
 
 Thẩm Tĩnh An nhìn nàng.
 
-Một nhịp.
+“Thấy?”
 
-“Ừ.”
+“Con không nói được.”
+
+Ông không hỏi lại.
 
 ---
 
 ## CẢNH 12 — NỘI. NHÀ GIAM — HỒI ỨC KIẾP TRƯỚC
 
-Không phải ký ức của Chiêu Ninh.
+Không phải ký ức của ai khác.
 
-Là lời Thẩm Tĩnh An kể.
+Là của nàng.
 
-Tạ Hoài Xuyên khi ấy còn trẻ hơn.
+Phòng giam sau Hình bộ.
 
-Áo quan thấp hơn.
+Mùi ẩm. Mùi thuốc đắng.
 
-Đứng ngoài song sắt.
+Tạ Hoài Xuyên đứng ngoài song cửa.
 
-Thẩm Tĩnh An ngồi bên trong.
+Vai dính bụi đường.
 
-Hoài Xuyên hỏi:
+“Đừng uống bát thuốc đó.”
 
-“Người ở kho Bắc lộ có phải người của ngài?”
+Nàng đã hỏi:
 
-“Có.”
+“Giờ mới bảo?”
 
-“Lão Trương?”
+Hắn không đáp.
 
-“Ừ.”
+Nàng đã nhắc từng thứ.
 
-“Ngài sai hắn đi?”
+Chứng cứ là hắn giao.
 
-“Ừ.”
+Bản cung khai là hắn xác nhận.
 
-“Kiểm lương?”
+Người bắt cha nàng là người của Đại Lý Tự.
 
-“Ừ.”
+Hắn nói “Phải” ba lần.
 
-“Không phải đổi lệnh vận chuyển?”
+Rồi nói:
 
-“Không.”
+“Ta chỉ muốn cô sống qua tối nay.”
 
-Hoài Xuyên nhìn ông.
+Nàng đã uống.
 
-“Ta tin.”
+Hắn đã đi.
 
-Thẩm Tĩnh An ngẩng lên.
+Nàng chưa bao giờ biết vì sao hôm đó hắn tới.
 
-“Đừng tin.”
-
-Hoài Xuyên khựng.
-
-“Vì sao?”
-
-“Đi tìm chứng cứ.”
-
-Một nhịp.
-
-“Tin ta không cứu được ta.”
+Cũng không biết vì sao lại tới muộn như vậy.
 
 ---
 
@@ -730,39 +678,31 @@ Một nhịp.
 
 Chiêu Ninh ngồi yên.
 
-“Cha nhớ rõ?”
+Thẩm Tĩnh An rót trà cho nàng.
 
-“Ừ.”
+“Nếu hắn có đủ chứng cứ, hắn sẽ đưa.”
 
-“Sau đó?”
+Chiêu Ninh ngẩng lên.
 
-“Không gặp nữa.”
+“Cha không phủ nhận?”
 
-“Ngài ấy không cứu được cha.”
+“Hắn tin chứng cứ. Nếu có người đặt trước mặt hắn đủ chứng cứ, hắn sẽ đưa.”
 
-“Ừ.”
+“Kể cả hại nhà ta?”
+
+“Kể cả.”
 
 “Cha có trách?”
 
 Thẩm Tĩnh An nhìn nàng.
 
-“Có.”
-
-Chiêu Ninh ngẩng lên.
-
-Ông nói tiếp:
-
-“Lúc ở trong ngục.”
-
-“Sau đó?”
-
-“Không có sau đó.”
+“Trách một người vì việc hắn chưa làm?”
 
 Chiêu Ninh im.
 
 Một câu rất bình thường.
 
-Nhưng nàng không nói được gì.
+Nhưng nàng không trả lời được.
 
 ---
 
@@ -774,13 +714,13 @@ Tạ Hoài Xuyên đang một mình.
 
 Nàng đứng ở cửa.
 
-“Ngài từng gặp cha ta trong ngục.”
+“Ba năm trước, sau khi nhận bản của cha ta, ngài làm gì?”
 
 Hắn dừng bút.
 
-“Ông ấy nói?”
+“Ông ấy kể?”
 
-“Ừ.”
+“Một ít.”
 
 “Ta tưởng ông ấy không kể.”
 
@@ -792,7 +732,7 @@ Chiêu Ninh bước vào.
 
 “Ngài tin ông ấy.”
 
-“Tin lời đó.”
+“Tin bản ông ấy đưa.”
 
 “Khác?”
 
@@ -804,7 +744,7 @@ Chiêu Ninh bước vào.
 
 Nàng ngồi.
 
-“Vậy sau đó ngài làm gì?”
+“Vậy ngài làm gì?”
 
 Tạ Hoài Xuyên không trả lời ngay.
 
@@ -812,143 +752,77 @@ Tạ Hoài Xuyên không trả lời ngay.
 
 ## CẢNH 15 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-“Ta tra lão Trương.”
+“Ta tra người đi kiểm kho Bắc lộ năm đó.”
+
+“Lão Trương?”
+
+“Ừ.”
 
 “Rồi?”
 
 “Chết.”
 
-“Lúc đó?”
+“Lúc nào?”
 
-“Chết trước khi ta tìm tới hai ngày.”
+“Năm sau. Bệnh. Trước khi ta tìm tới hai ngày.”
 
 Chiêu Ninh cứng người.
 
-“Bệnh?”
-
-“Ngã giếng.”
-
 “Tai nạn?”
 
-“Không biết.”
-
-“Lại—”
-
-“Ừ.”
+“Bệnh thật. Ta xem đơn thuốc.”
 
 “Sau đó?”
 
-“Ta tra quản sự Tấn Ký.”
+“Ta tra người giữ sổ chuyến mười bảy bên Tấn Ký.”
 
 “Còn?”
 
-“Mất tích.”
+“Bỏ kinh. Không rõ đi đâu.”
 
 “…”
 
-“Ta tra Hàn Dực.”
+“Ta xin tra tiếp.”
 
-“Còn sống?”
+“Rồi?”
 
-“Có.”
-
-“Ngài hỏi hắn?”
-
-“Có.”
-
-“Lời khai?”
-
-“Không đổi.”
-
-Chiêu Ninh nhìn hắn.
-
-“Ngài tin?”
-
-“Không.”
-
-“Vì sao?”
-
-“Hắn sợ.”
-
-“Người làm chứng không được sợ?”
-
-“Được.”
-
-“Vậy?”
-
-“Không phải sợ bị trả thù.”
-
-“Là gì?”
-
-“Giống sợ nói sai một chữ.”
+“Không ai duyệt.”
 
 ---
 
 ## CẢNH 16 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-Tạ Hoài Xuyên lấy một tờ ghi chép cũ.
+Tạ Hoài Xuyên lấy tờ giấy vừa ghi lời nàng.
 
-“Ta hỏi hắn ba lần.”
+“Cô nói Hàn Dực sẽ làm chứng.”
 
-“Cùng câu?”
+“Ừ.”
 
-“Khác.”
+“Một thị vệ không tự nhiên nhớ ra người của Thẩm đại nhân ở kho Bắc lộ.”
 
-“Câu trả lời?”
+“Ngài nghĩ có người sẽ dạy hắn?”
 
-“Gần như giống từng chữ.”
-
-Chiêu Ninh hiểu.
-
-“Học thuộc.”
-
-“Có thể.”
-
-“Ngài biết ai dạy?”
-
-“Không.”
-
-“Vậy ngài làm gì?”
-
-“Ta để hắn đi.”
+“Nếu những chuyện cô biết là đúng, thì người đó đã bắt đầu.”
 
 Chiêu Ninh nhìn hắn.
 
-“Cố ý?”
+“Ngài tin những chuyện ta biết?”
 
-“Ừ.”
+“Ta tin bản năm mục có thật.”
 
-“Lại làm mồi.”
+“Còn lại?”
 
-“Ừ.”
+“Kiểm.”
+
+Chiêu Ninh suýt cười.
 
 “Ngài thật sự thích cách này.”
 
 “Không.”
 
-“Vì lần trước đã thất bại?”
-
-“Ừ.”
-
 “Vậy vẫn làm?”
 
 “Không có cách khác.”
-
-Nàng nhìn hắn.
-
-“Rồi hắn đi đâu?”
-
-“Binh bộ.”
-
-Chiêu Ninh khựng.
-
-“Gặp ai?”
-
-“Không thấy.”
-
-“Lại mất dấu?”
-
-“Ừ.”
 
 ---
 
@@ -959,10 +833,6 @@ Chiêu Ninh đứng dậy.
 Đi một vòng.
 
 “Ngài thả bản sao.”
-
-“Mất dấu ở Binh bộ.”
-
-“Ngài thả Hàn Dực.”
 
 “Mất dấu ở Binh bộ.”
 
@@ -1000,37 +870,29 @@ Tam hoàng tử ngồi trên ghế.
 
 Vai còn băng.
 
-“Ngươi từng làm chứng trong án Thẩm gia?”
-
-Hàn Dực ngẩng lên rất nhanh.
-
-“Điện hạ…”
-
-“Ta hỏi.”
+“Mấy hôm trước ngươi biến mất.”
 
 “Dạ.”
 
-“Có.”
+“Đi đâu?”
+
+“Đi tìm Mã Tam.”
 
 “Vì sao?”
 
-“Hạ thần thấy người của Thẩm đại nhân ở kho.”
+“Chuyện chiếc xe.”
 
-“Ngươi biết hắn tới làm gì?”
+“Tìm được?”
 
-“Không.”
-
-“Vậy sao lời khai sau đó thành điều quân lương?”
-
-Hàn Dực im.
+“Không. Nhà mẹ hắn trống. Hàng xóm nói trước đó có người lạ tới dọa.”
 
 Tam hoàng tử nhìn hắn.
 
-“Ngươi không nhớ?”
+“Chỉ vậy?”
 
-“Dạ.”
+Hàn Dực im.
 
-“Hay không dám nhớ?”
+“Ngoài chuyện chiếc xe, có người tìm ngươi?”
 
 Hàn Dực cúi đầu.
 
@@ -1044,11 +906,11 @@ Tam hoàng tử không nổi giận.
 
 Chỉ nói:
 
-“Ta không hỏi ngươi hôm nay.”
+“Từ sau Tây Uyển, ngươi đứng gần ta hơn trước.”
 
 Hàn Dực ngẩng lên.
 
-“Ta hỏi ba năm trước.”
+“Người muốn dùng ngươi cũng biết điều đó.”
 
 Một nhịp.
 
@@ -1142,7 +1004,7 @@ Chiêu Ninh vẫn ở đó.
 
 “Gì?”
 
-“Hàn Dực xin khai lại.”
+“Hàn Dực xin gặp ngài.”
 
 Hai người nhìn nhau.
 
@@ -1170,7 +1032,7 @@ Lần này chỉ có nàng.
 
 Bên trong, Hàn Dực nói:
 
-“Ba năm trước có người tìm ta trước khi Đại Lý Tự hỏi.”
+“Nửa tháng trước có người tìm ta.”
 
 “Người nào?”
 
@@ -1188,13 +1050,21 @@ Bên trong, Hàn Dực nói:
 
 “Không nhớ rõ.”
 
-“Ngươi đã nói gì với hắn?”
-
-“Không gì.”
-
-“Vậy hắn nói gì?”
+“Hắn muốn gì?”
 
 Hàn Dực nuốt khan.
+
+“Muốn ta nhớ ra một chuyện.”
+
+“Chuyện gì?”
+
+“Bốn năm trước ta áp tải một chuyến qua kho trung chuyển Bắc lộ. Hắn muốn ta nhớ ra đã thấy người của Thẩm đại nhân ở đó đổi lệnh vận chuyển.”
+
+“Ngươi có thấy?”
+
+“Ta thấy một người kiểm lương. Không thấy ai đổi lệnh.”
+
+“Hắn nói gì tiếp?”
 
 “Đọc cho ta nghe một đoạn.”
 
@@ -1214,11 +1084,15 @@ Tạ Hoài Xuyên hỏi.
 
 “Ngươi học?”
 
-“Dạ.”
+“Hắn bảo học.”
 
-“Vì sao?”
+“Ngươi học chưa?”
 
 Hàn Dực im.
+
+“Được một nửa.”
+
+“Vì sao?”
 
 Tam hoàng tử từ sau rèm nói:
 
@@ -1226,41 +1100,43 @@ Tam hoàng tử từ sau rèm nói:
 
 Hàn Dực nhắm mắt.
 
-“Họ có em gái ta.”
+“Hắn biết em gái ta ở đâu.”
 
 Tạ Hoài Xuyên dừng bút.
 
 “Ở đâu?”
 
-“Không biết.”
+“Ở quê.”
 
-“Sau đó?”
+“Hắn làm gì?”
 
-“Họ trả về.”
-
-“An toàn?”
-
-“Dạ.”
+“Đưa ta xem cây trâm của nó.”
 
 “Ngươi chưa từng nói?”
 
 “Không dám.”
 
-“Ba năm?”
-
-“Dạ.”
-
 “Vậy tại sao bây giờ dám?”
 
 Hàn Dực nhìn về phía rèm.
 
-“Vì hôm trước người đổi xe cũng dùng cách đó.”
+“Vì nhà mẹ Mã Tam cũng bị dọa theo cách đó.”
 
 Tạ Hoài Xuyên ngẩng lên.
 
-“Cách nào?”
+“Ngươi nghĩ là cùng một người?”
 
-“Biết nhà mẹ Mã Tam.”
+“Ta không biết.”
+
+“Chỉ biết cùng một cách.”
+
+Tạ Hoài Xuyên:
+
+“Tên làng.”
+
+Hàn Dực nói.
+
+Tạ Hoài Xuyên ghi, gấp lại, đưa cho sai dịch ngoài cửa.
 
 ---
 
@@ -1280,29 +1156,33 @@ Nàng nhìn hắn.
 
 “Ừ.”
 
-“Lời khai học thuộc?”
+“Lời khai có sẵn?”
 
-“Ừ.”
+“Ừ. Chưa ký. Chưa nói với ai.”
 
 Chiêu Ninh không nói.
 
+Kiếp trước, hắn đã nói.
+
+Lần này hắn chưa.
+
 Một lúc.
 
-“Hắn thật sự không phản bội.”
+“Vậy hắn không phản bội.”
 
 Tạ Hoài Xuyên:
 
-“Không hoàn toàn.”
+“Chưa.”
 
 Nàng nhìn hắn.
 
-“Ngài bắt buộc phải thêm hai chữ đó?”
+“Ngài bắt buộc phải thêm chữ đó?”
 
 “Có.”
 
 “Vì?”
 
-“Hắn vẫn nói lời giả.”
+“Hắn đã học nửa bài.”
 
 “Nhưng bị ép.”
 
@@ -1324,37 +1204,21 @@ Nhưng hiểu.
 
 Chiêu Ninh hỏi:
 
-“Ngài đã biết hắn có vấn đề từ kiếp trước.”
+“Ngài nghi Hàn Dực từ lúc nào?”
 
-Tạ Hoài Xuyên nhìn nàng.
+“Từ kho thuyền.”
 
-Lần này không sửa cách gọi.
-
-“Ừ.”
-
-“Vậy sao không nói với cha ta?”
+“Vì sao không nói với cha ta?”
 
 “Không có chứng cứ.”
 
 “Ngài có thể nói nghi.”
 
-“Ta đã nói.”
+“Nói nghi với Thẩm đại nhân thì ông ấy sẽ tự đi tra.”
 
 Nàng khựng.
 
-“Với ai?”
-
-“Thẩm đại nhân.”
-
-“Trong ngục?”
-
-“Ừ.”
-
-“Cha không kể.”
-
-“Ông ấy có nhiều chuyện không kể.”
-
-“Ta biết.”
+Đúng là cha nàng.
 
 Hai người cùng im.
 
@@ -1362,7 +1226,7 @@ Một lúc.
 
 Chiêu Ninh hỏi:
 
-“Ngài đã cố cứu nhà ta tới đâu?”
+“Ba năm trước, ngài đã cố tra tới đâu?”
 
 Tạ Hoài Xuyên không trả lời ngay.
 
@@ -1370,11 +1234,11 @@ Tạ Hoài Xuyên không trả lời ngay.
 
 ## CẢNH 26 — NGOẠI. HÀNH LANG PHỦ TAM HOÀNG TỬ — TIẾP
 
-“Ta xin hoãn kết án.”
+“Ta xin tra tiếp.”
 
 “Bị bác.”
 
-“Ta xin đối chất Hàn Dực lần nữa.”
+“Ta xin đối chất người giữ hòm.”
 
 “Bị bác.”
 
@@ -1396,19 +1260,19 @@ Chiêu Ninh nhìn hắn.
 
 Tạ Hoài Xuyên nói:
 
-“Rồi ta đưa phần chứng cứ còn lại lên.”
+“Rồi ta dừng.”
 
 Nàng cứng người.
 
-“Chính phần đó khiến án đi tiếp.”
+“Để bản năm mục nằm trong hộp.”
 
 “Ừ.”
 
-“Ngài biết có thể hại nhà ta?”
+“Ngài biết nó có tên cha ta?”
 
 “Biết.”
 
-“Vẫn nộp?”
+“Vẫn để?”
 
 “Ừ.”
 
@@ -1420,27 +1284,25 @@ Nàng nhìn hắn rất lâu.
 
 “Vì sao?”
 
-“Vì nếu ta giữ lại, người khác sẽ nộp bản đầy đủ hơn.”
+“Vì nếu ta nộp, người khác sẽ dùng nó.”
 
-“Đầy đủ?”
+“Dùng làm gì?”
 
-“Bản giả.”
+“Làm thứ cô vừa kể.”
 
 Chiêu Ninh im.
 
 Tạ Hoài Xuyên nói:
 
-“Ta nghĩ nếu chính ta nộp phần còn kiểm được, ta có thể giữ án ở mức điều tra quân nhu.”
+“Ta nghĩ giữ nó trong hộp thì nó không đi đâu được.”
 
-“Không để chuyển thành phản quốc.”
-
-“Ngài thất bại.”
+“Và ngài sẽ tra tiếp khi có cơ hội.”
 
 “Ừ.”
 
-“Ngài biết ai đẩy nó thành phản quốc?”
+“Ba năm không có cơ hội?”
 
-“Không.”
+“Ta không tạo ra cơ hội.”
 
 “Không có gì để biện hộ?”
 
@@ -1458,11 +1320,13 @@ Ta đã cố hết sức.
 
 Chỉ là—
 
-một kế hoạch sai.
+một quyết định dừng lại.
 
-Một lần cược thua.
+Kiếp trước, tới cuối cùng hắn đã đưa chứng cứ lên.
 
-Và cả nhà nàng chết.
+Kiếp này, ba năm trước, hắn đã dừng.
+
+Nàng không biết điều nào khiến mình khó chịu hơn.
 
 ---
 
@@ -1474,39 +1338,61 @@ Tạ Hoài Xuyên đi sau.
 
 Nàng dừng.
 
-“Kiếp trước, trước khi ta chết…”
+“Có một lần…”
 
-Hắn im.
+Hắn chờ.
 
-“Ngài bảo ta đừng uống thuốc.”
-
-“Ừ.”
-
-“Vì sao?”
-
-“Ta biết thuốc có vấn đề.”
-
-“Bao giờ?”
-
-“Quá muộn.”
-
-“Ngài tới cứu ta?”
+“Ngài tới bảo ta đừng uống một bát thuốc.”
 
 Tạ Hoài Xuyên nhìn nàng.
 
-“Ừ.”
+“Khi nào?”
+
+“Không quan trọng.”
+
+“Ta không nhớ chuyện đó.”
+
+“Ta biết.”
+
+“Thuốc gì?”
+
+“Thuốc độc.”
+
+Hắn im.
+
+“Ta uống rồi.”
+
+Lần này hắn không hỏi tiếp.
 
 Chiêu Ninh cười rất nhẹ.
 
 Không vui.
 
-“Ngài rất hay tới muộn.”
+“Ngài tới muộn.”
+
+Tạ Hoài Xuyên nhìn nàng rất lâu.
+
+“Ta không biết chuyện đó.”
+
+“Ta biết ngài không biết.”
+
+“Nhưng nếu người tới muộn là ta…”
+
+Một nhịp.
+
+“…lần này cô báo sớm.”
+
+Chiêu Ninh khựng.
+
+“Báo sớm thì ngài tới?”
 
 “Ừ.”
 
-Hắn nhận.
+“Vì sao?”
 
-Không phản bác.
+“Ta muốn.”
+
+Hắn không thêm gì.
 
 Nàng không biết câu trả lời đó làm mình dễ chịu hơn hay khó chịu hơn.
 
@@ -1522,47 +1408,45 @@ Thẩm Tĩnh An còn thức.
 
 Ông nhìn nàng.
 
-“Biết rồi?”
-
-“Cha biết gì?”
+“Có chuyện?”
 
 “Hàn Dực.”
 
-“Ừ.”
+Nàng kể.
 
-“Hoài Xuyên?”
+Người lạ. Chiếc nhẫn. Lời khai có sẵn. Em gái.
+
+Ông nghe hết.
+
+“Lão Trương.”
+
+“Ừ. Họ cần một người từng đứng ở kho đó.”
+
+Thẩm Tĩnh An im rất lâu.
+
+“Còn Hoài Xuyên?”
 
 Chiêu Ninh nhìn cha.
 
-“Cha cũng biết?”
+“Ngài ấy nói nếu con báo sớm, ngài ấy sẽ tới.”
 
-“Không hết.”
+“Con tin?”
 
-“Nhưng đủ để biết hắn không đơn giản hại nhà ta?”
+“Con không biết.”
+
+“Con từng thấy hắn đưa chứng cứ.”
 
 “Ừ.”
 
-“Vậy sao cha để con hận hắn?”
+“Vậy sao con vẫn tới đó mỗi ngày?”
 
-Thẩm Tĩnh An nhìn nàng.
-
-“Ta chết rồi.”
-
-Chiêu Ninh khựng.
-
-Ông nói tiếp:
-
-“Kiếp đó.”
-
-Nàng đứng yên.
-
-Đây là lần đầu ông tự dùng cách gọi ấy.
+Chiêu Ninh không trả lời.
 
 ---
 
 ## CẢNH 30 — NỘI. THƯ PHÒNG — TIẾP
 
-“Cha tin con?”
+“Cha tin chuyện con thấy?”
 
 Thẩm Tĩnh An không đáp ngay.
 
@@ -1590,19 +1474,19 @@ Nàng ngồi xuống.
 
 “Ừ.”
 
-“Ngài ấy đã cố cứu.”
-
-“Ta biết một phần.”
-
-“Nhưng ngài ấy cũng nộp chứng cứ.”
+“Ở chỗ con thấy, ngài ấy đã cố cứu.”
 
 “Ừ.”
 
-“Cha trách không?”
+“Nhưng ngài ấy vẫn đưa chứng cứ.”
 
-“Có.”
+“Ừ.”
 
-“Vậy sao vẫn…”
+“Cha không trách?”
+
+“Ta không ở chỗ đó.”
+
+“Nhưng nếu cha ở đó…”
 
 “Người có thể vừa cố cứu con vừa làm con chết.”
 
@@ -1672,7 +1556,7 @@ Hắn nhìn nàng.
 
 Nàng ngồi.
 
-“Ta muốn xem hồ sơ cũ.”
+“Ta muốn xem tờ ngài ghi lời ta hôm trước.”
 
 “Không.”
 
@@ -1694,25 +1578,25 @@ Chiêu Ninh nhìn hắn.
 
 ## CẢNH 33 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-Tạ Hoài Xuyên đọc từng mốc.
+Tạ Hoài Xuyên đọc lại tờ giấy hôm trước.
 
-**Ngày 1: điều tra sai lệch quân nhu.**
+Những điều nàng nói.
 
-**Ngày 3: xuất hiện bản kê Bắc lộ.**
+**Đối chiếu quân nhu.**
 
-**Ngày 4: Hàn Dực khai.**
+**Quân báo mới.**
 
-**Ngày 5: quản sự Tấn Ký xác nhận.**
+**Nhân chứng: Hàn Dực.**
 
-**Ngày 7: quân báo mới gắn sai lệch với việc thông đồng địch.**
+**Bản kê có dấu riêng.**
 
-Chiêu Ninh dừng.
+**Thông đồng địch.**
 
-“Chờ.”
+Hắn dừng ở dòng cuối.
 
-“Gì?”
+“Từ quân nhu thành thông đồng địch, phải có một thứ nối.”
 
-“Làm sao từ quân nhu thành thông đồng địch?”
+Chiêu Ninh:
 
 “Có một đoàn hàng mất tích.”
 
@@ -1726,13 +1610,13 @@ Chiêu Ninh dừng.
 
 “Thật?”
 
-“Không tìm thấy.”
+“Không ai tìm thấy.”
 
 “Vậy chỉ là giấy.”
 
 “Ừ.”
 
-“Nhãn hàng?”
+“Hàng?”
 
 “Thuốc và sắt.”
 
@@ -2330,7 +2214,7 @@ Chiêu Ninh:
 
 Tạ Hoài Xuyên nhìn hồ sơ.
 
-Chuyến mất tích trong án Thẩm gia:
+Đoàn hàng Chiêu Ninh nói sẽ bị gắn vào Thẩm gia:
 
 **thuốc và sắt.**
 
@@ -2540,7 +2424,7 @@ Tạ Hoài Xuyên đặt chén.
 
 Một người vừa bước vào.
 
-Khoảng năm mươi.
+Khoảng bốn mươi.
 
 Áo thương nhân.
 
@@ -3004,7 +2888,7 @@ Một lát.
 
 Nàng hỏi:
 
-“Ngài có từng nghĩ nếu mình làm khác thì nhà ta đã sống?”
+“Ngài có từng nghĩ nếu ba năm trước mình làm khác thì đã không có chuyện hôm nay?”
 
 Tạ Hoài Xuyên nhìn đường.
 
@@ -3254,7 +3138,7 @@ Chiêu Ninh ngẩng lên.
 
 “Bao giờ?”
 
-“Trước khi nhà ta bị bắt khoảng nửa tháng.”
+“Ba năm trước. Sau khi ta đưa bản cho Hoài Xuyên khoảng nửa tháng.”
 
 Chiêu Ninh lạnh người.
 
@@ -3342,17 +3226,19 @@ Không gạch.
 
 Tạ Hoài Xuyên một mình.
 
-Trên bàn là hồ sơ cũ của án Thẩm gia.
+Trên bàn là hồ sơ ba năm trước về bản đối chiếu Lạc Thủy.
 
 Hắn mở tới trang mình từng ký.
 
-Không phải bản kết án.
+Không phải kết luận.
 
 Chỉ là:
 
 **Đề nghị tiếp tục điều tra.**
 
 Chữ ký hắn.
+
+Phía dưới không có phê duyệt.
 
 Hắn nhìn lâu.
 
@@ -3648,7 +3534,7 @@ Hắn nói:
 
 Chu Tử Dung nhìn nàng.
 
-“Ta từng nghi cha cô.”
+“Ba năm trước, khi xin tra Bắc lộ, ta từng nghi cha cô.”
 
 Chiêu Ninh không phản ứng.
 
@@ -3664,7 +3550,7 @@ Chiêu Ninh không phản ứng.
 
 “Ừ.”
 
-“Giống như ai đó rất muốn người tra án nhìn thấy.”
+“Giống như ai đó rất muốn người đọc quân báo nhìn thấy.”
 
 Chiêu Ninh im.
 
@@ -3810,7 +3696,7 @@ Dưới ô Binh bộ:
 
 Dưới Hàn Dực:
 
-**Lời khai giả do bị cưỡng ép. Không đồng nghĩa vô can mọi việc khác.**
+**Đang bị ép học một lời khai. Chưa ký. Không đồng nghĩa vô can mọi việc khác.**
 
 Dưới Tạ Hoài Xuyên:
 
@@ -3820,15 +3706,15 @@ Rất lâu.
 
 Viết:
 
-**Đã nộp chứng cứ.**
+**Kiếp trước: đã nộp chứng cứ.**
 
 Dòng thứ hai:
 
-**Đã cố giữ án không thành phản quốc.**
+**Ba năm trước: giữ bản năm mục, không nộp, không tra tới cùng.**
 
 Dòng thứ ba:
 
-**Thất bại.**
+**Bây giờ: chưa.**
 
 Nàng nhìn.
 
