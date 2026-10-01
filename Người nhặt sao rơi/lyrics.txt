@@ -1,0 +1,344 @@
+Nếu mục tiêu của bạn là YouTube dạng audio drama / motion comic / AI series, thì thứ quyết định click thật ra là:
+
+Title (40%) + Thumbnail (40%) + Hook 3 giây đầu (20%)
+
+Chứ không phải văn án.
+
+Nhiều người thậm chí không đọc mô tả.
+
+1. CÓ CẦN HOOK 3 GIÂY NẾU ĐÃ CÓ VĂN ÁN?
+
+Có.
+
+Bắt buộc.
+
+Đặc biệt với YouTube.
+
+Vì quy trình người xem là:
+
+Thumbnail ↓ Title ↓ Click ↓ 3 giây đầu ↓ Quyết định xem tiếp hay thoát
+
+Ví dụ HOOK 3s cho Người Nhặt Sao Rơi:
+
+Hook A
+
+"Người đàn ông này đáng lẽ đã chết từ một năm trước."
+
+Hook B
+
+"Ta đã nhìn thấy hắn chết hai lần."
+
+"Lần này, ta không để chuyện đó xảy ra nữa."
+
+Hook C
+
+"Bên trong con thuyền chở xác, có một người vẫn còn sống."
+
+Đây là hook mạnh nhất cho tập đầu.
+
+2. TITLE VIỆT
+
+Mình nghĩ title hiện tại ổn.
+
+Chính thức
+
+NGƯỜI NHẶT SAO RƠI
+
+Title phụ
+
+Người Nhặt Sao Rơi Tái Sinh Điều Tra Đại Án Thất Thương
+
+3. TITLE ENGLISH
+
+Tên dịch sát:
+
+The Star Gatherer
+
+Nghe đẹp nhưng hơi thơ.
+
+Nếu hướng streaming:
+
+FALLEN STAR COLLECTOR
+
+Hoặc
+
+THE GIRL WHO PICKED UP FALLING STARS
+
+Mình thích nhất:
+
+STARFALL REQUIEM
+
+Ngắn.
+
+Có cảm giác mystery.
+
+Có chất điện ảnh.
+
+4. VĂN ÁN VIỆT NGẮN
+
+Phiên bản chuẩn YouTube:
+
+Tạ Vãn Ninh sống lại một năm trước ngày đại án Thất Thương bị chôn vùi.
+
+Để cứu người đàn ông từng chết trước mắt mình và tìm lại tên của ba nghìn người vô danh, nàng bước vào âm mưu kéo dài mười năm giữa triều đình, quân lương và những bí mật bị nhấn chìm dưới đáy Vân Hà.
+
+Nhưng mỗi người nàng cứu sẽ đổi lấy một phần ký ức của chính nàng.
+
+Đủ.
+
+Không dài hơn.
+
+5. MÔ TẢ YOUTUBE
+Việt
+
+Một cô gái sống lại để thay đổi tương lai.
+
+Một người đàn ông đáng lẽ đã chết.
+
+Một bí mật chôn vùi ba nghìn mạng người dưới lòng sông suốt mười năm.
+
+Người Nhặt Sao Rơi là hành trình điều tra, cứu chuộc và lựa chọn giữa tình yêu với số phận.
+
+English
+
+A girl returns from a ruined future.
+
+A man who should already be dead.
+
+A conspiracy that buried three thousand names beneath a river.
+
+Starfall Requiem is a mystery drama about memory, sacrifice and the cost of saving someone you love.
+
+6. HASHTAGS
+Việt
+#NguoiNhatSaoRoi
+#TruyenAudio
+#NgonTinhCoDai
+#TrongSinh
+#PhaAn
+
+English
+#ChineseDrama
+#FantasyRomance
+#MysteryDrama
+#Reincarnation
+#Audiobook
+
+
+Không dùng quá nhiều.
+
+5 tag là đẹp.
+
+7. THUMBNAIL LEONARDO PROMPT
+
+Mình sẽ không làm kiểu poster truyện thông thường.
+
+Làm đúng kiểu hút click YouTube.
+
+Prompt
+Cinematic Chinese historical fantasy poster, dramatic lighting, beautiful young woman in pale teal hanfu standing beside a river at night, holding a red string in one hand, wounded prince in dark armor emerging from a boat full of corpses behind her, storm clouds, floating lanterns, mysterious ancient city atmosphere, emotional tension, masterpiece composition, high contrast, movie poster quality, ultra detailed face, realistic fabric, depth of field, glowing red string as focal point, dark blue and silver palette, epic historical mystery, no watermark, no text
+
+
+Thumbnail text:
+
+Dòng trên
+
+NGƯỜI ĐÁNG LẼ ĐÃ CHẾT
+
+Dòng dưới
+
+TA CỨU HẮN LẦN THỨ HAI
+
+CTR sẽ rất cao.
+
+8. SUNO OPENING SONG (ENGLISH)
+Prompt
+Epic emotional orchestral fantasy, female vocal, ancient Chinese atmosphere, cinematic drums, emotional strings, mystery and fate, haunting choir, slow beginning building into powerful chorus, theme of reincarnation, memory, sacrifice and destiny, soundtrack for a historical fantasy drama
+
+Lyrics
+STARFALL REQUIEM
+[Verse]
+
+I saw your name
+Drifting beneath the river light
+A ghost of winter
+Lost beyond the night
+
+I held the stars
+Falling from a broken sky
+One by one
+Too many left to die
+
+[Pre-Chorus]
+
+If fate has written
+The end of your story
+Then let my hands
+Rewrite the page
+
+[Chorus]
+
+Call my name
+Across the endless tide
+I will find you
+Even if memories die
+
+Through the storm
+Through every shattered dream
+
+I will stay
+
+I will stay
+
+Where the fallen stars still gleam
+
+[Verse]
+
+Three thousand voices
+Sleeping under stone and rain
+I carry all their names
+Inside my pain
+
+[Outro]
+
+When the river remembers
+And the sky lets go
+
+I will follow
+
+Where the lost stars go
+
+9. SUNO ENDING SONG (ENGLISH)
+Prompt
+Soft emotional piano ballad, male and female duet, bittersweet ending theme, hopeful but heartbreaking, memories fading, gentle strings, cinematic credits song
+
+Lyrics
+TWO TAPS
+[Verse]
+
+I forgot the road
+That brought me here
+Forgot the winter
+Forgot the fear
+
+But somehow
+The river knows
+
+And carries what remains
+
+[Chorus]
+
+Two taps in the dark
+
+A quiet sign
+
+You are still here
+
+And I am still alive
+
+Though I forget
+
+The reasons why
+
+The heart remembers
+
+What the mind leaves behind
+
+[Bridge]
+
+Names fade
+
+Stories change
+
+But somewhere
+A light remains
+
+[Outro]
+
+Two taps
+
+Across the tide
+
+I am here
+
+You are here
+
+Tonight
+
+10. SUNO OPENING SONG (MANDARIN)
+Prompt
+Chinese historical fantasy opening theme, female vocal, guzheng, erhu, orchestra, emotional and mysterious, reincarnation romance, cinematic TV drama opening
+
+Lyrics
+坠星谣 (Ballad of Falling Stars)
+[Verse]
+
+风吹过旧河岸
+故人名字落成霜
+
+万千灯火已熄灭
+只剩月光照远方
+
+[Pre-Chorus]
+
+若命运写下终章
+我愿亲手改写一行
+
+[Chorus]
+
+坠落的星啊
+
+请为我照亮
+
+那个人归来的方向
+
+哪怕记忆慢慢埋葬
+
+我仍会守望
+
+直到天亮
+
+11. SUNO ENDING SONG (MANDARIN)
+Prompt
+Bittersweet Chinese drama ending song, gentle duet, piano and erhu, emotional, nostalgic, memories disappearing but love remaining
+
+Lyrics
+你还在这里 (You're Still Here)
+[Verse]
+
+忘了那年风雪
+忘了那条长街
+
+却忘不了
+心头的一点明月
+
+[Chorus]
+
+你还在这里
+
+不必说原因
+
+人海尽头一回身
+
+依旧是你
+
+若往事散尽
+
+若故梦远去
+
+至少此刻的相遇
+
+真实无比
+
+[Outro]
+
+轻轻两声
+
+穿过岁月和距离
+
+我知道
+
+你还在这里
+
+
+Nếu làm theo hướng YouTube thương mại, mình dự đoán thumbnail "người đáng lẽ đã chết" + hook "Bên trong con thuyền chở xác có một người vẫn còn sống" sẽ có CTR cao hơn hầu hết các hook xoay quanh trọng sinh hay ngôn tình, vì nó đánh trúng cả mystery lẫn cảm xúc ngay trong 3 giây đầu.

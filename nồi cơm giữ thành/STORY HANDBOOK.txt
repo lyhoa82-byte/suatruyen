@@ -1,0 +1,309 @@
+Dưới đây là bản STORY HANDBOOK dạng cô đọng để Claude dùng làm lớp nhớ ngữ cảnh khi sửa/chỉnh truyện. Mình tối ưu theo hướng:
+
+Giữ continuity.
+Giữ giọng nhân vật.
+Giữ setup/payoff.
+Hạn chế drift khi qua nhiều tập.
+Dưới 9000 ký tự.
+STORY HANDBOOK
+NỒI CƠM GIỮ THÀNH
+1. BỐI CẢNH & TIMELINE
+Bối cảnh
+
+Thế giới giả tưởng lịch sử phương Đông, không có tiên hiệp hay phép thuật. Trọng tâm là chiến tranh, hậu cần, quân nhu, nội gián và sinh tồn trong thành bị vây.
+
+Thời gian / Timeline
+
+Arc 1 diễn ra trong thời gian Bắc Nhai Quan bị quân Bắc Yết vây hãm.
+
+Tập 1-10:
+
+Tạ Trường Canh bị sung quân tới Bắc Nhai.
+Phát hiện kho lương, kho củi và hệ thống quân nhu bị rút ruột nhiều năm.
+Tìm ra mạng lưới nội gián.
+Bảo vệ nguồn nước.
+Thu hồi một phần lương thực ở Khe Ưng.
+Gửi quân báo ra ngoài.
+Viện quân tới.
+Bắc Nhai giữ được thành.
+Địa điểm quan trọng
+Bắc Nhai Quan.
+Hỏa Đầu Doanh (bếp quân đội).
+Kho lương.
+Kho củi.
+Kho đá.
+Giếng Nam.
+Suối Thanh Khê.
+Tháp Đông.
+Cổng Đông.
+Khe Ưng.
+Lạc Sơn.
+Vân Châu.
+Quy tắc thế giới
+Không có năng lực siêu nhiên.
+Mọi vấn đề phải giải quyết bằng hậu cần, con người, chiến thuật và tổ chức.
+Thắng lợi luôn có giá.
+Lương thực, nước và nhiên liệu quan trọng không kém chiến đấu.
+2. CORE THEME
+
+Ý nghĩa trung tâm:
+
+Một tòa thành không được giữ bằng anh hùng.
+
+Nó được giữ bằng cơm, nước, củi, trách nhiệm và những lựa chọn nhỏ mỗi ngày.
+
+Các chủ đề phụ:
+
+Hậu quả tích lũy của tham nhũng.
+Trách nhiệm cá nhân.
+Người tốt vẫn có thể phạm tội.
+Chiến tranh là bài toán hậu cần trước khi là bài toán quân sự.
+Không ai cứu được thành một mình.
+3. NHÂN VẬT & QUAN HỆ
+Nhân vật chính
+Tạ Trường Canh
+
+Mục tiêu:
+
+Ban đầu muốn sống sót và hết hạn sung quân.
+Dần chuyển thành giữ cho mọi người còn cơm ăn.
+
+Điểm yếu:
+
+Không biết võ.
+Không muốn làm anh hùng.
+Thực tế tới mức đôi khi lạnh lùng.
+
+Năng lực:
+
+Đầu bếp.
+Quản lý bếp.
+Tính toán khẩu phần.
+Hậu cần thực phẩm.
+Quan sát chi tiết thực tế.
+
+Quan hệ:
+
+Hạ Thanh Chước.
+A Sửu.
+Bàng Đại Hải.
+La Đại Dũng.
+Hạ Thanh Chước
+
+Mục tiêu:
+
+Giữ hệ thống quân nhu vận hành.
+Bảo vệ Bắc Nhai.
+
+Điểm yếu:
+
+Tự gánh trách nhiệm.
+Bị tổn thương vì người thân tín phản bội.
+
+Năng lực:
+
+Quân nhu.
+Điều phối.
+Điều tra.
+Hành động thực địa.
+
+Quan hệ:
+
+Tin tưởng Tạ Trường Canh.
+Từng xem Tôn Bách Lâm như thầy.
+Nhân vật phụ
+A Sửu
+
+Vai trò: Comic relief + quan sát viên.
+
+Đặc điểm:
+
+Không ngu.
+Học chậm.
+Trí nhớ thực tế rất tốt.
+Hay phát hiện manh mối từ những điều người khác bỏ qua.
+
+Quan hệ:
+
+Kính nể Tạ Trường Canh.
+Gắn với Đại Bạch.
+Bàng Đại Hải
+
+Vai trò: Quản bếp.
+
+Đặc điểm:
+
+Thực dụng.
+Hay than.
+Quan tâm cấp dưới.
+La Đại Dũng
+
+Vai trò: Lao động chủ lực của bếp.
+
+Đặc điểm:
+
+Mạnh.
+Ít nói.
+Thẳng tính.
+Cố Đình Sơn
+
+Vai trò: Đại tướng Bắc Nhai.
+
+Đặc điểm:
+
+Lý trí.
+Ưu tiên đại cục.
+Ít nói.
+Trần Phó Tướng
+
+Vai trò: Tướng tuyến đầu.
+
+Đặc điểm:
+
+Lì.
+Gan.
+Thường bị thương nhưng vẫn chỉ huy.
+Hà Quân Y
+
+Vai trò: Quân y.
+
+Đặc điểm:
+
+Thực tế.
+Hay nói lời khó nghe nhưng đúng.
+Đại Bạch
+
+Vai trò: Mascot.
+
+Lưu ý: Không được dùng quá mức để giải quyết vấn đề. Chủ yếu dùng cho:
+
+Nhịp hài.
+Chuyển cảnh.
+Humanize bối cảnh.
+XƯNG HÔ
+Tạ Trường Canh
+Ta / ngươi.
+Không nói hoa mỹ.
+Hạ Thanh Chước
+Ta / ngươi.
+Ngôn ngữ ngắn gọn.
+A Sửu
+Đệ.
+Trường Canh ca.
+Bàng Đại Hải
+Ta.
+Giọng than phiền nhưng không ác ý.
+Cố Đình Sơn
+Bản tướng.
+Trần phó tướng
+Ta.
+Thẳng.
+Hà quân y
+Ta.
+Châm chọc khô khan.
+4. CHARACTER VOICE
+Tạ Trường Canh
+Nói ít.
+Thực dụng.
+Châm biếm khô.
+Không diễn thuyết.
+Hạ Thanh Chước
+Rõ ràng.
+Dứt khoát.
+Hiếm khi đùa.
+A Sửu
+Hỏi nhiều.
+Suy nghĩ theo logic đời thường.
+Tạo góc nhìn người đọc.
+Bàng Đại Hải
+Gần đất.
+Hay tính toán chuyện ăn uống.
+5. CANON & CONTINUITY
+Đã xác nhận
+Bắc Nhai giữ được thành.
+Viện quân Hàn Túc tới.
+Vệ Hoài Sơn bị bắt.
+Tôn Minh bị bắt.
+Từ Mậu bị bắt.
+Kỷ Tam chết tại Lạc Sơn.
+Tôn Bách Lâm thú nhận tội.
+Không được thay đổi
+Tạ Trường Canh không biết võ.
+Không có phép thuật.
+A Sửu không phải thiên tài đột ngột.
+Đại Bạch không được thành "thần dê cứu thế".
+Hậu cần luôn phải hợp lý.
+Kiến thức nhân vật
+
+Tạ Trường Canh:
+
+Biết hệ thống quân nhu bị rút ruột.
+Biết toàn bộ sự kiện Bắc Nhai.
+
+Hạ Thanh Chước:
+
+Biết đầy đủ nhất về vụ án quân nhu.
+
+A Sửu:
+
+Biết một phần.
+Không biết toàn cảnh chính trị.
+6. SETUP → PAYOFF
+Setup đang mở
+Sau Vệ Hoài Sơn còn ai?
+
+Gieo: Tập 7-10.
+
+Trạng thái: Mở.
+
+Lưu ý: Không xác nhận Vệ Hoài Sơn là boss cuối.
+
+Hệ thống tham ô toàn vùng
+
+Gieo: Tôn Bách Lâm, Phúc Thịnh, Vệ Hoài Sơn.
+
+Trạng thái: Mở.
+
+Tạ Trường Canh rời Bắc Nhai?
+
+Gieo: Xuyên suốt.
+
+Trạng thái: Mở.
+
+Quan hệ Tạ Trường Canh - Hạ Thanh Chước
+
+Trạng thái: Chưa xác nhận tình cảm.
+
+Phát triển tự nhiên.
+
+Không romance đột ngột.
+
+Món nợ cảm xúc
+Kỷ Tam
+
+Trạng thái: Đã chết.
+
+Ảnh hưởng dài hạn: Tạ Trường Canh. Bắc Nhai.
+
+Tôn Bách Lâm
+
+Trạng thái: Chưa khép hoàn toàn.
+
+Liên quan: Hạ Thanh Chước.
+
+Payoff đã hoàn thành
+Kho Khe Ưng → thu hồi lương.
+Đài Lạc Sơn → viện quân tới.
+Nội gián tháp đèn → Tôn Minh.
+Đường hầm cổng đông → Từ Mậu.
+Vụ cháy sáu năm trước → Tôn Bách Lâm.
+7. GHI CHÚ BIÊN TẬP
+Không biến truyện thành truyện trinh thám thuần túy.
+Không biến Tạ Trường Canh thành thần cơ diệu toán.
+Mỗi thắng lợi phải trả giá.
+Hậu cần phải là lõi truyện.
+Ưu tiên cảnh đời thường, bữa ăn, nước, củi, thương binh và dân chúng.
+Mỗi arc nên có ít nhất một thất bại thật.
+Không lặp công thức "bắt một nội gián rồi lòi thêm nội gián giống hệt".
+Mở rộng quy mô từ Bắc Nhai → Vân Châu → triều đình → chiến tranh toàn tuyến.
+Giữ chất hài của A Sửu và Đại Bạch để cân bằng không khí nhưng không lấn át drama.
