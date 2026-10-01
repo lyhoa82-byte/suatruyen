@@ -1,20 +1,11 @@
-\# SONG ẢNH KINH THÀNH
+SONG ẢNH KINH THÀNH
 
 
 
-\## HỒI III — BẢY KHUÔN MẶT CỦA LỤC THANH LA
+HỒI III — BẢY KHUÔN MẶT CỦA LỤC THANH LA
 
 
-
-\### Bản humanized
-
-
-
-\---
-
-
-
-\## CẢNH 13 — NHÀ XÁC ĐẠI LÝ TỰ — BUỔI SÁNG
+CẢNH 13 — NHÀ XÁC ĐẠI LÝ TỰ — BUỔI SÁNG
 
 
 
