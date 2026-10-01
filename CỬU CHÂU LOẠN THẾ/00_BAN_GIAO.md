@@ -9,7 +9,7 @@
 | Hạng mục | Trạng thái |
 |---|---|
 | Ch1–Ch13 | **LOCKED** (file trong `locked/`) |
-| Tổng độ dài | **156.667 ký tự** |
+| Tổng độ dài | **156.564 ký tự** (đếm lại 13 file LOCKED lúc bàn giao; Canon Update Ch13 ghi 156.667 — chênh 103 do cách đếm các chương đầu. Từ nay dùng số đếm lại) |
 | **Việc đang dở** | **Foundation Gate Ch14 v1** (`gates/CCLT_Gate_Truoc_Ch14.md`): đã viết theo Pre-Audit định hướng (PASS WITH 3 REQUIRED SYNCS); **đang chờ chị Pre-Audit Final** |
 | Bước tiếp theo | Pre-Audit Final Gate Ch14 → LOCK → Scene Bible Ch14 → ... |
 
