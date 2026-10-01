@@ -60,9 +60,9 @@ Bản thảo không giải thích vì sao phản diện cảnh báo, giúp đỡ
 
 (b) kết hợp (a): Hồi I hắn bất ngờ thật trước phần kế hoạch của Tạ Vân Cơ; từ Hồi II–III hắn dẫn dắt có chủ đích để lấy Mẫu Kính, bình máu, và lôi Tô Mạn ra. Hướng này giữ nhiều material nhất và không cần thêm tình tiết lớn. Nếu chọn, cần tác giả xác nhận thêm: vết cắt trên tay và lời "mất ký ức" ở Hồi III là thật hay diễn.
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (b) — Kỷ Vô Nhai không kiểm soát toàn bộ Hồi I: màn Vô Tướng Ngục là kế hoạch của Tạ Vân Cơ, hắn chỉ cài Mộc Dung đổi thuốc; tiếng chuông thứ tư làm hắn bất ngờ thật. Từ Hồi II hắn dẫn dắt có chủ đích như (a).
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -104,9 +104,9 @@ Tàn ảnh theo canon là "việc đã xảy ra", nên hai phiên bản không t
 
 (a). Hai cảnh không loại trừ nhau nếu xem là hai thời điểm liên tiếp; hướng này cần ít sửa nhất và tăng trọng lượng cho Mộc Dung. Tác giả cần chốt thêm: nội dung tờ giấy, và lời Mộc Dung ở Hồi V là nói giảm có chủ đích hay cần chỉnh.
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (a) — Hai tàn ảnh là hai đoạn nối tiếp: Hồi VI cho thấy đoạn trước (đổi thuốc trong lọ), Hồi III cho thấy đoạn sau (Mộc Dung đeo mặt Tạ Vân Cơ quay lại ép viên thuốc khác). Lọ của A Yên là lọ gốc có cặn thuốc thật; chỉ phần đã chiết bị đổi.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -152,9 +152,9 @@ Handbook hiện chỉ ghi: "Muốn kích hoạt cần máu", "Máu họ Tạ tă
 
 (b). Giữ được logic cốt lõi về cái chết tự nguyện của Tạ Vân Cơ, hợp lệ hóa cảnh Hồi V, và chỉ cần bỏ luật "máu hoàng thất" (thay bằng: Kỷ Vô Nhai đòi máu Tô Mạn vì muốn tàn ảnh ổn định hơn, nhưng không bắt buộc). Câu "Chạm vào cũng vô dụng" ở Hồi VI có thể giữ như lời hắn nói sai. Quyết định này cần được ghi vào handbook bởi tác giả.
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (b) — Giữ luật "tự nguyện", bỏ luật "máu hoàng thất". Tự nguyện là điều kiện để tàn ảnh giữ lâu (một canh giờ), không phải điều kiện kích hoạt; máu bị ép vẫn kích hoạt được tàn ảnh ngắn (bảy nhịp).
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -196,9 +196,9 @@ Hồi I có các hiện tượng không khớp với luật tàn ảnh mà truy�
 
 (a). Ống truyền âm đã có trong canon từ Hồi III, nên đây là cách vá dùng material sẵn có, giữ hook mà không phá luật. Người nói nên được chọn đồng bộ với B-01 (Kỷ Vô Nhai biết gì ở Hồi I) và B-06 (người đóng giả Thanh La). Giọng "Ta là…" ở cảnh 1 có thể giữ như lời người thật.
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (a) — Giải thích bằng cơ quan/vật lý: khói là khí Bế Tâm Sa, lớp sáng ở mắt do Hàn Thiền hoặc thuốc nhỏ mắt sân khấu, giọng nói phát qua ống truyền âm.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -241,9 +241,9 @@ Hai mốc không thể cùng đúng.
 
 (c) nếu tác giả muốn giữ quan hệ tỷ muội từ nhỏ (trục cảm xúc chính theo handbook); (a) nếu ưu tiên ít sửa nhất. Editor nghiêng về (c) vì quan hệ dài là nền của payoff cuối truyện, nhưng cần tác giả chốt bảng mốc thời gian đầy đủ (tuổi hai tỷ muội, năm Tạ gia sụp, năm Kỷ thay Phí, năm Chiêu Hòa "chết", tuổi Tô Mạn và Hoàng đế).
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (c) — Dời mốc thời gian: Kỷ Vô Nhai thay mặt Phí Kinh Hồng khoảng 23–24 năm trước (thay vì 16); Chiêu Hòa tách thành mốc riêng.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -285,9 +285,9 @@ Truyện không xác định những người này là ai, phe nào, và hành �
 
 (c), với điều kiện rút gọn khi biên tập để người nghe phân biệt được ít nhất "người cuối là Tạ Vân Cơ thật". Nếu tác giả muốn đơn giản cho audio: (a). Quyết định này cần chốt trước B-07.
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (c) — Kết hợp: chân dung là hồ sơ Tạ Vân Cơ theo dõi kẻ giả mạo của Vô Danh Môn; bảy tàn ảnh phần lớn là kẻ giả, riêng người mặc áo Vân La nói "Xin lỗi" là chính Tạ Vân Cơ.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -328,9 +328,9 @@ Truyện không xác định những người này là ai, phe nào, và hành �
 
 Chốt sau B-06. Nếu B-06 chọn (a) hoặc (c) → khuyến nghị (a). Nếu B-06 chọn (b) → khuyến nghị (c). Mốc ngày nên được thống nhất cùng lúc (đề xuất: cả hai đều chỉ giờ Tý đêm 14 sang 15).
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (a) — Kẻ địch đặt hộp: một kẻ giả mạo mang mặt Thanh La đặt hộp sau khi bắt A Yên; bức vẽ trong con mắt thủy tinh là của Tạ Vân Cơ để lại từ trước.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -371,9 +371,9 @@ Bản thảo Hồi VI không có cảnh Cố trả tên. Vân La tự chọn tê
 
 (c) hoặc (b). Theme handbook nhấn mạnh "Tên gọi không định nghĩa con người. Người ta được nhận ra bởi những gì họ lựa chọn làm", nên một payoff tự chọn tên phù hợp hơn payoff được trả tên. Dù chọn hướng nào, tác giả cần tự cập nhật handbook (editor không sửa).
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (c) — Kết hợp: không thêm cảnh mới; tận dụng material có sẵn (Cố là người đặt tên "Lục Thanh La"; chi tiết Cố nhìn biển hiệu Vân La Các) làm sự chấp nhận. Tác giả cập nhật câu chữ trong handbook cho khớp.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -418,9 +418,9 @@ Về **nuốt âm thanh**:
 
 Chi phí: (c), vì nó dùng chính material sẵn có (bình máu) làm động cơ và không cần thêm cảnh. Âm thanh: (ii), để tránh mở rộng năng lực ở cao trào. Cả hai cần chốt sau B-03.
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** Chi phí: (c) — người cho máu đã chết thì không ai trả giá; máu người sống mới tính. Âm thanh: (ii) — diễn đạt lại thành cảm nhận của nhân vật, không phải tính năng của Mẫu Kính.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
@@ -458,9 +458,9 @@ Hồi V: mẫu phi của Tô Mạn phát hiện có người đang học giọng
 
 (a) nếu tác giả muốn khép tuyến; (b) nếu muốn giữ đất cho sequel (handbook đã ghi Hạ ↔ Vân La "có thể phát triển sequel"). Không khuyến nghị (c).
 
-**QUYẾT ĐỊNH CỦA TÁC GIẢ:**
+**QUYẾT ĐỊNH CỦA TÁC GIẢ:** (a) — Quy về Kỷ Vô Nhai / Vô Danh Môn: hắn chuẩn bị người thay thế công chúa để có người trong hoàng tộc; kế hoạch thất bại vì Cố can thiệp.
 
-**STATUS:** UNDECIDED
+**STATUS:** LOCKED
 
 ---
 
