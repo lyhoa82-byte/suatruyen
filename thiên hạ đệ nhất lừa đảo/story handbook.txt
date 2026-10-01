@@ -1,0 +1,341 @@
+Dưới đây là bản Story Handbook ngắn gọn, thiên về continuity/editor workflow, thiết kế để Claude, GPT hoặc editor khác đọc trong 1 lần và bám canon khi sửa truyện.
+
+STORY HANDBOOK
+THIÊN HẠ ĐỆ NHẤT NỮ LỪA ĐẢO
+1. BỐI CẢNH & TIMELINE
+Bối cảnh
+
+Cổ đại giả tưởng phong cách trinh thám, phá án, âm mưu quan trường.
+
+Timeline
+
+Arc chính hiện tại đã hoàn thành từ Tập 1 → Tập 10.
+
+Trục chính:
+
+Tịnh Châu → bạc cứu tế thất thoát
+Truy dấu Vô Thanh Các
+Đại Lý Tự
+Hồ sơ Tô Hoài Sơn
+Kho bạc ngầm dưới Đại Lý Tự
+Vạch mặt Hàn Tông Lâm
+Thu hồi bạc
+Kết thúc vụ án Vô Thanh Các
+Địa điểm quan trọng
+
+Đại Lý Tự
+
+trung tâm phá án
+nơi Thẩm Cảnh Hành làm việc
+từng có kho bạc ngầm
+
+Tịnh Châu
+
+nơi bắt đầu truyện
+
+Hình bộ
+
+nơi tìm thấy hồ sơ Tô Hoài Sơn
+
+Thanh Hà
+
+tuyến vận chuyển bạc
+
+Tô gia cũ
+
+nơi giấu bàn tính chứa mẫu sổ
+Quy tắc thế giới
+Không có võ hiệp siêu năng lực.
+Mọi thắng lợi phải đến từ điều tra, lừa đảo, cơ quan, suy luận hoặc bố cục.
+Không xuất hiện thần tiên, phép thuật.
+Mọi âm mưu đều phải có logic vật lý và tổ chức thực tế.
+2. CORE THEME
+Chủ đề trung tâm
+
+Sự thật luôn có giá phải trả.
+
+Các theme phụ
+Công lý không xóa sạch quá khứ.
+Người thông minh vẫn có thể bị lừa.
+Tin tưởng là thứ khó nhất.
+Gia đình không nằm ở huyết thống mà nằm ở lựa chọn.
+Mọi món nợ cuối cùng đều phải thanh toán.
+3. NHÂN VẬT & QUAN HỆ
+Tô Diệu Diệu
+Mục tiêu
+
+Ban đầu:
+
+Tìm cha
+Rửa oan cho cha
+
+Sau Arc 10:
+
+Làm việc tại Đại Lý Tự
+Phá án
+Xây dựng lại cuộc sống
+Điểm yếu
+Hay tự gánh mọi thứ.
+Không thích nhờ người.
+Đôi khi quá tự tin.
+Thường lấy bản thân làm mồi.
+Năng lực
+Lừa đảo
+Giả mạo
+Mở khóa
+Suy luận hiện trường
+Đọc tâm lý
+Thiết kế kế hoạch
+Quan hệ
+
+Cha: Tô Hoài Sơn
+
+Người yêu/chồng: Thẩm Cảnh Hành
+
+Đồng đội: Cao Nghiêm Lục Đậu
+
+Thẩm Cảnh Hành
+Mục tiêu
+Truy sự thật
+Giữ pháp luật
+Hoàn thành điều phụ thân chưa làm
+Điểm yếu
+Quá nguyên tắc
+Hay tự hi sinh
+Không giỏi biểu đạt cảm xúc
+Năng lực
+Điều tra
+Suy luận hệ thống
+Kiếm pháp
+Chỉ huy
+Quan hệ
+
+Yêu Tô Diệu Diệu.
+
+Tôn trọng Tô Hoài Sơn.
+
+Tin tưởng Cao Nghiêm.
+
+Lục Đậu
+
+Vai trò: Em trai nuôi / trợ thủ.
+
+Điểm mạnh:
+
+Quan sát
+Trí nhớ
+Mạng lưới dân gian
+
+Điểm yếu:
+
+Ham ăn
+Thiếu kinh nghiệm
+Cao Nghiêm
+
+Vai trò: Đội trưởng thị vệ.
+
+Điểm mạnh:
+
+Hành động
+Trung thành
+Thực thi
+
+Điểm yếu:
+
+Ít linh hoạt hơn Tô
+Tô Hoài Sơn
+
+Cha Tô Diệu Diệu.
+
+Người tạo hệ thống sổ gốc.
+Nạn nhân của Hàn Tông Lâm.
+Được giải oan ở cuối truyện.
+Hàn Tông Lâm
+
+Phản diện trung tâm Arc 1.
+
+Đại Lý Tự khanh.
+Sáo Chủ thật.
+Kẻ vận hành Vô Thanh Các.
+
+Đã bị bắt cuối Tập 10.
+
+XƯNG HÔ
+Tô ↔ Thẩm
+
+Ban đầu:
+
+cô / ta
+chàng / ta
+
+Về sau: giữ phong cách trêu chọc quen thuộc.
+
+Không chuyển đột ngột sang ngôn ngữ ngôn tình hiện đại.
+
+Tô ↔ Cha
+con
+cha
+Cao Nghiêm
+thuộc hạ
+đại nhân
+Lục Đậu
+tỷ
+đệ
+4. CHARACTER VOICE
+Tô Diệu Diệu
+nhanh
+sắc
+hài khô
+nói đùa giữa nguy hiểm
+
+Ngay cả lúc đau vẫn có thể châm chọc.
+
+Thẩm Cảnh Hành
+ít nói
+ngắn gọn
+thẳng
+
+Không thuyết giảng dài.
+
+Cao Nghiêm
+thực tế
+nghiêm túc
+
+Thường là người "bình thường nhất".
+
+Lục Đậu
+chân thật
+hài tự nhiên
+
+Không phải comic relief ngu ngốc.
+
+Tô Hoài Sơn
+điềm tĩnh
+thông minh
+có chút hài khô giống con gái
+5. CANON & CONTINUITY
+Đã xác nhận
+Tô Hoài Sơn vô tội.
+Hàn Tông Lâm là Sáo Chủ thật.
+Danh sách ghi Tô Hoài Sơn là Sáo Chủ là giả.
+Vô Thanh Các đã bị đánh sập phần lớn.
+Tô làm việc cho Đại Lý Tự 3 năm.
+Sau đó Tô và Thẩm thành thân.
+Tuyệt đối không đổi
+Tô ghét gừng.
+Tô từng trộm Ô Vân.
+Thẩm ghi sổ tội trạng của Tô.
+Lục Đậu là em nuôi.
+Cao Nghiêm luôn là đồng đội đáng tin.
+Hàn Tông Lâm đã bị bắt.
+Nhân vật đã biết gì
+Tô
+
+Biết toàn bộ sự thật về cha và Hàn.
+
+Thẩm
+
+Biết toàn bộ hồ sơ Vô Thanh Các.
+
+Cao Nghiêm
+
+Biết gần như toàn bộ vụ án.
+
+Lục Đậu
+
+Biết phần lớn nhưng không biết hết hồ sơ mật.
+
+Continuity cần nhớ
+Vai trái Thẩm từng bị ô đầu và bị Tô đâm xuyên cơ.
+Chân phải Tô Hoài Sơn bị hỏng.
+Cao Nghiêm từng đóng giả khâm sai.
+Gánh hát giả cấm quân từng tồn tại.
+6. SETUP → PAYOFF
+Setup đã payoff
+Cha Tô còn sống
+
+Setup: Tập 4-6
+
+Payoff: Gặp lại ở kho ngầm
+
+Tập 7
+
+Sáo Chủ là ai
+
+Setup: Tập 4
+
+Payoff: Hàn Tông Lâm
+
+Tập 7
+
+Mẫu sổ
+
+Setup: Tập 5-7
+
+Payoff: Bàn tính Tô gia
+
+Tập 10
+
+Bạc cứu tế
+
+Setup: Tập 1
+
+Payoff: Thu hồi
+
+Tập 10
+
+Món nợ cảm xúc hoàn thành
+Thẩm ↔ Tô
+
+Từ: truy bắt
+
+Đến: tin tưởng → thành thân
+
+Tô ↔ Cha
+
+Từ: tìm kiếm
+
+Đến: đoàn tụ
+
+Thẩm ↔ Cha mình
+
+Từ: nghi vấn
+
+Đến: biết sự thật
+
+Setup còn mở (nếu viết tiếp)
+Hậu quả chính trị sau vụ Hàn Tông Lâm.
+Tàn dư Vô Thanh Các.
+Những lá đồng có thể dẫn tới các vụ án khác.
+Cuộc sống sau thành thân của Tô và Thẩm.
+Các vụ án mới tại Đại Lý Tự.
+7. GHI CHÚ BIÊN TẬP
+Quy tắc cực quan trọng
+Không biến Tô thành vô địch.
+Tô phải có lúc đoán sai.
+Thẩm phải có chiến thắng riêng.
+Nhân vật phụ phải tiếp tục hữu dụng.
+Mỗi arc đều cần một mục tiêu điều tra rõ ràng.
+Hài đến từ tính cách nhân vật, không phải trò hề.
+Không được làm
+Hồi sinh Hàn Tông Lâm.
+Retcon Tô Hoài Sơn thành phản diện.
+Biến Thẩm thành công cụ của Tô.
+Cho Tô giải quyết mọi thứ một mình.
+Mở rộng quy mô âm mưu lớn hơn Vô Thanh Các quá nhanh.
+Hướng truyện phù hợp sau Arc 1
+
+Ưu tiên:
+
+vụ án cá nhân
+vụ liên quan người quen
+vụ liên quan Đại Lý Tự
+
+Tránh:
+
+cứu thiên hạ lần hai
+phản diện bí mật còn mạnh hơn Hàn xuất hiện ngay lập tức
+
+Tinh thần cốt lõi của truyện:
+
+Một nữ lừa đảo chuyên nói dối, một thiếu khanh quá chính trực, cùng phá án bằng những cách không ai ngờ tới, trong khi học cách tin người khác và chịu trách nhiệm cho những lựa chọn của mình.

@@ -1,0 +1,442 @@
+Dưới đây là bản STORY HANDBOOK dạng "production document" để Claude (hoặc GPT khác) có thể sửa, polish, rewrite mà không làm vỡ continuity. Mình giữ khoảng ~6k-7k ký tự, tập trung vào những thứ AI editor cần nhất.
+
+STORY HANDBOOK
+TIỂU THƯ MỘT MÌNH GIỮ PHỦ
+1. BỐI CẢNH & TIMELINE
+Bối cảnh
+
+Cổ trang hư cấu lấy cảm hứng từ Trung Hoa.
+
+Triều đại: Đại Lương.
+
+Tone chính:
+
+Hài trinh thám
+Gia đình
+Hành động nhẹ
+Coming-of-age
+Không dark fantasy
+Không tiên hiệp
+Không võ hiệp siêu nhân
+
+Thế giới vận hành theo logic hiện thực cổ đại.
+
+Thời gian / Timeline
+
+Toàn bộ cốt truyện chính diễn ra trong khoảng:
+
+10 ngày
+
+Trong đó:
+
+Đêm đột nhập Tạ phủ là sự kiện trung tâm
+Hơn 80% câu chuyện diễn ra trong một đêm
+Địa điểm quan trọng
+
+Tạ phủ
+
+Bối cảnh chính
+Nhà của Minh Châu
+Có nhiều sân viện, thư phòng, tổ đường, hồ sen, chuồng ngỗng, hành lang
+
+Đại Lý Tự
+
+Cơ quan điều tra án
+Nơi Tạ Cảnh Nghiêm làm việc
+
+Hoàng cung
+
+Cung yến
+Điểm climax chính trị cuối truyện
+
+Tổ đường
+
+Nơi diễn ra đối đầu cuối giữa Từ Hạo và quản gia Từ
+Quy tắc thế giới đặc biệt
+
+Không có phép thuật.
+
+Các "cơ quan" trong phủ đều phải khả thi theo logic thủ công:
+
+Dây kéo
+Ròng rọc
+Chuông
+Bẫy đơn giản
+Ống truyền âm
+
+Tuyệt đối không biến Minh Châu thành thiên tài siêu nhiên.
+
+2. CORE THEME
+Chủ đề chính
+
+Một người có thể còn nhỏ tuổi nhưng vẫn có trách nhiệm bảo vệ gia đình và lẽ phải.
+
+Chủ đề phụ
+Chính nghĩa phải đi cùng pháp luật
+Gia đình là điểm tựa mạnh nhất
+Lòng trung thành không thể đứng trên đạo đức
+Người tốt vẫn có thể mắc sai lầm
+Trưởng thành là học cách gánh hậu quả
+Tinh thần truyện
+
+Tươi sáng.
+
+Nguy hiểm có thật nhưng không bi kịch nặng nề.
+
+Kết thúc tích cực.
+
+3. NHÂN VẬT & QUAN HỆ
+Nhân vật chính
+Tạ Minh Châu
+
+Tuổi: 14
+
+Mục tiêu
+Phá án
+Bảo vệ Tạ phủ
+Chứng minh năng lực điều tra
+Điểm yếu / giới hạn
+Chưa trưởng thành
+Không có võ công
+Không có quyền lực chính thức
+Hay tự tin quá mức
+Đôi lúc thiếu kiên nhẫn
+Năng lực
+Quan sát chi tiết
+Suy luận logic
+Hiểu luật lệ
+Biết bố trí bẫy đơn giản
+Quan hệ
+
+Tạ Cảnh Nghiêm
+
+Cha
+Vừa là người hướng dẫn vừa là người quản giáo
+
+Tạ phu nhân
+
+Mẹ
+Chỗ dựa cảm xúc
+
+Tiểu Đào
+
+Bạn thân kiêm nha hoàn
+
+Vú Trương
+
+Người chăm sóc từ nhỏ
+
+A Phúc
+
+Chó nhà
+Đồng đội đáng tin nhất
+Nhân vật phụ
+Tạ Cảnh Nghiêm
+
+Vai trò:
+
+Cha của Minh Châu
+Đại Lý Tự khanh
+
+Mục tiêu:
+
+Điều tra đại án lương thực
+Bảo vệ gia đình
+
+Đặc điểm:
+
+Nghiêm khắc
+Thương con nhưng ít thể hiện
+Tiểu Đào
+
+Vai trò:
+
+Comic relief chính
+
+Đặc điểm:
+
+Hay sợ
+Miệng nhanh hơn não
+Trung thành tuyệt đối
+Vú Trương
+
+Vai trò:
+
+Người lớn đáng tin
+
+Đặc điểm:
+
+Thực tế
+Gan dạ
+Bảo vệ Minh Châu vô điều kiện
+Quản gia Từ
+
+Vai trò:
+
+Nội gián bất đắc dĩ
+
+Mục tiêu:
+
+Cứu con trai
+
+Xung đột:
+
+Trung thành với Tạ gia
+Tình phụ tử với Từ Hạo
+Từ Hạo (Thiết Diện)
+
+Vai trò:
+
+Phản diện cá nhân
+
+Mục tiêu:
+
+Đoạt vật chứng
+
+Đặc điểm:
+
+Có năng lực
+Tham vọng
+Mang mặc cảm xuất thân
+Lương Sùng
+
+Vai trò:
+
+Phản diện cuối
+
+Mục tiêu:
+
+Che giấu đại án tham ô lương thực
+
+Đặc điểm:
+
+Quyền lực
+Tính toán
+Nguy hiểm hơn vẻ ngoài
+Nhóm đạo tặc
+Hắc Ưng
+
+Lão đại.
+
+Bạch Thử
+
+Mở khóa giỏi.
+
+Thiết Đầu
+
+Khỏe, ngốc, hài.
+
+Tiểu Lục
+
+Thông minh nhất nhóm.
+
+Vai trò:
+
+Đối thủ ban đầu
+Đồng minh bất đắc dĩ về sau
+XƯNG HÔ
+Minh Châu
+
+Với cha:
+
+Con / a phụ
+
+Với mẹ:
+
+Con / a nương
+
+Với người lớn:
+
+Con
+
+Với Tiểu Đào:
+
+Ta / ngươi
+Tạ Cảnh Nghiêm
+
+Với Minh Châu:
+
+Vi phụ / con
+
+Giữ quy tắc này xuyên suốt.
+
+4. CHARACTER VOICE
+Minh Châu
+
+Nhanh.
+
+Lanh.
+
+Hay bẻ logic người khác.
+
+Không nói chuyện quá trưởng thành như người lớn.
+
+Tạ Cảnh Nghiêm
+
+Ngắn.
+
+Chính xác.
+
+Ít lời.
+
+Nói câu nào có trọng lượng câu đó.
+
+Tiểu Đào
+
+Nhiều phản ứng cảm xúc.
+
+Hay hiểu sai.
+
+Là nguồn hài quan trọng.
+
+Vú Trương
+
+Thực dụng.
+
+Thẳng.
+
+Không vòng vo.
+
+A Phúc
+
+Không nói.
+
+Comedy đến từ hành vi.
+
+Không nhân hóa quá mức.
+
+5. CANON & CONTINUITY
+Thông tin đã xác nhận
+Minh Châu 14 tuổi
+Tạ Cảnh Nghiêm là Đại Lý Tự khanh
+A Phúc giữ mật khóa thật
+Cuốn sổ trong thư phòng là bản giả
+Từ Hạo chính là Thiết Diện
+Quản gia Từ bị ép hợp tác
+Lương Sùng là chủ mưu cuối
+Chi tiết tuyệt đối không được thay đổi
+Minh Châu không biết võ công
+Không có yếu tố huyền huyễn
+A Phúc là nhân vật quan trọng
+Kết thúc Tạ gia thắng
+Lương Sùng bị lật tẩy
+Từ Hạo còn sống
+Những gì từng nhân vật đã biết
+Minh Châu
+
+Ban đầu:
+
+Không biết âm mưu thật
+
+Giữa truyện:
+
+Biết có nội gián
+
+Cuối truyện:
+
+Hiểu toàn bộ kế hoạch đổ tội cho Tạ gia
+Tạ Cảnh Nghiêm
+
+Biết:
+
+Có đại án
+Có người nhắm đến vật chứng
+
+Không biết:
+
+Minh Châu vẫn ở phủ đêm đó
+Chi tiết cần kiểm tra continuity
+Vị trí cuốn sổ giả
+Vị trí lá đồng
+Các bẫy đã sử dụng
+Tình trạng cháy của Tạ phủ
+Chấn thương của từng nhân vật
+Ai biết danh tính Thiết Diện ở thời điểm nào
+6. SETUP → PAYOFF
+Setup đang mở
+Setup
+
+Minh Châu muốn học điều tra chính thức.
+
+Gieo: Cảnh 1.
+
+Trạng thái: Hoàn thành một phần.
+
+Payoff: Được phép vào Đại Lý Tự mỗi tháng.
+
+Setup
+
+A Phúc bị xem là chó già tham ăn.
+
+Gieo: Đầu truyện.
+
+Payoff: Giữ chìa khóa vụ án.
+
+Món nợ cảm xúc
+Minh Châu ↔ Tạ Cảnh Nghiêm
+
+Nợ: Sự công nhận.
+
+Payoff: Cha cho phép vào Đại Lý Tự.
+
+Quản gia Từ ↔ Từ Hạo
+
+Nợ: Cha con xa cách.
+
+Payoff: Đối mặt trong tổ đường.
+
+Hắc Ưng team ↔ Minh Châu
+
+Nợ: Thù ban đầu.
+
+Payoff: Cùng cứu Tạ phủ.
+
+Payoff đã hoàn thành
+Người giao than vô tội
+
+Setup: Cảnh 1.
+
+Payoff: Tạ Cảnh Nghiêm đã điều tra từ trước.
+
+Con chó giữ chứng cứ
+
+Setup: Chiếc vòng trên cổ A Phúc.
+
+Payoff: Bí mật nằm trong vòng cổ.
+
+Quản gia có điều giấu giếm
+
+Setup: Kéo tay áo khi nói dối.
+
+Payoff: Bị ép bởi Từ Hạo.
+
+7. GHI CHÚ BIÊN TẬP
+Các vấn đề nên ưu tiên khi sửa
+
+Tăng hiện diện của Lương Sùng từ sớm.
+
+Foreshadow Thiết Diện sớm hơn.
+
+Giảm 20-30% số bẫy lặp để tăng nhịp.
+
+Tăng chiều sâu Từ Hạo trước khi reveal.
+
+Cân nhắc cho Minh Châu thất bại thật một lần ở giữa truyện.
+
+Có thể bổ sung đại twist:
+
+Tạ Cảnh Nghiêm đã giăng lưới từ trước.
+Minh Châu và cha vô tình hoàn thành hai nửa kế hoạch riêng biệt.
+Không được làm mất
+Chất hài gia đình.
+Chemistry Minh Châu + Tiểu Đào.
+A Phúc.
+Hai con ngỗng.
+Tonal balance giữa phá án và hài.
+Mục tiêu sau biên tập
+
+Giữ cảm giác:
+
+"Ở nhà một đêm, tiểu thư 14 tuổi vô tình phá đại án triều đình."
+
+Đó là fantasy cảm xúc cốt lõi của toàn bộ tác phẩm.
