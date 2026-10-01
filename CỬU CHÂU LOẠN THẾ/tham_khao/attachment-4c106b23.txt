@@ -1,0 +1,345 @@
+NHIỆM VỤ
+
+Sửa Draft Chương 1 theo Audit bên dưới.
+
+ĐƯỢC PHÉP
+Sửa continuity.
+Sửa logic.
+Sửa câu chữ.
+Sửa các chi tiết được đánh dấu Revision Required.
+Thêm các chi tiết rất nhỏ để làm rõ logic hiện có.
+KHÔNG ĐƯỢC PHÉP
+Thêm scene mới.
+Thêm twist mới.
+Thêm nhân vật mới.
+Đổi cấu trúc 6 scene.
+Tự ý sửa Production Bible.
+Tự ý sửa Chapter Bible.
+Tự ý Canon hóa Draft Detail.
+Tự quyết định motif thanh mai trúc mã.
+SAU KHI SỬA
+
+Liệt kê chính xác:
+
+những gì đã sửa;
+lý do sửa;
+chi tiết nào vẫn là Draft Accepted và chưa phải Canon.
+AUDIT CHƯƠNG 1
+TRẠNG THÁI
+
+DRAFT ACCEPTED – CHƯA LOCKED
+
+Chương đã hoàn thành đúng chức năng:
+
+đưa người đọc vào Vân Trung;
+giới thiệu Dịch bằng hành động;
+gieo khủng hoảng hậu cần;
+giới thiệu Uyển và Hoắc Tam Lang vừa đủ;
+gieo Chu Hạc và Bắc Môn mà không làm lộ phản diện;
+kết bằng một câu hỏi thay vì giải mystery.
+
+Không cần thêm:
+
+twist;
+sát thủ;
+tiên tri;
+phản diện lộ mặt;
+bằng chứng trực tiếp về âm mưu.
+I. NHỮNG GÌ ĐÃ ĐẠT
+Scene Flow
+
+Giữ nguyên:
+
+Tuyết
+↓
+Thành
+↓
+Người
+↓
+Quân
+↓
+Cửa
+↓
+Con số
+
+
+Câu cuối:
+
+"Hắn không dọn."
+
+Giữ nguyên.
+
+Nhân vật
+Thẩm Dịch
+
+Giới thiệu tốt qua:
+
+quan sát;
+đối sổ;
+kiểm tra dữ liệu;
+không kết luận khi chưa đủ chứng cứ.
+Tiêu Uyển
+
+Giới thiệu tốt qua quyết định nhường đường nhưng vẫn giữ đội hình.
+
+Hoắc Tam Lang
+
+Đoạn:
+
+"Thấy rồi?"
+
+"Mới thấy một người."
+
+Giữ nguyên.
+
+Chu Hạc
+
+Giữ cách thể hiện hiện tại:
+
+đáng tin;
+thực tế;
+không có dấu hiệu phản diện.
+II. ĐỘ DÀI
+
+Target: khoảng 300.000 ký tự
+Working Range: 280.000–330.000 ký tự
+Soft Cap: 350.000 ký tự
+
+Nguyên tắc:
+
+Không kéo dài chương chỉ để đạt quota.
+Không cắt nội dung cần thiết chỉ để giữ trần.
+Chức năng chương quan trọng hơn độ dài chương.
+
+Chương 1 hiện khoảng 18.400 ký tự:
+
+Không cần mở rộng thêm.
+
+III. REVISION REQUIRED
+1. Logic lương thực
+
+Phải sửa.
+
+Hiện Draft ghi:
+
+theo sổ đủ đến tháng Ba,
+
+thực tế cạn cuối tháng Giêng.
+
+Dịch chưa có đủ dữ liệu để kết luận như vậy.
+
+Thay bằng:
+
+Theo sổ, lượng tồn được báo lên vẫn nằm trong mức đủ để Vân Trung vượt qua mùa đông. Nhưng nếu bốn chuyến trước đều thiếu đúng hai xe, con số ấy không còn đáng tin.
+
+“Mục tiêu cần đạt: Dịch chỉ kết luận rằng số liệu tồn kho không còn đáng tin, không xác định ngày kho cạn.”
+
+2. Xe thứ bảy – bao thứ ba
+
+Thêm một chi tiết nhỏ giúp độc giả thấy vì sao Dịch nhớ chính xác vị trí.
+
+Ví dụ:
+
+hắn nhìn số xe;
+hoặc đếm vị trí trước khi đặt lại bao.
+
+Không cần thêm giải thích.
+
+Chỉ cần fair-play.
+
+IV. CHAPTER BIBLE ISSUE
+Hoắc Tam Lang
+
+Draft đã xác lập:
+
+Tam Lang tồn tại trước Chương 1;
+quân lính đã quen với Tam Lang;
+Tam Lang đã ở Hắc Hà từ tháng Năm.
+
+Do đó:
+
+Không sửa Chương 1.
+
+Nhưng phải đánh dấu:
+
+Đề xuất cập nhật Chapter Bible Ch6
+
+Không phải:
+
+Hoắc Chiêu trở thành Hoắc Tam Lang.
+
+Mà là:
+
+Hoắc Tam Lang tiếp nhận quyền lãnh đạo Hoắc gia quân.
+
+Chương 6 nên payoff bằng:
+
+nhận binh phù;
+mặc giáp cha;
+tiếp quản quân quyền;
+trở thành lá cờ mới của Hoắc quân.
+V. PRODUCTION BIBLE ISSUE
+Thanh mai trúc mã
+
+CHƯA KHÓA
+
+Không sửa Draft Chương 1 để cứu motif.
+
+Không thêm memory seed.
+
+Không chỉnh Scene 4.
+
+Trước khi quyết định giữ hoặc bỏ motif cần xây:
+
+Timeline tuổi thơ Dịch–Chiêu.
+Knowledge Matrix liên quan.
+Emotional Debt Matrix liên quan.
+
+Đây là vấn đề của Production Bible.
+
+Không phải lỗi Draft.
+Trong nhiệm vụ này chỉ sửa Draft Chương 1. Không chỉnh nội dung Chương 6. Chỉ ghi nhận đề xuất cập nhật Chương 6 trong báo cáo sau sửa.
+
+VI. DRAFT DETAILS
+Draft Accepted
+
+Các chi tiết sau có thể giữ:
+
+Chương 1 diễn ra giữa tháng Mười.
+Đoàn hòa thân mắc lại vì Hắc Sơn tắc tuyết.
+Dịch là thư lại Hộ phòng phủ Vân Trung.
+Tam Lang ở Hắc Hà từ tháng Năm.
+Chín chuyến có bốn chuyến thiếu đúng hai xe.
+Mỗi lần thiếu đều tại Lang Nha.
+Dịch dùng quân cờ đen trắng để đếm xe.
+Phùng thúc có các clue bất thường.
+Tam Lang có các clue bất thường.
+Vân Chương xuất hiện gián tiếp qua tiếng ho.
+Lưu ý
+
+Các chi tiết trên:
+
+Draft Accepted
+
+chưa tự động trở thành Canon.
+
+Chưa Canon hóa
+Then Bắc Môn
+
+Giữ:
+
+gỗ sồi bọc sắt;
+hai người khiêng;
+bôi dầu.
+
+Registry:
+
+Seed:
+Bắc Môn / Then mới
+
+Importance:
+Major
+
+Status:
+Đã gieo
+
+
+Chưa nâng Core.
+
+Bao lương dây mới
+
+Giữ seed.
+
+Không khóa payoff.
+
+Không khóa giả thuyết "độn trấu".
+
+Người mặc áo lính hỏi thăm Dịch
+
+Giữ sự kiện.
+
+Không xác định danh tính.
+
+Không khóa là người của Chu Hạc.
+
+VII. KNOWLEDGE MATRIX
+
+Không ghi:
+
+"Độc giả cảm thấy nguy hiểm hơn Dịch."
+
+Knowledge Matrix chỉ ghi thông tin.
+
+Giữ:
+
+Dịch biết
+hụt lương;
+thiếu giấy báo hao;
+có người hỏi thăm mình;
+then Bắc Môn mới thay.
+Dịch nghi
+hao hụt có quy luật;
+có người đang làm sai lệch số liệu.
+Dịch không biết
+ai đứng sau;
+mục đích;
+liên hệ với Bắc Môn;
+người hỏi thăm thuộc phe nào.
+VIII. VÂN CHƯƠNG
+
+Giữ:
+
+tiếng ho sau rèm;
+câu "Tạ đại nhân không chịu được gió."
+
+Chưa xem là xuất hiện trực tiếp.
+
+IX. AUDIT RULE
+
+Không phải mọi vấn đề phát hiện trong Audit đều cần sửa Draft.
+
+Một vấn đề có thể thuộc:
+
+Draft;
+Scene Bible;
+Chapter Bible;
+Production Bible;
+Control Systems.
+
+Mục tiêu của Audit:
+
+xác định lỗi nằm ở tầng nào,
+
+không phải:
+
+ép Draft gánh lỗi của toàn bộ hệ thống.
+
+KẾT LUẬN
+CHƯƠNG 1
+
+DRAFT ACCEPTED – CHƯA LOCKED
+
+Cần sửa trước khi Lock
+Sửa đoạn kết luận về lương.
+Thêm chi tiết giúp việc nhớ "xe thứ bảy, bao thứ ba" fair-play hơn.
+Không cần sửa
+Không thêm twist.
+Không thêm cảnh.
+Không kéo dài chương.
+Không làm Chu Hạc đáng ngờ hơn.
+Không cho Dịch đoán ra toàn bộ âm mưu.
+Không đưa Vân Chương xuất hiện trực tiếp.
+Sau khi sửa
+Revision
+↓
+Re-Audit
+↓
+Chapter Locked
+↓
+Canon Update
+↓
+Cập nhật Control Systems
+↓
+Scene Bible Chương 2
+
+Không được tự chuyển trạng thái Chương 1 thành Chapter Locked. Sau revision, trạng thái vẫn là DRAFT ACCEPTED – CHƯA LOCKED cho đến khi Audit/Re-Audit được duyệt.

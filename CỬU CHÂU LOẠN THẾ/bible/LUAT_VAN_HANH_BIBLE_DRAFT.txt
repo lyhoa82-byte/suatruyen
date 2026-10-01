@@ -1,0 +1,149 @@
+LUẬT VẬN HÀNH BIBLE VÀ DRAFT
+
+GOLDEN RULE
+
+DRAFT KHÔNG TỰ ĐỘNG TRỞ THÀNH CANON.
+
+Trong quá trình viết, Draft có thể tạo ra những chi tiết mới.
+
+Không được tự động thay đổi Bible chỉ vì Draft xuất hiện một ý tưởng hoặc chi tiết mới.
+
+Mọi chi tiết mới phải đi qua quy trình sau:
+
+DRAFT TẠO CHI TIẾT MỚI
+↓
+KIỂM TRA PRODUCTION BIBLE
+↓
+KIỂM TRA CHAPTER BIBLE
+↓
+KIỂM TRA SCENE BIBLE
+↓
+KIỂM TRA 5 CONTROL SYSTEMS
+↓
+XÁC ĐỊNH MỨC ĐỘ ẢNH HƯỞNG
+
+NẾU KHÔNG MÂU THUẪN
+
+→ Chấp nhận chi tiết ở mức Draft.
+→ Cập nhật Ledger / Registry cần thiết.
+→ Chỉ nâng thành Canon khi Chapter được khóa.
+
+QUY TRÌNH CANON:
+
+Idea
+↓
+Draft Detail
+↓
+Draft Accepted
+↓
+Chapter Locked
+↓
+Canon
+
+Một chi tiết chưa qua bước Chapter Locked vẫn được xem là Draft Detail, dù nó đã xuất hiện trong bản thảo.
+
+Canon không được thay đổi âm thầm.
+
+Nếu một Canon đã khóa cần thay đổi, phải tạo một thay đổi Canon có chủ đích và kiểm tra toàn bộ hệ thống bị ảnh hưởng.
+
+NẾU MÂU THUẪN NHỎ Ở CẤP CẢNH
+
+→ Sửa Scene Bible.
+→ Không sửa Chapter Bible nếu chức năng của chương vẫn giữ nguyên.
+→ Cập nhật Control Systems nếu trạng thái thực tế đã thay đổi.
+
+NẾU MÂU THUẪN Ở CẤP CHƯƠNG
+
+→ Sửa Chapter Bible.
+→ Kiểm tra lại các Scene liên quan.
+→ Cập nhật các Control Systems bị ảnh hưởng.
+
+NẾU MÂU THUẪN VỚI LUẬT NỀN CỦA THẾ GIỚI
+
+→ Không tự ý sửa Production Bible.
+→ Đánh dấu vấn đề.
+→ Xác định xem đây là lỗi Draft, lỗi Chapter/Scene Bible, hay thực sự là nhu cầu thay đổi Canon.
+→ Chỉ sửa Production Bible khi đã xác định đây thực sự là thay đổi luật nền hoặc quyết định Canon mới.
+
+HỆ THỐNG PHÂN TẦNG
+
+Production Bible = LUẬT NỀN.
+
+Chapter Bible = KIẾN TRÚC.
+
+Scene Bible = THI CÔNG.
+
+Control Systems = HỆ THỐNG KIỂM SOÁT.
+
+Draft = CÔNG TRÌNH THỰC TẾ.
+
+Draft không được tự động trở thành Canon chỉ vì đã được viết.
+
+Một chi tiết mới chỉ trở thành Canon sau khi kiểm tra xem nó có phá:
+
+* logic nhân vật;
+* timeline;
+* knowledge;
+* seed → payoff;
+* state;
+* emotional debt;
+* logistics;
+* faction logic;
+* hoặc luật nền của thế giới hay không.
+
+Nếu một chi tiết mới rất hay nhưng phá continuity:
+
+→ Không ưu tiên “hay” hơn logic.
+
+Nếu một chi tiết mới làm câu chuyện tốt hơn nhưng cần thay đổi cấu trúc:
+
+→ Đánh giá phạm vi ảnh hưởng trước khi sửa Bible.
+→ Không sửa một tầng mà bỏ qua các tầng và hệ thống bị ảnh hưởng.
+
+Không retcon âm thầm.
+
+Mọi thay đổi có ảnh hưởng đến:
+
+* mystery;
+* timeline;
+* character arc;
+* faction;
+* death;
+* relationship;
+* motivation;
+* logistics;
+* hoặc payoff
+
+đều phải được phản ánh vào các hệ thống liên quan.
+
+ĐẶC BIỆT:
+
+Một chi tiết mới không được dùng để hợp thức hóa ngược một vấn đề đã tồn tại.
+
+Không được viết:
+
+“Vì Draft hiện tại đã nói như vậy, nên từ giờ coi đó là sự thật.”
+
+Phải viết theo nguyên tắc:
+
+“Draft đã tạo ra chi tiết này. Kiểm tra xem chi tiết có hợp lệ không. Nếu hợp lệ, cập nhật hệ thống cần thiết. Sau khi Chapter được khóa, chi tiết mới trở thành Canon.”
+
+MỤC TIÊU
+
+Giữ cho:
+
+Bible = nguồn kiến trúc và Canon đã được kiểm soát.
+
+Draft = nơi sáng tạo và khám phá.
+
+Ledger / Registry = nơi theo dõi trạng thái đang thay đổi.
+
+Control Systems = nơi kiểm tra hậu quả và continuity.
+
+Không để quá trình viết biến thành việc sửa Bible liên tục theo cảm hứng.
+
+Không để một ý tưởng xuất hiện trong Draft vô tình trở thành luật của thế giới.
+
+Không để một chi tiết hay phá hỏng logic dài hạn.
+
+Cho phép Draft sáng tạo, nhưng Canon chỉ được hình thành sau khi đã được kiểm tra.

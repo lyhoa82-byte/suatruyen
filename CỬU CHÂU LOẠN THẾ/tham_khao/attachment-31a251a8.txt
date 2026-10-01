@@ -1,0 +1,446 @@
+## Chưa duyệt viết Draft vì cần sửa
+
+1. **Tuổi và mốc diệt môn của Bùi Chỉ đang sai phép tính.**
+2. **Mười ngày trinh sát không tương thích với việc Chỉ không biết Hoắc không ngủ ở phòng chính.**
+3. Cần chỉnh nhẹ cảnh đối chất để vết bớt vẫn có chức năng.
+4. Chu Hạc chưa được Canon hóa là người tuần tường mỗi đêm.
+
+---
+
+# 1. Lỗi lớn nhất: tuổi Bùi Chỉ
+
+Scene Bible đang ghi:
+
+> Tuổi Chỉ: 18, tám tuổi năm -14.
+
+Phép tính này không đúng.
+
+Nếu Bùi Chỉ tám tuổi vào mười bốn năm trước, hiện tại hắn phải:
+
+> **22 tuổi**
+
+chứ không phải 18.
+
+Ngoài ra, cần kiểm tra “năm -14” đang tính từ mốc nào:
+
+- Nếu tính từ Chương 2, Chỉ 22 tuổi.
+- Nếu tính từ hiện tại sau time skip, thì tại Vân Trung hắn còn quá nhỏ.
+- Nếu Chương 2 diễn ra mười năm trước hiện tại, còn vụ Bùi gia là mười bốn năm trước hiện tại, thì vụ diệt môn chỉ cách Chương 2 bốn năm. Chỉ tám tuổi khi diệt môn thì ở Chương 2 mới mười hai tuổi, không phù hợp với năng lực sát thủ hiện tại.
+
+Đây là **xung đột Master Timeline / Production Bible**, không thể để Draft tự xử lý.
+
+## Ba phương án
+
+### Phương án A: Chỉ 18 tuổi ở Chương 2
+
+Nếu muốn giữ Chỉ 18 tuổi, vụ diệt Bùi gia phải xảy ra khoảng mười năm trước Chương 2, khi hắn tám tuổi.
+
+Như vậy phải sửa lại Master Timeline lớn.
+
+### Phương án B: Vụ diệt môn xảy ra mười bốn năm trước Chương 2
+
+Khi đó Chỉ 22 tuổi ở Chương 2.
+
+Đây là phương án ít sửa Timeline nhất, nhưng khiến hắn lớn hơn nhóm còn lại đáng kể.
+
+### Phương án C: Chỉ khoảng 17–18 tuổi, nhưng lớn hơn tám tuổi khi Bùi gia bị diệt
+
+Ví dụ, vụ diệt môn cách Chương 2 khoảng sáu đến tám năm, Chỉ khoảng mười hoặc mười một tuổi khi trốn thoát.
+
+Tuy nhiên phương án này cũng buộc sửa các mốc đã xác lập.
+
+## Khuyến nghị
+
+Trước khi viết Draft Chương 2, lập đúng một hàng Timeline:
+
+svgsvg
+
+svgsvg
+
+svgsvgsvg
+
+svgPlain Text
+
+Năm Bùi gia bị diệt:
+
+Tuổi Chỉ khi đó:
+
+Khoảng cách tới đêm Vân Trung:
+
+Tuổi Chỉ tại Chương 2:
+
+Khoảng cách tới hiện tại sau time skip:
+
+Tuổi Chỉ ở hiện tại:
+
+svgShow more lines
+
+Không khóa tuổi cho tới khi sáu ô này khớp nhau.
+
+---
+
+# 2. Hoắc không ngủ ở phòng chính: logic trinh sát chưa ổn
+
+Scene Bible hiện ghi:
+
+> Hoắc Thành Lĩnh nhiều năm nay không ngủ ở phòng ngủ chính.
+
+Nhưng Chỉ đã trinh sát mười ngày và biết:
+
+- giờ đổi gác;
+- đường mái;
+- phòng ngủ của Hoắc.
+
+Nếu Hoắc **nhiều năm không ngủ ở phòng chính**, một sát thủ đủ giỏi để trinh sát mười ngày đáng lẽ phải biết. Nếu không biết, Chỉ sẽ thất bại vì sơ suất điều tra, trái với mục tiêu đã khóa:
+
+> Chỉ thất bại vì thông tin thiếu có nguyên nhân, không phải vì ngu.
+
+## Cách sửa tốt hơn
+
+Không dùng:
+
+> Hoắc nhiều năm không ngủ ở phòng chính.
+
+Thay bằng:
+
+> **Đêm đó Hoắc Thành Lĩnh đổi chỗ vì một lý do phát sinh sau khi Chỉ hoàn tất trinh sát.**
+
+Ví dụ:
+
+- báo cáo từ đồn Hắc Hà vừa tới;
+- Tam Lang vừa trở về, mang theo sổ quân hoặc quân báo;
+- đoàn hòa thân khiến thành phòng phải kiểm tra lại;
+- Hoắc làm việc xuyên đêm ở thư phòng;
+- người hầu vẫn trải giường phòng chính theo lệ, nên quan sát từ ngoài không phát hiện thay đổi.
+
+Cách này tạo hai biến số cùng nguồn từ Chương 1:
+
+1. Tam Lang bất ngờ trở về.
+2. Báo cáo từ Hắc Hà khiến Hoắc thức ở thư phòng.
+
+Chỉ thất bại không phải vì trinh sát kém, mà vì **bàn cờ thay đổi sau lần quan sát cuối cùng**.
+
+## Sửa Knowledge đầu chương
+
+Thay:
+
+> Chỉ không biết Hoắc nhiều năm không ngủ ở phòng ngủ chính.
+
+bằng:
+
+> Chỉ không biết đêm ấy Hoắc Thành Lĩnh ở lại thư phòng vì quân báo mới từ Hắc Hà. Trong mười ngày trinh sát trước đó, người hầu vẫn chuẩn bị phòng ngủ chính theo lệ.
+
+Không nhất thiết giải thích hết trong Draft. Nhưng tác giả phải biết nguyên nhân.
+
+---
+
+# 3. Hoắc nhận ra vết bớt phải còn giá trị
+
+Scene 4 đặt trọng tâm vào:
+
+> Hoắc nhìn thấy vết bớt sau tai và nhận ra đứa trẻ Bùi gia.
+
+Nhưng Scene 6 lại ghi:
+
+> Chỉ nói trước, thẳng: hắn là ai, vì sao đến.
+
+Nếu Chỉ tự xưng đầy đủ là Bùi Chỉ, vai trò nhận diện của vết bớt sẽ bị giảm mạnh. Hoắc không còn cần nhận ra hắn bằng dấu vết.
+
+## Cách sửa
+
+Trong Scene 6, Chỉ chỉ nên nói:
+
+> “Ta đến đòi món nợ của Bùi gia.”
+
+hoặc:
+
+> “Ông dẫn quân vây phủ Bùi. Ta đến giết ông vì chuyện đó.”
+
+Không cần nói tên thật.
+
+Như vậy:
+
+- Chỉ chủ động bộc lộ động cơ;
+- Hoắc vẫn là người duy nhất biết hắn chính là đứa trẻ đã thoát;
+- vết bớt giữ được chức năng fair-play;
+- câu về cửa sau có sức nặng hơn.
+
+## Knowledge cuối chương nên là
+
+### Bùi Chỉ biết
+
+- Hoắc biết một chi tiết bí mật về đường thoát năm xưa.
+- Hoắc có lý do chưa rõ để giữ hắn sống.
+- Hoắc không phủ nhận việc từng dẫn quân vây Bùi gia.
+
+### Bùi Chỉ chưa biết
+
+- Hoắc đã nhận ra danh tính chính xác của hắn.
+- Hoắc là người để cửa sau mở.
+- Hoắc từng xin tha cho Bùi gia.
+
+---
+
+# 4. Chu Hạc có mặt: duyệt có điều kiện
+
+Mình duyệt việc Chu Hạc có mặt khi Chỉ bị bắt. Nó tạo nền tốt cho Chương 6:
+
+- biết mặt Chỉ;
+- biết Chỉ từng xâm nhập phủ tướng quân;
+- biết Hoắc giữ Chỉ ngoài sổ sách;
+- sau này có thể lợi dụng những sự thật riêng lẻ để dựng lời chứng giả.
+
+Tuy nhiên, Canon Chương 1 chỉ nói:
+
+> Chu Hạc ngày nào cũng đi một vòng tường thành.
+
+Chưa có Canon rằng:
+
+> đêm nào ông ta cũng tuần tường.
+
+Vì vậy không nên viết Scene Bible như thể “tuần tường mỗi đêm” đã được xác lập.
+
+## Cách ghi an toàn hơn
+
+> Chu Hạc tới cùng toán tuần sau khi nghe báo động. Tuyến tuần của ông đi qua khu thành phòng gần phủ tướng quân, nên việc ông xuất hiện là hợp lý nhưng không phải tình cờ tuyệt đối.
+
+Hoặc:
+
+> Chu Hạc đang kiểm tra ca trực Bắc Môn, nghe tiếng báo động từ phủ gần đó nên dẫn lính tới.
+
+Cách này nối Chương 1 mà không tạo Canon ngược.
+
+## Chưa duyệt viết Draft vì cần sửa
+
+1. **Tuổi và mốc diệt môn của Bùi Chỉ đang sai phép tính.**
+2. **Mười ngày trinh sát không tương thích với việc Chỉ không biết Hoắc không ngủ ở phòng chính.**
+3. Cần chỉnh nhẹ cảnh đối chất để vết bớt vẫn có chức năng.
+4. Chu Hạc chưa được Canon hóa là người tuần tường mỗi đêm.
+
+---
+
+# 1. Lỗi lớn nhất: tuổi Bùi Chỉ
+
+Scene Bible đang ghi:
+
+> Tuổi Chỉ: 18, tám tuổi năm -14.
+
+Phép tính này không đúng.
+
+Nếu Bùi Chỉ tám tuổi vào mười bốn năm trước, hiện tại hắn phải:
+
+> **22 tuổi**
+
+chứ không phải 18.
+
+Ngoài ra, cần kiểm tra “năm -14” đang tính từ mốc nào:
+
+- Nếu tính từ Chương 2, Chỉ 22 tuổi.
+- Nếu tính từ hiện tại sau time skip, thì tại Vân Trung hắn còn quá nhỏ.
+- Nếu Chương 2 diễn ra mười năm trước hiện tại, còn vụ Bùi gia là mười bốn năm trước hiện tại, thì vụ diệt môn chỉ cách Chương 2 bốn năm. Chỉ tám tuổi khi diệt môn thì ở Chương 2 mới mười hai tuổi, không phù hợp với năng lực sát thủ hiện tại.
+
+Đây là **xung đột Master Timeline / Production Bible**, không thể để Draft tự xử lý.
+
+## Ba phương án
+
+### Phương án A: Chỉ 18 tuổi ở Chương 2
+
+Nếu muốn giữ Chỉ 18 tuổi, vụ diệt Bùi gia phải xảy ra khoảng mười năm trước Chương 2, khi hắn tám tuổi.
+
+Như vậy phải sửa lại Master Timeline lớn.
+
+### Phương án B: Vụ diệt môn xảy ra mười bốn năm trước Chương 2
+
+Khi đó Chỉ 22 tuổi ở Chương 2.
+
+Đây là phương án ít sửa Timeline nhất, nhưng khiến hắn lớn hơn nhóm còn lại đáng kể.
+
+### Phương án C: Chỉ khoảng 17–18 tuổi, nhưng lớn hơn tám tuổi khi Bùi gia bị diệt
+
+Ví dụ, vụ diệt môn cách Chương 2 khoảng sáu đến tám năm, Chỉ khoảng mười hoặc mười một tuổi khi trốn thoát.
+
+Tuy nhiên phương án này cũng buộc sửa các mốc đã xác lập.
+
+## Khuyến nghị
+
+Trước khi viết Draft Chương 2, lập đúng một hàng Timeline:
+
+svgsvg
+
+svgsvg
+
+svgsvgsvg
+
+svgPlain Text
+
+Năm Bùi gia bị diệt:
+
+Tuổi Chỉ khi đó:
+
+Khoảng cách tới đêm Vân Trung:
+
+Tuổi Chỉ tại Chương 2:
+
+Khoảng cách tới hiện tại sau time skip:
+
+Tuổi Chỉ ở hiện tại:
+
+svgShow more lines
+
+Không khóa tuổi cho tới khi sáu ô này khớp nhau.
+
+---
+
+# 2. Hoắc không ngủ ở phòng chính: logic trinh sát chưa ổn
+
+Scene Bible hiện ghi:
+
+> Hoắc Thành Lĩnh nhiều năm nay không ngủ ở phòng ngủ chính.
+
+Nhưng Chỉ đã trinh sát mười ngày và biết:
+
+- giờ đổi gác;
+- đường mái;
+- phòng ngủ của Hoắc.
+
+Nếu Hoắc **nhiều năm không ngủ ở phòng chính**, một sát thủ đủ giỏi để trinh sát mười ngày đáng lẽ phải biết. Nếu không biết, Chỉ sẽ thất bại vì sơ suất điều tra, trái với mục tiêu đã khóa:
+
+> Chỉ thất bại vì thông tin thiếu có nguyên nhân, không phải vì ngu.
+
+## Cách sửa tốt hơn
+
+Không dùng:
+
+> Hoắc nhiều năm không ngủ ở phòng chính.
+
+Thay bằng:
+
+> **Đêm đó Hoắc Thành Lĩnh đổi chỗ vì một lý do phát sinh sau khi Chỉ hoàn tất trinh sát.**
+
+Ví dụ:
+
+- báo cáo từ đồn Hắc Hà vừa tới;
+- Tam Lang vừa trở về, mang theo sổ quân hoặc quân báo;
+- đoàn hòa thân khiến thành phòng phải kiểm tra lại;
+- Hoắc làm việc xuyên đêm ở thư phòng;
+- người hầu vẫn trải giường phòng chính theo lệ, nên quan sát từ ngoài không phát hiện thay đổi.
+
+Cách này tạo hai biến số cùng nguồn từ Chương 1:
+
+1. Tam Lang bất ngờ trở về.
+2. Báo cáo từ Hắc Hà khiến Hoắc thức ở thư phòng.
+
+Chỉ thất bại không phải vì trinh sát kém, mà vì **bàn cờ thay đổi sau lần quan sát cuối cùng**.
+
+## Sửa Knowledge đầu chương
+
+Thay:
+
+> Chỉ không biết Hoắc nhiều năm không ngủ ở phòng ngủ chính.
+
+bằng:
+
+> Chỉ không biết đêm ấy Hoắc Thành Lĩnh ở lại thư phòng vì quân báo mới từ Hắc Hà. Trong mười ngày trinh sát trước đó, người hầu vẫn chuẩn bị phòng ngủ chính theo lệ.
+
+Không nhất thiết giải thích hết trong Draft. Nhưng tác giả phải biết nguyên nhân.
+
+---
+
+# 3. Hoắc nhận ra vết bớt phải còn giá trị
+
+Scene 4 đặt trọng tâm vào:
+
+> Hoắc nhìn thấy vết bớt sau tai và nhận ra đứa trẻ Bùi gia.
+
+Nhưng Scene 6 lại ghi:
+
+> Chỉ nói trước, thẳng: hắn là ai, vì sao đến.
+
+Nếu Chỉ tự xưng đầy đủ là Bùi Chỉ, vai trò nhận diện của vết bớt sẽ bị giảm mạnh. Hoắc không còn cần nhận ra hắn bằng dấu vết.
+
+## Cách sửa
+
+Trong Scene 6, Chỉ chỉ nên nói:
+
+> “Ta đến đòi món nợ của Bùi gia.”
+
+hoặc:
+
+> “Ông dẫn quân vây phủ Bùi. Ta đến giết ông vì chuyện đó.”
+
+Không cần nói tên thật.
+
+Như vậy:
+
+- Chỉ chủ động bộc lộ động cơ;
+- Hoắc vẫn là người duy nhất biết hắn chính là đứa trẻ đã thoát;
+- vết bớt giữ được chức năng fair-play;
+- câu về cửa sau có sức nặng hơn.
+
+## Knowledge cuối chương nên là
+
+### Bùi Chỉ biết
+
+- Hoắc biết một chi tiết bí mật về đường thoát năm xưa.
+- Hoắc có lý do chưa rõ để giữ hắn sống.
+- Hoắc không phủ nhận việc từng dẫn quân vây Bùi gia.
+
+### Bùi Chỉ chưa biết
+
+- Hoắc đã nhận ra danh tính chính xác của hắn.
+- Hoắc là người để cửa sau mở.
+- Hoắc từng xin tha cho Bùi gia.
+
+---
+
+# 4. Chu Hạc có mặt: duyệt có điều kiện
+
+Mình duyệt việc Chu Hạc có mặt khi Chỉ bị bắt. Nó tạo nền tốt cho Chương 6:
+
+- biết mặt Chỉ;
+- biết Chỉ từng xâm nhập phủ tướng quân;
+- biết Hoắc giữ Chỉ ngoài sổ sách;
+- sau này có thể lợi dụng những sự thật riêng lẻ để dựng lời chứng giả.
+
+Tuy nhiên, Canon Chương 1 chỉ nói:
+
+> Chu Hạc ngày nào cũng đi một vòng tường thành.
+
+Chưa có Canon rằng:
+
+> đêm nào ông ta cũng tuần tường.
+
+Vì vậy không nên viết Scene Bible như thể “tuần tường mỗi đêm” đã được xác lập.
+
+## Cách ghi an toàn hơn
+
+> Chu Hạc tới cùng toán tuần sau khi nghe báo động. Tuyến tuần của ông đi qua khu thành phòng gần phủ tướng quân, nên việc ông xuất hiện là hợp lý nhưng không phải tình cờ tuyệt đối.
+
+Hoặc:
+
+> Chu Hạc đang kiểm tra ca trực Bắc Môn, nghe tiếng báo động từ phủ gần đó nên dẫn lính tới.
+
+Cách này nối Chương 1 mà không tạo Canon ngược.
+
+# Ngân sách ký tự
+
+Phân bổ hiện tại vẫn khả thi nhưng rất chặt.
+
+Với target khoảng 300.000 ký tự:
+
+- Chương 1: 18.748 ký tự
+- Còn lại: khoảng 281.252 ký tự
+- Trung bình 31 chương còn lại: khoảng 9.073 ký tự
+
+Chương 2 dự kiến 8.000–10.000 ký tự là hợp lý.
+
+Nhưng nếu nhiều chương payoff dài 13.000–16.000 ký tự, các chương chuyển tiếp phải thực sự nằm quanh 6.000–8.000 ký tự. Nên thêm một **Length Budget** vào Chapter Bible, không cần tạo Control System mới.
+
+Ví dụ:
+
+- Quyển I: khoảng 75.000–85.000 ký tự
+- Quyển II: khoảng 55.000–65.000 ký tự
+- Quyển III: khoảng 75.000–90.000 ký tự
+- Quyển IV: khoảng 80.000–95.000 ký tự
+
+Tổng này có thể vượt target nếu lấy cận trên, nên chỉ dùng làm cảnh báo chứ không phải quota.
