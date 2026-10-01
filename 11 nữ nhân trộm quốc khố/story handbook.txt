@@ -1,0 +1,428 @@
+Dưới đây là bản Story Handbook tối ưu cho Claude/Sonnet khi dùng kèm một bộ MASTER STORY BIBLE + EDITING PROTOCOL. Mình cố tình viết theo kiểu "súc tích nhưng đủ canon", tránh lan man và giữ dưới ngưỡng yêu cầu.
+
+STORY HANDBOOK
+MƯỜI MỘT NỮ NHÂN TRỘM QUỐC KHỐ
+1. BỐI CẢNH & TIMELINE
+Bối cảnh
+
+Thế giới cổ trang giả tưởng không có yếu tố tiên hiệp hay phép thuật.
+
+Triều đình phong kiến đang suy thoái vì tham nhũng.
+
+Một trận đại hồng thủy tàn phá ba châu, gây nạn đói diện rộng.
+
+Ba triệu lượng bạc cứu tế bị biển thủ trước khi đến tay dân chúng.
+
+Thời gian / Timeline
+
+Tập 1
+
+Ba triệu lượng bạc "biến mất"
+Tạ Vân Chi điều tra
+Gặp Yến Thập Tam
+Phát hiện bạc nằm trong phủ Nghiêm
+
+Tập 2
+
+Chiêu mộ đội hình
+La Tiểu Đao
+Mộc Cửu Nương
+Hà Thanh Ngư
+Bạch Chỉ
+Đường Song Song
+Tô Mạn
+Hoa Linh Lung
+
+Tập 3
+
+Lộng Nguyệt lâu
+Thu thập thông tin
+Chiêu mộ A Ly
+Chiêu mộ Sở Hồng Anh
+Đủ 11 thành viên
+Có được dấu nhẫn thật
+
+Tập 4
+
+Đêm rằm
+Trộm đại ấn
+Ép Nghiêm Tông Hạc tự chuyển bạc
+Chiếm đoạt đoàn vận chuyển
+Lấy được sổ chứng cứ
+Hạ bệ Nghiêm Tông Hạc
+Địa điểm quan trọng
+Thanh Hà
+Hắc Phong Lĩnh
+Phủ Nghiêm
+Hồ sen và mật thất
+Lộng Nguyệt lâu
+Thiên Cơ Tỏa Phường
+Cống thứ mười bảy
+Y quán Bạch gia
+Từ đường Nghiêm gia
+Cổng Nam kinh thành
+Quy tắc thế giới
+
+Không có võ công siêu nhiên.
+
+Mọi thành công phải xuất phát từ:
+
+kỹ năng
+nghề nghiệp
+suy luận
+chuẩn bị
+phối hợp nhóm
+
+Heist phải dựa trên logic, cơ quan, con người và thông tin.
+
+2. CORE THEME
+Chủ đề trung tâm
+
+Người bị gọi là "kẻ trộm" chưa chắc là kẻ cướp.
+
+Người mang danh "quan tốt" chưa chắc là người bảo vệ dân.
+
+Chủ đề nhân vật
+
+Không ai một mình thắng được hệ thống.
+
+Mỗi người chỉ mạnh ở một lĩnh vực.
+
+Chiến thắng chỉ đến khi những người không thể thay thế hợp tác với nhau.
+
+Chủ đề cảm xúc
+
+Công lý không tự xuất hiện.
+
+Nó cần người đứng lên đòi lại.
+
+3. NHÂN VẬT & QUAN HỆ
+Nhân vật chính
+Tạ Vân Chi
+
+Mục tiêu:
+
+Tìm sự thật về cái chết của cha
+Lấy lại ba triệu lượng bạc
+Trả bạc về cho dân
+
+Điểm yếu:
+
+Không giỏi chiến đấu
+Thường tự đặt mình vào nguy hiểm
+Có xu hướng gánh trách nhiệm một mình
+
+Năng lực:
+
+Điều tra
+Kiểm toán
+Quan sát vật chứng
+Lập kế hoạch
+
+Quan hệ:
+
+Con gái Tạ Duy
+Thủ lĩnh đội
+Nhân vật phụ
+Yến Thập Tam
+
+Vai trò:
+
+Đạo chích
+Thâm nhập
+
+Động cơ:
+
+Ban đầu vì tò mò
+Sau đó vì đồng đội
+
+Quan hệ:
+
+Người thân thiết nhất với Vân Chi
+La Tiểu Đao
+
+Vai trò:
+
+Đầu bếp
+Hậu cần
+
+Động cơ:
+
+Minh oan cho em trai
+Mộc Cửu Nương
+
+Vai trò:
+
+Khóa
+Cơ quan
+
+Động cơ:
+
+Báo thù cho cha
+Hà Thanh Ngư
+
+Vai trò:
+
+Thủy đạo
+Công trình
+
+Động cơ:
+
+Rửa oan cho bản thiết kế của mình
+Bạch Chỉ
+
+Vai trò:
+
+Y thuật
+Dược lý
+
+Động cơ:
+
+Cứu người
+Hạn chế thương vong
+Đường Song Song
+
+Vai trò:
+
+Giả mạo giấy tờ
+Công văn
+
+Động cơ:
+
+Bảo vệ dân nạn
+Tô Mạn
+
+Vai trò:
+
+Tình báo
+Quan hệ quyền lực
+
+Động cơ:
+
+Thu thập bí mật giới quyền quý
+Hoa Linh Lung
+
+Vai trò:
+
+Hóa trang
+Diễn xuất
+
+Động cơ:
+
+Báo thù cho mẹ Lục Như Ý
+Sở Hồng Anh
+
+Vai trò:
+
+Tiêu sư
+Vận chuyển
+
+Động cơ:
+
+Lấy lại danh dự
+A Ly
+
+Vai trò:
+
+Pháo hoa
+Tín hiệu
+
+Động cơ:
+
+Báo thù cho cha và xưởng pháo
+Nghiêm Tông Hạc
+
+Phản diện chính.
+
+Hộ bộ Thượng thư.
+
+Mục tiêu:
+
+Bịt miệng mọi người biết bí mật
+Giữ ba triệu lượng bạc
+
+Đặc điểm:
+
+Bình tĩnh
+Tính toán
+Không bao giờ coi thường đối thủ
+XƯNG HÔ
+Quy ước
+
+Vân Chi:
+
+ta / cô
+ta / các cô
+
+Thập Tam:
+
+ta / cô
+
+Nhóm nữ nhân:
+
+cô
+tỷ
+nàng
+
+Nghiêm Tông Hạc:
+
+bản quan
+ta
+Ý nghĩa
+
+Xưng hô thân thiết tăng dần khi nhóm gắn bó hơn.
+
+Không dùng từ ngữ hiện đại.
+
+4. CHARACTER VOICE
+Vân Chi
+Lạnh
+Ngắn
+Chính xác
+Hiếm khi đùa
+Thập Tam
+Nhanh miệng
+Hài
+Hay phàn nàn
+Tiểu Đao
+Thực tế
+Thẳng
+Cửu Nương
+Ít nói
+Khô khan
+Bạch Chỉ
+Bình tĩnh
+Tập trung vào mạng người
+Song Song
+Tự tin
+Biết mình giỏi
+Tô Mạn
+Mềm mỏng
+Nhiều ẩn ý
+Linh Lung
+Giỏi diễn
+Giấu cảm xúc
+Hồng Anh
+Nghĩa khí
+Thẳng thắn
+A Ly
+Trẻ
+Tăng động
+Thích pháo
+Nghiêm Tông Hạc
+Lịch sự
+Đáng sợ vì bình tĩnh
+5. CANON & CONTINUITY
+Thông tin đã xác nhận
+Bạc chưa từng bị cướp ở Hắc Phong Lĩnh
+Nghiêm Tông Hạc là chủ mưu
+Tạ Duy bị hãm hại
+Đội đủ 11 nữ nhân
+Không ai lấy riêng bạc cho bản thân
+Không được thay đổi
+Vân Chi không giỏi võ
+Thập Tam là đạo chích số một
+Bạch Chỉ luôn ưu tiên cứu người
+Nghiêm Tông Hạc rất thông minh
+Nhóm thắng nhờ phối hợp
+Kiến thức từng nhân vật
+
+Vân Chi biết tổng thể kế hoạch.
+
+Không ai khác biết toàn bộ.
+
+Đây là nguyên tắc lớn của truyện.
+
+Continuity cần giữ
+Hạt bàn tính của Tạ Duy
+Nhẫn thật của kho
+Đoàn xe 36 xe
+Ba triệu lượng bạc
+Ba châu bị lũ
+Cuốn sổ chứng cứ
+6. SETUP → PAYOFF
+Setup
+
+Ba triệu lượng bạc biến mất.
+
+Payoff:
+
+Lấy lại toàn bộ bạc và đưa về dân.
+
+Setup
+
+Hạt bàn tính của Tạ Duy.
+
+Payoff:
+
+Dẫn đến việc tập hợp đội hình và lật lại án cũ.
+
+Setup
+
+Lục Như Ý.
+
+Payoff:
+
+Hoa Linh Lung dùng gương mặt mẹ đánh vào điểm yếu Nghiêm Tông Hạc.
+
+Setup
+
+Mười một chiếc ghế.
+
+Payoff:
+
+Đủ đội hình 11 người.
+
+Setup
+
+Kho bạc không thể mở.
+
+Payoff:
+
+Không mở kho.
+
+Buộc Nghiêm Tông Hạc tự chuyển bạc.
+
+Món nợ cảm xúc
+
+Tạ Duy → Vân Chi
+
+Payoff:
+
+Minh oan cho Tạ Duy.
+
+Lục Như Ý → Hoa Linh Lung
+
+Payoff:
+
+Đưa bằng chứng của mẹ ra ánh sáng.
+
+Ba châu bị lũ → Cả đội
+
+Payoff:
+
+Bạc trở về dân.
+
+7. GHI CHÚ BIÊN TẬP
+Quy tắc khi sửa
+
+Không biến nhân vật thành thiên tài toàn năng.
+
+Mọi suy luận phải có dấu vết trước đó.
+
+Mọi thành công lớn phải đánh đổi bằng:
+
+rủi ro
+sai sót
+thương tích
+thất bại cục bộ
+Điểm cần chú ý
+Tăng chiều sâu cảm xúc cho Tạ Duy và Tạ gia.
+Duy trì áp lực từ Nghiêm Tông Hạc.
+Không để Vân Chi đoán đúng mọi thứ.
+Mỗi thành viên phải có việc riêng không thể thay thế.
+Ưu tiên đối thoại ngắn, sắc, có cá tính.
+Giữ nhịp phim, không sa vào độc thoại dài.
+Hài nhẹ chủ yếu đến từ Thập Tam, Tiểu Đao và A Ly.
+
+Tinh thần cốt lõi: Đây không phải câu chuyện về một thiên tài đánh bại cả triều đình. Đây là câu chuyện về mười một nữ nhân dùng kỹ năng riêng của mình để lấy lại thứ vốn thuộc về dân.

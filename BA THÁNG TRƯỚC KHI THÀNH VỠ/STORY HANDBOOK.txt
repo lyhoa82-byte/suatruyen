@@ -1,0 +1,517 @@
+STORY HANDBOOK
+
+BA THÁNG TRƯỚC KHI THÀNH VỠ
+
+Genre: Xuyên không · lịch sử hư cấu · bí án · chiến tranh · slow-burn mystery/romance
+Format: Series dài, khoảng 10 tập. Audio-first.
+Nguyên tắc: Đây là nguồn CANON dùng để chỉnh sửa các bản thảo GPT. Khi bản thảo mâu thuẫn Handbook, ưu tiên Handbook. Không tự ý giải quyết các bí ẩn chưa được tác giả chốt.
+
+---
+
+1. BỐI CẢNH & TIMELINE
+
+Bối cảnh
+
+Thế giới lịch sử hư cấu, triều đại Lẫm triều, niên hiệu Khải Hòa.
+
+Hiện tại của câu chuyện: Khải Hòa 27.
+
+Thành phố trung tâm: Túc Châu, một thành có vai trò quân sự và logistics quan trọng.
+
+Timeline
+
+* 17/7/K27: Thẩm Tri Vi xuyên về quá khứ. Đây là đúng 3 tháng trước ngày Túc Châu thất thủ theo lịch sử chính thống.
+* 17/10/K27: ngày Túc Châu được lịch sử ghi là thất thủ.
+* Lịch sử chính thống nói Lương Hoài Sóc ở Bắc Lăng cho tới đầu tháng 9, sau đó mới được điều về nam và tới Túc Châu cuối tháng 9.
+* Lịch sử chính thống nói Lương mở Tây Môn vào 17/10 và phản bội thành.
+* Lịch sử chính thống ca ngợi Tạ Cảnh Hành là anh hùng đã cứu một vị vương tử khỏi Túc Châu và sau này góp phần thu hồi sáu châu.
+* CANON hiện tại: cả hai mốc trên đều đã bị thực tế phá vỡ. Lương đã ở Túc Châu từ trước 17/7; Tạ Cảnh Hành đến Túc Châu ngày 19/7, sớm hơn rất nhiều so với lịch sử chính thống.
+
+Địa điểm quan trọng
+
+* Tứ Phương Quán: nơi Tri Vi ở và làm việc; do Lưu thẩm quản lý.
+* Tây doanh / Tây Môn: khu quân sự của Lương Hoài Sóc.
+* Kho nam thành: nơi liên quan đến lương thực, vận chuyển và La Thuận.
+* Trạm Thạch Hà: nơi xảy ra vụ mất 12 xe lương K26.
+* Nhà họ Hứa: nhà thương gia vận chuyển, đã bị niêm phong nhưng có dấu hiệu bị mở lại.
+* Tiệm Kỷ lão: nơi lưu giữ giấy tờ, sổ cũ, hồ sơ thương nhân và tài liệu bỏ đi.
+* Nha môn nam thành: nơi kiểm tra hồ sơ niêm phong nhà họ Hứa.
+
+Quy tắc thế giới
+
+Không có phép thuật chiến đấu, hệ thống tu luyện, túi không gian, súng hay năng lực siêu nhiên hỗ trợ Tri Vi.
+
+Tri Vi chỉ có kiến thức nghề nghiệp hiện đại và khả năng quan sát.
+
+Lịch sử không phải chân lý tuyệt đối. Nhưng không phải mọi thứ trong lịch sử đều sai. Một số sự kiện sẽ vẫn diễn ra đúng như ghi chép. Tri Vi phải kiểm chứng thay vì mặc định tin hoặc phủ nhận.
+
+---
+
+2. NHÂN VẬT & QUAN HỆ
+
+Thẩm Tri Vi — nữ chính
+
+* Khoảng 30 tuổi.
+* Chuyên gia bảo tồn/phục chế hiện vật văn hóa.
+* Mục tiêu ban đầu: sống sót, hiểu mình đang ở đâu và tìm cách xác định chuyện gì đã xảy ra.
+* Mục tiêu dần chuyển thành tìm hiểu sự thật về Túc Châu và nguyên nhân lịch sử bị sai lệch.
+* Điểm yếu: không có thân phận hợp pháp, thiếu tiền, thiếu công cụ hiện đại, không có quyền điều tra chính thức; đôi khi quá tò mò và tự ý đi quá giới hạn.
+* Năng lực: hiểu giấy, mực, gỗ, sơn/lacquer, đồng, gốm, vết cháy, lớp sửa chữa, dấu công cụ, thứ tự tác động lên bề mặt, phân biệt dấu cũ/mới.
+* Không được biến thành “thám tử toàn năng”. Kiến thức vật liệu chỉ giúp đặt câu hỏi và loại trừ khả năng, không tự động giải án.
+* Quan hệ:
+
+  * Lưu thẩm: người cưu mang cô.
+  * A Trúc: quan hệ chị/em kiểu đời thường, hay đấu khẩu.
+  * Lương Hoài Sóc: nghi ngờ → hợp tác bất đắc dĩ → tôn trọng năng lực; romance rất chậm.
+  * Tạ Cảnh Hành: tò mò, cảnh giác nhưng chưa kết luận.
+  * Kỷ lão: người giữ tài liệu, chưa hoàn toàn tin cô.
+
+Lương Hoài Sóc
+
+* Khoảng 28–29 tuổi.
+* Tướng quân/chỉ huy có liên quan trực tiếp đến Túc Châu.
+* Tính cách: ít lời, thực tế, quyết đoán, đôi khi khô khan và thiếu tế nhị.
+* Có năng lực quân sự nhưng không hoàn hảo.
+* Điểm yếu: dễ mất kiên nhẫn với người làm việc kém; có thể đưa ra quyết định quân sự lạnh lùng khiến dân chúng khó chịu.
+* Không được viết thành “nam chính hoàn hảo, luôn đúng”.
+* Đã ở Túc Châu từ trước thời điểm Tri Vi xuyên về.
+* Có liên quan trực tiếp tới vụ Thạch Hà K26.
+* Biết Tri Vi có những hiểu biết kỳ lạ về lịch sử nhưng chưa hiểu nguồn gốc.
+* Quan hệ với Tạ Cảnh Hành: đã gặp nhau khoảng 3 năm trước, trái với lịch sử chính thống.
+
+Tạ Cảnh Hành
+
+* Khoảng 30 tuổi.
+* Xuất thân/quan hệ với kinh thành.
+* Xã giao tốt, lịch thiệp, dễ tạo thiện cảm, thông minh và có năng lực thật.
+* Không được biến thành phản diện lộ liễu quá sớm.
+* Ngày 19/7/K27 tới Túc Châu cùng khoảng 20 kỵ binh.
+* Mang công văn liên quan đến kiểm tra logistics phía tây/tây nam.
+* Từng được lịch sử chính thống ghi nhận là anh hùng.
+* Đã gặp Lương 3 năm trước.
+* Có lúc bị người khác lợi dụng thông tin/giấy tờ; không được mặc định mọi hành động của hắn là âm mưu.
+* Phải có hành động hữu ích/thật lòng giúp người để giữ tính mơ hồ.
+
+Lưu thẩm
+
+* Khoảng 50 tuổi, chủ Tứ Phương Quán.
+* Thẳng, thực tế, biết tính toán tiền bạc, tốt bụng nhưng không nói lời đạo lý dài.
+* Là góc nhìn dân thường của câu chuyện.
+* Không thích Tri Vi và A Trúc tự ý đi điều tra mà không báo.
+* Tri Vi đang mắc tiền quán; số nợ hiện tại khoảng 43 văn nếu chưa có chi tiết trả nợ mới.
+
+A Trúc
+
+* Khoảng 16 tuổi, gầy, nhanh nhảu, tò mò, nói thẳng.
+* Chỉ đọc/viết được tên mình và vẫn viết thiếu một nét.
+* Hay chọc Tri Vi nhưng cũng quan tâm cô.
+* Không phải nhân vật comic relief thuần túy; phải có phản ứng thực tế và biết sợ.
+* Từng nổi giận khi Tri Vi tự ý đến nhà họ Hứa vì thấy cô có thể gặp nguy hiểm.
+
+Kỷ lão
+
+* Thợ sửa sách/giấy cũ, giữ nhiều tài liệu cũ.
+* Cảnh giác với quan lại/người lạ.
+* Biết các hồ sơ thương nhân, vận chuyển, Ty Vận Chuyển.
+* Giữ bí mật một mảnh giấy giấu trong gáy sổ; chưa cho Lương biết.
+
+Doãn đại phu
+
+* Thầy thuốc lớn tuổi, khô khan, thực tế.
+* Có thể tạo hài nhẹ với Lưu thẩm.
+
+Tôn Thành
+
+* Thuộc cấp của Lương.
+* Nói nhiều hơn Lương, có thể trêu chọc người khác.
+* Là cầu nối giúp không khí quân doanh bớt nặng.
+
+La Thuận
+
+* Khoảng 40 tuổi.
+* Từng quản xe cho nhà họ Hứa, sau làm ở kho nam.
+* Tay chai, từng có dấu mực son trên ngón cái.
+* Có liên quan đến việc mở nhà họ Hứa bằng giấy/tín vật giả hoặc không hợp lệ.
+* Hiện đang bị truy tìm.
+* Chưa xác định là chủ mưu cuối cùng.
+
+Xưng hô
+
+* Tri Vi ↔ Lương: ban đầu giữ khoảng cách, tự nhiên theo hoàn cảnh; không được đột ngột thân mật.
+* Tri Vi ↔ A Trúc: chị/em đời thường.
+* Lưu thẩm ↔ mọi người: tự nhiên, thẳng.
+* Lương với thuộc cấp: quân lệnh rõ, ít lời.
+* Tạ với người ngoài: lịch thiệp, mềm hơn Lương.
+* Thay đổi xưng hô phải phản ánh mức độ tin tưởng hoặc thay đổi quan hệ.
+
+---
+
+3. CANON & CONTINUITY
+
+Thông tin đã xác nhận
+
+1. Tri Vi đến Túc Châu ngày 17/7/K27.
+2. Lương đã ở Túc Châu hơn 3 tháng.
+3. Tạ đến ngày 19/7/K27.
+4. Lương và Tạ từng gặp nhau 3 năm trước.
+5. Thạch Hà K26 mất 12 xe lương; 17 người áp tải, chỉ 3 trở về; 1 người biến mất sau đó.
+6. Lương đã ra lệnh dừng tuyến một ngày trước vụ mất hàng nhưng lệnh không tới được trạm.
+7. Có ký hiệu hình vuông + đường chéo trên vật liên quan Thạch Hà và nhà họ Hứa.
+8. Nhà họ Hứa chính thức bị niêm phong ngày 12/6/K26, ban đầu có 2 khóa đồng + giấy niêm phong đỏ.
+9. Hiện chỉ còn một khóa sắt mới.
+10. La Thuận từng mở nhà họ Hứa cho Tạ bằng một tín vật được cho là của nha môn; nha môn xác nhận không có La Thuận làm việc ở đó.
+11. Hứa gia từng quản nhiều xe vận chuyển từ nam bến tới tuyến phía tây.
+12. Hứa gia chủ chết khoảng tháng 5–6/K26; con trai mất tích/chưa rõ tung tích.
+13. Kho nam có lô lương số 13 bị mốc; Lương phát hiện và chặn lại.
+14. Mảnh gỗ cháy gửi tới Tứ Phương Quán có ký hiệu vuông + đường chéo và phần khắc cuối đọc được “…Lương Hoài Sóc.”
+15. Dòng tên trên mảnh gỗ chưa phải bằng chứng Lương phạm tội.
+16. Kỷ lão giữ mảnh giấy: “…không phải lương bị cướp.”, cùng các mảnh “Thạch…”, “…xe…”, “…đêm…”, có dấu đỏ một phần.
+
+Tuyệt đối không tự ý thay đổi
+
+* Ngày 17/10/K27 vẫn là ngày lịch sử ghi Túc Châu thất thủ.
+* Không biến Tri Vi thành võ tướng/chiến binh.
+* Không cho cô có công nghệ hiện đại bất hợp lý.
+* Không cho cô biết chính xác tương lai nếu dữ liệu trong lịch sử không đủ.
+* Không giải thích ngay bí mật ký hiệu vuông + chéo.
+* Không biến Tạ thành phản diện công khai khi chưa có chứng cứ.
+* Không xác nhận Lương có tội chỉ vì tên hắn trên vật chứng.
+* Không cho Kỷ lão tiết lộ mảnh giấy bí mật nếu chưa có lý do/cảnh hợp lý.
+* Không biến La Thuận thành trùm cuối mặc định.
+* Không để mọi sự cố trong thành đều thuộc cùng một âm mưu.
+* Không biến mọi người dân thành người biết trước chiến tranh.
+
+Chi tiết cần kiểm tra
+
+Khi chỉnh bản thảo, luôn kiểm tra: ngày tháng, ai đang ở đâu, ai biết thông tin nào, nguồn thông tin đến từ đâu, số tiền Tri Vi nợ, tình trạng nhà họ Hứa, tình trạng La Thuận, và mảnh giấy của Kỷ lão.
+
+---
+
+4. SETUP → PAYOFF
+
+Setup đang mở
+
+1. Lịch sử không khớp thực tế
+
+* Gieo: Tập 1–3.
+* Hiện tại: Lương và Tạ đều xuất hiện sớm hơn lịch sử.
+* Payoff dự kiến: tìm nguyên nhân lịch sử bị sai; không nhất thiết do một người cố tình sửa toàn bộ lịch sử.
+
+2. Ký hiệu vuông + đường chéo
+
+* Gieo: Thạch Hà → đồ đồng nhà Hứa → nhà Hứa → mảnh gỗ.
+* Hiện tại: chưa xác định ý nghĩa.
+* Hướng: có khả năng liên quan đến hệ thống vận chuyển/kho/đơn vị gia công hoặc ký hiệu lô hàng. Không nên mang màu sắc huyền bí.
+
+3. Mảnh gỗ có tên Lương
+
+* Gieo: cuối Tập 3.
+* Hiện tại: nghi vấn.
+* Hướng: Tri Vi phải kiểm tra thứ tự khắc, lớp cháy, dấu công cụ; tên có thể là ghi chú giao nhận/người phụ trách hoặc vật chứng bị cố tình tạo dựng, không nhất thiết là tên chủ sở hữu.
+
+4. Vụ Thạch Hà
+
+* Gieo: Tập 2–3.
+* Hiện tại: chưa giải.
+* Hướng: liên quan đến hệ thống vận chuyển và hồ sơ bị mất/sửa.
+
+5. Nhà họ Hứa
+
+* Gieo: Tập 3.
+* Hiện tại: bị mở trái phép, La Thuận liên quan.
+* Hướng: kết nối Hứa gia – vận chuyển – Thạch Hà nhưng không đồng nghĩa Hứa gia là thủ phạm.
+
+6. La Thuận
+
+* Gieo: Tập 3.
+* Hiện tại: mất tích/bị truy tìm.
+* Hướng: có thể là nhân chứng, người vận chuyển, người bị ép buộc hoặc mắt xích trung gian.
+
+7. Quan hệ Lương – Tạ
+
+* Gieo: Tập 3.
+* Hiện tại: từng gặp nhau 3 năm trước.
+* Hướng: quá khứ của họ phải làm thay đổi cách hiểu về lịch sử chính thống.
+
+8. Bia đá hiện đại
+
+* Gieo: Tập 1.
+* Hiện tại: Tri Vi từng phục chế bia có liên quan đến Túc Châu.
+* Hướng: có khả năng chính bia đó liên quan trực tiếp đến hành động của Tri Vi trong quá khứ. Chưa được giải thích sớm.
+
+Món nợ cảm xúc
+
+Tri Vi ↔ Lương
+
+* Nguyên nhân: Tri Vi liên tục biết những điều về Lương mà Lương không hiểu; Lương vừa nghi ngờ vừa phải sử dụng năng lực của cô.
+* Trạng thái: tin tưởng có điều kiện, chưa có tình yêu rõ ràng.
+
+Tri Vi ↔ Lưu/A Trúc
+
+* Nguyên nhân: được cưu mang nhưng Tri Vi nhiều lần tự ý hành động.
+* Trạng thái: có trách nhiệm với nhau; cần trả bằng hành động chứ không bằng lời cảm động.
+
+Lương ↔ Tạ
+
+* Nguyên nhân: từng gặp nhau 3 năm trước nhưng lịch sử chính thống gần như xóa/mô tả khác.
+* Trạng thái: lịch sự nhưng cảnh giác.
+
+Payoff đã hoàn thành
+
+Chưa có payoff lớn nào được đóng hoàn toàn. Các phát hiện hiện tại chủ yếu mở thêm câu hỏi, không giải quyết bí án.
+
+---
+
+5. GHI CHÚ BIÊN TẬP
+
+Lỗ hổng đã vá
+
+* Vì sao Tri Vi có thể kiểm tra vật liệu: cô là chuyên gia phục chế, nhưng thiếu thiết bị nên phương pháp phải thủ công.
+* Vì sao Lương ở Túc Châu: hồ sơ hiện có xác nhận hắn đã ở đây từ K26.
+* Vì sao Tạ xuất hiện sớm: có công văn kiểm tra logistics, nhưng thời điểm thông báo bất thường.
+* Vì sao nhà Hứa có người ra vào: niêm phong cũ đã bị thay đổi, La Thuận có dấu hiệu dùng tín vật không hợp lệ.
+
+Quy ước mới
+
+* Mọi suy luận của Tri Vi phải được thể hiện là quan sát → giả thuyết → kiểm chứng, không nhảy thẳng tới kết luận.
+
+Đặc biệt lưu ý các tập sau
+
+Lương cần dần thể hiện mặt cứng rắn: có những quyết định quân sự hợp lý nhưng gây thiệt cho dân hoặc khiến người khác ghét hắn. Điều này phải làm cho hình tượng “kẻ phản bội” trong lịch sử sau này trở nên có khả năng bị hiểu sai, chứ không phải chứng minh hắn hoàn hảo.
+
+Tạ cần tiếp tục có những hành động tốt và hữu ích thật sự. Sự nghi ngờ về hắn phải có thể đảo chiều.
+
+Tri Vi phải mắc sai lầm và đôi khi tự tin quá mức. Cô không được luôn đúng.
+
+Túc Châu phải tiếp tục là một thành phố đang sống: người dân buôn bán, nấu ăn, làm việc, cãi nhau, lo tiền bạc. Chiến tranh tăng dần nhưng không phải ai cũng nói về chiến tranh.
+
+Vấn đề chưa có quyết định của tác giả
+
+* Nguyên nhân chính xác khiến lịch sử bị sai.
+* Ý nghĩa cuối cùng của ký hiệu vuông + đường chéo.
+* Vai trò thật sự của La Thuận.
+* Số phận Hứa gia.
+* Mức độ Tạ Cảnh Hành liên quan đến sự biến dạng lịch sử.
+* Vì sao Tri Vi được đưa về đúng thời điểm này.
+* Bia hiện đại có phải chính là bia Tri Vi tác động vào quá khứ hay không.
+* Tri Vi cuối cùng có cố ý để lại một phần thông tin sai lệch để bảo vệ người sống hay không.
+
+6. CORE THEME
+
+Truyện **không nói về nghèo đói**.
+
+Truyện nói về **những điều rất nhỏ của tuổi trẻ mà hai mươi năm sau vẫn còn nhớ**.
+
+Tiền bạc chỉ là bối cảnh và áp lực đời thường. **Tình bạn là trung tâm. Chiếc hộp nhạc là biểu tượng của ký ức.**
+
+Những thứ quan trọng không nhất thiết phải là những sự kiện lớn. Một bữa ăn, một món đồ cũ, một câu nói vụng về, một lần chờ nhau, một món nợ nhỏ, một buổi chiều bình thường… có thể trở thành thứ nhân vật nhớ suốt nhiều năm.
+
+
+---
+
+7. CHARACTER VOICE
+
+## Nguyên tắc chung
+
+Mỗi nhân vật phải **nghe như một người khác nhau**, không phải cùng một tác giả đổi tên.
+
+Không để tất cả nhân vật nói những câu quá thông minh, quá hoàn chỉnh hoặc quá có tính văn chương.
+
+Đối thoại đời thường cần có:
+
+* ngập ngừng;
+* nói thiếu ý;
+* cắt lời;
+* hiểu nhầm;
+* sửa lời;
+* nói vòng;
+* câu trả lời không hoàn toàn đúng trọng tâm;
+* những phản ứng nhỏ như thở dài, im lặng, đổi chủ đề.
+
+**Không biến mọi cuộc hội thoại thành cuộc trao đổi thông tin.**
+
+Nhân vật có thể biết một chuyện nhưng không nói ra. Có thể nói sai. Có thể né câu hỏi. Có thể đang nghĩ chuyện khác trong khi đối phương nói.
+
+---
+
+## #THẨM TRI VI
+
+### Giọng nói
+
+* Thông minh nhưng không phải kiểu “nữ chính biết tuốt”.
+* Nói khá thẳng khi thoải mái, nhưng sẽ vòng vo khi muốn che giấu kiến thức bất thường.
+* Có xu hướng sửa câu nói của chính mình khi nhận ra mình vừa nói quá nhiều.
+* Khi phát hiện vật chứng, thường hỏi hoặc đặt giả thuyết thay vì tuyên bố kết luận.
+* Có thể buột miệng nói những từ/ngữ hiện đại rồi phải chữa lại.
+* Khi căng thẳng có xu hướng nói nhanh hơn hoặc giải thích quá kỹ.
+* Khi bị bắt lỗi nên biết ngượng, khó chịu hoặc thừa nhận sai.
+
+### Tuyệt đối tránh
+
+* “Cô là chuyên gia nên lập tức nhìn ra tất cả.”
+* Độc thoại dài giải thích kiến thức chuyên môn.
+* Những câu triết lý hoàn hảo.
+* Lúc nào cũng bình tĩnh và đúng.
+* Biến kiến thức phục chế thành siêu năng lực phá án.
+
+### Mẫu phản ứng
+
+Tri Vi thường đi theo:
+**quan sát → nghi ngờ → đưa ra vài khả năng → kiểm tra → sửa giả thuyết.**
+
+---
+
+## #LƯƠNG HOÀI SÓC
+
+### Giọng nói
+
+* Ít lời.
+* Câu ngắn.
+* Không thích giải thích những thứ hắn cho là hiển nhiên.
+* Khô, thực tế, đôi khi lạnh.
+* Hài hước rất nhẹ, thường vô tình.
+* Khi không đồng ý thường không tranh luận dài mà hỏi đúng một câu khiến đối phương phải tự nghĩ lại.
+* Với thuộc cấp: rõ ràng, có tính mệnh lệnh.
+* Với Tri Vi: ban đầu cảnh giác; càng về sau càng để ý cách cô suy nghĩ nhưng không dễ dàng khen.
+
+### Tuyệt đối tránh
+
+* Nói toàn câu “ngầu”.
+* Lúc nào cũng đúng.
+* Luôn cứu Tri Vi đúng lúc.
+* Biến thành nam chính lạnh lùng nhưng hoàn hảo.
+* Đột nhiên nói lời tình cảm quá sớm.
+
+### Điểm quan trọng
+
+Lương có những quyết định quân sự **hợp lý nhưng khó chịu**. Người khác có quyền không thích hắn.
+
+Sự tôn trọng của Tri Vi dành cho hắn phải đến từ việc cô dần hiểu **vì sao hắn quyết định như vậy**, không phải vì tác giả bảo cô phải thích hắn.
+
+---
+
+## #TẠ CẢNH HÀNH
+
+### Giọng nói
+
+* Lịch thiệp.
+* Mềm hơn Lương.
+* Biết cách khiến người khác cảm thấy được tôn trọng.
+* Có khả năng nói chuyện với nhiều tầng lớp người.
+* Thỉnh thoảng đùa nhẹ.
+* Quan sát phản ứng người khác rất nhanh.
+
+### Tuyệt đối tránh
+
+* Cài dấu hiệu phản diện quá rõ.
+* Câu nào cũng hai nghĩa.
+* Cười bí hiểm, nói mập mờ vô cớ.
+* Để người đọc sớm chắc chắn hắn là thủ phạm.
+
+Tạ phải có **năng lực và lòng tốt thật sự**, để sau này bất kỳ sự thay đổi nào trong cách nhìn về hắn đều có trọng lượng.
+
+---
+
+## #LƯU THẨM
+
+### Giọng nói
+
+* Đời thường.
+* Thẳng.
+* Thực tế.
+* Quan tâm bằng hành động hơn lời nói.
+* Có thể mắng người khác rất tự nhiên.
+* Quan tâm tiền bạc vì đó là chuyện phải sống qua từng ngày, không phải vì tham.
+
+Lưu thẩm không nói những câu đạo lý dài.
+
+Ví dụ tinh thần:
+
+> “Không có tiền thì ghi sổ. Nhưng ghi rồi thì nhớ trả.”
+
+Câu nói phải giống lời của một người đang sống, không giống câu quote.
+
+---
+
+## #A TRÚC
+
+### Giọng nói
+
+* Nhanh.
+* Tò mò.
+* Hơi lém lỉnh.
+* Có lúc nói sai vì chưa hiểu.
+* Hay hỏi những câu người lớn không muốn trả lời.
+* Hài đến từ sự thật thà và hoàn cảnh, không phải cố làm trò.
+
+A Trúc không phải “nhân vật gây cười”.
+
+Cậu có thể sợ, giận, tổn thương, ghen tị, lo cho Tri Vi và có những khoảnh khắc rất nghiêm túc.
+
+---
+
+## #KỶ LÃO
+
+### Giọng nói
+
+* Chậm.
+* Sắc.
+* Không dễ tin người.
+* Thường trả lời bằng một câu ngắn hơn câu hỏi.
+* Có thể cố tình không nói hết.
+* Am hiểu giấy tờ và con người nhưng không thích chứng minh mình biết.
+
+Không để Kỷ lão trở thành “ông già bí ẩn biết tất cả”.
+
+---
+
+## #TÔN THÀNH
+
+### Giọng nói
+
+* Nói nhiều hơn Lương.
+* Có khả năng chọc người khác.
+* Giúp giảm không khí căng thẳng trong quân doanh.
+* Nhưng khi có việc thật sự nghiêm trọng, phải biết im và làm việc.
+
+Không biến Tôn thành comic relief thuần túy.
+
+---
+
+# 3. NHỊP CẢM XÚC
+
+Truyện ưu tiên **slow-burn**.
+
+Không cần mỗi cảnh đều có:
+
+* bí mật mới;
+* plot twist;
+* cãi nhau;
+* nguy hiểm;
+* cliffhanger.
+
+Một cảnh bình thường có thể chỉ là:
+
+* ăn cơm;
+* sửa một món đồ;
+* ghi sổ;
+* đi mua đồ;
+* cãi nhau vì tiền;
+* ngồi chờ;
+* nói chuyện vụn vặt.
+
+Nhưng những cảnh đó phải giúp xây dựng **mối quan hệ và ký ức**.
+
+### Quy tắc cảm xúc
+
+**Đừng nói nhân vật quan trọng với nhau. Hãy cho họ làm những việc nhỏ chứng minh điều đó.**
+
+**Đừng nói nhân vật nhớ nhau. Hãy cho người đọc thấy họ nhớ một chi tiết rất nhỏ về nhau.**
+
+**Đừng nói chiếc hộp nhạc tượng trưng cho ký ức. Hãy để người đọc tự cảm nhận điều đó.**
+
+---
+
+
+
+

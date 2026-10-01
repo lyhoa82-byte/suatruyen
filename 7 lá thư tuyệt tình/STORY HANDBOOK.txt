@@ -1,0 +1,767 @@
+STORY HANDBOOK
+DỰ ÁN: BẢY LÁ THƯ
+
+Mục đích:
+Tài liệu này dùng để Claude sửa bản truyện do GPT viết dựa trên Master Story Bible và Edit Handbook đã có.
+
+Thứ tự ưu tiên khi có mâu thuẫn:
+
+1. Master Story Bible = CANON TỐI CAO.
+2. Story Handbook = logic truyện, arc nhân vật, mystery và thematic consistency.
+3. Edit Handbook = cách sửa văn phong, nhịp, dialogue và exposition.
+4. Bản GPT = nguyên liệu cần sửa, không phải nguồn canon.
+
+Không được tự ý thay đổi canon để làm câu chuyện “hợp lý hơn”.
+
+1. LINH HỒN CỦA TRUYỆN
+
+Thể loại:
+Historical Mystery / Investigation / Court Intrigue / Slow Burn Romance / Family Drama.
+
+Logline:
+
+Ba năm sau khi gia tộc bị kết án phản thần và tan nát, Tạ Vân Chi trở lại kinh thành để điều tra cái chết của phụ thân.
+
+Từ bảy lá thư tưởng như là thư tuyệt tình của Thẩm Hoài Cẩn, nàng lần ra một vụ thao túng sổ quân lương, đổi quân lương lấy chiến mã và một chuỗi quyết định đã hủy hoại Tạ gia.
+
+Nhưng câu hỏi cuối cùng không chỉ là ai có tội.
+
+Mà là:
+
+Ai có quyền lựa chọn thay người khác?
+
+2. THEME
+
+Theme chính:
+
+Yêu một người không cho bạn quyền quyết định cuộc đời họ.
+
+Những người yêu, cứu, bảo vệ hoặc lợi dụng Vân Chi đều có thể mắc cùng một sai lầm:
+
+Tự cho rằng mình biết điều gì tốt nhất cho nàng.
+
+Theme phụ:
+
+Sự thật và cách đọc sự thật.
+
+Người muốn sửa sổ không cần sửa từng dòng.
+
+Chỉ cần sửa trang đầu.
+
+Ý nghĩa:
+Không cần thay đổi toàn bộ sự thật.
+Chỉ cần thay đổi cách người khác nhìn sự thật.
+
+Theme phụ 2:
+
+Hai điều trái ngược có thể cùng đúng.
+
+Hoài Cẩn có thể vừa cứu Vân Chi vừa làm tổn thương nàng.
+
+Uyển Ninh có thể vừa giúp Vân Chi vừa lợi dụng nàng.
+
+Lục Trọng Sơn có thể từng giải quyết một vấn đề thật rồi từng bước trở thành người phạm sai lầm nghiêm trọng để bảo vệ sai lầm trước đó.
+
+Không được đơn giản hóa nhân vật thành tốt hoặc xấu tuyệt đối.
+
+3. TONE
+
+Thông minh.
+Cảm xúc nhưng tiết chế.
+Không melodrama.
+Không ngược chỉ để lấy nước mắt.
+Không dùng hiểu lầm rẻ tiền.
+
+Phần đầu:
+Cô độc, nghi ngờ, truy tìm quá khứ.
+
+Phần giữa:
+Chạy đua, áp lực thời gian, phản diện bắt đầu phản ứng.
+
+Phần cuối:
+Đối chất, trách nhiệm, lựa chọn.
+
+Mystery phải tạo áp lực hiện tại, không chỉ là nhân vật lần lượt tìm manh mối quá khứ.
+
+4. NHÂN VẬT
+
+TẠ VÂN CHI
+
+Vai trò:
+Nhân vật trung tâm và người trực tiếp định nghĩa sự thật thông qua chứng cứ.
+
+Điểm mạnh:
+Thông minh, kiên trì, biết sửa sai.
+
+Điểm yếu:
+Có thể kết luận quá sớm khi cảm xúc bị kích động; muốn có đáp án ngay.
+
+Arc:
+“Tôi cần biết ai sai.”
+→
+“Tôi chỉ tin điều chứng cứ cho phép.”
+
+Locks:
+
+* Không kết luận vượt chứng cứ.
+* Không tha thứ vì thương hại.
+* Không hy sinh cảm tính.
+* Không biến thành thiên tài toàn năng.
+* Không để người khác quyết định thay mình.
+
+Câu đại diện:
+“Muốn không phải chứng cứ.”
+
+THẨM HOÀI CẨN
+
+Vai trò:
+Nam chính.
+
+Sai lầm cốt lõi:
+Luôn tin rằng mình có quyền chọn điều tốt nhất cho người khác.
+
+Những lỗi phải giữ nguyên:
+
+* Lá thư thứ bảy là thật và cố ý tàn nhẫn.
+* Hắn biết Vân Chi sẽ đau nhưng vẫn viết.
+* Hắn che giấu thông tin quá lâu.
+* Hắn từng dùng Vân Chi làm mồi.
+* Kế hoạch đó khiến A Hạnh bị thương.
+* Không được dùng tình yêu để xóa trách nhiệm cho những hành động trên.
+
+Arc:
+“Ta biết nàng nên làm gì.”
+→
+“Có thể?”
+
+Sau tập 8:
+
+* Không được dùng Vân Chi làm mồi lần nữa.
+* Không được giấu thông tin để điều khiển quyết định của nàng.
+* Không được quay lại kiểu nhân vật cũ.
+* Phải nói đầy đủ trước để Vân Chi tự lựa chọn.
+
+Câu đại diện:
+“Ta sẽ nói hết trước. Sau đó nàng chọn.”
+
+A HẠNH
+
+Vai trò:
+La bàn đạo đức của truyện.
+
+Không phải nhân vật hài đơn thuần.
+
+Chức năng:
+Nói ra điều những người thông minh cố tình bỏ qua.
+
+A Hạnh bị thương vì kế hoạch của Hoài Cẩn và phải chịu hậu quả lâu dài. Không được xóa hoặc làm nhẹ hậu quả này.
+
+Câu đại diện:
+“Người sai là người không nói đủ để chúng ta chọn.”
+
+TẠ VÂN HẠO
+
+Vai trò:
+Em trai Vân Chi, người mang tương lai của Tạ gia.
+
+Không được viết thành:
+
+* thiên tài phá án;
+* chìa khóa vạn năng;
+* nạn nhân vĩnh viễn.
+
+Arc:
+“Tôi là người bị truy đuổi.”
+→
+“Tôi tự quyết định tương lai mình.”
+
+Quan hệ với Vân Chi:
+Chị không sống thay em.
+
+LỤC UYỂN NINH
+
+Vai trò:
+Mirror Character của Hoài Cẩn.
+
+Điểm giống:
+Đều từng lợi dụng Vân Chi.
+
+Điểm khác:
+Hoài Cẩn vì bảo vệ.
+Uyển Ninh vì mục tiêu riêng và muốn phá hủy những sai trái của gia đình mình.
+
+Không được biến Uyển Ninh thành nữ phụ ghen tuông hoặc người tốt tuyệt đối.
+
+Kết thúc:
+Chọn công lý thay vì gia tộc, nhưng không phủ nhận Lục Trọng Sơn vẫn là cha mình.
+
+THANH CẦM
+
+Vai trò:
+Người giữ mạng lưới Ninh.
+
+Biết nhiều nhưng không biết tất cả.
+
+Không được biết:
+
+* ai ban đầu cứu Vân Hạo;
+* nơi cất toàn bộ sổ thật;
+* kẻ đứng “trên cùng” phía sau Lục Trọng Sơn.
+
+Không được biến thành NPC giải thích mọi bí mật.
+
+Càng về cuối càng phải có hành động, không chỉ exposition.
+
+LỤC TRỌNG SƠN
+
+Vai trò:
+Phản diện trung tâm.
+
+Không được viết thành:
+
+* ác từ đầu;
+* mastermind toàn năng;
+* boss cuối bí mật.
+
+Canon:
+Ban đầu ông ta có quyền hợp pháp trong một phạm vi nhất định đối với việc đổi lượng quân lương dư thừa lấy chiến mã.
+
+Sau đó ông ta:
+
+* mở rộng quyền hạn;
+* biển thủ tiền;
+* sửa hồ sơ;
+* che giấu sai phạm;
+* dựng lại hướng điều tra;
+* để Tạ Hành bị xử lý;
+* tiếp tục phạm sai lầm để bảo vệ sai lầm đầu tiên.
+
+Bi kịch của ông ta:
+Không phải không biết đúng sai.
+
+Mà là không dừng lại.
+
+Ông ta là người chịu trách nhiệm chính cho chuỗi che án, nhưng không phải mastermind toàn năng đứng sau mọi chuyện.
+
+5. MYSTERY CORE
+
+Câu hỏi trung tâm:
+
+Ai đã hại Tạ gia?
+
+Sự thật cuối:
+
+Tạ gia không phản quốc.
+
+Vụ án bắt nguồn từ:
+
+* đổi quân lương lấy chiến mã;
+* biển thủ tiền mua chiến mã;
+* sửa hồ sơ;
+* dựng án để bịt miệng người phát hiện.
+
+Chuỗi logic phải đứng vững ngay cả khi Lục Trọng Sơn không thú tội.
+
+Các mắt xích chính:
+
+17 chuyến xe bị ghi “khuyết”.
+→
+Xe bị đổi tuyến tới Tứ Phong.
+→
+Quân lương được đổi thành chiến mã.
+→
+Chiến mã quay lại quân đội.
+→
+Binh bộ tiếp tục chi tiền mua ngựa lần hai.
+→
+Tiền quay về Lục phủ.
+→
+Tạ Hành phát hiện.
+→
+Trang đầu của hồ sơ bị sửa.
+→
+Thư điều tra bị cắt/chuyển nghĩa thành chứng cứ thông địch.
+→
+Tạ Hành bị chuyển ngục.
+→
+Trương Đình giữ Phi Ưng bài thật.
+→
+Trương Đình bị giết.
+
+Các điểm bắt buộc phải kết nối:
+Phi Ưng bài số 17.
+Trương Đình.
+Hà Dụ.
+Đội xe số 4.
+Tứ Phong.
+Thư bị cắt.
+
+Không mở thêm boss cuối.
+
+6. BẢY LÁ THƯ
+
+Bảy lá thư là xương sống cảm xúc của truyện.
+
+Không được biến toàn bộ sáu lá thư đầu thành “mật thư cứu mạng” để tẩy trắng Hoài Cẩn.
+
+Sáu lá thư đầu có thể chứa cảnh báo, dẫn hướng hoặc thông tin bị che giấu tùy từng lá.
+
+Lá thư thứ bảy:
+
+* hoàn toàn là thật;
+* là thư tuyệt tình thật sự;
+* được viết với chủ ý làm Vân Chi tuyệt vọng;
+* không được giải thích ngược thành “thư mật để bảo vệ nàng”.
+
+Đây là lỗi đạo đức thật sự của Hoài Cẩn.
+
+Lá thư thứ tám:
+Không phải thư cứu mạng hay mật thư.
+
+Nó là dấu hiệu Hoài Cẩn đã thay đổi.
+
+Nội dung cốt lõi:
+Hắn nói rõ mình ở đâu và để Vân Chi tự quyết định có đến hay không.
+
+7. RELATIONSHIP
+
+VÂN CHI ↔ HOÀI CẨN
+
+Không viết theo công thức:
+Yêu → Hận → Yêu.
+
+Mà là:
+
+Tin
+→
+Mất niềm tin
+→
+Hiểu sự thật
+→
+Cho cơ hội
+→
+Bị phản bội lần nữa
+→
+Xây dựng lại bằng lựa chọn.
+
+Không được để Vân Chi tha thứ chỉ vì biết Hoài Cẩn từng yêu nàng.
+
+Tình yêu giải thích động cơ.
+Không xóa trách nhiệm.
+
+VÂN CHI ↔ UYỂN NINH
+
+Đối đầu
+→
+Hợp tác
+→
+Tôn trọng.
+
+Không cần trở thành bạn thân.
+
+VÂN CHI ↔ VÂN HẠO
+
+Cốt lõi:
+Chị không sống thay em.
+
+8. QUY TẮC MYSTERY
+
+9. Không kết luận vượt chứng cứ.
+
+10. Mọi suy luận quan trọng phải có chứng cứ hỗ trợ.
+
+11. Không dùng lời thú tội thay cho chứng cứ.
+
+12. Vụ án phải đứng vững ngay cả khi phản diện không nói.
+
+13. Không mở mastermind mới ở cuối truyện.
+
+14. Không dùng hiểu lầm rẻ tiền như nghe lén, bỏ lỡ thư hoặc hiểu nhầm đơn giản.
+
+15. Xung đột phải đến từ giá trị, lựa chọn và nhận thức.
+
+16. Không để nhân vật giải thích toàn bộ vụ án bằng một đoạn độc thoại.
+
+17. Manh mối phải có payoff.
+
+18. Phản diện phải có hành động trong hiện tại; không để phần giữa chỉ là tìm manh mối quá khứ.
+
+19. CANON LOCKS
+
+Tuyệt đối không thay đổi:
+
+* A Hạnh bị thương vì kế hoạch của Hoài Cẩn.
+* Lá thư thứ bảy là thật.
+* Lục Trọng Sơn là phản diện chính.
+* Không tồn tại mastermind phía sau Lục Trọng Sơn.
+* Tạ Hành được phục danh.
+* Cái chết của Tạ Hành không cần được giải thích 100% từng chi tiết, nhưng trách nhiệm của hệ thống và Lục Trọng Sơn trong việc dẫn đến bi kịch phải được làm rõ.
+* Hoài Cẩn không được tha thứ ngay.
+* Lá thư thứ tám là bước ngoặt trong cách Hoài Cẩn đối xử với quyền lựa chọn của Vân Chi.
+* Chủ đề trung tâm là quyền lựa chọn.
+* Kết thúc không cần là đám cưới.
+* Vân Chi và Hoài Cẩn chỉ có thể tiếp tục khi cả hai cùng lựa chọn.
+
+10. BIỂU TƯỢNG
+
+Bảy lá thư:
+Quá khứ và những lựa chọn đã bị người khác áp đặt.
+
+Lá thư thứ tám:
+Sự thay đổi.
+
+Khóa bạc:
+Bí mật.
+
+Bên trong trống:
+Không còn cần giấu.
+
+Phi Ưng bài số 17:
+Sự thật bị nhân đôi và bị làm giả.
+
+Chén trà:
+Sự đồng ý.
+
+“Có thể?”:
+Payoff cuối cùng của arc Hoài Cẩn.
+
+11. ANTI-PATTERN
+
+Không được sửa truyện theo hướng:
+
+* Hoài Cẩn thực ra luôn đúng.
+* Mọi hành động tàn nhẫn đều được biện minh bằng “vì yêu”.
+* Uyển Ninh thực ra tốt hoàn toàn.
+* Vân Chi thông minh đến mức không bao giờ sai.
+* Vân Hạo giải quyết toàn bộ vụ án.
+* Thanh Cầm biết toàn bộ bí mật.
+* Lục Trọng Sơn ác từ đầu.
+* Một lời thú tội thay thế toàn bộ chứng cứ.
+* Một bí mật mới xuất hiện ở tập cuối để giải quyết mọi thứ.
+* Nhân vật liên tục tìm clue mà không có áp lực hiện tại.
+* Biến truyện thành cuộc chiến “ai yêu Vân Chi nhất”.
+* Tẩy trắng nhân vật bằng cách thay đổi động cơ quá khứ.
+
+12. THESIS CUỐI
+
+Tạ Vân Chi không chiến thắng chỉ vì tìm được hung thủ.
+
+Nàng chiến thắng vì học được cách sống cùng sự thật mà không bóp méo nó để bớt đau.
+
+Thẩm Hoài Cẩn không được trao cơ hội vì hắn yêu nàng.
+
+Hắn được trao cơ hội vì cuối cùng học được cách dừng lại trước khi quyết định thay nàng.
+
+Sau tất cả những bức thư, hồ sơ, mật mã và án oan, điều quý giá nhất các nhân vật giành lại được không chỉ là danh dự của Tạ gia.
+
+Mà là quyền được tự lựa chọn cuộc đời mình.
+
+13. CORE THEME
+
+THEME CỐT LÕI
+
+Yêu một người không cho bạn quyền quyết định cuộc đời họ.
+
+Toàn bộ câu chuyện xoay quanh một câu hỏi:
+
+Khi ta tin rằng mình đang bảo vệ một người, ta có quyền quyết định thay họ đến đâu?
+
+Vân Chi từng bị người khác quyết định thay:
+
+Hoài Cẩn quyết định nàng nên sống thế nào.
+
+Gia đình quyết định nàng phải chịu trách nhiệm cho danh dự Tạ gia.
+
+Những kẻ dựng án quyết định sự thật nào nàng được phép nhìn thấy.
+
+Uyển Ninh quyết định nàng nên trở thành một phần trong kế hoạch của mình.
+
+Ngay cả những người yêu thương nàng cũng có lúc biến nàng thành một người cần được bảo vệ thay vì một người có quyền lựa chọn.
+
+ARC CỦA THEME
+
+Đầu truyện:
+
+“Ta biết điều gì tốt cho nàng.”
+
+Giữa truyện:
+
+“Ta có thể bảo vệ nàng mà không cần nói cho nàng biết.”
+
+Cuối truyện:
+
+“Ta sẽ nói hết. Sau đó nàng chọn.”
+
+Đây là sự thay đổi quan trọng nhất của Hoài Cẩn.
+
+Và cũng là lý do lá thư thứ tám quan trọng hơn bảy lá thư trước.
+
+THEME VÀ MYSTERY LÀ MỘT
+
+Vụ án quân lương không chỉ là một vụ tham ô.
+
+Nó là phiên bản chính trị của cùng một vấn đề:
+
+Người có quyền đã quyết định người khác được nhìn thấy sự thật nào.
+
+Không cần sửa toàn bộ sự thật.
+
+Chỉ cần sửa trang đầu.
+
+Một con số bị đổi.
+Một tuyến xe bị đổi.
+Một lá thư bị cắt.
+Một hồ sơ bị đổi cách diễn giải.
+
+Sau đó người khác sẽ tự đi đến một kết luận sai.
+
+Vì vậy:
+
+# Cách con người kiểm soát sự thật
+
+Cách con người kiểm soát lựa chọn của người khác.
+
+HAI ĐIỀU CÓ THỂ CÙNG ĐÚNG
+
+Truyện không được xây dựng theo tư duy:
+
+Ai tốt?
+Ai xấu?
+
+Mà phải chấp nhận:
+
+Hoài Cẩn có thể vừa cứu Vân Chi vừa làm tổn thương nàng.
+
+Uyển Ninh có thể vừa giúp Vân Chi vừa lợi dụng nàng.
+
+Lục Trọng Sơn có thể từng làm một việc hợp pháp rồi biến sai lầm đầu tiên thành một chuỗi tội lỗi lớn hơn.
+
+Một hành động có thể xuất phát từ tình yêu mà vẫn sai.
+
+Một người có thể có lý do chính đáng mà vẫn phải chịu trách nhiệm.
+
+ĐÂY KHÔNG PHẢI CÂU CHUYỆN VỀ THA THỨ
+
+Vân Chi không cần tha thứ vì Hoài Cẩn đã yêu nàng.
+
+Hoài Cẩn phải thay đổi vì hắn nhận ra:
+
+Yêu không đồng nghĩa với có quyền quyết định.
+
+Cơ hội cuối cùng giữa họ chỉ xuất hiện khi hắn trả lại cho nàng thứ mà hắn từng lấy đi:
+
+QUYỀN LỰA CHỌN.
+
+FINAL PAYOFF
+
+Bảy lá thư đại diện cho những lựa chọn đã bị áp đặt.
+
+Lá thư thứ tám đại diện cho một lựa chọn được trao trả.
+
+“Có thể?”
+
+Không phải câu hỏi về tình yêu.
+
+Đó là câu hỏi:
+
+“Ta có thể bước vào cuộc đời nàng lần nữa không, nếu lần này nàng là người quyết định?”
+
+Và câu trả lời của Vân Chi không phải là sự đầu hàng.
+
+Mà là:
+
+Nàng tự chọn bước tiếp.
+
+THESIS
+
+Tạ Vân Chi không chiến thắng vì nàng tìm được hung thủ.
+
+Nàng chiến thắng vì nàng học được cách nhìn thẳng vào sự thật mà không bóp méo nó để bớt đau.
+
+Thẩm Hoài Cẩn không được trao cơ hội vì hắn yêu nàng.
+
+Hắn được trao cơ hội vì cuối cùng hắn học được cách dừng lại trước khi quyết định thay nàng.
+
+Sau tất cả những bức thư, hồ sơ, mật mã và án oan, điều quý giá nhất họ giành lại được không chỉ là danh dự.
+
+Mà là quyền được tự lựa chọn cuộc đời mình.
+
+14. CHARACTER VOICE
+
+Mục đích:
+
+Character Voice chỉ khóa cách nhân vật nói, suy nghĩ và phản ứng.
+
+Không biến mọi nhân vật thành cùng một giọng văn thông minh, sắc bén và triết lý.
+
+Mỗi nhân vật phải có cách nói phù hợp với tính cách, vị trí xã hội, trạng thái cảm xúc và mức độ thông tin họ đang có.
+
+TẠ VÂN CHI
+
+Voice:
+Điềm tĩnh, quan sát kỹ, nói ngắn và có trọng lượng.
+
+Khi điều tra:
+Ưu tiên câu hỏi cụ thể, chứng cứ và logic.
+
+Khi tức giận:
+Không gào khóc hoặc độc thoại dài. Càng đau càng có xu hướng nói ít và chính xác hơn.
+
+Khi bị tổn thương:
+Không dễ thừa nhận mình đau. Thường hỏi thẳng vào hành động và trách nhiệm của đối phương.
+
+Không được viết:
+
+* Thành nữ chính lúc nào cũng lạnh lùng.
+* Câu nào cũng thành triết lý.
+* Luôn đúng.
+* Nói như người biết trước đáp án.
+
+Nguyên tắc:
+Vân Chi có thể sai, nhưng khi nhận ra mình sai, nàng phải tự sửa bằng chứng cứ.
+
+THẨM HOÀI CẨN
+
+Voice:
+Ít lời, kiểm soát, chính xác.
+
+Đầu truyện:
+Thường nói như người đã tính xong mọi khả năng.
+
+Khi bảo vệ:
+Có xu hướng nói quyết định thay người khác thay vì giải thích đầy đủ.
+
+Khi bị chất vấn:
+Không né tránh bằng lời tình cảm. Phải đối diện với hành động của mình.
+
+Sau tập 8:
+Voice phải thay đổi rõ ràng.
+
+Từ:
+“Ta đã quyết.”
+
+sang:
+“Ta nói hết. Nàng chọn.”
+
+Không được viết:
+
+* Lạnh lùng chỉ để tạo khí chất.
+* Thâm tình kiểu ngôn tình sáo mòn.
+* Dùng “ta làm tất cả vì nàng” để tự biện minh.
+* Đột nhiên trở thành người nói rất nhiều cảm xúc.
+
+Điểm quan trọng:
+Sự thay đổi của Hoài Cẩn phải thể hiện qua CÁCH hắn giao tiếp, không chỉ qua lời tuyên bố rằng hắn đã thay đổi.
+
+A HẠNH
+
+Voice:
+Tự nhiên, trực tiếp, đời thường hơn những nhân vật khác.
+
+Có thể có hài nhẹ nhưng không phá không khí.
+
+Thường nói ra điều người khác né tránh.
+
+Không được biến thành:
+
+* nhân vật hài;
+* người nói thay tác giả;
+* NPC giải thích tình tiết.
+
+Khi nghiêm túc:
+Câu nói phải có sức nặng vì nàng nhìn vấn đề từ góc độ con người, không phải vì nàng hiểu toàn bộ âm mưu.
+
+TẠ VÂN HẠO
+
+Voice:
+Trẻ hơn Vân Chi nhưng không trẻ con.
+
+Có sự dè dặt của một người từng bị truy đuổi.
+
+Về cuối:
+Ngày càng chủ động và rõ ràng hơn.
+
+Không được viết thành thiên tài lạnh lùng.
+
+Câu nói quan trọng của arc:
+“Ta giống ta.”
+
+LỤC UYỂN NINH
+
+Voice:
+Điềm tĩnh, có giáo dưỡng, kiểm soát cảm xúc.
+
+Nói ít nhưng thường có tầng nghĩa thứ hai.
+
+Không cần châm chọc liên tục.
+
+Khi thừa nhận mình đã lợi dụng Vân Chi:
+Không biện minh rằng mình hoàn toàn đúng.
+
+Không được viết thành:
+
+* nữ phụ ghen tuông;
+* trà xanh;
+* người phụ nữ lạnh lùng không có cảm xúc.
+
+Uyển Ninh có thể yêu gia đình mình và đồng thời chống lại những gì gia đình đã làm.
+
+THANH CẦM
+
+Voice:
+Thực tế, thận trọng, có sự cảnh giác của người sống lâu trong mạng lưới bí mật.
+
+Không nói như người biết toàn bộ câu chuyện.
+
+Khi không biết:
+Phải nói là không biết.
+
+Khi chỉ đoán:
+Phải phân biệt rõ với sự thật.
+
+Không được dùng Thanh Cầm làm nhân vật giải thích lore.
+
+LỤC TRỌNG SƠN
+
+Voice:
+Quan liêu, điềm tĩnh, có sức nặng của quyền lực.
+
+Không cần quát tháo để thể hiện mình là phản diện.
+
+Thường có xu hướng dùng ngôn ngữ hợp pháp, trách nhiệm và “đại cục” để biện minh cho quyết định của mình.
+
+Điểm quan trọng:
+Ông ta không nghĩ mình là kẻ phản quốc.
+
+Ông ta luôn có lý do để giải thích bước tiếp theo.
+
+Nhưng càng nói, càng phải lộ ra rằng ông ta đang dùng lý do của bước trước để biện minh cho bước sau.
+
+Không được viết:
+
+* Ác nhân nói đạo lý dài dòng.
+* Mastermind cười lạnh.
+* Nhân vật tự kể toàn bộ âm mưu trong một đoạn cuối.
+
+VOICE CONSISTENCY RULE
+
+Trước khi sửa dialogue của bất kỳ nhân vật nào, Claude phải kiểm tra:
+
+1. Nhân vật này biết gì ở thời điểm đó?
+2. Nhân vật này muốn đạt được gì?
+3. Họ có lý do gì để nói hoặc không nói?
+4. Cách nói này có đúng tính cách của họ không?
+5. Câu thoại có đang thay nhân vật nói ra điều mà tác giả muốn độc giả biết nhưng nhân vật chưa có lý do để nói không?
+
+Nếu có, phải viết lại.
+
+Dialogue không được dùng để truyền thông tin một cách cơ học.
+
+Thông tin nên xuất hiện qua:
+hành động,
+câu hỏi,
+phản ứng,
+xung đột,
+chứng cứ,
+và những điều nhân vật cố tình không nói.
+

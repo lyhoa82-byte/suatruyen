@@ -1,0 +1,263 @@
+STORY HANDBOOK
+ĐẠI THỌ CÓ NGƯỜI CHẾT
+
+Mục đích tài liệu:
+Đây là STORY HANDBOOK dùng làm lớp canon và continuity cho toàn bộ quá trình biên tập. Khi chỉnh sửa bản thảo do GPT viết, phải ưu tiên MASTER STORY BIBLE + EDITING PROTOCOL đã được tác giả thiết lập. Handbook này bổ sung các thông tin đặc thù của truyện. Không tự ý tạo canon mới để lấp khoảng trống. Nếu một chi tiết chưa được xác nhận, phải giữ mơ hồ hoặc đánh dấu để tác giả quyết định.
+
+1. BỐI CẢNH & TIMELINE
+
+Bối cảnh:
+Truyện là một vụ án gia tộc trong bối cảnh cổ trang hư cấu, tập trung chủ yếu trong một đại gia đình quyền thế/giàu có. Không cần bám tuyệt đối vào một triều đại lịch sử cụ thể. Không khí mang màu sắc cổ trang phương Đông, gia tộc, lễ nghi, danh dự, tài sản và quyền thừa kế.
+
+Thời gian / timeline:
+Câu chuyện bắt đầu trong dịp đại thọ của lão thái gia. Nhiều thành viên gia tộc trở về/tụ họp trong cùng một phủ để dự lễ.
+Đêm đại thọ: các thành viên trong gia đình có những cuộc gặp riêng, tranh chấp, bí mật và hành động không được công khai.
+Sáng hôm sau: lão thái gia được phát hiện đã chết trong thư phòng khóa kín.
+Sau cái chết: vấn đề di chúc, tài sản và những bí mật trong gia tộc trở thành động lực chính của cuộc điều tra.
+Một bí mật quan trọng có liên quan đến khoảng tám năm trước và dần được hé lộ trong quá trình phá án.
+
+Địa điểm quan trọng:
+
+* Phủ/gia trạch của gia tộc.
+* Thư phòng của lão thái gia: địa điểm xảy ra cái chết, có yếu tố “phòng kín”.
+* Khu vực tổ chức đại thọ/yến tiệc.
+* Những gian phòng riêng của các thành viên gia tộc.
+* Khu vực cất giữ sổ sách/tài liệu của gia tộc.
+* Lối đi/khoảng không gian bí mật trong phủ nếu đã được xác lập trong bản thảo.
+* Các địa điểm phải được giữ nhất quán về vị trí tương đối, lối đi, cửa, cửa sổ và khả năng tiếp cận.
+
+Quy tắc thế giới đặc biệt:
+Không có phép thuật hay năng lực siêu nhiên.
+Vụ án phải có lời giải bằng quan sát, hành vi con người, vật chứng, thời gian, không gian và suy luận.
+Không dùng “hung thủ toàn năng” hoặc tình tiết mà độc giả không thể suy luận lại sau khi biết đáp án.
+Nếu có thủ pháp gây án đặc biệt, phải có cơ sở vật lý hợp lý và được gieo manh mối trước.
+
+2. CORE THEME
+
+Chủ đề trung tâm:
+Một gia đình có thể sống cùng nhau nhiều năm nhưng không có nghĩa họ thật sự hiểu nhau.
+
+Các chủ đề phụ:
+
+* Tiền bạc và quyền thừa kế có thể phơi bày bản chất con người.
+* Lời nói dối đôi khi không đồng nghĩa với giết người.
+* Người bị xem thường có thể là người quan sát được nhiều nhất.
+* Một bí mật bị chôn vùi nhiều năm vẫn có thể quay lại phá vỡ hiện tại.
+* Trong một gia đình mà ai cũng có điều muốn che giấu, sự thật không nhất thiết nằm ở người nói thật nhất, mà có thể nằm trong những chi tiết nhỏ nhất.
+
+Tone:
+Cổ trang phá án + gia tộc + tâm lý + bí mật.
+Có kịch tính kiểu phim truyền hình, nhưng không được biến thành melodrama quá mức.
+Có thể có những đoạn “đã” khi nhân vật phá giải được nút thắt, nhưng phải dựa trên logic chứ không phải cheat.
+
+3. NHÂN VẬT & QUAN HỆ
+
+# Nhân vật chính — Vãn Ý
+
+Vai trò:
+Con dâu trong gia tộc. Bề ngoài thường bị xem là vụng về/ngốc nghếch, không phải người được kỳ vọng sẽ tham gia vào những chuyện quan trọng.
+
+Mục tiêu:
+Ban đầu không nhất thiết chủ động phá án. Sau cái chết của lão thái gia, Vãn Ý từng bước bị cuốn vào sự việc và bắt đầu quan sát, đối chiếu lời khai, tìm ra những điểm bất thường.
+
+Điểm yếu / giới hạn:
+Không phải thiên tài biết tất cả.
+Không có khả năng đọc suy nghĩ.
+Không được phép biết những bí mật mà cô chưa có cơ sở để biết.
+Có thể hiểu sai một chi tiết hoặc nghi ngờ nhầm người.
+Bề ngoài bị đánh giá thấp là lợi thế xã hội nhưng cũng khiến cô dễ bị xem nhẹ và đôi lúc khó trực tiếp can thiệp.
+
+Năng lực:
+Quan sát tốt.
+Nhạy với những chi tiết nhỏ trong hành vi, vật dụng, lời nói và sự bất nhất giữa lời khai với thực tế.
+Có khả năng kết nối các manh mối sau khi đã thu thập đủ dữ kiện.
+Thế mạnh lớn nhất là kiên nhẫn quan sát chứ không phải “thần đồng phá án”.
+
+Quan hệ quan trọng:
+
+* Với gia đình chồng: có vị trí bên trong gia tộc nhưng không phải người có quyền lực cao.
+* Với các thành viên khác: thường bị đánh giá thấp, tạo điều kiện để cô nghe/thấy những thứ người khác không đề phòng.
+* Với chồng và những người thân cận: quan hệ cần được thể hiện bằng hành động và đối thoại cụ thể, không dùng lời kể chung chung để tuyên bố tình cảm.
+
+# Nhân vật phụ
+
+Lão thái gia:
+Trung tâm quyền lực của gia tộc và là nạn nhân. Cái chết của ông kéo theo tranh chấp về di chúc, tài sản và những bí mật cũ.
+
+Các thành viên gia tộc:
+Mỗi người phải có lợi ích, nỗi sợ hoặc bí mật riêng.
+Không phải ai nói dối cũng là hung thủ.
+Không biến toàn bộ nhân vật thành “nghi phạm giả” chỉ để đánh lừa khán giả.
+Mỗi lời nói dối nên có nguyên nhân cụ thể: tiền bạc, danh dự, quan hệ, quá khứ, sợ bị phát hiện hoặc bảo vệ người khác.
+
+Các nhân vật đã xuất hiện trong bản thảo:
+Minh Khiêm / Minh Lễ, Chu thị, Hạnh Nhi, Vãn Thanh, Kỷ Hoài Ân, Phương Tử An, Triệu Kha và các nhân vật gia tộc khác.
+Tên, quan hệ và vai trò cụ thể phải đối chiếu với bản MASTER STORY BIBLE/bản thảo canon trước khi chỉnh sửa. Không tự đổi tên hoặc tự bổ sung quan hệ huyết thống.
+
+# Xưng hô
+
+Xưng hô phải phản ánh:
+
+* tuổi tác;
+* vai vế trong gia tộc;
+* quan hệ vợ chồng;
+* địa vị xã hội;
+* mức độ thân mật/thù địch.
+
+Không dùng một kiểu xưng hô cho tất cả nhân vật.
+Khi quan hệ thay đổi, xưng hô có thể thay đổi và đó có thể trở thành tín hiệu tâm lý.
+Ưu tiên xưng hô tự nhiên trong cổ trang tiếng Việt, tránh quá hiện đại.
+
+4. CHARACTER VOICE
+
+Vãn Ý:
+Nói vừa đủ, quan sát nhiều hơn nói.
+Không liên tục phát biểu những câu triết lý hoặc “chốt hạ” như một nhân vật được viết để viral.
+Khi nghi ngờ, nên thể hiện qua câu hỏi, ánh mắt, hành động kiểm tra hoặc cách cô ghi nhớ chi tiết.
+Không để cô liên tục đúng tuyệt đối.
+
+Lão thái gia:
+Có uy quyền gia trưởng. Lời nói có sức nặng vì địa vị và lịch sử gia tộc, không chỉ vì tác giả nói ông “uy nghiêm”.
+
+Các thành viên gia tộc:
+Mỗi người cần có giọng riêng dựa trên tính cách và vị trí.
+Người nóng tính không nên nói cùng nhịp với người kín đáo.
+Người sợ hãi có thể vòng vo.
+Người có quyền lực có thể nói ít nhưng tạo áp lực.
+Người đang che giấu chuyện quan trọng có thể tránh một số câu hỏi thay vì luôn nói dối trắng trợn.
+
+Nguyên tắc chung:
+Giảm thoại giải thích.
+Không để nhân vật nói ra thông tin mà họ đã biết chỉ để khán giả biết.
+Ưu tiên hành động, phản ứng, ngập ngừng, né tránh và chi tiết cụ thể.
+Không lạm dụng câu ngắn kiểu “đóng đinh” ở cuối mọi đoạn.
+Không biến mọi cảnh thành cao trào.
+
+5. CANON & CONTINUITY
+
+Thông tin đã xác nhận:
+
+* Đây là murder mystery cổ trang/gia tộc.
+* Lão thái gia chết sau đêm đại thọ.
+* Thi thể được phát hiện trong thư phòng khóa kín.
+* Di chúc/tài liệu liên quan đến thừa kế biến mất.
+* Nhiều thành viên gia tộc có động cơ hoặc bí mật riêng.
+* Vãn Ý là nhân vật quan sát trung tâm.
+* Cô bị xem là ngốc nghếch/vụng về nhưng thực tế quan sát rất tốt.
+* Vụ án hiện tại có liên hệ với một bí mật khoảng tám năm trước.
+* Có các vật chứng/chi tiết như chén trà, khuyên tai và những lời khai không khớp; các chi tiết này chỉ được sử dụng đúng vai trò canon đã xác lập trong bản thảo.
+* Có sự xuất hiện của tài liệu/sổ sách gia tộc và một không gian/lối đi bí mật trong mạch truyện nếu đã được MASTER STORY BIBLE xác nhận.
+
+Chi tiết tuyệt đối không được thay đổi:
+
+* Không biến Vãn Ý thành nhân vật có năng lực siêu nhiên.
+* Không cho cô biết trước hung thủ nếu chưa có quá trình suy luận.
+* Không thay đổi cơ chế locked-room chỉ vì cần tạo twist.
+* Không biến người nói dối thành mặc định là hung thủ.
+* Không thêm một nhân vật mới ở cuối truyện để giải thích toàn bộ vụ án.
+* Không thay đổi động cơ hung thủ chỉ để twist mạnh hơn.
+* Không sửa manh mối cũ thành một sự thật mới mà không kiểm tra các cảnh trước.
+* Không để vật chứng xuất hiện lần đầu ngay trước lúc cần dùng để phá án.
+* Không hồi sinh, thay đổi thân phận hoặc quan hệ của nhân vật đã được xác nhận nếu không có quyết định mới của tác giả.
+
+Những gì từng nhân vật đã biết:
+Đây là murder mystery nên thông tin phải được phân tầng.
+Hung thủ biết những gì liên quan trực tiếp đến kế hoạch của mình.
+Các nhân vật khác chỉ biết phần quá khứ mà họ từng chứng kiến hoặc được kể.
+Vãn Ý chỉ được suy luận từ thông tin cô thực sự tiếp cận.
+Không được để một nhân vật phản ứng với bí mật mà theo canon họ chưa thể biết.
+
+Các chi tiết cần kiểm tra continuity:
+
+* Timeline từ đêm đại thọ đến thời điểm phát hiện thi thể.
+* Ai ở đâu vào từng thời điểm quan trọng.
+* Ai có quyền vào thư phòng.
+* Cửa/cửa sổ/lối bí mật hoạt động thế nào.
+* Ai nhìn thấy vật chứng lần đầu.
+* Ai biết về di chúc.
+* Ai biết bí mật tám năm trước.
+* Vị trí và trạng thái của chén trà, khuyên tai, tài liệu/sổ sách và các vật chứng khác.
+* Các lời khai phải khớp với kiến thức thực tế của từng người.
+
+6. SETUP → PAYOFF
+
+# Setup đang mở
+
+Setup:
+Lão thái gia chết trong thư phòng khóa kín.
+Được gieo ở:
+Đầu truyện / sau đêm đại thọ.
+Trạng thái hiện tại:
+Là câu hỏi trung tâm của toàn bộ mystery.
+Hướng payoff:
+Phải giải thích được cơ chế phòng kín, thời gian tử vong, người có cơ hội gây án và lý do các dấu vết xuất hiện.
+
+Setup:
+Di chúc/tài liệu thừa kế biến mất.
+Được gieo ở:
+Sau cái chết.
+Trạng thái:
+Là động lực khiến nhiều người trở thành nghi phạm.
+Payoff:
+Phải kết nối hợp lý với xung đột tài sản và hành động của các nhân vật, nhưng không được mặc định “ai muốn di chúc thì người đó giết”.
+
+Setup:
+Bí mật tám năm trước.
+Được gieo ở:
+Qua các nhân vật, ký ức, vật chứng và những lời nói không đầy đủ.
+Trạng thái:
+Chưa được tiết lộ hoàn toàn.
+Payoff:
+Phải giải thích tại sao quá khứ có ảnh hưởng đến cái chết hiện tại và tại sao các nhân vật lại sợ bí mật bị phơi bày.
+
+Setup:
+Vãn Ý bị xem là ngốc nghếch.
+Được gieo ở:
+Từ đầu truyện.
+Trạng thái:
+Đang trở thành lợi thế điều tra.
+Payoff:
+Càng về sau, các nhân vật càng phải nhận ra họ đã đánh giá sai cô.
+
+# Món nợ cảm xúc
+
+Món nợ:
+Vãn Ý với gia đình chồng.
+Trạng thái:
+Cô đứng ở vị trí vừa là người trong nhà vừa là người bị xem thường. Những gì xảy ra trong vụ án buộc cô phải xác định mình thực sự đứng về đâu.
+
+Món nợ:
+Gia đình với quá khứ tám năm trước.
+Trạng thái:
+Chưa trả xong. Quá khứ phải có hậu quả cảm xúc chứ không chỉ là công cụ tạo twist.
+
+Món nợ:
+Các thành viên gia tộc với lão thái gia.
+Trạng thái:
+Mỗi người có một kiểu quan hệ khác nhau: biết ơn, oán hận, sợ hãi, tham vọng hoặc phụ thuộc. Không được gom tất cả thành “họ đều ghét ông”.
+
+# Payoff đã hoàn thành
+
+Khi chỉnh sửa từng tập, phải ghi rõ:
+Setup nào đã được payoff.
+Payoff bằng vật chứng nào.
+Nhân vật nào phát hiện.
+Độc giả đã được gieo đủ thông tin trước đó chưa.
+
+Không coi một twist là payoff tốt nếu độc giả không thể quay lại các chương trước và nhận ra manh mối đã tồn tại.
+
+7. GHI CHÚ BIÊN TẬP
+
+Vấn đề chưa có quyết định của tác giả:
+
+* Tên và quan hệ chính xác của toàn bộ thành viên gia tộc phải đối chiếu với MASTER STORY BIBLE.
+* Cơ chế phòng kín cuối cùng phải được giữ đúng theo bản canon đã chốt.
+* Vai trò chính xác của từng vật chứng phải đối chiếu bản thảo hoàn chỉnh.
+* Mức độ và chi tiết của bí mật tám năm trước không được tự mở rộng ngoài canon.
+* Nếu bản GPT hiện tại mâu thuẫn với Handbook, không tự động chọn bản GPT. Phải ưu tiên MASTER STORY BIBLE, sau đó Handbook, sau đó mới đến bản thảo hiện tại.
+* Những điểm mâu thuẫn chưa thể xác định từ tài liệu hiện có phải được đánh dấu [AUTHOR DECISION NEEDED], không tự bịa.
+
+NGUYÊN TẮC TỐI CAO:
+Không viết để chứng minh tác giả thông minh.
+Viết để khi hung thủ được giải thích, độc giả có thể nghĩ:
+“À, hóa ra những chi tiết đó đã ở đây từ đầu.”
