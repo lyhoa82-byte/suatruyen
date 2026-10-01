@@ -488,3 +488,148 @@ Các mục nhóm C không cần sửa trừ khi tác giả yêu cầu.
 - B-03 → B-09 (B-09 phụ thuộc B-03).
 - B-05 → B-10 (mốc 16 năm).
 - B-08 có thể khóa bất kỳ lúc nào trước khi biên tập Hồi VI.
+
+---
+
+# AUTHOR-APPROVED CANON MERGE
+
+Các quyết định dưới đây do tác giả duyệt sau FINAL_AUDIT (xem AUTHOR_DECISIONS.md và FINAL_AUDIT.md trong lịch sử nhánh, commit 4ecf7f8). Chúng là **LOCKED AUTHOR CANON**, có thẩm quyền canon ngang các mục B-01 → B-10, và phải được dùng cho mọi lượt kiểm tra nhất quán về sau.
+
+Quy tắc áp dụng:
+- Không ghi đè B-01 → B-10. Mục nào làm rõ hoặc bổ sung một mục B được ghi rõ ở dòng "Quan hệ".
+- Không suy diễn thêm ngoài chữ đã khóa. Phần chưa được nêu giữ nguyên trạng thái MỞ.
+- File này là nguồn canon duy nhất. Không tạo nguồn canon cạnh tranh.
+
+## AD-02 — Các hiện tượng có vẻ siêu nhiên ở Hồi I
+
+**STATUS:** LOCKED AUTHOR CANON
+
+Mọi hiện tượng có vẻ siêu nhiên ở Hồi I đều có giải thích vật lý hoặc cơ quan:
+- Khói tím = Bế Tâm Sa, cơ chế hóa học hoặc sân khấu vật lý.
+- Mắt trắng như gương = hiệu ứng sân khấu hoặc hiệu ứng ở mắt (vật lý).
+- Giọng nói truyền đi = ống truyền âm, cơ chế vật lý.
+- "Ta là…" nghe trong đám cháy là giọng người thật, không phải ma và không phải hồi sinh siêu nhiên.
+- Mẫu Kính không tạo ra linh hồn hay ý thức.
+- Tàn ảnh chỉ ghi lại và phát lại những việc đã xảy ra.
+
+**Phần còn MỞ:** danh tính người nói "Ta là…" chưa được xác định trong canon. Không được tự gán danh tính.
+
+**Quan hệ:** cụ thể hóa B-04 (a). Câu hỏi "ai nói qua ống truyền âm" của B-04 vẫn do B-04 quản lý, chưa được AD-02 trả lời.
+
+## AD-03 — Mất ký ức của Kỷ Vô Nhai
+
+**STATUS:** LOCKED AUTHOR CANON
+
+- Kỷ Vô Nhai thật sự mất một phần ký ức có giới hạn.
+- Vết thương, máu trên gương và việc mất ký ức là THẬT. Hắn không giả vờ quên.
+- Hắn không toàn tri.
+- Nhất quán với B-01: Vô Tướng Ngục là kế hoạch của Tạ Vân Cơ; Kỷ chỉ cài Mộc Dung để đổi thuốc giải; tiếng chuông thứ tư làm Kỷ bất ngờ thật; từ Hồi II hắn mới chủ động dẫn dắt để lấy Mẫu Kính, máu và Tô Mạn.
+- Không được retcon để biến Kỷ thành người chịu trách nhiệm cho mọi việc ở Hồi I, và không được biến hắn thành phản diện toàn tri.
+
+**Phần còn MỞ:** phạm vi chính xác của ký ức bị mất chưa được xác lập. Giữ HẠN CHẾ và MỞ; không bịa chi tiết.
+
+**Quan hệ:** làm rõ B-01 (b). Không đổi nội dung B-01.
+
+## AD-05 — Luật máu của Mẫu Kính
+
+**STATUS:** LOCKED AUTHOR CANON. Đây là luật máu có thẩm quyền của Mẫu Kính.
+
+| Nguồn máu | Kết quả |
+|---|---|
+| Người sống cho máu tự nguyện | Tàn ảnh giữ lâu, khoảng tối đa một canh giờ |
+| Người sống bị ép cho máu | Vẫn kích hoạt được Mẫu Kính, nhưng tàn ảnh ngắn, khoảng bảy nhịp thở |
+| Người đã chết cho máu | Không người sống nào trả giá bằng ký ức |
+
+- Máu họ Tạ KHÔNG bắt buộc để kích hoạt. Không dùng "máu hoàng thất bắt buộc" như một luật thế giới. Không nói máu Tô Mạn vốn dĩ là bắt buộc.
+- Kỷ có thể tin một loại máu nào đó làm kết quả ổn định hoặc hiệu quả hơn; đó là niềm tin của Kỷ, không phải luật phổ quát.
+- Giữ nguyên nguyên tắc đã xác lập từ trước: máu họ Tạ có hiệu quả ghi nhận đặc biệt mạnh. Không thêm quy tắc số học nào khác.
+- Mẫu Kính không hồi sinh người chết, không tạo ý thức mới. Tàn ảnh chỉ ghi lại hoặc phát lại việc đã xảy ra.
+
+**Quan hệ:** làm rõ và thống nhất B-03 (b) và B-09 (c). Cách đọc "tự nguyện" của B-03 (b) nay áp dụng cho người sống cho máu tự nguyện, không phụ thuộc họ Tạ. Không đổi B-03 và B-09.
+
+## AD-06 — Số phận của Mẫu Kính
+
+**STATUS:** LOCKED AUTHOR CANON
+
+Mẫu Kính KHÔNG bị phá hủy. Sau các sự kiện Vạn Đăng Yến:
+- Cố Bách Xảo giữ Mẫu Kính.
+- Hai nửa vẫn nằm cùng nhau như một vật hoàn chỉnh.
+- Có thể bị nứt hoặc hư hại, nhưng không bị phá hủy.
+- Bình máu họ Tạ được giữ riêng.
+- Bình máu KHÔNG phải "nguồn năng lượng" của Mẫu Kính.
+- Kỷ Vô Nhai KHÔNG giữ lại Mẫu Kính.
+
+Ý nghĩa cảm xúc và chủ đề: người tạo ra chiếc gương cuối cùng phải chịu trách nhiệm cho phần còn lại của nó.
+
+Không biến việc này thành mồi cho phần tiếp theo. Không đưa vào một Mẫu Kính ẩn khác. Không thêm chức năng ma thuật mới.
+
+## AD-09 — Phòng thứ chín và bảy tàn ảnh
+
+**STATUS:** LOCKED AUTHOR CANON
+
+- Phòng thứ chín là không gian lưu trữ (archive/storage) gắn với mạng lưới danh tính Hoán Danh / Vô Danh.
+- Bảy bộ tóc giả, giày, vòng tay, mặt nạ… là các bộ danh tính dùng cho những người bị thay thế, bị giả mạo hoặc bị theo dõi.
+- Bảy tàn ảnh KHÔNG phải bảy phiên bản của Tạ Vân Cơ. Chúng là HỖN HỢP của nhiều người, nhiều người dùng danh tính khác nhau.
+- Điểm đã khóa: tàn ảnh người phụ nữ mặc y phục của Vân La, đeo vòng Thủy Nguyệt Các, đưa tay về phía Vân La và mấp máy "Xin lỗi" chính là Tạ Vân Cơ.
+- Không biến cả bảy tàn ảnh thành cùng một người. Không giải thích từng đạo cụ riêng lẻ nếu văn bản chưa làm.
+- Mục đích tự sự chính của căn phòng: xác lập rằng danh tính "Lục Thanh La" đã được nhiều người dùng, nhiều kẻ giả mạo, và danh tính ấy đã trở thành một chiếc mặt nạ có thể chuyển giao.
+
+**Quan hệ:** cụ thể hóa B-06 (c). Không đổi B-06.
+
+## AD-15 — Nguồn tin của Kỷ và bẫy công khai của Hạ
+
+**STATUS:** LOCKED AUTHOR CANON
+
+- Kỷ KHÔNG biết mọi thứ. Thông tin của hắn đến từ sự kết hợp của:
+  1. Mộc Dung, người biết một phần kế hoạch của Tạ Vân Cơ và có thể tiết lộ những thông tin như tình huống "hai Lục Thanh La".
+  2. Mạng lưới Vô Danh Môn và các thế lực thể chế của Kỷ, gồm khả năng tiếp cận thông tin về các động thái chính thức và những người liên quan.
+  3. Suy luận và phán đoán của chính Kỷ.
+- Không tạo ra một gián điệp toàn tri duy nhất nếu canon chưa gọi tên người đó.
+- Việc Kỷ tiếp tục tham gia Vạn Đăng Yến sau khi Hoàng đế thật được cứu là CÓ CHỦ Ý. Mục tiêu của hắn chuyển sang việc công khai đưa ra một Hoàng đế giả / danh tính giả để sự thật bị làm rối công khai và khó bị dập.
+- Hạ KHÔNG bắt Kỷ ngay ở cổng vì Hạ đang dùng tình huống công khai làm một cái bẫy: để vạch trần danh tính và hành vi của Kỷ trước nhân chứng và quan viên, tạo ra bằng chứng không thể biến mất.
+- Không làm Hạ ngu hoặc thụ động vô lý. Không làm Kỷ toàn tri.
+
+**Quan hệ:** làm rõ B-01 (a) và AD-03. Không đổi B-01.
+
+---
+
+# OPEN AUTHOR QUESTIONS
+
+Các mục dưới đây KHÔNG phải quyết định canon. Chưa có câu trả lời. Không tự giải quyết, không giải quyết âm thầm trong lúc biên tập, không viết lại câu liên quan.
+
+## AD-01 — "Tạ Vân Cơ đã chết trong Phượng Môn"
+
+**STATUS:** OPEN (đang chờ tác giả xem xét)
+
+- Chưa canon hóa cách hiểu "danh tính hoặc cái tên của nàng đã chết".
+- Không viết lại câu. Không tạo lời giải thích mới.
+- Đã biết: câu nằm trong cuộn lụa trong hạt ngọc (Hồi II). Canon đã khóa vẫn là Tạ Vân Cơ chết thật trong lồng.
+
+## AD-12 — Dấu ngón út
+
+**STATUS:** OPEN
+
+- Không đổi chi tiết tay trái hay tay phải chỉ để câu chuyện gọn hơn.
+- Danh mục các chỗ hiện có (theo hồi, cảnh, không có tuyên bố hợp nhất):
+  - Hồi I, cảnh phòng hóa trang: Vân Cơ nói ngón út **tay trái** của "muội" co khi giấu chuyện; Thanh La nhìn tay trái mình, năm ngón duỗi; Thanh La rời đi với ngón út **tay phải** co; ngón út **tay trái** của Vân Cơ đang co.
+  - Hồi I, cảnh lồng: người bước vào lồng cố ý co ngón út **tay phải**; thi thể có ngón út tay phải duỗi.
+  - Hồi II: ngón út **tay trái** của Vân Cơ co khi nàng né câu hỏi.
+  - Hồi III: ngón út **tay trái** của Vân Cơ không co khi nàng nói "Không biết".
+  - Hồi V: Vân Cơ co ngón út **tay trái** làm tín hiệu.
+  - Hồi VI: ngón út **tay trái** của Vân Cơ duỗi thẳng khi nói chuyện với Kỷ; Vân Cơ nhớ bàn tay **phải** cố ý co ngón út của Tạ Vân Cơ; dòng cuối "Mặt thì không. Nhưng tỷ nhận ra muội."
+- Mâu thuẫn đã ghi nhận, chưa giải quyết: ở Hồi I Vân Cơ gán dấu hiệu tay trái cho "muội", nhưng cảnh cùng đoạn cho thấy tay trái co là của chính Vân Cơ, còn dấu của người chết là tay phải. Câu "Tỷ nhìn nhầm người rồi" chưa được giải thích. Không retcon.
+
+## AD-13 — "Ngươi đã mang tên ta quá lâu."
+
+**STATUS:** OPEN
+
+- Không đặt lời giải thích mới dứt khoát ngoài B-02.
+- Giữ nguyên B-02: (1) tàn ảnh ở Hồi VI cho thấy Kỷ/Mộc Dung đổi thuốc; (2) tàn ảnh ở Hồi III cho thấy Tạ Vân Cơ phát hiện có điều không ổn và chuẩn bị dùng thuốc giải thật được giấu; (3) Mộc Dung, mang mặt Tạ Vân Cơ, quay lại và ép một viên thuốc khác sau cuộc giằng co.
+- Còn mơ hồ, chỉ báo cáo: ai là người nói câu này và khuôn mặt hiện ra khi kẻ tấn công bị giật mặt nạ ở Hồi III.
+
+## Các mục MỞ khác đã được ghi nhận
+
+- Sở Mậu (setup mở từ Hồi II).
+- Danh tính người nói "Ta là…" (xem AD-02).
+- Phạm vi mất ký ức của Kỷ Vô Nhai (xem AD-03).
+- Các mục còn lại của FINAL_AUDIT / AUTHOR_DECISIONS.md không nằm trong danh sách đã duyệt ở trên vẫn mở.

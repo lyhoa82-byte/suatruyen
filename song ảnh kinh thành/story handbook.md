@@ -61,6 +61,11 @@ Muốn kích hoạt cần máu.
 Người dùng mất ký ức làm giá phải trả.
 Không thể chọn ký ức bị lấy.
 Máu họ Tạ tăng hiệu quả ghi nhận.
+Máu họ Tạ không bắt buộc để kích hoạt.
+Máu của người sống cho tự nguyện: tàn ảnh giữ lâu, khoảng tối đa một canh giờ.
+Máu của người sống bị ép: vẫn kích hoạt, tàn ảnh ngắn, khoảng bảy nhịp thở.
+Máu của người đã chết: không người sống nào trả giá ký ức.
+Kỷ có thể tin một loại máu làm kết quả ổn định hơn. Đó là niềm tin của Kỷ, không phải luật thế giới.
 Mẫu Kính không được vỡ.
 Nếu vỡ, lượng lớn tàn ảnh có thể thoát ra.
 
@@ -69,8 +74,19 @@ Tàn ảnh:
 Không phải linh hồn.
 Không phải người sống lại.
 Chỉ là ký ức đã ghi nhận.
-Tồn tại ngắn hạn.
+Thời lượng phụ thuộc loại máu (xem quy tắc máu của Mẫu Kính).
 Không có ý thức mới.
+Mọi hiện tượng có vẻ siêu nhiên ở Hồi I đều có giải thích vật lý hoặc cơ quan.
+Khói tím: Bế Tâm Sa.
+Mắt trắng như gương: hiệu ứng sân khấu hoặc hiệu ứng ở mắt.
+Giọng nói truyền đi: ống truyền âm.
+"Ta là…" trong đám cháy: giọng người thật. Người nói chưa xác định.
+Mẫu Kính sau Vạn Đăng Yến:
+Không bị phá hủy.
+Cố Bách Xảo giữ Mẫu Kính.
+Hai nửa nằm cùng nhau như một vật hoàn chỉnh. Có thể nứt, không vỡ.
+Bình máu họ Tạ được giữ riêng. Không phải nguồn năng lượng của Mẫu Kính.
+Kỷ Vô Nhai không giữ Mẫu Kính.
 2. CORE THEME
 
 Chủ đề chính:
@@ -255,6 +271,13 @@ Hoàng đế thật sống sót.
 Chiêu Hòa Công Chúa = Tô Mạn.
 Vân La từng mang tên Lục Thanh La.
 Mẫu Kính lấy ký ức làm giá.
+Kỷ Vô Nhai thật sự mất một phần ký ức có giới hạn. Phạm vi chưa xác định. Vết thương và máu trên gương là thật.
+Kỷ Vô Nhai không toàn tri. Tin của hắn đến từ Mộc Dung, mạng lưới Vô Danh Môn và suy luận của chính hắn.
+Kỷ tiếp tục Vạn Đăng Yến có chủ ý, để đưa ra Hoàng đế giả công khai.
+Hạ không bắt Kỷ ngay ở cổng vì đang dùng tình huống công khai làm bẫy vạch trần.
+Phòng thứ chín là nơi lưu trữ gắn với mạng lưới danh tính Hoán Danh / Vô Danh.
+Bảy tàn ảnh là hỗn hợp nhiều người. Người mặc y phục Vân La, đeo vòng Thủy Nguyệt, mấp máy "Xin lỗi" là Tạ Vân Cơ.
+Danh tính "Lục Thanh La" đã được nhiều người dùng. Nó trở thành một chiếc mặt nạ có thể chuyển giao.
 Tuyệt đối không thay đổi
 Tạ Vân Cơ đã chết.
 Vân La quên khuôn mặt của nàng.
