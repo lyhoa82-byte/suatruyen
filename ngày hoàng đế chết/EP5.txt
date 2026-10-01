@@ -306,7 +306,7 @@ Lần này bắt được rồi.
 
 Phùng Kế bị ghì xuống đất.
 
-Khoảng hơn bốn mươi.
+Chừng bốn mươi.
 
 Mặt đầy mồ hôi.
 
@@ -733,7 +733,9 @@ Mặt ngươi vừa nói rồi.
 
 ---
 
-## CẢNH 6 — NGOẠI. SÂN XE TY XA GIÁ — ĐẦU GIỜ THÂN
+## CẢNH 6 — NGOẠI. NGOẠI VIỆN TY XA GIÁ, PHÍA NGOÀI TUYÊN HÒA — ĐẦU GIỜ THÂN
+
+Tĩnh Nghi ra khỏi nội cung bằng cửa phụ Tuyên Hòa, mở bằng chiếc chìa khóa sắt lấy từ người Phùng Kế.
 
 Sân rộng.
 
@@ -1293,7 +1295,7 @@ Lưu tổng quản khựng.
 Bệ hạ?
 
 **HOÀNG ĐẾ:**
-Ta sợ nàng ta lại tự chui xuống một cái giếng nào nữa.
+Trẫm sợ nàng ta lại tự chui xuống một cái giếng nào nữa.
 
 Tĩnh Nghi im.
 
@@ -1428,41 +1430,7 @@ A Dư kéo tờ giấy sang một chút.
 Tĩnh Nghi nhìn hắn.
 
 **A DƯ:**
-Vật chứng không qua được ngày mai.
-
-**TĨNH NGHI:**
-Ai nói với ngươi?
-
-A Dư khựng.
-
-**A DƯ:**
-Hả?
-
-Tĩnh Nghi nhìn hắn.
-
-A Dư nhìn lại.
-
-**A DƯ:**
-Con vừa nói gì?
-
-Tĩnh Nghi im.
-
-Một thoáng rất ngắn.
-
-Nàng gần như nghĩ—
-
-Nhưng rồi A Dư chỉ vào mấy tờ giấy.
-
-**A DƯ:**
-Ý con là giấy để lâu cũng có mất đâu. Mì nguội thì mất ngon.
-
-Tĩnh Nghi nhìn hắn thêm một lúc.
-
-**A DƯ:**
-Sao vậy?
-
-**TĨNH NGHI:**
-Không.
+Giấy để lâu cũng có mất đâu. Mì nguội thì mất ngon.
 
 Nàng kéo bát mì lại.
 
