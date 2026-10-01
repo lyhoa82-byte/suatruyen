@@ -1,70 +1,82 @@
 # EDIT_REPORT_H2 — SONG ẢNH KINH THÀNH, HỒI II
 
-File đã sửa: `song ảnh kinh thành/ep2.md` (bản gốc kịch bản còn trong lịch sử git).
+Căn cứ: MASTER_STORY_BIBLE.md, EDITING_PROTOCOL.md, story handbook.md, CANON_DECISIONS.md (B-01 → B-10 đều LOCKED), TIMELINE_LOCKED.md, EDIT_REPORT_H1.md (mục 4: việc để lại cho Hồi II).
+Phạm vi: chỉ `song ảnh kinh thành/ep2.md`. Không sửa Hồi I, III–VI, handbook, CANON_DECISIONS, TIMELINE_LOCKED.
 
-## 0. Lưu ý đầu vào
+**Trạng thái: CHỜ TÁC GIẢ DUYỆT.**
 
-Ba file sau không có trong repo (cả `main` lẫn branch làm việc): `CANON_DECISIONS.md`, `TIMELINE_LOCKED.md`, `EDIT_REPORT_H1.md`. `ep1.md` trong repo vẫn ở dạng kịch bản (còn nhãn CẢNH và nhãn người nói), chưa phải bản đã biên tập.
+## 0. Lịch sử
 
-Vì vậy:
-- Canon áp dụng là MASTER STORY BIBLE, EDITING PROTOCOL, `story handbook.md`, nội dung ep1 và ep3–ep6.
-- Danh sách "nhóm A" không có để đối chiếu. Các vấn đề nhóm A bên dưới do mình tự phát hiện trong Hồi 2 khi soi với canon. Nếu danh sách nhóm A của bạn khác, hãy gửi lại file để mình đối chiếu.
-- Không đụng tới Hồi 1, Hồi 3–6 và các sổ tay.
+- Lượt 1: viết Hồi II thành văn xuôi khi ba file canon chưa có trong nhánh làm việc (chúng nằm trên `main`).
+- Lượt 2 (hiện tại): đọc lại CANON_DECISIONS, TIMELINE_LOCKED, EDIT_REPORT_H1, đối chiếu và sửa. Lượt 1 có một chỗ vi phạm canon đã khóa (B-07), đã gỡ. Chi tiết ở mục 2.
 
-## 1. Chuyển văn xuôi
+## 1. Chuyển văn xuôi (giữ chuẩn của Hồi I)
 
-- Bỏ nhãn CẢNH 7–12, tiêu đề cảnh, nhãn người nói, `---`, in đậm, chữ in hoa.
-- Lời thoại chuyển thành đoạn có dấu ngoặc kép và lời dẫn ngắn (nói, hỏi, đáp, hành động kèm theo), để Edge Read Aloud đọc một giọng mà người nghe vẫn biết ai đang nói.
-- Chuyển cảnh bằng câu mở nêu địa điểm và thời gian ("Gần sáng, mưa rơi trên mái ngói nhà xác Đại Lý Tự", "Trời gần sáng, họ tới La Sinh Đài", "A Yên được đưa về Đại Lý Tự…", "Trời rạng sáng, giữa sân Đại Lý Tự…").
-- Thư, chữ khắc, chữ A Yên viết, dòng chữ hiện trên da và trên tường: giữ nguyên nội dung, đổi từ chữ in hoa sang câu thường trong ngoặc kép, có lời dẫn ("Tiểu Sơn đọc", "A Yên viết").
-- Tiếng động (Keng, Cộc, Ầm) chuyển thành mô tả trong câu văn, không còn dạng SFX.
-- Tiêu đề: "Hồi hai: Cái tên của người chết". Bỏ dòng tên truyện, bỏ "HẾT HỒI II", thay bằng "Hết hồi hai."
-- Giữ nguyên nhịp và thứ tự cảnh, không cắt manh mối nào, không thêm nhân vật hay sự kiện.
+- Bỏ nhãn CẢNH, nhãn người nói, `---`, in đậm, chữ in hoa. Thoại nằm trong ngoặc kép, có lời dẫn.
+- Chuyển cảnh bằng dấu `***` và câu mở nêu thời gian, địa điểm (như Hồi I).
+- Dấu ngoặc kép thẳng, tiêu đề một câu đọc được: "Song Ảnh Kinh Thành. Hồi hai: Cái tên của người chết."
+- Thư, chữ khắc, chữ A Yên viết, chữ hiện trên da và tường: giữ nguyên nội dung, viết thành câu thường trong ngoặc kép. Tiếng động đưa vào câu tường thuật.
+- Không còn dấu vết kịch bản (nhãn, SFX, markdown). Nội dung khoảng 28.000 ký tự.
 
-## 2. Vấn đề đã xử lý (nhóm A liên quan Hồi 2)
+## 2. Đối chiếu canon đã khóa
 
-| # | Vấn đề | Cách xử lý |
+### 2.1. Vi phạm đã phát hiện và sửa
+
+| Mục | Lượt 1 làm gì | Vì sao sai | Đã sửa |
+|---|---|---|---|
+| **B-07 (a)** | Bỏ "đổi A Yên" khỏi đốt xương (thành "Mang Mẫu Kính."), chuyển lời đòi "mang Mẫu Kính" sang tường nhà xác, coi hộp là kế hoạch của Thanh La | B-07 (a) đã khóa: giữ nguyên vật chứng; kẻ giả mạo mang mặt Thanh La đặt hộp sau khi bắt A Yên; chỉ bức vẽ trong con mắt thủy tinh là của Tạ Vân Cơ | Trả lại đốt xương: "Đêm mười lăm. Tháp Quan Tinh. Mang Mẫu Kính đổi A Yên." Tường nhà xác trả lại: "Tháp Quan Tinh. Giờ Tý đêm nay." Báo cáo lượt 1 mục A1 bị hủy |
+
+### 2.2. Các điểm khớp (không cần sửa)
+
+- **B-01 (b):** Phí Kinh Hồng ở Hồi II chỉ có mặt qua chiếc gương và chỗ ngồi bỏ trống, không có hành động dẫn dắt nào mâu thuẫn. Hạ Tử Khiêm dặn không đánh động Khâm Thiên Giám, không trái canon.
+- **B-02 (a):** lọ thuốc A Yên giữ là lọ gốc có cặn thuốc thật. Đã thêm: dưới đáy còn lớp cặn mỏng, Tô Mạn kết luận Thanh Tâm Lộ.
+- **B-03 (b):** lần Vân Cơ nhỏ máu mở cửa đá cho tàn ảnh ngắn, không nêu luật mới, không nêu thời lượng dài.
+- **B-04 (a):** Hồi II không động vào khói, mắt, giọng nói. Câu hỏi "ai nói qua ống truyền âm" còn mở theo CANON_DECISIONS, nên chưa đặt dòng xác nhận ở Hồi II.
+- **B-05 (c):** không có con số 16 năm nào trong Hồi II. Mọi mốc "mười ba năm" khớp.
+- **B-06 (c):** bảy tàn ảnh giữ nguyên, kèm câu "Những hành động ấy từng xảy ra, là thật. Còn những thứ khác, chưa chắc", đúng hướng "phần lớn là kẻ giả". Người mặc đồ trắng đeo vòng Thủy Nguyệt Các, nói "xin lỗi", được tách riêng. Không nói thẳng đó là Tạ Vân Cơ vì cảnh này đứng trước đoạn lộ danh tính.
+- **TIMELINE_LOCKED:** Hồi II diễn ra trong ngày 14. "Hôm nay mới mười bốn" khớp. Đốt xương "đêm mười lăm" được thêm tín hiệu thời gian theo mục 4 của TIMELINE ("Qua giờ Tý đêm nay là sang đêm mười lăm rồi"), nên "giờ Tý đêm nay" ở tường và "đêm mười lăm" là cùng một thời điểm.
+- Tên gọi theo CANON_DECISIONS: người chết trong lồng là Tạ Vân Cơ (công chúng gọi là Lục Thanh La); nhân vật chính là "Vân Cơ" trong bản thảo. Cuộn lụa, chữ A Yên viết, câu "Lục Thanh La" / "Tạ Vân Cơ" giữ nguyên.
+
+### 2.3. Điều chỉnh theo TIMELINE_LOCKED
+
+- Trương Đồng mất tích ngày 9. Hồi I (ngày 12) nói "ba ngày trước". Ở Hồi II (ngày 14), câu gốc "mất tích ba ngày trước" sẽ thành ngày 11. Đã đổi thành "mất tích năm ngày nay". Bảng kiểm chéo trong TIMELINE_LOCKED ghi dòng này là "Khớp"; mình cho rằng chỉ khớp nếu hiểu mốc tính từ Hồi I, nên chọn cách nói tường minh. Nếu bạn muốn giữ nguyên câu gốc, đổi lại một chữ.
+
+## 3. Các việc EDIT_REPORT_H1 giao cho Hồi II
+
+| ID | Việc | Xử lý trong Hồi II |
 |---|---|---|
-| A1 | Hộp sắt trong khoang cát mặt thứ năm do Thanh La giấu từ trước buổi diễn, nhưng đoạn xương khắc "Mang Mẫu Kính đổi A Yên". A Yên chỉ bị bắt sau vụ cháy, nên lời nhắn không thể có sẵn trong hộp. | Sửa chữ khắc thành "Đêm mười lăm. Tháp Quan Tinh. Mang Mẫu Kính." (kế hoạch riêng của Thanh La). Lời đe dọa "mang Mẫu Kính" của kẻ hẹn chuyển sang dòng chữ trên tường nhà xác, khớp ep3 ("Kẻ hẹn yêu cầu nàng mang Mẫu Kính"). Việc A Yên bị nhốt và được cứu ở cảnh dưới sân khấu không đổi. |
-| A2 | Mốc thời gian lệch: xương khắc "đêm mười lăm", Tiểu Sơn nói "hôm nay mười bốn", tường lại ghi "giờ Tý đêm nay", ep3 hẹn giờ Tý cùng ngày. | Tiểu Sơn nói "Hôm nay mới mười bốn. Qua giờ Tý là sang mười lăm rồi." Đêm mười lăm và giờ Tý đêm nay là cùng một thời điểm. |
-| A3 | Vân Cơ bị khóa tay nhưng vẫn giữ nửa Mẫu Kính trong tay áo, không ai khám. | Thêm: quan sai "mới kịp thu chiếc trâm và con dao nhỏ". Đây chỉ là giảm nhẹ, chưa vá hẳn (xem mục 4). |
-| A4 | Chiếc gương đồng của Phí Kinh Hồng nằm trên ghế cao ở cuối Hồi 1, sang Hồi 2 bỗng nằm ở sân khấu. | Thêm câu: gương đã được quan sai đặt lên bàn vật chứng cạnh sân khấu. |
-| A5 | Câu "Ba tháng qua nàng dạy muội đóng giả mình?" nghe thành "đóng giả Vân Cơ". | Sửa thành "nàng dạy muội cách giả làm nàng", chỉ người chết. |
-| A6 | Vân Cơ nói đã thấy "đường vân" của ngón thứ sáu từ dấu tay máu trên tường, trong khi ep3 mới là cảnh in dấu tay lên giấy để xem đường vân. | Đổi thành "ngón thứ sáu trong dấu tay này không nối liền với lòng bàn tay" (quan sát bằng mắt). Hạ Tử Khiêm vẫn là người xác nhận bằng bản in ở ep3. |
-| A7 | "Cả hai cùng nhớ đêm Vô Tướng Ban": Hạ Tử Khiêm không có mặt đêm đó. Vân Cơ nói "lửa vừa rồi màu xanh" mà không có nguồn. | Đổi thành "cùng nghĩ tới", và Vân Cơ dẫn lời quan sai về màu lửa. |
-| A8 | Tiểu Sơn nói "mười ba tờ giấy không chữ" khi mới mở một lá. | Đổi thành "mười ba tờ giấy trắng", không nói về chữ. |
-| A9 | Cảnh A Yên khai không nêu địa điểm, nhưng cuối cảnh trống Đăng Văn nổ ở sân Đại Lý Tự và Hạ nhìn về nhà xác. | Thêm câu: A Yên được đưa về Đại Lý Tự khi trời hửng sáng. |
-| A10 | Người nghe chưa biết A Yên không nói được, trong khi cả cảnh dựa vào bảng gỗ. | Thêm một câu: "A Yên không nói được, mọi lời của nàng đều phải viết ra" (đúng handbook: A Yên câm). |
-| A11 | Trống Đăng Văn: không rõ vì sao "Cổng chưa mở" là vấn đề. | Tiểu Sơn: "Có người kêu oan?"; Hạ: "Cổng còn chưa mở." Chỉ làm rõ công dụng của trống. |
+| #12 | Ai gửi chim sẻ | Thêm một lượt hỏi–đáp trong lời khai A Yên: hộp đặt ở cửa sau, A Yên không thấy ai. **Đây là phần mình tự soạn**, vì không có nội dung đề xuất gốc của nhóm A trong repo. Không gán thủ phạm, chỉ giữ nguồn chưa rõ. Cần bạn duyệt |
+| #13 | Khóa thứ chín và chìa số chín | Khi tìm thấy chìa, Vân Cơ nhớ tới "chiếc khóa thứ chín mà Thanh La từng nhắc". Thư "chiếc khóa thứ tư ở nhà Tôn quản sự" đã có sẵn |
+| #14 | Trương Đồng chết thế nào | Tô Mạn kết luận: cát chặn kín cổ họng, chết ngạt. Chi tiết này chỉ nói điều đã thấy được (miệng nhét đầy cát), không thêm nghi vấn mới. Phần liên quan Hồi VI do tác giả quyết |
+| #15 | Sở Mậu | Gọi rõ "Quản sự La Sinh Đài Sở Mậu". Mình **suy từ ngữ cảnh** (người biết chỗ cất thuốc ở La Sinh Đài). Chưa có payoff ở các hồi sau |
+| B-06/B-07 | Bảy tàn ảnh, hộp sắt, đốt xương, mốc đêm mười lăm | Xem mục 2 |
+| B-02 | Lọ có cặn thuốc thật | Xem mục 2.2 |
+| #29 | Văn xuôi | Xem mục 1 |
+| #20 | Sẹo bán nguyệt, vết thương vai | Giữ nguyên (nhóm C) |
 
-## 3. Canon, mystery, setup và payoff
+## 4. Giữ nguyên các nội dung đã sửa ở lượt 1 (không đụng canon)
 
-Không đổi:
-- Người chết trong lồng chưa được xác định thật; Vân Cơ tự nhận "Lục Thanh La", gọi người chết là "Tạ Vân Cơ". Các dòng chữ A Yên viết và cuộn lụa trong hạt ngọc giữ nguyên từng chữ, kể cả "sư phụ" không chỉ rõ là ai và câu "Tạ Vân Cơ đã chết trong Phượng Môn".
-- Người chết được gọi là "người chết" hoặc "thi thể" trong lời kể. Chỉ Vân Cơ là "Vân Cơ", để người nghe không nhầm hai người cùng tên.
-- Quy tắc Mẫu Kính: cần máu, tàn ảnh là việc đã xảy ra, bóng không đổ bóng và ngắn hạn, người dùng mất ký ức không chọn được (Vân Cơ mất ký ức lần đầu gặp Thanh La), không hồi sinh ai.
-- Xưng hô: Hạ ta–cô, Tô Mạn ta–ngươi, Tiểu Sơn "đại nhân/thuộc hạ", Vân Cơ "muội" với A Yên.
-- Setup còn mở sang các hồi sau: ba trăm lượng nợ (payoff ở H6), ngón sáu giả (H3, H4, H6), tiếng chuông thứ tư và máng nước, bảy chân dung, bảy tàn ảnh, hạt ngọc và lụa, khuyên tai mới xỏ (Mộc Dung, H6), vết bỏng và sẹo bán nguyệt, "Hắn không già đi" và "chiếc mặt nạ đã đổi chủ", chìa số chín, Trương Đồng, Cố Bách Xảo còn sống hay không, xác biến mất bằng bàn đá xoay.
+- Quan sai "mới kịp thu chiếc trâm và con dao nhỏ" của Vân Cơ (không khám ra nửa Mẫu Kính).
+- Chiếc gương của Phí Kinh Hồng được đặt lên bàn vật chứng cạnh sân khấu.
+- "Dạy muội cách giả làm nàng" (rõ đại từ).
+- Dấu tay trên tường: "ngón thứ sáu không nối liền với lòng bàn tay" (không nói đường vân, để Hồi III in dấu).
+- "Cả hai cùng nghĩ tới đêm Vô Tướng Ban" và nguồn tin về màu lửa xanh.
+- "Mười ba tờ giấy trắng"; A Yên được đưa về Đại Lý Tự; trống Đăng Văn "có người kêu oan"; chỗ ghi A Yên không nói được (Hồi I đã ghi A Yên là cô đồ đệ không nói được, câu ở Hồi II nhắc lại ngắn để người nghe nhớ).
 
-## 4. Vấn đề chưa sửa, cần tác giả quyết
+## 5. Còn mở, cần tác giả quyết
 
-1. **Sở Mậu bị bỏ rơi.** A Yên nêu Sở Mậu là một trong ba người biết chỗ cất thuốc giải, Hạ ra lệnh truy tìm, nhưng ep3–ep6 không nhắc lại. Cần payoff hoặc loại bỏ. Mình chưa gán chức vụ nào cho Sở Mậu ngoài "quản sự".
-2. **Khám người Vân Cơ (A3).** Hạ Tử Khiêm sắc sảo mà không khám ra nửa gương, rồi thả khóa cho Vân Cơ đi cùng. Cách vá an toàn nhất cần quyết định về nhân vật: Hạ biết mà cố ý để nàng giữ, hay giải thích khác.
-3. **Trống Đăng Văn.** Cách đưa người chết giấu trong trống vào giữa sân Đại Lý Tự và cách trống tự nổ chưa được giải thích về sau. Hiện chỉ là một phần của chuỗi xác biến mất (đã được ep3 giải thích phần nhà xác, nhưng không nhắc phần trống).
+1. Khám người Vân Cơ: Hạ Tử Khiêm không khám ra nửa gương và để nàng đi cùng. Chưa có cách vá an toàn không đụng nhân vật.
+2. Sở Mậu: chưa có payoff ở Hồi III–VI.
+3. Trống Đăng Văn tự nổ: Hồi III chỉ giải thích phần xác biến mất trong nhà xác.
+4. B-04: ai nói qua ống truyền âm (Hồi I), cần chốt trước khi đặt dòng xác nhận.
+5. Lặp với Hồi III: Cảnh 15 mở đầu xác nhận lại "Lục Thanh La / Tạ Vân Cơ" đã nói cuối Hồi II. Nên rút gọn khi biên tập Hồi III.
 
-## 5. Trùng lặp với Hồi 3 (đề xuất cho khi biên tập H3)
+## 6. Đề xuất cập nhật handbook (chưa áp dụng)
 
-- Ep3 Cảnh 15 mở đầu bằng "Ta nên gọi cô là gì? Tên thật. Lục Thanh La. Vậy người chết là Tạ Vân Cơ. Phải." Đây là cảnh xác nhận lại đúng điều Vân Cơ đã nói ở cuối Hồi 2. Đề xuất rút gọn hoặc bắt đầu từ "Bắt đầu từ đâu?".
-- Ep3 Cảnh 13 giải thích dấu tay sáu ngón bằng bản in và nói lại "ta cũng chém rơi một vật như thế". Sau khi sửa A6, đoạn này chỉ còn là xác nhận chứ không lặp suy luận.
+- Chi tiết xác nhận: hộp sắt do kẻ giả mạo mặt Thanh La đặt sau khi bắt A Yên; đốt xương đúng nguyên văn "đổi A Yên"; "đêm mười lăm" là giờ Tý rạng ngày 15; Trương Đồng mất tích ngày 9, chết ngạt vì cát; chim sẻ đặt ở cửa sau, người gửi chưa rõ.
+- Nợ cảm xúc gieo thêm: "Xin lỗi" của người mặc áo Vân La (tàn ảnh); "Hắn không già đi".
+- Setup treo: Sở Mậu.
 
-## 6. Đề xuất cập nhật `story handbook.md` (chưa sửa file, chờ bạn duyệt)
+## 7. Kết luận kiểm tra
 
-- Quy ước mới: trong lời kể, người chết trong lồng là "người chết/thi thể"; "Vân Cơ" chỉ người còn sống cho tới khi đổi tên thành Vân La ở H6.
-- Chi tiết xác nhận: thư và chữ khắc là kế hoạch riêng của Thanh La (không liên quan việc bắt A Yên); lời đe dọa "mang Mẫu Kính" đến từ kẻ hẹn qua chữ trên tường nhà xác; đêm mười lăm bắt đầu từ giờ Tý ngay sau ngày mười bốn.
-- Lỗ hổng đã vá: A1, A2, A4–A11.
-- Nợ cảm xúc: gieo thêm "Xin lỗi" (tàn ảnh) và dòng chữ "Hắn không già đi"; "Hạ Tử Khiêm ↔ Vân Cơ" vẫn mở.
-- Setup treo: Sở Mậu (mục 4).
-
-## 7. Độ dài
-
-Nội dung thực tế (không tính tiêu đề, dòng kết, ngắt dòng): khoảng 28.300 ký tự. Bản gốc ở cùng cách đo, đã bỏ nhãn cảnh và dấu gạch: khoảng 28.100 ký tự, nhưng gồm cả nhãn người nói; phần thoại thực chất của bản gốc ngắn hơn. Không cắt hoặc thêm để đạt độ dài. Tăng nhẹ là do lời dẫn và các câu làm rõ ở mục 2.
+Sau khi sửa lượt 2, `ep2.md` không còn điểm nào trái CANON_DECISIONS (B-01 → B-10) hoặc TIMELINE_LOCKED mà mình phát hiện được. Các mục ở mục 5 là điểm chưa có quyết định, không phải vi phạm.
