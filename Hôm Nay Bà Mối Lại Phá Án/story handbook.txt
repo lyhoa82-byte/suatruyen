@@ -1,0 +1,270 @@
+AI EDITOR STORY BIBLE
+NHƯ Ý MÔI QUÁN
+Dùng cho
+
+GPT → viết chương mới
+
+Claude → biên tập, sửa, nâng chất lượng
+
+TÔN CHỈ CAO NHẤT
+
+Đây KHÔNG phải truyện phá án.
+
+Đây KHÔNG phải truyện ngược luyến.
+
+Đây KHÔNG phải truyện cung đấu.
+
+Đây là truyện về:
+
+Những người không nói được điều mình thật sự muốn nói.
+
+Như Ý chỉ giúp họ nói ra.
+
+CẢM GIÁC TỔNG THỂ
+
+Mood:
+
+ấm
+nhẹ
+hài tinh tế
+nhân văn
+chữa lành
+
+Không khí giống:
+
+TVB đời cũ
+Tiệm Tạp Hóa Giải Ưu
+Midnight Diner
+Sam Sam Đến Đây Ăn Nào (bản chậm)
+
+Không giống:
+
+Cung đấu
+Drama máu chó
+Tổng tài cưỡng ép
+QUY TẮC VIẾT
+Quy tắc số 1
+
+Không có phản diện thật sự.
+
+Có người sai.
+
+Có người ích kỷ.
+
+Có người hèn.
+
+Có người sợ.
+
+Nhưng rất ít người ác.
+
+Quy tắc số 2
+
+Mọi xung đột đều bắt nguồn từ:
+
+Sợ.
+
+Ví dụ:
+
+sợ mất con
+sợ bị bỏ
+sợ bị cười
+sợ già cô đơn
+sợ không ai cần mình
+Quy tắc số 3
+
+Không dùng hiểu lầm kéo dài.
+
+Nhân vật phải đối thoại.
+
+Nếu có hiểu lầm:
+
+tối đa 1 chương
+luôn được giải quyết bằng nói chuyện
+QUY TẮC NHƯ Ý
+Cấm
+
+Như Ý KHÔNG BAO GIỜ:
+
+cầu xin ai
+ghen lộ liễu
+khóc vì tình
+yếu đuối vô cớ
+Luôn luôn
+
+Như Ý luôn:
+
+hỏi đúng trọng tâm
+nhìn động cơ thật
+không đứng về phe nào
+
+Câu hỏi đặc trưng:
+
+Người muốn cưới là ai?
+
+QUY TẮC TẠ ĐÌNH CHU
+Cấm
+
+Không được viết:
+
+nói nhiều
+tán tỉnh chuyên nghiệp
+nói lời hoa mỹ
+Bắt buộc
+
+Tình cảm của hắn phải thể hiện bằng:
+
+xuất hiện
+nhớ
+làm
+chờ
+
+Không phải bằng lời.
+
+Ví dụ đúng:
+
+Ta tới tìm cô.
+
+Ví dụ sai:
+
+Ta yêu cô từ cái nhìn đầu tiên.
+
+QUY TẮC TIỂU ĐÀO
+
+Vai trò:
+
+Comic relief.
+
+Luôn:
+
+nhiều chuyện
+nghe lén thất bại
+bị bắt quả tang
+
+Không bao giờ:
+
+giải quyết vụ án
+đoán đúng toàn bộ
+QUY TẮC ĐẠI HỶ
+
+Đại Hỷ tồn tại để:
+
+ăn đồ
+phá đồ
+chen ngang cảm xúc
+
+Không được nhân cách hóa quá mức.
+
+QUY TẮC TÌNH CẢM
+
+Như Ý × Tạ Đình Chu
+
+Là:
+
+Slow Burn
+
+Không được:
+
+hôn đột ngột
+ôm đột ngột
+tỏ tình liên tục
+
+Được:
+
+trà
+bánh
+đi ngang
+ô
+nhắc ăn cơm
+nhớ thói quen
+CALLBACK BẮT BUỘC
+
+Các motif phải thỉnh thoảng xuất hiện:
+
+Đi ngang
+
+Running joke lớn nhất.
+
+Có thể
+
+Từ cửa miệng Tạ Đình Chu.
+
+Không biết
+
+Câu trả lời trung thực nhất truyện.
+
+Người nhà quán
+
+Mốc quan hệ cuối.
+
+Cất con dấu
+
+Biểu tượng chăm sóc.
+
+Lê hấp quế
+
+Đồ ăn biểu tượng.
+
+Đại Hỷ ăn nhầm thứ không được ăn
+
+Running gag.
+
+CẤU TRÚC MỖI VỤ VIỆC
+
+Bước 1
+
+Xuất hiện vấn đề.
+
+Bước 2
+
+Ai đó đang giấu điều gì.
+
+Bước 3
+
+Như Ý hỏi.
+
+Bước 4
+
+Sự thật lộ ra.
+
+Bước 5
+
+Không ai hoàn toàn đúng.
+
+Bước 6
+
+Người liên quan tự lựa chọn.
+
+Bước 7
+
+Như Ý không chọn thay.
+
+ENDING RULE
+
+Kết mỗi vụ phải tạo cảm giác:
+
+Không hoàn hảo.
+
+Nhưng tốt hơn trước.
+
+Không dùng:
+
+hạnh phúc tuyệt đối
+tha thứ ngay lập tức
+đổi đời ngay
+ĐIỀU CLAUDE PHẢI LÀM KHI REVIEW
+Kiểm tra nhân vật có bị OOC không.
+Kiểm tra thoại có đúng giọng nhân vật không.
+Xóa drama thừa.
+Tăng đối thoại đời thường.
+Giữ nhịp TVB.
+Giữ hài nhẹ từ Tiểu Đào và Đại Hỷ.
+Giữ nguyên triết lý "để người trong cuộc tự chọn".
+MỤC TIÊU CUỐI CÙNG
+
+Người đọc khi hết truyện phải cảm thấy:
+
+Mình vừa ngồi trong Như Ý Môi Quán một thời gian rất dài.
+
+chứ không phải:
+
+Mình vừa xem một bộ ngôn tình.
