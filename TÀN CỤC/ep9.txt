@@ -3,7 +3,7 @@
 ## TẬP 9 — NGÀY KHÔNG CÓ AI TỚI BẮT
 
 **Thể loại:** Cổ trang · trọng sinh · quyền mưu · bí án · báo thù chiến lược
-**Tông:** Hậu quả, tái thẩm và tháo nút cuối. Không đại thắng ồn ào; trọng tâm là sống qua đúng ngày từng hủy cả gia đình. Slow-burn khép nhẹ, không ép thành viên mãn ngôn tình.
+**Tông:** Hậu quả, chặn hồ sơ giả và tháo nút cuối. Không đại thắng ồn ào; trọng tâm là sống qua đúng ngày từng hủy cả gia đình. Slow-burn khép nhẹ, không ép thành viên mãn ngôn tình.
 **Mốc thời gian:** Giữa tháng Tám đến đầu đông, Long Khánh hai mươi ba.
 
 ---
@@ -90,11 +90,15 @@ Cuốn sổ cũ mở.
 
 Nàng đọc.
 
-**Mười sáu tháng Tám — Lão Trương bị gọi hỏi.**
+**Mười sáu tháng Tám — Đại Lý Tự tới hỏi về người cha từng cử đi kho Bắc lộ.**
 
-Lão Trương ở kiếp này đã mất từ hai năm trước.
+Người đó là lão Trương.
 
-Sự kiện đó không thể lặp.
+Lão đã mất từ hai năm trước.
+
+Kiếp trước, người ta chỉ cần cái tên của lão.
+
+Hôm nay không ai tới hỏi.
 
 Dòng tiếp:
 
@@ -144,7 +148,7 @@ Chiêu Ninh đóng hẳn ngăn kéo.
 
 ## CẢNH 3 — NỘI. ĐẠI LÝ TỰ — SÁNG
 
-Tái thẩm bắt đầu.
+Cuộc tra hồ sơ Hạng bốn bắt đầu.
 
 Không có trống.
 
@@ -156,7 +160,7 @@ Rất nhiều hồ sơ.
 
 Tạ Hoài Xuyên đứng trước ba bàn lớn.
 
-Một bên là án cũ.
+Một bên là hồ sơ Hạng bốn.
 
 Một bên là chứng cứ mới.
 
@@ -202,7 +206,7 @@ Lục Trầm quay sang.
 
 ## CẢNH 4 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-Tạ Hoài Xuyên chia vụ án làm ba tầng.
+Tạ Hoài Xuyên chia hồ sơ làm ba tầng.
 
 “Thứ nhất.”
 
@@ -246,9 +250,9 @@ Rồi tiếp:
 
 Chiêu Ninh nhìn hắn.
 
-“Đủ để lật?”
+“Đủ để hủy hồ sơ?”
 
-“Đủ để lật phần phản quốc.”
+“Đủ để hủy phần phản quốc.”
 
 “Còn sai phạm?”
 
@@ -308,7 +312,7 @@ Tử Khiêm nhìn nàng.
 
 ## CẢNH 6 — NỘI. HÌNH BỘ — TRƯA
 
-Cố Văn Lâm ngồi trước hồ sơ tái thẩm.
+Cố Văn Lâm ngồi trước quan chủ tra.
 
 Không còn là người quyết định.
 
@@ -316,11 +320,11 @@ Chỉ là người bị hỏi.
 
 Một quan chủ thẩm hỏi:
 
-“Ba năm trước ngươi biết trang hồ sơ bị thay?”
+“Ngươi biết trang hồ sơ bị thay?”
 
 “Biết giấy khác.”
 
-“Vì sao vẫn cho sao?”
+“Vì sao vẫn cho sao và giữ để trình?”
 
 “Ta tin nội dung mới đúng.”
 
@@ -488,7 +492,7 @@ nàng chỉ hỏi:
 
 “Có.”
 
-“Nhưng không gắn vào án Thẩm gia nếu chưa có.”
+“Nhưng không gắn vào vụ hồ sơ Thẩm gia nếu chưa có.”
 
 “Đúng.”
 
@@ -740,7 +744,7 @@ Chiêu Ninh tới.
 
 “Cha ta?”
 
-“Miễn tội phản quốc.”
+“Hồ sơ phản quốc bị hủy. Ghi rõ là chứng cứ giả.”
 
 Nàng đứng yên.
 
@@ -790,7 +794,7 @@ Một lúc sau nàng mới hỏi:
 
 “Thẩm phủ?”
 
-“Không niêm phong.”
+“Không có lệnh nào.”
 
 Lúc này mắt nàng đỏ lên.
 
@@ -996,9 +1000,9 @@ Tôn Tứ vì bắt giữ người, cưỡng ép, vận chuyển bất hợp ph�
 
 Mạnh Thành vì chuyển tin và che giấu.
 
-Bùi Tấn vì dựng chứng cứ, cưỡng ép nhân chứng, vu cáo.
+Bùi Tấn vì làm giả chứng cứ, cưỡng ép nhân chứng, mưu vu cáo.
 
-Cố Văn Lâm bị đình chức chờ xét trách nhiệm trong việc bỏ qua bất thường hồ sơ.
+Cố Văn Lâm bị đình chức chờ xét trách nhiệm trong việc giữ hồ sơ có dấu hiệu làm giả mà không báo.
 
 Một số người của Tấn Ký bị gọi.
 
@@ -1118,7 +1122,7 @@ Hàn Dực đứng trước Tam hoàng tử.
 
 “Dạ.”
 
-“Vì chuyện ba năm trước?”
+“Vì bản khai?”
 
 “Dạ.”
 
@@ -1142,7 +1146,7 @@ Hàn Dực cười nhẹ.
 
 “Có.”
 
-“Nhưng thần muốn bắt đầu ở chỗ không ai biết lời khai của thần.”
+“Nhưng thần muốn bắt đầu ở chỗ không ai biết thần từng học một bản khai.”
 
 Tam hoàng tử im.
 
@@ -1188,7 +1192,7 @@ Nàng nói tiếp:
 
 Hàn Dực im.
 
-“Ngươi khai lại.”
+“Ngươi đã nói ra trước khi ký.”
 
 “Ừ.”
 
@@ -1200,7 +1204,7 @@ Hắn cười rất nhạt.
 
 Chiêu Ninh gật.
 
-Không tha thứ thay cho người đã chết.
+Không tha thứ thay cho những người kiếp trước đã chết.
 
 Cũng không buộc hắn sống mãi trong tội lỗi.
 
@@ -1358,7 +1362,7 @@ Tạ Hoài Xuyên:
 
 ## CẢNH 27 — NỘI. ĐẠI LÝ TỰ — TIẾP
 
-Lục Trầm được mời làm thư lại tạm thời cho nhóm kiểm sổ tái thẩm.
+Lục Trầm được mời làm thư lại tạm thời cho nhóm kiểm sổ của cuộc tra.
 
 Hắn hỏi:
 
@@ -1395,6 +1399,48 @@ Trần Quảng đi ngang.
 Lục Trầm nhìn.
 
 “Cuối cùng chúng ta thống nhất.”
+
+Trần Quảng đặt lên bàn một tờ công văn.
+
+“Của ngươi.”
+
+Lục Trầm đọc.
+
+Công bộ báo về:
+
+**Lạc Thủy qua mùa nước tháng Tám. Đê không vỡ.**
+
+Phía dưới một dòng nhỏ:
+
+**Hai đoạn cọc dùng gỗ chuyến mười bảy đã được thay từ giữa tháng Bảy, theo số đối chiếu Hộ bộ nhận được.**
+
+Chiêu Ninh nhìn dòng đó.
+
+“Số đối chiếu ấy từ đâu ra?”
+
+Trần Quảng:
+
+“Sau vụ kho Tấn Ký, Đại Lý Tự chuyển ba con số sang Hộ bộ.”
+
+Lục Trầm:
+
+“Ba con số trong lá thư ở quán mì.”
+
+Chiêu Ninh không nói.
+
+Kiếp trước, cuốn sổ của hắn được tìm thấy trong hành lý một người chết—sau khi đê vỡ.
+
+Kiếp này, hắn sống.
+
+Và con số tới trước mùa nước.
+
+Lục Trầm gấp công văn lại.
+
+“Không ai nhắc đâu.”
+
+“Nhắc gì?”
+
+“Đê không vỡ thì không ai nhắc.”
 
 ---
 
@@ -1488,7 +1534,7 @@ Tạ Hoài Xuyên nói với Chiêu Ninh:
 
 “Ý ngài?”
 
-“Không gắn vào án nhà cô.”
+“Không gắn vào vụ hồ sơ nhà cô.”
 
 “Ừ.”
 
@@ -1650,7 +1696,7 @@ Tạ Hoài Xuyên đưa nàng một tập giấy.
 
 “Gì?”
 
-“Lịch tái thẩm.”
+“Lịch tra hồ sơ.”
 
 “Đã xong phần chính.”
 
@@ -2116,11 +2162,11 @@ Lần này không nhăn.
 
 ## CẢNH 45 — NỘI. HÌNH BỘ — CUỐI THÁNG MƯỜI
 
-Tái thẩm có kết luận sơ bộ.
+Cuộc tra có kết luận sơ bộ.
 
 **Thẩm Tĩnh An không có hành vi thông đồng địch.**
 
-**Các chứng cứ liên quan cáo buộc phản quốc có phần bị làm giả và phần bị suy diễn sai.**
+**Hồ sơ Hạng bốn: phần cáo buộc thông đồng địch được dựng từ chứng cứ làm giả và suy diễn sai. Hủy.**
 
 **Sai phạm hành chính và việc phê chuẩn bù khoản tách thành vụ riêng.**
 

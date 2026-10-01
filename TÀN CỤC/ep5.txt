@@ -1370,6 +1370,16 @@ Cửa khóa.
 
 Ổ khóa mới.
 
+“Mở.”
+
+Sai dịch phá khóa.
+
+Bên trong trống.
+
+Chỉ có mùi gỗ ẩm và mấy tấm ván kê.
+
+Tạ Hoài Xuyên quay ra.
+
 Hắn cúi xuống.
 
 Dưới đất—
@@ -2084,7 +2094,15 @@ Tay bị trói phía trước.
 
 Túi vải xám không còn.
 
-Trước mặt hắn là một người đàn ông không thấy rõ mặt.
+Ngoài cửa có tiếng một người hỏi nhỏ:
+
+“Đưa vào đây có ổn không?”
+
+Người đứng trong kho đáp:
+
+“Chỗ quan vừa khám xong, quan không khám lại.”
+
+Trước mặt Lục Trầm là một người đàn ông không thấy rõ mặt.
 
 “Ngươi đã gửi gì về kinh?”
 
@@ -2447,6 +2465,8 @@ Lục Trầm nói:
 “Bây giờ biết rồi.”
 
 Người kia đứng lên.
+
+“Nếu không ở chỗ lão Trịnh, thì ở chỗ người năm đó dám ký tên phản đối tuyến bộ.”
 
 “Ở Thẩm gia.”
 
