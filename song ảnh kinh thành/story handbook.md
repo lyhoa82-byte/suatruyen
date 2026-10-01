@@ -1,11 +1,3 @@
-Cái Claude cần nhất không phải là tóm tắt nội dung, mà là:
-
-Canon + Theme + Character Voice + Continuity Rules
-
-để nó không làm hỏng truyện khi rewrite.
-
-Mình sẽ làm theo hướng Story Handbook cho Editor AI, dưới 9000 ký tự và đủ để dùng chung với Master Story Bible.
-
 STORY HANDBOOK — SONG ẢNH KINH THÀNH
 1. BỐI CẢNH & TIMELINE
 Bối cảnh
