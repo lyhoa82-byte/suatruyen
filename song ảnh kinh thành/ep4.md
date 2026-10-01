@@ -1,20 +1,12 @@
-\# SONG ẢNH KINH THÀNH
+SONG ẢNH KINH THÀNH
 
 
 
-\## HỒI IV — NGƯỜI SỐNG KHÔNG CÓ MẶT
+HỒI IV — NGƯỜI SỐNG KHÔNG CÓ MẶT
 
 
 
-\### Bản humanized
-
-
-
-\---
-
-
-
-\## CẢNH 19 — TẦNG CHÍN THÁP QUAN TINH — TIẾP NỐI
+CẢNH 19 — TẦNG CHÍN THÁP QUAN TINH — TIẾP NỐI
 
 
 
