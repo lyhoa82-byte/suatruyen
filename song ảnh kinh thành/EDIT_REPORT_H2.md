@@ -3,7 +3,14 @@
 Căn cứ: MASTER_STORY_BIBLE.md, EDITING_PROTOCOL.md, story handbook.md, CANON_DECISIONS.md (B-01 → B-10 đều LOCKED), TIMELINE_LOCKED.md, EDIT_REPORT_H1.md (mục 4: việc để lại cho Hồi II).
 Phạm vi: chỉ `song ảnh kinh thành/ep2.md`. Không sửa Hồi I, III–VI, handbook, CANON_DECISIONS, TIMELINE_LOCKED.
 
-**Trạng thái: CHỜ TÁC GIẢ DUYỆT.**
+**Trạng thái: ĐÃ DUYỆT (bản cuối). Hồi II đóng, không sửa thêm.**
+
+Tác giả đã duyệt và giữ nguyên ba điểm editor tự soạn hoặc chọn:
+- câu trả lời của A Yên về hộp chim sẻ ("Hộp đặt ở cửa sau. Ta không thấy ai.");
+- cách gọi "quản sự La Sinh Đài" đối với Sở Mậu;
+- mốc "năm ngày" của Trương Đồng (mất tích ngày 9, nói ở ngày 14).
+
+**Setup còn mở: Sở Mậu.** Xuất hiện ở lời khai A Yên (một trong ba người biết chỗ cất thuốc giải), Hạ Tử Khiêm ra lệnh truy tìm, chưa có payoff ở Hồi III–VI. Phải được payoff, đảo ngược hoặc vô hiệu hóa có lý do trước khi kết truyện (Bible §12).
 
 ## 0. Lịch sử
 
@@ -39,16 +46,16 @@ Phạm vi: chỉ `song ảnh kinh thành/ep2.md`. Không sửa Hồi I, III–VI
 
 ### 2.3. Điều chỉnh theo TIMELINE_LOCKED
 
-- Trương Đồng mất tích ngày 9. Hồi I (ngày 12) nói "ba ngày trước". Ở Hồi II (ngày 14), câu gốc "mất tích ba ngày trước" sẽ thành ngày 11. Đã đổi thành "mất tích năm ngày nay". Bảng kiểm chéo trong TIMELINE_LOCKED ghi dòng này là "Khớp"; mình cho rằng chỉ khớp nếu hiểu mốc tính từ Hồi I, nên chọn cách nói tường minh. Nếu bạn muốn giữ nguyên câu gốc, đổi lại một chữ.
+- Trương Đồng mất tích ngày 9. Hồi I (ngày 12) nói "ba ngày trước". Ở Hồi II (ngày 14), câu gốc "mất tích ba ngày trước" sẽ thành ngày 11. Đã đổi thành "mất tích năm ngày nay". Bảng kiểm chéo trong TIMELINE_LOCKED ghi dòng này là "Khớp"; mình cho rằng chỉ khớp nếu hiểu mốc tính từ Hồi I, nên chọn cách nói tường minh. **Tác giả đã duyệt mốc "năm ngày".**
 
 ## 3. Các việc EDIT_REPORT_H1 giao cho Hồi II
 
 | ID | Việc | Xử lý trong Hồi II |
 |---|---|---|
-| #12 | Ai gửi chim sẻ | Thêm một lượt hỏi–đáp trong lời khai A Yên: hộp đặt ở cửa sau, A Yên không thấy ai. **Đây là phần mình tự soạn**, vì không có nội dung đề xuất gốc của nhóm A trong repo. Không gán thủ phạm, chỉ giữ nguồn chưa rõ. Cần bạn duyệt |
+| #12 | Ai gửi chim sẻ | Thêm một lượt hỏi–đáp trong lời khai A Yên: hộp đặt ở cửa sau, A Yên không thấy ai. Không gán thủ phạm, nguồn chưa rõ. **Tác giả đã duyệt, giữ nguyên** |
 | #13 | Khóa thứ chín và chìa số chín | Khi tìm thấy chìa, Vân Cơ nhớ tới "chiếc khóa thứ chín mà Thanh La từng nhắc". Thư "chiếc khóa thứ tư ở nhà Tôn quản sự" đã có sẵn |
 | #14 | Trương Đồng chết thế nào | Tô Mạn kết luận: cát chặn kín cổ họng, chết ngạt. Chi tiết này chỉ nói điều đã thấy được (miệng nhét đầy cát), không thêm nghi vấn mới. Phần liên quan Hồi VI do tác giả quyết |
-| #15 | Sở Mậu | Gọi rõ "Quản sự La Sinh Đài Sở Mậu". Mình **suy từ ngữ cảnh** (người biết chỗ cất thuốc ở La Sinh Đài). Chưa có payoff ở các hồi sau |
+| #15 | Sở Mậu | Gọi rõ "Quản sự La Sinh Đài Sở Mậu". Mình **suy từ ngữ cảnh** (người biết chỗ cất thuốc ở La Sinh Đài). Chưa có payoff ở các hồi sau. **Tác giả đã duyệt cách gọi; Sở Mậu là setup còn mở** |
 | B-06/B-07 | Bảy tàn ảnh, hộp sắt, đốt xương, mốc đêm mười lăm | Xem mục 2 |
 | B-02 | Lọ có cặn thuốc thật | Xem mục 2.2 |
 | #29 | Văn xuôi | Xem mục 1 |
@@ -66,7 +73,7 @@ Phạm vi: chỉ `song ảnh kinh thành/ep2.md`. Không sửa Hồi I, III–VI
 ## 5. Còn mở, cần tác giả quyết
 
 1. Khám người Vân Cơ: Hạ Tử Khiêm không khám ra nửa gương và để nàng đi cùng. Chưa có cách vá an toàn không đụng nhân vật.
-2. Sở Mậu: chưa có payoff ở Hồi III–VI.
+2. **Sở Mậu: SETUP CÒN MỞ (đã đánh dấu).** Chưa có payoff ở Hồi III–VI.
 3. Trống Đăng Văn tự nổ: Hồi III chỉ giải thích phần xác biến mất trong nhà xác.
 4. B-04: ai nói qua ống truyền âm (Hồi I), cần chốt trước khi đặt dòng xác nhận.
 5. Lặp với Hồi III: Cảnh 15 mở đầu xác nhận lại "Lục Thanh La / Tạ Vân Cơ" đã nói cuối Hồi II. Nên rút gọn khi biên tập Hồi III.
@@ -78,5 +85,7 @@ Phạm vi: chỉ `song ảnh kinh thành/ep2.md`. Không sửa Hồi I, III–VI
 - Setup treo: Sở Mậu.
 
 ## 7. Kết luận kiểm tra
+
+Tác giả duyệt Hồi II. Báo cáo này là bản cuối, nằm trong `song ảnh kinh thành/` cùng EDIT_REPORT_H1.
 
 Sau khi sửa lượt 2, `ep2.md` không còn điểm nào trái CANON_DECISIONS (B-01 → B-10) hoặc TIMELINE_LOCKED mà mình phát hiện được. Các mục ở mục 5 là điểm chưa có quyết định, không phải vi phạm.
