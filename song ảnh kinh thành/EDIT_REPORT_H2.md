@@ -23,7 +23,7 @@ Tác giả đã duyệt và giữ nguyên ba điểm editor tự soạn hoặc c
 - Chuyển cảnh bằng dấu `***` và câu mở nêu thời gian, địa điểm (như Hồi I).
 - Dấu ngoặc kép thẳng, tiêu đề một câu đọc được: "Song Ảnh Kinh Thành. Hồi hai: Cái tên của người chết."
 - Thư, chữ khắc, chữ A Yên viết, chữ hiện trên da và tường: giữ nguyên nội dung, viết thành câu thường trong ngoặc kép. Tiếng động đưa vào câu tường thuật.
-- Không còn dấu vết kịch bản (nhãn, SFX, markdown). Nội dung khoảng 28.000 ký tự.
+- Không còn dấu vết kịch bản (nhãn, SFX, markdown). Nội dung khoảng 21.200 ký tự (bản gốc đã bỏ nhãn: khoảng 18.400). Số "28.000" ghi ở lượt trước là số byte, không phải ký tự, đã đính chính.
 
 ## 2. Đối chiếu canon đã khóa
 
