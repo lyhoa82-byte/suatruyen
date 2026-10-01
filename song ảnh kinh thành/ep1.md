@@ -1,10 +1,10 @@
-# SONG ẢNH KINH THÀNH
+SONG ẢNH KINH THÀNH
 
-## HỒI I — NGƯỜI CHẾT TRONG LỒNG VÔ TƯỚNG
+HỒI I — NGƯỜI CHẾT TRONG LỒNG VÔ TƯỚNG
 
 ---
 
-## CẢNH 1 — HẬU ĐÀI VÔ TƯỚNG BAN — MƯỜI BA NĂM TRƯỚC
+CẢNH 1 — HẬU ĐÀI VÔ TƯỚNG BAN — MƯỜI BA NĂM TRƯỚC
 
 Tiếng trống bên ngoài dồn từng hồi. Khán giả đã ngồi kín rạp.
 
