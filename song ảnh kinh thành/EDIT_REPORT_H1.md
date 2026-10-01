@@ -8,17 +8,45 @@ Phạm vi: chỉ `ep1.md`. Không chạm Hồi II–VI, không sửa handbook, k
 
 ---
 
+## 0. Lượt 2 — Chuyển hoàn toàn screenplay → văn xuôi tự sự (Edge Read Aloud)
+
+Lượt 1 (commit b784e3b) đã bỏ nhãn, nhưng vẫn để 230 lượt thoại đứng riêng một dòng, không có người nói, theo kiểu đối thoại kịch bản. Lượt 2 viết lại toàn bộ Hồi I thành văn xuôi liên tục:
+
+- Mỗi lượt thoại nằm trong một câu có chủ ngữ hoặc câu dẫn ("Hạ Tử Khiêm hỏi", "nàng đáp", "áo đỏ hét"…). Không câu thoại nào đứng trơ một mình.
+- Dòng tiếng động (Keng / Cộc / Cốc / Cạch) đưa vào câu tường thuật ("Tiếng chuông thứ nhất vang lên", "ba tiếng trống, cốc, cốc, cốc", "Ổ khóa thứ nhất kêu cạch một tiếng").
+- Cụm cụt kiểu chỉ dẫn sân khấu ("Đèn tắt.", "Lục Thanh La.", "Nữ nhân áo đen. Mặt nạ đỏ.", "Là máu.", "Nước lên tới mắt cá chân. Đầu gối. Thắt lưng.") viết thành câu đầy đủ.
+- Chuyển cảnh: dấu `***` (5 lần) và câu mở định vị thời gian/không gian.
+- Tiêu đề viết thành một câu đọc được: "Song Ảnh Kinh Thành. Hồi một: Người chết trong lồng Vô Tướng."
+- Giữ nguyên plot, mystery, canon, thứ tự sự kiện. Không tóm tắt, không cắt, không thêm cảnh. Kiểm tra: bản gốc có 230 nhãn người nói; bản mới có 239 lời thoại trong ngoặc kép (230 lượt thoại + 9 tiếng hô của đám đông/người trong hậu đài, câu "Ta là…", lời khẩu hình "Đừng gọi tên ta", giọng nói trong bóng tối) — không mất câu thoại nào.
+
+**Nhãn và dấu vết screenplay đã loại bỏ (so với bản gốc):**
+
+| Loại | Bản gốc | Lượt 1 | Lượt 2 (hiện tại) |
+|---|---|---|---|
+| Nhãn cảnh (CẢNH / INT / EXT) | 6 | 0 | **0** |
+| Nhãn người nói đứng riêng dòng | 230 (+ 8 dòng tiêu đề/nhãn viết hoa khác) | 1 | **0** |
+| Markdown / ngăn cách kịch bản (`---`, `##`, `**`, HẾT HỒI) | 18 | 0 | **0** |
+| Thoại đứng riêng, không có người nói | 9 | 230 | **0** |
+| Dòng chỉ có tiếng động | 16 | 3 | **0** |
+| Cụm cụt kiểu chỉ dẫn sân khấu (≤ 3 từ) | (gộp trong nhãn) | 10 | **0** |
+| **Tổng dấu vết còn sót** | — | 244 | **0** |
+
+Cách đếm: script quét từng đoạn của `ep1.md` (các nhóm ở bảng trên); dấu `***` được phép theo yêu cầu nên không tính.
+
+---
+
 ## 1. Độ dài
 
-Đo nội dung thực tế, không tính tiêu đề, nhãn cảnh, nhãn người nói, markdown.
+Đo nội dung thực tế, không tính tiêu đề, nhãn cảnh, nhãn người nói, markdown, dấu `***`.
 
 | | Ký tự nội dung |
 |---|---|
-| Bản trước biên tập | ~21.900 |
-| Bản sau biên tập | ~22.900 |
+| Bản gốc (screenplay) | ~21.900 |
+| Lượt 1 | ~22.900 |
+| Lượt 2 (hiện tại) | ~25.700 |
 
-Tăng khoảng 1.000 ký tự, chủ yếu do thêm câu dẫn thoại ("Áo đỏ hỏi:", "Hạ Tử Khiêm hỏi") và câu chuyển cảnh thay cho nhãn cảnh. Không thêm cảnh, không thêm tình tiết.
-Độ dài câu trung bình ~50 ký tự (tham chiếu Protocol §4: 50–60).
+Tăng khoảng 3.800 ký tự so với bản gốc, gần như toàn bộ do câu dẫn thoại thay cho nhãn người nói (bắt buộc để người nghe biết ai đang nói). Không thêm cảnh, không thêm tình tiết.
+Độ dài câu trung bình ~53 ký tự (tham chiếu Protocol §4: 50–60).
 
 ---
 
@@ -29,11 +57,11 @@ Tăng khoảng 1.000 ký tự, chủ yếu do thêm câu dẫn thoại ("Áo đ�
 - Bỏ toàn bộ nhãn "CẢNH 1 → CẢNH 6", nhãn người nói (ÁO ĐỎ, VÂN CƠ, HẠ TỬ KHIÊM…), dấu `---`, `##`, `**`, dòng "HẾT HỒI I".
 - Thoại chuyển thành lời trong ngoặc kép; thêm câu dẫn ở những chỗ người nghe có thể không biết ai đang nói (đặc biệt cảnh 1 và đoạn đối thoại nhiều lượt).
 - Các dòng chữ viết (thiếp mời, chữ trên cánh hoa, mảnh giấy ở chân chim sẻ, bốn chữ trên mặt hồ) chuyển thành câu tường thuật, bỏ in đậm.
-- Giữ tiêu đề truyện và tiêu đề hồi ở đầu file.
+- Tiêu đề truyện và tiêu đề hồi gộp thành một câu đọc được ở đầu file.
 
 ### 2.2. Tín hiệu chuyển cảnh (Protocol §4)
 
-Thay mỗi nhãn cảnh bằng một câu mở định vị thời gian/không gian:
+Mỗi nhãn cảnh được thay bằng dấu `***` và một câu mở định vị thời gian/không gian:
 
 | Cảnh cũ | Câu mở mới |
 |---|---|
@@ -42,7 +70,7 @@ Thay mỗi nhãn cảnh bằng một câu mở định vị thời gian/không g
 | Cảnh 3 | "Về tới phòng thay y phục, Vân Cơ đóng cửa lại." |
 | Cảnh 4 | "Sáng hôm sau, Hạ Tử Khiêm tới La Sinh Đài." |
 | Cảnh 5 | "Chạng vạng, Vân Cơ tới La Sinh Đài trước giờ diễn." |
-| Cảnh 6 | "Giờ Tý, đêm không trăng." |
+| Cảnh 6 | "Giờ Tý đêm ấy, trời không trăng." |
 
 ### 2.3. Giảm narrator giải thích / exposition lặp (Bible §5, §6)
 
@@ -95,7 +123,7 @@ Thay mỗi nhãn cảnh bằng một câu mở định vị thời gian/không g
 | **B-06 / B-07** | Bảy tàn ảnh mang mặt Thanh La; hộp sắt "VÂN CƠ", đốt xương; mốc "đêm mười lăm" | Hồi II cảnh 9–10 theo B-06 (c), B-07 (a), TIMELINE_LOCKED |
 | **B-02** | Lọ thuốc giải A Yên giữ có mùi Thanh Tâm Lộ thật | Hồi II cảnh 11 theo B-02 (a): lọ gốc còn cặn thuốc thật |
 | **B-03** | Lần Vân Cơ dùng máu mở cửa đá (Hồi II cảnh 10): tàn ảnh ngắn, đúng luật B-03 (b) | Kiểm tra khi biên tập |
-| **#29** | Chuyển format văn xuôi | Áp dụng tương tự cho Hồi II |
+| **#29** | Chuyển format văn xuôi | Áp dụng chuẩn của Lượt 2 (mục 0) cho Hồi II ngay từ đầu, kiểm bằng cùng script đếm dấu vết |
 | **#20** | Sẹo bán nguyệt ở cổ tay, vết thương vai (nhóm C) | Giữ nguyên trừ khi tác giả yêu cầu |
 
 **Lưu ý cho Hồi II:** câu "Không cửa ngầm. Không vách kép." mà Đường Tiểu Sơn đọc trước khán giả ở Hồi I được giữ nguyên vì đó là lời công bố chính thức; Hồi II phát hiện cát và hộp sắt trong mặt thứ năm — không mâu thuẫn, nhưng nên giữ nhất quán rằng khoang cát được Đại Lý Tự coi là bộ phận giữ thăng bằng, không phải vách kép.
