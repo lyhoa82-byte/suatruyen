@@ -3,7 +3,7 @@
 Căn cứ: MASTER_STORY_BIBLE.md, EDITING_PROTOCOL.md, story handbook.md, CANON_DECISIONS.md (B-01 → B-10, LOCKED), TIMELINE_LOCKED.md, EDIT_REPORT_H1.md, EDIT_REPORT_H2.md (bản cuối, đã duyệt).
 Phạm vi: chỉ `song ảnh kinh thành/ep3.md`. Không sửa Hồi I, II, IV–VI, handbook, CANON_DECISIONS, TIMELINE_LOCKED.
 
-**Trạng thái: CHỜ TÁC GIẢ DUYỆT** (Protocol §1: dừng sau mỗi tập).
+**Trạng thái: ĐÃ DUYỆT (bản cuối). Hồi III đóng, không sửa thêm.** Setup còn mở từ Hồi II: Sở Mậu.
 
 Ghi chú: repo không có danh sách đánh số nhóm A ngoài các mã nhắc trong CANON_DECISIONS và EDIT_REPORT_H1 (#3, #4, #9, #11–#15, #19, #21–#23, #26, #27, #29). Các vấn đề dưới đây do editor tự phát hiện khi soi Hồi III với canon đã khóa và Hồi II đã duyệt. Nếu danh sách nhóm A gốc có mục riêng cho Hồi III, xin gửi để đối chiếu.
 
