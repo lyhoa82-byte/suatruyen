@@ -118,10 +118,14 @@ Câu tiếp theo ("Không có quầng thâm dưới mắt. Không có vẻ mệt
 | Mục | Kết luận | Mức độ |
 |---|---|---|
 | A. EP3 "TỐI" → "Đến tối" | SUPPORTED | — |
-| B. EP4 "Quân nhu Bắc lộ" → lời Hoài Xuyên nói | **UNSUPPORTED** | THẤP |
+| B. EP4 "Quân nhu Bắc lộ" → lời Hoài Xuyên nói | **UNSUPPORTED** → **ĐÃ SỬA** (mục 5) | THẤP |
 | C. EP1 "hơn một năm" → "một năm có lẻ" | SUPPORTED | — |
 
-## N1A NEEDS REVISION
+## N1A PASS
+
+> **Cập nhật sau micro-fix:** kết luận ban đầu của lượt duyệt là N1A NEEDS REVISION, chỉ vì mục B. Lỗi chuyển đổi duy nhất này đã được sửa tại `EP4.txt:1353` (xem mục 5). Kết luận cuối: **PASS**. Phần lý do bên dưới giữ nguyên làm hồ sơ của lượt duyệt.
+
+### Kết luận ban đầu (trước micro-fix): N1A NEEDS REVISION
 
 **Lý do:** mục B là một chuyển đổi không trung thành với định dạng nguồn. Tuy ảnh hưởng thấp, N1A là lượt chuyển đổi bảo thủ, nên một chỗ chọn cách đọc thay cho nguồn vẫn phải được trả về đúng mức để ngỏ ban đầu.
 
@@ -136,3 +140,44 @@ Câu tiếp theo ("Không có quầng thâm dưới mắt. Không có vẻ mệt
 2. Chưa bắt đầu N1B.
 3. Không chỉnh audio, cấu trúc hay nén.
 4. Chỉ tạo `N1A_REVIEW_REPORT.md`.
+
+---
+
+## 5. N1A Micro-Fix — EP4:1353
+
+**Thay đổi duy nhất** (`EP4.txt`, một dòng trong bản thảo được tách thành hai dòng):
+
+| | Nội dung |
+|---|---|
+| Trước | `Tạ Hoài Xuyên nhìn nàng. “Quân nhu Bắc lộ.”` |
+| Sau | `Tạ Hoài Xuyên nhìn nàng.` / *(dòng trống)* / `Quân nhu Bắc lộ.` |
+
+- Đã bỏ ngoặc kép. Không thêm động từ nói, hành động, nội tâm hay câu giải thích.
+- Không gán người nói.
+- Câu "Tạ Hoài Xuyên nhìn nàng." được giữ nguyên chữ. Việc tách đoạn chỉ để "Quân nhu Bắc lộ." đứng riêng như dòng nguồn.
+- Kết quả trùng cấu trúc kịch bản gốc (EP4 sc.31, nguồn `ba4cc5a`): "Tạ Hoài Xuyên nhìn nàng." rồi dòng riêng `**Quân nhu Bắc lộ.**`, nay không in đậm theo quy ước bỏ markdown của N1A.
+- Mã hóa vẫn là UTF-8 + CRLF.
+
+**Kiểm tra sau sửa** (đã đọc lại đoạn EP4 xung quanh trên tệp thực tế):
+
+1. Dòng "Quân nhu Bắc lộ." không còn người nói được gán. Cách trình bày lại để ngỏ như nguồn: có thể là chữ trên hồ sơ, có thể là lời Hoài Xuyên.
+2. Thông tin trước dòng này ("Tạ Hoài Xuyên kéo một hồ sơ ra.", "Bản cha cô đưa có bốn con số.", "Bản sau có năm.", "Có thêm một mục.", "Gì?") và sau dòng này ("Chiêu Ninh ngồi yên. 'Có nghĩa là vật liệu Lạc Thủy bị rút để bù vào quân nhu?'" và phần còn lại) không đổi.
+3. Không có thông tin mới. `git diff` chỉ có một hunk: một dòng bị xóa, ba dòng được thêm (dòng mở đầu giữ nguyên chữ, một dòng trống, một dòng "Quân nhu Bắc lộ.").
+4. AD-01..AD-04 không đổi. Bản năm mục vẫn là tài liệu bị giữ, "không đủ để nộp". Không đụng tới Lạc Thủy, Tây Uyển hay ký ức nhân vật.
+5. EP1, EP2, EP3 không bị sửa trong lượt này.
+6. EP5–EP9 không bị sửa.
+7. Handbook, `AUTHOR_DECISIONS.md`, các báo cáo B1 và tài liệu Pass A không bị sửa.
+
+**Final N1A Check:**
+
+| Tiêu chí | Kết quả |
+|---|---|
+| Conversion fidelity | PASS |
+| POV discipline | PASS |
+| Information control | PASS |
+| Speaker attribution | PASS |
+| Canon preservation | PASS |
+
+Micro-fix không tạo thêm lỗi chuyển đổi nào khác.
+
+## N1A CLOSED — READY FOR N1B
