@@ -1,12 +1,8 @@
-# SONG ẢNH KINH THÀNH
+SONG ẢNH KINH THÀNH
 
-## HỒI II — CÁI TÊN CỦA NGƯỜI CHẾT
+HỒI II — CÁI TÊN CỦA NGƯỜI CHẾT
 
-### Bản humanized
-
----
-
-## CẢNH 7 — LA SINH ĐÀI — NGAY SAU ÁN MẠNG
+CẢNH 7 — LA SINH ĐÀI — NGAY SAU ÁN MẠNG
 
 Các cửa ra vào La Sinh Đài đều bị đóng.
 
