@@ -210,7 +210,7 @@ Vân Cơ áp bàn tay chảy máu lên Mẫu Kính. Gương lập tức tối đ
 
 Tàn ảnh của Tạ Vân Cơ, người chết trong lồng, hiện lên trên mười một mặt gương đã đảo. Nàng không đứng trong lồng. Nàng đang ở phòng chế tác mặt nạ của Mộc Dung. Mộc Dung trong tàn ảnh ngồi quay lưng, mang khuôn mặt Vân Cơ chưa dán xong. Tạ Vân Cơ đặt một chiếc mặt nạ đỏ lên bàn, lật mặt trong lên. Ở đó có khắc số mười hai. Mộc Dung định che lại nhưng Tạ Vân Cơ giữ tay nàng. Tạ Vân Cơ lấy bút viết vào mặt sau một mảnh lụa: Nếu ta không tỉnh, xoay gương. Mộc Dung giật mảnh lụa, vo lại. Tạ Vân Cơ không lấy về. Nàng chỉ đặt bàn tay lên chiếc mặt nạ đang che nửa khuôn mặt Mộc Dung rồi chậm rãi tháo nó xuống. Mộc Dung quay mặt đi. Tạ Vân Cơ đẩy chiếc gương đồng về trước mặt nàng, và trên lớp bụi của bàn, nàng viết hai chữ: Tự chọn.
 
-Bảy nhịp kết thúc. Tàn ảnh biến mất khỏi mười một mặt gương. Nhưng luồng sáng đã chạy đến tháp thứ mười hai. Mộc Dung nhìn thấy toàn bộ. Người bán hoa cũng nhìn thấy.
+Tàn ảnh biến mất khỏi mười một mặt gương. Nhưng luồng sáng đã chạy đến tháp thứ mười hai. Mộc Dung nhìn thấy toàn bộ. Người bán hoa cũng nhìn thấy.
 
 "Nàng ấy biết cô sẽ đổi thuốc sao?" người bán hoa hỏi.
 
