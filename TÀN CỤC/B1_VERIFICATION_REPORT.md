@@ -2,6 +2,8 @@
 
 **Phạm vi:** chỉ kiểm tra. Không sửa episode, không sửa file canon. Bằng chứng lấy trực tiếp từ bản thảo hiện tại (commit `48d0150`, working tree sạch).
 
+> **Trạng thái cuối (sau B1.5 Micro Repair): B1 CLOSED.** Xem mục 5. Các mục 1–4 bên dưới giữ nguyên như lúc kiểm tra, phản ánh bản thảo trước B1.5.
+
 Trích dẫn ghi theo dạng `file:dòng` hoặc `EPx sc.N` (số cảnh theo tiêu đề "CẢNH"). Số dòng là của bản hiện tại, sau B1.
 
 ---
@@ -400,3 +402,81 @@ Sau lượt sửa này, B1 đủ điều kiện đóng.
 7. AD-02 được kiểm trên bản thảo thực tế, theo từng nhân vật.
 8. Chức năng EP8–EP9 được kiểm theo từng cảnh thực tế.
 9. Không thực hiện bất kỳ sửa chữa nào.
+
+---
+
+## 5. B1.5 Micro Repair — Post-Repair Verification
+
+**Phạm vi:** chỉ T-06, R-01, R-02. Trước khi sửa đã đọc lại các đoạn liên quan trên bản thảo hiện tại (`ep8.txt`, `ep9.txt`, `EP4.txt`). Không giả định sửa chữa trong mục 2–3 đã được áp dụng.
+
+### 5.1 Các thay đổi đã thực hiện
+
+| Mục | File / vị trí | Trước | Sau |
+|---|---|---|---|
+| T-06 | `ep8.txt:7` (tiêu đề) | Đầu đến giữa tháng Tám | Đầu đến cuối tháng Tám |
+| T-06 | `ep9.txt:7` (tiêu đề) | Giữa tháng Tám đến đầu đông | Cuối tháng Tám đến đầu đông |
+| T-06 | `ep9.txt` sc.1 (dòng 81) | "là ngày đầu tiên trong chuỗi ngày mà kiếp trước Đại Lý Tự bắt đầu âm thầm kiểm người của Thẩm gia." | "vẫn nằm trong chuỗi ngày mà kiếp trước Đại Lý Tự âm thầm kiểm người của Thẩm gia." |
+| T-06 | `ep9.txt` sc.2 (dòng 101) | "Hôm nay không ai tới hỏi." | "Kiếp này không ai tới hỏi." |
+| T-06 | `ep9.txt` sc.2 (dòng 109) | "Còn hai ngày." | "Cũng đã qua." |
+| T-06 | `ep9.txt` sc.13 | dòng "Ngày mười tám tháng Tám." | bỏ |
+| T-06 | `ep9.txt` sc.13 | "Ngày này kiếp trước— / Hộ bộ gửi công văn đối chiếu sang nhà." | "Kiếp trước, những ngày này, Hộ bộ đã gửi công văn đối chiếu sang nhà." |
+| R-01 | `ep8.txt` sc.113 (dòng 4975) | "Ta bỏ lâu rồi." | "Ta bỏ rồi." |
+| R-02 | `EP4.txt` sc.10 (dòng 827) | "Cha có biết sau đó Lạc Thủy vỡ không?" | "Cha có biết sau này Lạc Thủy có thể vỡ không?" |
+
+Tổng: 3 file, 8 dòng thêm / 12 dòng bớt (gồm dòng trống quanh câu bị bỏ ở sc.13). Số cảnh không đổi (`EP4` 40, `ep8` 123, `ep9` 66). Giữ CRLF.
+
+**Chỗ lệch so với đề xuất ở mục 2–3 (đều nhỏ hơn hoặc bằng đề xuất, cùng hướng sửa):**
+- **EP9 sc.1:** đề xuất mẫu là "Ngày mười sáu tháng Tám… đã qua từ tuần trước." Bản thực tế sc.1 không ghi ngày, chỉ có "Hôm nay— là ngày đầu tiên trong chuỗi ngày…". Sửa nhỏ nhất là đổi "là ngày đầu tiên" thành "vẫn nằm trong" (và bỏ "bắt đầu" cho khỏi lặp nghĩa). Cách này không thêm mốc ngày mới, không cam kết "từ tuần trước", và vẫn giữ lý do nàng nhìn ra cổng.
+- **EP9 sc.2 "Hôm nay không ai tới hỏi."** Câu này nằm ngay dưới dòng sổ "Mười sáu tháng Tám", nên vẫn neo "hôm nay = 16/8". Đề xuất cũ bỏ sót; đổi "Hôm nay" thành "Kiếp này" là cần thiết để giải T-06.
+- **EP4:** đề xuất là "Cha có nghĩ sau này Lạc Thủy sẽ vỡ không?". Bản dùng giữ động từ "biết", nên câu trả lời "Không." của Tĩnh An vẫn khớp với câu ngay trước ("Không biết mức độ.") và với "Có thể vẫn vỡ." ngay sau.
+- Ghi chú sổ ở EP9 sc.14 ("18/8 — Hộ bộ đối chiếu." / "Không xảy ra.") giữ nguyên, đúng như đề xuất.
+
+### 5.2 Kiểm tra sau sửa (đọc lại bản thảo thực tế)
+
+**T-06: RESOLVED.**
+- EP9 không còn câu nào đặt "hôm nay" vào 16/8 hay 18/8. Các mốc 16/8 và 18/8 chỉ còn trong sổ kiếp trước (`ep9.txt` sc.2, sc.14), và cả hai đều được đánh dấu là đã qua và không xảy ra.
+- Chuỗi mới: EP8 kết thúc với "Ngày mai bắt đầu"; EP9 sc.1–3 là ngày cuộc tra bắt đầu (≥ khoảng 20/8, thực tế khoảng 23/8); sc.13 "HAI NGÀY SAU"; sc.24 "CUỐI THÁNG TÁM"; sc.26 "ĐẦU THÁNG CHÍN"; sc.30 "GIỮA THÁNG CHÍN". Chuỗi này đơn điệu, không xung đột.
+- Tiêu đề EP8 ("Đầu đến cuối tháng Tám") và EP9 ("Cuối tháng Tám đến đầu đông") khớp chuỗi trên.
+- EP7 và EP8 không có mốc ngày tuyệt đối nào khác bị ảnh hưởng (quét "tháng Tám", "mười sáu", "mười tám", "/8").
+
+**R-01: RESOLVED.** "Ta bỏ rồi." không còn hàm ý đã tháo nhẫn từ lâu, nên khớp với lần thấy nhẫn "đầu năm nay" (EP8 sc.103, 105) và "nửa tháng trước" (EP7 sc.22). Cảnh 113 vẫn giữ nhịp: "Nhẫn." / nhìn tay / "Không có." / cười / "Ta bỏ rồi."
+
+**R-02: RESOLVED.** Câu hỏi giờ ở dạng khả năng tương lai ("sau này… có thể vỡ"), không còn hàm ý Lạc Thủy đã vỡ. Mạch đối thoại sau đó ("Nhưng nếu cha tiếp tục tra—" / "Có thể vẫn vỡ.") vẫn liền. Câu hỏi không lộ ký ức kiếp trước của Chiêu Ninh, vì trong cùng cảnh nàng đã biết vật liệu bị rút và đê có thể không đủ.
+
+### 5.3 Kiểm lại canon
+
+| # | Điều kiện | Kết quả | Bằng chứng |
+|---|---|---|---|
+| 1 | Không có án Thẩm gia hoàn tất ở kiếp này (AD-01) | **YES** | Quét "tái thẩm / lật án / minh oan / án cũ / đã xử / bị xử / bản án / phúc thẩm" trên EP1–EP9. Các kết quả còn lại đều là ký ức kiếp trước của Chiêu Ninh (EP1 sc. sổ cũ, EP3 sc.32, `ep9.txt` sc. "những ngày từng định nghĩa") hoặc không liên quan án Thẩm gia (`ep6.txt:1723`, `ep9.txt:467`, `ep9.txt:2299`). Không mục nào do B1.5 thay đổi. |
+| 2 | Chỉ Chiêu Ninh nhớ kiếp trước (AD-02) | **YES** | Quét lời thoại chứa "kiếp trước / kiếp này / mơ thấy / như đã từng". Còn `EP1.txt:325` (A Lục hỏi nàng có mơ không), `EP3.txt:2001` (Hoài Xuyên nhắc lại chữ nàng lỡ nói) và `ep5.txt:1685` (chính Chiêu Ninh nói). Hai câu B1.5 thêm chữ "kiếp" (`ep9.txt` sc.2, sc.13) là trần thuật nội tâm của Chiêu Ninh. |
+| 3 | Không nhân vật phụ nào hồi phục hay vô thức giữ ký ức kiếp trước | **YES** | Như dòng 2. Lời Bùi Tấn (R-01) và Tĩnh An (R-02) sau sửa không chứa thông tin kiếp trước. |
+| 4 | EP8–EP9 là chặn hồ sơ đang dựng, không phải tái thẩm (EP8–EP9 LOCK) | **YES** | `ep9.txt` sc.3 vẫn là "Cuộc tra hồ sơ Hạng bốn bắt đầu". `ep8.txt` sc.114 Bùi Tấn vẫn nhận "Định dựng án Thẩm gia? / Có." B1.5 không đụng nội dung chức năng nào của EP8–EP9. |
+| 5 | Lạc Thủy không vỡ ở kiếp này (AD-03) | **YES** | `ep9.txt` sc.27: "Lạc Thủy qua mùa nước tháng Tám. Đê không vỡ." Mọi chỗ "đê vỡ" còn lại đều được đánh dấu kiếp trước (`EP1.txt` sổ cũ, `ep9.txt:1427`). R-02 đã gỡ câu hàm ý duy nhất. |
+| 6 | Không có vi phạm canon HIGH/MEDIUM mới do B1.5 | **YES** | Chín thay đổi chỉ ở mức câu chữ. Không thêm sự kiện, mốc ngày, thông tin hay cảnh mới. Mốc khóa 17/10 LK23 và AD-04 không bị chạm. |
+
+**Vấn đề khác phát hiện trong lượt này:** không có vấn đề mới cần báo. Các mục hoãn sang B2 ở mục 4 giữ nguyên, không sửa.
+
+### 5.4 B1 Closure
+
+| Điều kiện | Kết quả |
+|---|---|
+| T-06 | RESOLVED |
+| R-01 | RESOLVED |
+| R-02 | RESOLVED |
+| AD-01 | YES |
+| AD-02 | YES |
+| EP8–EP9 | YES |
+| Không có vi phạm HIGH/MEDIUM mới | YES |
+
+## B1 CLOSED
+
+### 5.5 Final Safety Check (B1.5)
+
+1. Chỉ sửa các đoạn cần cho T-06 (`ep8.txt:7`; `ep9.txt:7`, sc.1, sc.2, sc.13), R-01 (`ep8.txt` sc.113) và R-02 (`EP4.txt:827`).
+2. Không có sửa đổi cấu trúc: không thêm, xóa, gộp hay đổi thứ tự cảnh; tiêu đề cảnh giữ nguyên.
+3. Không sửa mục B2 nào (T-09, T-12, R-03 và các mục hoãn khác giữ nguyên).
+4. Không sửa Handbook, `AUTHOR_DECISIONS.md`, `MASTER_TIMELINE.md`, `KNOWLEDGE_MAP.md`, `EDIT_SCOPE_REPORT.md`, `PASS_B1_REPORT.md`.
+5. Đã đọc lại bản thảo thực tế sau sửa (các đoạn ở 5.1 và chuỗi mốc ngày EP9 sc.1–30).
+6. Đã kiểm lại AD-01, AD-02, AD-03 và chức năng EP8–EP9 (5.3).
+7. Đã cập nhật `B1_VERIFICATION_REPORT.md` (dòng trạng thái đầu file và mục 5; mục 1–4 không viết lại).
+8. Dừng. Không chuyển sang B2.
