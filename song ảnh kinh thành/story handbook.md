@@ -323,7 +323,7 @@ Không bảo vệ được cả hai.
 
 Payoff:
 
-Trả lại tên thật cho họ.
+Không có cảnh trả tên. Cố là người đặt tên "Lục Thanh La"; ông chấp nhận cái tên Vân La do nàng tự chọn khi nhìn biển hiệu Vân La Các.
 
 Hoàn thành.
 
