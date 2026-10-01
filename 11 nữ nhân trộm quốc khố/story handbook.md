@@ -1,5 +1,3 @@
-Dưới đây là bản Story Handbook tối ưu cho Claude/Sonnet khi dùng kèm một bộ MASTER STORY BIBLE + EDITING PROTOCOL. Mình cố tình viết theo kiểu "súc tích nhưng đủ canon", tránh lan man và giữ dưới ngưỡng yêu cầu.
-
 STORY HANDBOOK
 MƯỜI MỘT NỮ NHÂN TRỘM QUỐC KHỐ
 1. BỐI CẢNH & TIMELINE
