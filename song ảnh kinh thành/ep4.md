@@ -1,12 +1,10 @@
 Song Ảnh Kinh Thành. Hồi bốn: Người sống không có mặt.
 
-Cánh cửa gương đã khóa. Ánh nến chạy qua hàng trăm mặt kính, nhân hai người phụ nữ cùng khuôn mặt thành vô số bản sao. Hạ Tử Khiêm đứng giữa họ, trong tay là cuốn sổ do chính mình viết. Dòng đầu tiên ghi: Vân Cơ có thể tin trong vụ án này. Nhưng cả hai người trước mặt hắn đều đang nhận cái tên ấy.
+Cánh cửa gương đã khóa. Hạ Tử Khiêm đứng giữa hai người phụ nữ cùng khuôn mặt, trong tay là cuốn sổ do chính mình viết. Dòng đầu tiên ghi: Vân Cơ có thể tin trong vụ án này. Nhưng cả hai người trước mặt hắn đều đang nhận cái tên ấy.
 
 Người áo trắng bước tới. "Hạ đại nhân, nàng ta đã lừa ngài từ đầu. Người chết trong lồng mới là Lục Thanh La."
 
 "Nói tiếp đi," Vân Cơ nói.
-
-Người kia nhìn nàng.
 
 "Cô đã tốn công làm khuôn mặt này," Vân Cơ nói. "Ít nhất cũng nên chuẩn bị một câu chuyện dài hơn một chút."
 
@@ -14,11 +12,9 @@ Người kia nhìn nàng.
 
 "Hiện tại ta muốn biết cô giấu lối ra ở đâu."
 
-Người áo trắng bất ngờ rút dao. Nàng không tấn công Vân Cơ. Mũi dao lao thẳng về phía Hạ Tử Khiêm. Hắn nghiêng người tránh, dùng cuốn sổ đập vào cổ tay nàng. Con dao sượt qua tay áo rồi cắm vào khung gương phía sau. Vân Cơ quăng cây trâm, nhưng người áo trắng đã lùi vào một mặt gương và biến mất.
+Người áo trắng bất ngờ rút dao. Mũi dao lao thẳng về phía Hạ Tử Khiêm, không phải Vân Cơ. Hắn nghiêng người tránh, dùng cuốn sổ đập vào cổ tay nàng, và con dao cắm vào khung gương phía sau. Vân Cơ quăng cây trâm, nhưng người áo trắng đã lùi vào một mặt gương và biến mất.
 
-Ba tiếng bước chân đồng thời vang lên. Từ ba phía, ba nữ nhân có cùng khuôn mặt bước ra. Một người cầm dao, một người cầm dây thép, người cuối cùng không mang vũ khí.
-
-Hạ Tử Khiêm nhìn cuốn sổ, rồi nhìn ba khuôn mặt.
+Từ ba phía, ba nữ nhân có cùng khuôn mặt bước ra. Một người cầm dao, một người cầm dây thép, người cuối cùng không mang vũ khí.
 
 "Đừng nhìn mặt," Vân Cơ nói.
 
@@ -28,10 +24,6 @@ Người bên trái lao tới trước. Có tiếng váy áo nhưng không có t
 
 Hạ Tử Khiêm vung vỏ đao. Vỏ đao đánh trúng cổ tay người thật, và con dao rơi xuống sàn. Người áo trắng thúc khuỷu tay vào ngực hắn rồi quay sang Vân Cơ. Vân Cơ dùng dây tóc quấn lấy cổ tay nàng ta, và hai người giằng co.
 
-"Cô không sợ ta nói thật sao?" người áo trắng hỏi.
-
-"Cô vừa dùng dao đâm người đang điều tra," Vân Cơ đáp. "Lời cô bỗng kém đáng tin đi nhiều rồi."
-
 Người kia xoay cổ tay, cắt đứt dây tóc, rồi lùi về phía một khung gương. Vân Cơ không đuổi theo. Nàng rút thêm một cây trâm, ném vào tấm lụa bạc phía sau lưng đối phương. Tấm lụa rách ra, và lối thoát bị lộ. Người áo trắng khựng lại.
 
 "Khuôn mặt này không vừa lắm," Vân Cơ nói.
@@ -40,11 +32,9 @@ Người kia xoay cổ tay, cắt đứt dây tóc, rồi lùi về phía một 
 
 "Cô không dám há miệng."
 
-Người kia hơi siết môi.
-
 "Keo dưới cằm sắp bong rồi."
 
-Vân Cơ giật mạnh sợi dây tóc còn quấn trên cổ tay đối phương, kéo nàng mất thăng bằng rồi dùng trán đập thẳng vào sống mũi. Một tiếng rách nhỏ vang lên. Phần da dưới cằm người kia bong ra. Nàng lập tức đưa tay che mặt. Hạ Tử Khiêm đá con dao khỏi tầm với rồi khóa cánh tay nàng ra sau lưng.
+Vân Cơ giật mạnh sợi dây tóc còn quấn trên cổ tay đối phương, kéo nàng mất thăng bằng rồi dùng trán đập thẳng vào sống mũi. Phần da dưới cằm người kia bong ra. Nàng lập tức đưa tay che mặt. Hạ Tử Khiêm khóa cánh tay nàng ra sau lưng.
 
 Vân Cơ nắm mép lớp da, kéo xuống. Khuôn mặt của chính nàng rời khỏi người đối phương.
 
@@ -60,7 +50,7 @@ Nàng nhớ Mộc Dung từng chế tạo mặt nạ cho Vô Tướng Ban. Sau v
 
 "Nhớ sai rồi."
 
-Mộc Dung bật cười. Vết keo còn lại ở khóe miệng nứt ra, rớm máu. "Có nhiều chuyện đêm ấy cô nhớ sai lắm."
+Mộc Dung bật cười. "Có nhiều chuyện đêm ấy cô nhớ sai lắm."
 
 Vân Cơ nhìn bàn tay nàng ta. Trên lòng bàn tay có gắn một ngón thứ sáu bằng gỗ.
 
@@ -76,13 +66,13 @@ Vân Cơ bước tới một bước. "Nói lại."
 
 "Cố Bách Xảo muốn người trong lồng chết."
 
-Nàng vừa nói vừa đưa lưỡi chạm vào một chiếc răng. Vân Cơ nhận ra trước. Nàng bóp hàm Mộc Dung, nhưng viên thuốc độc đã vỡ. Khói tím thoát ra khỏi miệng, và Mộc Dung co giật. Hạ Tử Khiêm dùng chuôi dao ép nàng há miệng, còn Vân Cơ dùng đầu trâm gạt phần thuốc còn lại ra ngoài. Mộc Dung chưa chết, nhưng tay chân đã mềm nhũn.
+Nàng vừa nói vừa đưa lưỡi chạm vào một chiếc răng. Vân Cơ nhận ra trước và bóp hàm nàng, nhưng viên thuốc độc đã vỡ. Khói tím thoát ra khỏi miệng, Mộc Dung co giật. Hạ Tử Khiêm ép nàng há miệng, Vân Cơ gạt phần thuốc còn lại ra ngoài. Mộc Dung chưa chết, nhưng tay chân đã mềm nhũn.
 
 "Các người vẫn… tới trễ," Mộc Dung thì thào.
 
 Ở cuối phòng, tàn ảnh Cố Bách Xảo lại giơ tay chỉ xuống sàn. Rồi hình ảnh giật nhẹ, trở về tư thế ban đầu. Bảy nhịp sau, nó lặp lại đúng động tác ấy.
 
-Vân Cơ nhìn một lượt các chân nến và những tấm gương nhỏ quanh phòng. "Đây không phải một tàn ảnh kéo dài."
+Vân Cơ nhìn quanh phòng. "Đây không phải một tàn ảnh kéo dài."
 
 "Cơ quan phát lại cùng một đoạn," Hạ Tử Khiêm nói.
 
@@ -90,13 +80,11 @@ Vân Cơ áp tay lên sàn. Phía dưới có tiếng bánh răng. Tàn ảnh C�
 
 ***
 
-Dưới tấm thảm có một vòng sắt. Hạ Tử Khiêm kéo lên, để lộ một cầu thang hẹp dẫn xuống lòng tháp. Mùi thuốc cũ, sắt gỉ và ẩm mốc bốc lên.
+Dưới tấm thảm có một vòng sắt. Hạ Tử Khiêm kéo lên, để lộ một cầu thang hẹp dẫn xuống lòng tháp.
 
-Mộc Dung bị trói cạnh cột trên tầng chín. Phần lớn thuốc độc đã được lấy ra, nhưng hai chân nàng vẫn mềm nhũn. Nàng nhắm mắt, thở rất khẽ, trông như không còn sức cử động. Mẫu Kính ghép nguyên và bình máu vẫn nằm trên bàn cạnh cột. Vân Cơ chỉ kịp cầm đèn, rồi đi xuống trước.
+Mộc Dung bị trói cạnh cột trên tầng chín, hai chân vẫn mềm nhũn, mắt nhắm, thở rất khẽ. Mẫu Kính ghép nguyên và bình máu vẫn nằm trên bàn cạnh cột. Vân Cơ chỉ kịp cầm đèn, rồi đi xuống trước.
 
 Phía dưới là một căn phòng đầy bánh răng và ống đồng. Dây kim loại chạy từ đây lên các mặt gương trên chín tầng. Giữa phòng đặt một chiếc ghế sắt, và một ông lão bị xích trên đó. Mái tóc bạc xõa xuống mặt, hai cổ tay chi chít vết cắt cũ.
-
-Vân Cơ đứng ở chân cầu thang. Nàng không gọi ngay.
 
 Ông lão từ từ ngẩng đầu. Đó là khuôn mặt Cố Bách Xảo, nhưng gầy hơn tàn ảnh rất nhiều. Ông nhìn thấy nàng, hai mắt lập tức đỏ lên. Miệng ông mở ra nhưng không có tiếng. Lưỡi đã bị cắt.
 
@@ -104,7 +92,7 @@ Vân Cơ bước xuống thêm một bậc. "Sư phụ?"
 
 Cố Bách Xảo nâng bàn tay run rẩy. Ngón cái chạm ngón áp út, rồi gõ hai lần lên ngực. Đó là một ám hiệu chỉ ba thầy trò từng dùng, và nó có nghĩa: đứa trẻ sợ sấm.
 
-Trong đầu Vân Cơ hiện lại căn phòng cũ của Vô Tướng Ban. Mưa gõ lên mái. Có người dùng hai chiếc bát gõ thành tiếng vó ngựa để át tiếng sấm. Ký ức vẫn còn đó, nhưng khuôn mặt đứa trẻ bên cạnh nàng đã nhòe đi.
+Trong đầu Vân Cơ hiện lại căn phòng cũ của Vô Tướng Ban. Có người dùng hai chiếc bát gõ thành tiếng vó ngựa để át tiếng sấm. Ký ức vẫn còn đó, nhưng khuôn mặt đứa trẻ bên cạnh nàng đã nhòe đi.
 
 Vân Cơ quỳ xuống. "Là người thật."
 
@@ -126,7 +114,7 @@ Cố Bách Xảo cầm một mẩu kim loại, viết xuống nền: Khâm Thiê
 
 "Phí Kinh Hồng?" Vân Cơ hỏi.
 
-Ông lắc đầu. Sau đó ông chỉ vào khuôn mặt mình, làm động tác tháo mặt nạ. Hạ Tử Khiêm hiểu.
+Ông lắc đầu, chỉ vào khuôn mặt mình, làm động tác tháo mặt nạ.
 
 "Người mang khuôn mặt Phí Kinh Hồng?"
 
@@ -140,11 +128,9 @@ Một tiếng cơ quan vang lên trong vách. Cạch. Ông lập tức hất ng�
 
 Hàng chục lỗ bắn tên đồng loạt mở ra, và mưa tên trút vào mật thất. Hạ Tử Khiêm kéo Vân Cơ nấp sau một bánh răng lớn. Cố Bách Xảo vẫn bị xích giữa phòng. Vân Cơ định lao ra, nhưng Hạ Tử Khiêm giữ vai nàng.
 
-"Buông ta!"
-
 "Cô ra đó cũng không mở được xích."
 
-Cố Bách Xảo đạp vào một cần gạt dưới chân. Một tấm chắn sắt hạ xuống trước mặt ông, chặn phần lớn mũi tên. Ông liên tục chỉ về phía đường hầm phía đông. Vân Cơ lắc đầu.
+Cố Bách Xảo đạp một cần gạt, hạ tấm chắn sắt chặn phần lớn mũi tên, rồi liên tục chỉ về phía đường hầm phía đông. Vân Cơ lắc đầu.
 
 "Lần trước con nghe lời người rồi."
 
@@ -152,7 +138,7 @@ Cố Bách Xảo cúi xuống, dùng máu trên cổ tay viết lên tấm chắ
 
 Vân Cơ nhìn ông. "Không."
 
-Mặt đất rung lên. Mùi dầu bắt đầu tràn xuống cầu thang, và ngọn lửa xanh bò dọc những sợi dây kim loại. Trên tầng chín, Mộc Dung bật cười, tiếng cười khàn và đứt quãng vì thuốc độc. Trong mắt nàng không có vẻ đắc thắng. Nàng chỉ chăm chăm nhìn ngọn lửa, như muốn chắc rằng nó sẽ làm đúng phần việc được giao.
+Mặt đất rung lên. Mùi dầu bắt đầu tràn xuống cầu thang, và ngọn lửa xanh bò dọc những sợi dây kim loại. Trên tầng chín, Mộc Dung bật cười, giọng khàn đứt quãng. Trong mắt nàng không có vẻ đắc thắng. Nàng chỉ chăm chăm nhìn ngọn lửa, như muốn chắc rằng nó sẽ làm đúng phần việc được giao.
 
 "Không ai ra được đâu," Mộc Dung nói.
 
@@ -164,9 +150,7 @@ Vân Cơ nhìn tám bánh răng bao quanh chiếc ghế sắt. Mỗi bánh nối
 
 "Cắt hết thì tầng trên sập," Hạ Tử Khiêm nói.
 
-"Không cần cắt."
-
-Nàng bò tới cần gạt đầu tiên và kéo thử. Không chuyển động. Cần thứ hai làm một bánh răng quay nửa vòng rồi kẹt lại. Lửa xanh đã xuống gần hết cầu thang.
+Lửa xanh đã xuống gần hết cầu thang.
 
 Hạ Tử Khiêm nhìn chín rãnh nhỏ quanh trục chính. Tám rãnh có răng kim loại, còn rãnh ở giữa để trống. Trong túi hắn có một chiếc chìa khóa màu đen, thân khắc số chín. Hắn lấy nó ra.
 
@@ -176,7 +160,7 @@ Hắn cắm chìa vào trục giữa rồi xoay. Các bánh răng đồng loạt
 
 Đúng lúc đó, một tiếng kim loại lớn vang lên trên tầng. Vân Cơ quay lại.
 
-Mộc Dung đã dùng mảnh kim loại giấu trong tay áo cắt đứt dây trói. Nàng chưa đứng vững, phải bám một tay vào thành cầu thang. Nàng đã vơ Mẫu Kính và bình máu từ bàn, buộc chúng trong một túi vải trước ngực. Một sợi dây thả xuống từ cửa sổ tầng chín, và có người bên ngoài kéo nàng lên.
+Mộc Dung đã dùng mảnh kim loại giấu trong tay áo cắt đứt dây trói. Nàng đã vơ Mẫu Kính và bình máu từ bàn, buộc chúng trong một túi vải trước ngực. Một sợi dây thả xuống từ cửa sổ tầng chín, và có người bên ngoài kéo nàng lên.
 
 "Đứng lại!" Vân Cơ hét.
 
@@ -190,9 +174,7 @@ Vân Cơ quay lại. Hạ Tử Khiêm giữ lấy eo nàng.
 
 "Không kịp nữa!" Hạ Tử Khiêm đáp.
 
-"Buông ta!"
-
-Một thanh xà lớn rơi xuống, chặn ngang cầu thang. Lửa trùm lên bộ áo trắng của người chết. Cố Bách Xảo dùng chút sức lực còn lại kéo cần gạt trong đường hầm, và cánh cửa sắt đóng sập. Tiếng lửa bị chặn lại phía sau.
+Một thanh xà lớn rơi xuống, chặn ngang cầu thang. Lửa trùm lên bộ áo trắng của người chết. Cố Bách Xảo dùng chút sức lực còn lại kéo cần gạt trong đường hầm, và cánh cửa sắt đóng sập.
 
 Vân Cơ đứng im. Bên kia cánh cửa, thứ cuối cùng nàng nhìn thấy là hạt ngọc trai rơi khỏi tai người chết, lăn qua nền đá rồi biến mất trong lửa. Nàng không còn vùng vẫy nữa. Hạ Tử Khiêm buông tay.
 
@@ -208,8 +190,6 @@ Hắn nhìn cuốn sổ trong tay áo. "Ta đã tự dặn mình."
 
 "Không." Hắn nhìn cánh cửa đang nóng đỏ. "Vì cô định chạy vào lửa. Ta không cần nhớ cô là ai cũng biết việc ấy rất ngu."
 
-Vân Cơ không cãi.
-
 Ba người theo dòng nước thoát ra khỏi chân tháp. Ngay sau đó, Tháp Quan Tinh sụp xuống.
 
 ***
@@ -222,10 +202,6 @@ Cố Bách Xảo vừa nhìn thấy ông đã lùi mạnh. Vân Cơ chắn phía
 
 "Đừng tới gần."
 
-"Ông ấy bị thương," Phí Kinh Hồng nói.
-
-"Tô Mạn sẽ kiểm tra," Hạ Tử Khiêm đáp.
-
 Phí Kinh Hồng nhìn hai bàn tay trống của Vân Cơ. "Mẫu Kính đâu?"
 
 "Mộc Dung lấy rồi."
@@ -234,9 +210,7 @@ Phí Kinh Hồng nhìn hai bàn tay trống của Vân Cơ. "Mẫu Kính đâu?"
 
 "Hôm nay nhiều người chết quay lại lắm," Vân Cơ nói.
 
-Phí Kinh Hồng im lặng.
-
-Cố Bách Xảo bám lấy tay Vân Cơ. Ông quỳ xuống, cố viết trên nền đất ướt: Phí Kinh Hồng… Nước mưa làm nét chữ nhòe đi. Ông đổi sang dùng một mảnh đá nhọn, khắc lên một thanh gỗ cháy: Đã chết.
+Cố Bách Xảo bám lấy tay Vân Cơ, quỳ xuống, dùng một mảnh đá nhọn khắc lên thanh gỗ cháy: Phí Kinh Hồng. Đã chết.
 
 Phí Kinh Hồng nhìn dòng chữ. "Ông ấy vừa thoát khỏi nơi giam nhiều năm. Tinh thần chưa chắc tỉnh táo."
 
@@ -252,7 +226,7 @@ Phí Kinh Hồng nhìn hắn. "Hồ sơ Khâm Thiên Giám ghi rất rõ."
 
 "Khuôn mặt cũng có thể thay," Phí Kinh Hồng nói. "Vậy các người còn tin được gì?"
 
-Cố Bách Xảo đột nhiên lao tới, đưa tay chộp sau tai Phí Kinh Hồng. Phí Kinh Hồng tránh rất nhanh, không giống phản ứng của một quan văn hơn bốn mươi tuổi. Hạ Tử Khiêm nhìn thấy một đường mảnh sau tai ông, giống mép mặt nạ của Mộc Dung. Hắn rút dao. Hắn không chém vào mặt. Mũi dao chỉ lướt qua đường nối sau tai, và một mảnh da mỏng bong ra.
+Cố Bách Xảo đột nhiên lao tới, đưa tay chộp sau tai Phí Kinh Hồng. Phí Kinh Hồng tránh rất nhanh, không giống phản ứng của một quan văn hơn bốn mươi tuổi. Hạ Tử Khiêm nhìn thấy một đường mảnh sau tai ông, giống mép mặt nạ của Mộc Dung. Hắn rút dao, không chém vào mặt, chỉ lướt mũi dao qua đường nối ấy, và một mảnh da mỏng bong ra.
 
 Phí Kinh Hồng đưa tay che lại. Giọng nói khi cất lên không còn giống trước.
 
@@ -266,7 +240,7 @@ Hạ Tử Khiêm nhìn đội quân đang tản ra. Kẻ mang khuôn mặt Quố
 
 "Đóng cổng!" hắn hô. "Tất cả người của Khâm Thiên Giám bỏ khăn che mặt!"
 
-Quan sai Đại Lý Tự lập tức bao vây. Nhưng ba cổng phụ đồng loạt bốc cháy, và khi dập được lửa, bốn người đã biến mất. Không ai biết kẻ mang mặt Phí Kinh Hồng đã trà trộn vào người nào.
+Quan sai Đại Lý Tự lập tức bao vây. Nhưng ba cổng phụ đồng loạt bốc cháy, và khi dập được lửa, bốn người đã biến mất.
 
 Cố Bách Xảo vẫn đang khắc lên thanh gỗ. Hạ Tử Khiêm quỳ xuống bên cạnh ông. Dòng đầu tiên: Phí Kinh Hồng thật đã chết. Dòng thứ hai: Người đang mang mặt hắn là chủ Vô Danh Môn.
 
