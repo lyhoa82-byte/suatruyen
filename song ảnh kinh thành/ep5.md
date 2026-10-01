@@ -1,12 +1,8 @@
-# SONG ẢNH KINH THÀNH
+SONG ẢNH KINH THÀNH
 
-## HỒI V — HOÀNG ĐẾ TRONG QUAN TÀI BĂNG
+HỒI V — HOÀNG ĐẾ TRONG QUAN TÀI BĂNG
 
-### Bản humanized
-
----
-
-## CẢNH 23 — MẬT THẤT ĐẠI LÝ TỰ — RẠNG SÁNG
+CẢNH 23 — MẬT THẤT ĐẠI LÝ TỰ — RẠNG SÁNG
 
 Cố Bách Xảo nằm trên giường thấp.
 
