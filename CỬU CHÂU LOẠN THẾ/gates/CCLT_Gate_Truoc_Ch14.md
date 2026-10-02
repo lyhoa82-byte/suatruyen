@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 14
 
-*(v1 — sau Pre-Audit định hướng (PASS WITH 3 REQUIRED SYNCS); chờ Pre-Audit Final. **Author-truth**; chi tiết chỉ thành canon khi Ch14 LOCK. Nền: Canon Ch1–Ch13 LOCKED; Gate Ch11 (Dạ Kiêu, ba nguyên tắc); Gate Ch13 (N-1, H-C, rò tin OPEN tới Ch14); Production Bible; Chapter Bible Ch14. Độ dài 7k–10k.)*
+*(v2 — **LOCKED** sau Pre-Audit Final (PASS → LOCK), khóa thêm 2 guardrail (G-1 T5; G-2 Kha Trọng) và Canon Guardrail đo đường truyền; ngoài đó giữ nguyên v1 (v1: sau Pre-Audit định hướng, PASS WITH 3 REQUIRED SYNCS). **Author-truth**; chi tiết chỉ thành canon khi Ch14 LOCK. Nền: Canon Ch1–Ch13 LOCKED; Gate Ch11 (Dạ Kiêu, ba nguyên tắc); Gate Ch13 (N-1, H-C, rò tin OPEN tới Ch14); Production Bible; Chapter Bible Ch14. Độ dài 7k–10k.)*
 
 **Chapter Bible Ch14 — NĂM TIN GIẢ.** POV **Bùi Chỉ**. Arc: Counterintelligence. Vai trò: chứng minh Dạ Kiêu không chỉ là nhóm sát thủ; Chỉ làm đúng vai **Gián**; tìm ra mạng lưới liên quan Tạ gia; đưa bí mật Vân Trung trở lại hiện tại. **Goal:** xác định ai đang làm rò rỉ thông tin của liên minh. **Obstacle:** không biết tầng nào đã bị xâm nhập. **Decision:** tung **năm tin giả khác nhau qua năm đường khác nhau**. **Cost:** có nguy cơ khiến đồng minh hiểu lầm nhau. **New info:** tuyến thông tin dẫn về **người từng phục vụ Tạ gia**. **Hidden:** **chưa** có bằng chứng cuối cùng về Chu Hạc. Emotional: nghi ngờ → có mục tiêu điều tra. Power: liên minh lấy lại một phần ưu thế thông tin. **Hook: một cái tên từ mười năm trước xuất hiện.**
 
@@ -19,6 +19,14 @@
 5. **Điều tra bắt đầu ngay sau khi các đoàn rời Lạc Thủy.**
 6. **Mỗi bên nghi theo một hướng khác nhau.**
 7. **Dạ Kiêu không biết hoặc kiểm soát toàn bộ năm tuyến.**
+
+### 0B. KHÓA THÊM Ở PRE-AUDIT FINAL (LOCK)
+
+**G-1 — T5.** Chỉ được kết luận đúng một câu: **"đường văn thư – trạm ngựa Kim Lăng có lỗ."** Chỉ **không** kết luận người bán tin chắc chắn nằm trong đoàn Kim Lăng. T5 chỉ chứng minh **tuyến truyền tin bị rò**, **chưa** xác định nguồn rò là ai. *(Mục 0.1 và Sync #1 là author-truth, không lên trang.)*
+
+**G-2 — Kha Trọng.** Giữ nguyên mức OPEN. Chuỗi: **sổ cũ → mắt xích hiện tại → trùng tên/quê quán → Chỉ ghi nhận khả năng.** Chưa được kết luận: cùng một người; còn sống; liên quan Bắc Môn; liên quan Chu Hạc; Tạ gia đứng sau; chủ mưu. (Chi tiết mục 5A.)
+
+**Canon Guardrail.** Năm tin giả dùng để **đo đường truyền, không đo lòng trung thành**. Một tuyến bị rò ≠ người đứng đầu tuyến ấy phản bội; một tuyến sạch ≠ tuyến an toàn tuyệt đối.
 
 ---
 
@@ -75,7 +83,7 @@
 
 ### 3C. Guardrail (LOCK)
 - **Năm tuyến ≠ năm phe**; một phe có thể có nhiều tuyến.
-- **Chỉ đo đường truyền, không đo lòng trung thành.** Một tuyến rò ≠ người đứng đầu tuyến ấy phản.
+- **Chỉ đo đường truyền, không đo lòng trung thành.** Một tuyến rò ≠ người đứng đầu tuyến ấy phản bội. Một tuyến sạch ≠ tuyến an toàn tuyệt đối.
 - **Dạ Kiêu không kiểm soát năm tuyến**; chỉ canh **năm điểm hẹn**.
 - **Không thấy ai tới ≠ tuyến sạch**: có thể tin đi chậm, người mua không quan tâm, hoặc người mua chọn không động.
 - Không tuyến nào được Chỉ **báo trước** là đang bị thử.
@@ -84,13 +92,13 @@
 
 | Tin | Kết quả | Chỉ kết luận được |
 |---|---|---|
-| **T5** | **Đêm 11, hai người lạ tới điểm E**, đứng canh tới gần sáng rồi đi. Người Dạ Kiêu theo về | **Đường văn thư – trạm ngựa của Kim Lăng rò** |
+| **T5** | **Đêm 11, hai người lạ tới điểm E**, đứng canh tới gần sáng rồi đi. Người Dạ Kiêu theo về | **Đúng một câu: "đường văn thư – trạm ngựa Kim Lăng có lỗ."** Chưa biết nguồn rò là ai (G-1) |
 | T1 | Không ai | Không kết luận |
 | T3 | Không ai | Không kết luận |
 | T4 | Không ai | Không kết luận (người thân cận Vân Chương **chưa** thấy rò) |
 | **T2** | **Chưa có kết quả** trong khung Ch14 (tuyến Hoắc quân đi xa về bắc; tin có thể chưa tới người mua, hoặc đi đường khác) | **Không kết luận.** *(Không có bằng chứng Chu Hạc. Giữ Hidden Chapter Bible)* |
 
-**Khoanh được tới đâu:** Chỉ khoanh **đường** (văn thư – trạm ngựa Kim Lăng) và **một nhóm nhỏ người** chạm vào tờ văn điệp E (người đưa thư, thư lại, người giữ ngựa). **Chưa** chắc chắn từng người. *(Có nên để Chỉ xác định đích danh thư lại: **đề xuất: KHÔNG** trong Ch14; chỉ khoanh nhóm. Xem mục 7.)*
+**Khoanh được tới đâu:** Chỉ khoanh **đường** (văn thư – trạm ngựa Kim Lăng) và **một nhóm nhỏ người** từng chạm vào tờ văn điệp E trên đường ấy (người đưa thư, thư lại, người giữ ngựa — **chưa biết ai thuộc đoàn Kim Lăng, ai thuộc trạm**). **Không** kết luận nguồn rò nằm trong đoàn Kim Lăng (G-1). **Chưa** chắc chắn từng người. *(Chỉ xác định đích danh thư lại: **KHÔNG** trong Ch14 — LOCK; chỉ khoanh nhóm.)*
 
 ---
 
@@ -124,6 +132,9 @@
 | **"Từng phục vụ Tạ gia"** | **Lời đồn địa phương** (nghe lại qua hai người). Với Chỉ: **NGHE NÓI**, chưa kiểm |
 
 ### 5A. Chỉ CHƯA được kết luận (LOCK)
+
+**Mức OPEN (G-2):** sổ cũ → mắt xích hiện tại → trùng tên/quê quán → **Chỉ ghi nhận khả năng.**
+
 - Hai lần xuất hiện là **cùng một người**.
 - Người đó **còn sống** *(Chỉ chưa thấy mặt lão Kha)*.
 - Người đó liên quan **Bắc Môn**.
@@ -165,10 +176,10 @@
 - **KHÔNG BIẾT:** người rò; người mua; Kha Trọng là ai.
 
 ### Cuối Ch14
-- **FACT:** đường **văn thư – trạm ngựa Kim Lăng** rò (T5); người tới điểm E thuê ngựa, **bảo lãnh "Kha Trọng"**; **cùng tên** trong sổ Nam Môn năm -10.
+- **FACT:** đường **văn thư – trạm ngựa Kim Lăng có lỗ** (T5; chưa biết nguồn rò là ai); người tới điểm E thuê ngựa, **bảo lãnh "Kha Trọng"**; **cùng tên** trong sổ Nam Môn năm -10.
 - **NGHE NÓI:** lão Kha mua tin ở trạm, bến; từng làm quản sự một phủ họ Tạ ở Lạc Kinh.
 - **KHÔNG KẾT LUẬN:** mục 5A.
-- **KHÔNG BIẾT:** đích danh người rò trong nhóm nhỏ; kết quả T2; Chu Hạc.
+- **KHÔNG BIẾT:** nguồn rò (người bán tin là ai, thuộc đoàn Kim Lăng hay thuộc trạm); đích danh trong nhóm nhỏ; kết quả T2; Chu Hạc.
 
 ---
 
@@ -188,14 +199,19 @@
 
 ## 10. TRẠNG THÁI (v1)
 
-| Mã | Mục | Đề xuất |
+| Mã | Mục | Trạng thái |
 |---|---|---|
 | 0 | 7 điểm đã chốt | **LOCK** (từ Pre-Audit) |
-| Sync #1 | Người rò: thư lại nhỏ đoàn Kim Lăng, lo văn thư – đổi ngựa; biết "không văn thư"; bán vì tiền | Chờ duyệt |
-| Sync #2 | Bảng T1–T5 (điểm hẹn của kênh cảnh báo); Kim Lăng hai tuyến; kết quả T5 rò, T2 chưa có kết quả | Chờ duyệt |
-| Sync #3 | **Kha Trọng**; sổ Nam Môn tháng Chạp năm -10 ↔ sổ thuê ngựa hiện tại; mức chắc chắn thấp–trung bình; 5A | Chờ duyệt |
-| 1 | Stake riêng của Chỉ: nghi ngờ của Hoắc quân có thể làm "lời hứa vỡ" | Chờ duyệt |
-| 7 | Chỉ báo Vân Chương một câu; không nêu tên; không báo Hoắc quân trong Ch14 | Chờ duyệt |
+| Sync #1 | Người rò: thư lại nhỏ đoàn Kim Lăng, lo văn thư – đổi ngựa; biết "không văn thư"; bán vì tiền | **LOCK** (author-truth; trên trang chỉ theo G-1) |
+| Sync #2 | Bảng T1–T5 (điểm hẹn của kênh cảnh báo); Kim Lăng hai tuyến; kết quả T5 có lỗ, T2 chưa có kết quả | **LOCK** (kèm G-1 và Canon Guardrail) |
+| Sync #3 | **Kha Trọng**; sổ Nam Môn tháng Chạp năm -10 ↔ sổ thuê ngựa hiện tại; mức chắc chắn thấp–trung bình; 5A | **LOCK** (kèm G-2) |
+| 1 | Stake riêng của Chỉ: nghi ngờ của Hoắc quân có thể làm "lời hứa vỡ" | **LOCK** |
+| 7 | Chỉ báo Vân Chương một câu; không nêu tên; không báo Hoắc quân trong Ch14 | **LOCK** |
+| G-1 | T5: chỉ kết luận "đường văn thư – trạm ngựa Kim Lăng có lỗ"; không kết luận nguồn rò | **LOCK** |
+| G-2 | Kha Trọng giữ OPEN: sổ cũ → mắt xích hiện tại → trùng tên/quê quán → Chỉ ghi nhận khả năng | **LOCK** |
+| Canon Guardrail | Tin giả đo đường truyền, không đo lòng trung thành | **LOCK** |
+
+**FOUNDATION GATE CH14: LOCK.** → Scene Bible Ch14 v1.
 
 **OPEN:** đích danh người rò (Scene Bible / chương sau); Kha Trọng làm gì ở Vân Trung (trước Ch26/29); Vân Chương có biết mặt Kha Trọng không; T2 (tuyến Hoắc quân); viên quan Kim Lăng gửi cho ai (K2); triều Kim Lăng phản ứng; động cơ Chu Hạc.
 
