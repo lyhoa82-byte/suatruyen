@@ -32,7 +32,7 @@ Người giữ ngựa ở trạm gần bến vào sau cùng. Ông ta không bi�
 
 — Vâng.
 
-Kim Lăng có hai đường đi tin. Một đường bằng miệng, một đường bằng giấy. Hắn đo cả hai.
+Hắn có hai đường đi tin. Một đường bằng miệng, một đường bằng giấy. Hắn đo cả hai.
 
 Người giữ sổ quay vào khi người giữ ngựa đã đi.
 
@@ -118,7 +118,7 @@ Người giữ sổ đi ra. Bùi Chỉ gấp sổ lại, đặt tay lên bìa.
 
 Đêm mười một, Bùi Chỉ nằm trên một triền đất cao ngoài Lạc Kinh.
 
-Dưới kia, cách chừng ba mươi bước, một cái miếu thổ địa bỏ hoang đứng bên kênh cạn. Trạm ngựa Thạch Kiều cách đó ba dặm. Hai người canh nằm hai bên hắn, không động. Cổ chân trái của hắn nhức vì lạnh. Hắn không xoa.
+Dưới kia, cách chừng ba mươi bước, một cái miếu thổ địa bỏ hoang đứng bên kênh cạn. Trạm ngựa Thạch Kiều cách đó ba dặm. Hai người canh nằm hai bên hắn, không động.
 
 Chập tối, hắn mới nói chỗ này và đêm này vào tai hai người canh. Không sớm hơn. Họ đi trước, hắn tới sau một khắc.
 
@@ -132,7 +132,7 @@ Hai người ngồi trên bậc miếu. Không đèn, không lửa. Một ngư�
 
 Sương xuống. Qua canh hai, qua canh ba. Không ai tới. Hai người ngồi dưới kia không nói với nhau mấy lời.
 
-Chỗ này hắn chỉ viết vào một tờ giấy. Tờ giấy ấy đã đi qua nhiều tay, rồi mới tới được hai người ngồi trên bậc miếu.
+Chỗ này hắn chỉ viết vào một tờ giấy. Tờ giấy đã tới được hai người ngồi trên bậc miếu.
 
 — Bắt không? — Người canh thứ nhất hỏi. Tay người ấy đã chạm cán dao.
 

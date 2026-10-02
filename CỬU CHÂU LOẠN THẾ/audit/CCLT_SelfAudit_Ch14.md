@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SELF-AUDIT DRAFT CHƯƠNG 14 (v1)
 
-**Draft:** `Cuu_Chau_Loan_The_Chuong_14_DRAFT.md` · **8.216 ký tự** (Scene Bible ~8.500; ngắn hơn khoảng 280, trong khung 7k–10k)
+**Draft:** `Cuu_Chau_Loan_The_Chuong_14_DRAFT.md` · **8.132 ký tự** (v2 sau Audit; v1 là 8.216; trong khung 7k–10k)
 **Nền:** Scene Bible Ch14 v2 LOCKED; Gate Ch14 v2 LOCKED.
 **Tinh thần cốt lõi:** Không truy tìm kẻ phản bội bằng cách hỏi ai nói dối. Chỉ tạo ra năm lời nói dối khác nhau, rồi quan sát lời nào quay trở về.
 
@@ -10,7 +10,7 @@
 
 | Guardrail | Draft | Kết quả |
 |---|---|---|
-| **G-1** T5 chỉ kết luận "đường văn thư – trạm ngựa Kim Lăng có lỗ"; không kết luận nguồn rò nằm trong đoàn Kim Lăng | IV, câu gửi Vân Chương: *"Đường văn thư – trạm ngựa Kim Lăng có lỗ. Không thêm gì."* Chỉ không nói "người", không nói "đoàn". III chỉ có "Tờ giấy ấy đã đi qua nhiều tay" | PASS |
+| **G-1** T5 chỉ kết luận "đường văn thư – trạm ngựa Kim Lăng có lỗ"; không kết luận nguồn rò nằm trong đoàn Kim Lăng | IV, câu gửi Vân Chương: *"Đường văn thư – trạm ngựa Kim Lăng có lỗ. Không thêm gì."* Chỉ không nói "người", không nói "đoàn". III chỉ có "Tờ giấy đã tới được hai người ngồi trên bậc miếu" (không xác nhận chuỗi truyền) | PASS |
 | **G-2** Kha Trọng giữ OPEN | V: hai dòng đặt cạnh nhau; "Có thể chỉ là trùng tên." / "Có thể."; Chỉ chỉ ra lệnh "Tìm lão ấy. Không bắt. Không lại gần." Không câu nào nói cùng một người, còn sống, Bắc Môn, Chu Hạc, Tạ gia đứng sau, chủ mưu | PASS |
 | **Canon Guardrail** đo tuyến, không đo lòng trung thành | Chỉ nói "Không ai" cho bốn tuyến; không đánh giá người. "Bên Hoắc quân, thế là sạch?" / "Là không ai." (sạch ≠ an toàn tuyệt đối: Chỉ không xác nhận "sạch") | PASS |
 | **G-3** Vân Chương thấy hai tuyến bị thử, không biết vì sao chọn Kim Lăng, không suy ra "Kim Lăng bị nghi nhất" | Vân Chương chỉ hiện ở I (nghe T4) và qua lời nhắn ở IV (3 câu: đã nhận / hai chỗ hẹn / lần sau báo một chỗ). Không câu nào của chàng hỏi lý do hay nói nghi ngờ. Chỉ không giải thích | PASS |
@@ -62,7 +62,6 @@
 | Hai người lạ ở miếu: ăn bánh khô, không giáp, giày dính bùn kênh, nhìn lên triền đất | Chi tiết quan sát |
 | Hai người canh của Chỉ; người theo chân (đổi người sau khi bị nhìn mặt) | Nhân sự phụ, không tên |
 | Lời nhắn bốn bên (mỗi bên một câu hỏi) | Tạo áp lực thay vì nghi ngờ trực tiếp |
-| Cổ chân trái của Chỉ nhức vì lạnh | Chi tiết cơ thể; xem A-3 |
 
 ## 5. ĐIỂM CẦN AUDITOR XEM
 
@@ -70,10 +69,10 @@
 |---|---|---|---|
 | A-1 | **Tách vai "người giữ ngựa ở trạm gần bến" (I) và "người ở trạm Thạch Kiều" (V)** | Nhẹ | Scene Bible v2 dùng cụm "người ở trạm" cho cả hai. Em tách để người nghe không nhầm: người giữ ngựa nhận tờ giấy ở bến; người ở trạm Thạch Kiều là người của Chỉ đi lấy sổ thuê ngựa. Hai vai khác nhau, không cùng người |
 | A-2 | **Chỉ gọi "Tạ đại nhân" trong lời dặn người mang tin (IV)** | Nhẹ | Đúng cách gọi của Chỉ, nhưng là lần đầu một thuộc hạ Dạ Kiêu nghe tên này. Nếu muốn giữ kín hơn, đổi thành "Kim Lăng" |
-| A-3 | Cổ chân trái nhức vì lạnh (III) | Nhẹ | Chi tiết cơ thể mới. Nếu canon Chỉ không có tật chân, chị cho em rút |
-| A-4 | **Câu "Kim Lăng có hai đường đi tin. Một đường bằng miệng, một đường bằng giấy. Hắn đo cả hai." (I)** | Trung bình | G-3 kiểm: đây là câu nội tâm của Chỉ, giữ trung tính (đo cả hai, không nói "nghi"). Nếu chị thấy nó dẫn người nghe tới "Kim Lăng bị nghi nhất" hơn mức cần, em rút còn "Hắn đo cả hai đường." |
-| A-5 | **III, câu "Tờ giấy ấy đã đi qua nhiều tay"** | Nhẹ | Là suy luận của Chỉ, không phải kết luận nguồn rò. G-1 vẫn đúng: Chỉ chưa kết luận ai |
-| A-6 | **Độ dài 8.216** | Nhẹ | Ngắn hơn ước tính 280. S3 và S4 gọn nhất (1.456 / 1.076). Em không thêm cảnh để đủ số |
+| A-3 | Cổ chân trái nhức vì lạnh (III) | — | ĐÃ RÚT ở v2 theo Audit |
+| A-4 | ĐÃ SỬA ở v2: "Hắn có hai đường đi tin…" **Câu cũ: "Kim Lăng có hai đường đi tin. Một đường bằng miệng, một đường bằng giấy. Hắn đo cả hai." (I)** | Trung bình | G-3 kiểm: đây là câu nội tâm của Chỉ, giữ trung tính (đo cả hai, không nói "nghi"). Nếu chị thấy nó dẫn người nghe tới "Kim Lăng bị nghi nhất" hơn mức cần, em rút còn "Hắn đo cả hai đường." |
+| A-5 | III, câu về tờ giấy | — | ĐÃ SỬA ở v2: "Tờ giấy đã tới được hai người ngồi trên bậc miếu." |
+| A-6 | **Độ dài 8.132** | Nhẹ | Sau 3 sửa Audit. S3 và S4 gọn nhất (1.456 / 1.076). Em không thêm cảnh để đủ số |
 | A-7 | **Lời đồn lão Kha và "phủ lớn họ Tạ"** | Nhẹ | Giữ ba tầng miệng; Chỉ không đáp; không nói phủ nào. Không có chi tiết nối Tạ gia với Vân Chương |
 | A-8 | **Nhịp S4** là nhịp "báo cáo" (bốn lần "Không ai") | Nhẹ | Có chủ đích: lặp lại để tạo áp lực chờ. Lực kéo thật nằm ở câu "Bên Hoắc quân, thế là sạch?" và "Hoắc quân còn chờ lời đáp" |
 
@@ -87,10 +86,18 @@
 
 ## 7. ĐỘ DÀI TỔNG
 
-Ch1–Ch13 (đã LOCK): 148.962 + 7.746 = **156.708**. Ch14 (nếu LOCK): **8.216** (tính theo file draft; có thể giảm vài chục ký tự khi bỏ dòng tiêu đề/DRAFT). Tổng khoảng **164.924**. Còn lại cho 18 chương: khoảng 135.076, trung bình khoảng 7.504/chương.
+Ch1–Ch13 (đã LOCK): 148.962 + 7.746 = **156.708**. Ch14 (nếu LOCK): **8.132** (tính theo file draft; có thể giảm vài chục ký tự khi bỏ dòng tiêu đề/DRAFT). Tổng khoảng **164.840**. Còn lại cho 18 chương: khoảng 135.160, trung bình khoảng 7.509/chương.
 
 ---
 
 ## 8. REVISION
 
-Chưa có. Chờ Audit của chị.
+**Draft Ch14 v1: PASS** (Audit của chị). Sửa đúng 3 điểm, không đổi gì khác:
+
+| Chỗ | v1 | v2 | Mục đích |
+|---|---|---|---|
+| I (A-4) | "Kim Lăng có hai đường đi tin. Một đường bằng miệng, một đường bằng giấy. Hắn đo cả hai." | "Hắn có hai đường đi tin. Một đường bằng miệng, một đường bằng giấy. Hắn đo cả hai." | Chỉ đo route, không lộ Kim Lăng là đối tượng bị nghi trọng điểm |
+| III (A-3) | "…Cổ chân trái của hắn nhức vì lạnh. Hắn không xoa." | Xóa | Chi tiết cơ thể mới, không cần |
+| III | "Tờ giấy ấy đã đi qua nhiều tay, rồi mới tới được hai người ngồi trên bậc miếu." | "Tờ giấy đã tới được hai người ngồi trên bậc miếu." | Không xác nhận chuỗi truyền mà Chỉ chưa biết |
+
+**Độ dài v2:** 8.132 ký tự. → Chờ Pre-Lock Audit.
