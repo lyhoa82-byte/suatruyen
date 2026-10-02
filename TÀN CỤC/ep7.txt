@@ -1100,14 +1100,6 @@ Tạ Hoài Xuyên nói: “Chủ Tấn Ký.”
 
 “Có thể.”
 
-“Ngài biết chỗ?”
-
-“Có manh mối.”
-
-Lục Trầm hỏi: “Ở đâu?”
-
-Tạ Hoài Xuyên nhìn hắn. “Không nói.”
-
 Lục Trầm quay sang Chiêu Ninh. “Ngài ấy với cô thật sự rất hợp.”
 
 Chiêu Ninh nói: “Ngươi muốn bị đuổi không?”
@@ -1714,7 +1706,7 @@ Tạ Hoài Xuyên hỏi: “Xe tới trạm quân giao gì?”
 
 “Chưa thấy.”
 
-Chiêu Ninh hiểu. Một chuyến có thể hoàn toàn sạch. Chuyến bên cạnh thì không. Mạng lưới sống được vì nó trộn thật với giả.
+Chiêu Ninh hiểu. Một chuyến có thể hoàn toàn sạch. Chuyến bên cạnh thì không.
 
 * * *
 
@@ -1870,6 +1862,16 @@ Tạ Hoài Xuyên hỏi: “Cho ai?”
 
 Ông đọc một cái tên. Không ai trong phòng phản ứng. Một quan cũ của Đại Lý Tự, đã chết hai năm trước. Lại một người chết.
 
+Tạ Hoài Xuyên nói: “Hòm mất bản đối chiếu. Sổ ở kho An Bình ghi ‘Đã kiểm, HX-4’. Bản năm mục tới đúng lúc ta đang tra.”
+
+Chiêu Ninh nói: “Ba chuyện, cùng một cửa.”
+
+“Có thể có người đã dùng cái cửa ấy.”
+
+“Ai?”
+
+“Chưa biết.”
+
 * * *
 
 Tối ở Đại Lý Tự, Chiêu Ninh nhìn danh sách người chết. Lão Trương. Trưởng kho Hộ bộ. Quan cũ Đại Lý Tự. Trịnh Hành. Cha Lục Trầm. Không phải tất cả chết cùng lúc. Không cùng cách. Không cùng lý do trên giấy.
@@ -1890,9 +1892,7 @@ Tạ Hoài Xuyên nói: “Không biết.”
 
 “Ừ.”
 
-Chiêu Ninh nhìn các tên. “Nếu gom sai… ta sẽ tạo ra một âm mưu không tồn tại.”
-
-Tạ Hoài Xuyên gật. “Đúng.”
+Chiêu Ninh nhìn các tên.
 
 * * *
 
@@ -2108,9 +2108,9 @@ Tạ Hoài Xuyên nhìn. “Chỉ vậy?”
 
 “Ngài nghĩ đứng sau là ai?”
 
-Chu Tử Dung lắc đầu. “Ta không nghĩ có một người.”
+Chu Tử Dung lắc đầu.
 
-Tạ Hoài Xuyên nhìn ông. Chu Tử Dung nói: “Có người lấy tiền. Có người cần quân lương chạy. Có người sợ án vỡ. Có người dùng sự hỗn loạn để sửa chứng cứ. Bọn họ không cần cùng ngồi một bàn.”
+Tạ Hoài Xuyên nhìn ông. Chu Tử Dung nói: “Có người lấy tiền. Có người cần quân lương chạy. Có người sợ án vỡ. Có người dùng sự hỗn loạn để sửa chứng cứ.”
 
 * * *
 
