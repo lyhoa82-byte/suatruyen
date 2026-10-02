@@ -2,7 +2,7 @@
 
 ## TẬP 10 — NGƯỜI GIẾT LÃO THÁI GIA
 
-**Tiếp nối:** Triệu Kha và Phương Tử An hóa ra là anh em sinh đôi. Một người biết mật đạo và giả giọng Tống Chính Nghiêm; người còn lại từng mua Ô Đầu ba tháng trước. Nhưng việc ai đầu độc, ai giả làm lão thái gia và ai thật sự siết cổ ông vẫn chưa có đáp án.
+**Tiếp nối:** Triệu Kha và Phương Tử An hóa ra là anh em sinh đôi. Một người biết mật đạo và giả giọng Tống Chính Nghiêm; còn ba tháng trước, một người có khuôn mặt giống Phương Tử An đã mua Ô Đầu. Nhưng việc ai đầu độc, ai giả làm lão thái gia và ai thật sự siết cổ ông vẫn chưa có đáp án.
 
 ---
 
@@ -170,7 +170,7 @@ Trình Đội nói:
 
 Kỷ Hoài Ân cầm tờ kê lên.
 
-“Phương Tử An mua Ô Đầu ba tháng trước.”
+“Người giống Phương Tử An mua Ô Đầu ba tháng trước.”
 
 “Nhưng thuốc trong trà đêm đó có thể từ nguồn khác.”
 
@@ -1282,11 +1282,11 @@ Gia nhân nghĩ.
 
 Tống Phúc sững người.
 
-“Ta?”
+“Tôi?”
 
 “Vâng.”
 
-“Ta vào làm gì?”
+“Tôi vào làm gì?”
 
 “Nói tìm chìa khóa của lão gia.”
 
@@ -1294,7 +1294,7 @@ Mọi người quay sang Tống Phúc.
 
 Ông lắc đầu.
 
-“Ta chưa từng vào.”
+“Tôi chưa từng vào.”
 
 Gia nhân hoảng.
 
@@ -1342,7 +1342,7 @@ Bùn trên gậy Minh Đức.
 
 Mũi tên của Minh Châu.
 
-Ô Đầu mua dưới tên Phương Tử An.
+Ô Đầu do người giống Phương Tử An mua.
 
 Sợi dây trong áo Minh Khiêm.
 
@@ -1732,7 +1732,7 @@ Bỗng nhớ lời chị.
 
 Kẻ tám năm trước bỏ đi có **mùi thuốc, chân kéo lê**.
 
-Chu Thành Quý khi ấy chưa què.
+Có lẽ Chu Thành Quý khi ấy chưa què.
 
 Nhưng ai nói mùi thuốc là trị chân của hắn?
 
@@ -1764,15 +1764,13 @@ Lão Quý ngẩng lên.
 
 Vãn Thanh nhìn hắn.
 
-Tám năm trước nàng chỉ thấy bóng lưng.
+Tám năm trước nàng đã thấy mặt hắn.
 
 Nghe giọng.
 
 Ngửi mùi thuốc.
 
 Sau này gặp lại “Chu Thành Quý”, nàng nhận dựa trên những thứ đó.
-
-Không phải gương mặt.
 
 Vãn Ý chậm rãi hiểu.
 
@@ -2090,7 +2088,7 @@ Vãn Thanh mặt trắng đi.
 
 “Cô chưa bao giờ thật sự hiểu hắn.”
 
-Phương Tử An khi ấy bị ép.
+Theo lời Trịnh Vạn Xuân, Phương Tử An khi ấy bị ép.
 
 Nếu không giết Ngô Đức Thuận, người của mạng lưới sẽ giết cả em trai hắn — Triệu Kha.
 
@@ -2256,7 +2254,7 @@ cuối cùng lại kéo ra chuyện tám năm trước.
 
 Nhưng phân sản thư vẫn còn thiếu nửa.
 
-Vãn Thanh đưa nửa nàng giữ.
+Nửa Vãn Thanh đã lấy vẫn nằm trong tay Kỷ Hoài Ân.
 
 Kỷ Hoài Ân hỏi:
 
@@ -2414,7 +2412,7 @@ Triệu Kha nhìn nàng.
 
 Cả phòng khựng lại.
 
-“Hai nửa được giao cho hai người khác nhau?”
+“Hai nửa được định sẵn cho hai người khác nhau?”
 
 “Đúng.”
 
@@ -2512,7 +2510,7 @@ Rồi nhìn cả phòng.
 
 Đại ca.
 
-Nhị bá.
+Nhị ca.
 
 Tứ thúc.
 
@@ -2824,7 +2822,7 @@ Chữ **Thọ** vẫn treo trên cổng.
 
 Người được mừng thọ đã không còn.
 
-Những bí mật tám năm cuối cùng cũng bị mở ra.
+Những bí mật tám năm cuối cùng cũng bắt đầu bị mở ra.
 
 Nhưng Tống phủ vẫn còn đó.
 
