@@ -866,7 +866,7 @@ Nàng thở ra. “Ngài thật sự phá hứng.”
 
 * * *
 
-Cùng tối ấy, ở Binh bộ, Chu Tử Dung nhận mô tả từ Đại Lý Tự. Ông nhìn. Sắc mặt lần đầu thay đổi rõ. Thuộc hạ thấy.
+Ở Binh bộ, Chu Tử Dung nhận mô tả từ Đại Lý Tự ngay trong đêm. Ông nhìn. Sắc mặt lần đầu thay đổi rõ. Thuộc hạ thấy.
 
 “Đại nhân biết?”
 
@@ -1088,7 +1088,7 @@ Quá bình tĩnh. Chiêu Ninh đứng xa. Thấy không ổn.
 
 Tôn Tứ bước hai bước. Đột nhiên một xe hàng phía sau bốc cháy. Ngựa hoảng. Người chạy. Trong hỗn loạn, Tôn Tứ lao đi.
 
-Sai dịch đuổi. Chiêu Ninh bị hộ vệ kéo lùi. Nàng không chống. Tạ Hoài Xuyên chạy theo Tôn Tứ. Qua ba dãy kho. Tôn Tứ trèo tường, rơi xuống bên kia. Hoài Xuyên vòng. Đến ngõ hẹp. Không thấy. Chỉ có một chiếc áo ngoài bị bỏ. Và máu. Một vệt nhỏ. Hắn bị thương. Nhưng thoát.
+Sai dịch đuổi. Chiêu Ninh bị hộ vệ kéo lùi. Nàng không chống. Tạ Hoài Xuyên chạy theo Tôn Tứ. Qua ba dãy kho. Tôn Tứ trèo tường, rơi xuống bên kia. Hoài Xuyên vòng. Đến ngõ hẹp. Không thấy. Chỉ có một chiếc áo ngoài bị bỏ. Và máu. Một vệt nhỏ. Tôn Tứ bị thương. Nhưng thoát.
 
 * * *
 
@@ -1214,7 +1214,7 @@ Thẩm Tĩnh An nhìn nàng. “Con định hỏi hết kinh thành?”
 
 “Ăn cơm trước.”
 
-Chiêu Ninh không nói gì.
+Chiêu Ninh cầm đũa lên.
 
 * * *
 
@@ -1498,7 +1498,7 @@ Chiêu này khác Phùng Mậu. Hắn đi một mình. Không giống chạy h�
 
 * * *
 
-Sáng hôm sau ở Đại Lý Tự, Chiêu Ninh nhìn ba nút rõ hơn. Tiền, Phùng Mậu. Vận chuyển, Tôn Tứ. Quân báo, Hứa Nghiêm. Chứng cứ, chưa rõ.
+Sáng hôm sau ở Đại Lý Tự, Chiêu Ninh nhìn ba nút rõ hơn trên bảng. Tiền, Phùng Mậu. Vận chuyển, Tôn Tứ. Quân báo, Hứa Nghiêm. Chứng cứ, chưa rõ.
 
 Tạ Hoài Xuyên vừa về trong đêm. Mệt. Chiêu Ninh nhìn.
 
@@ -1668,10 +1668,6 @@ Tối ở Đại Lý Tự, Chiêu Ninh nghe.
 
 “Có thể.”
 
-“Ngài nhìn thấy?”
-
-“Ừ.”
-
 “Trên hồ sơ hiện tại?”
 
 “Ừ.”
@@ -1744,19 +1740,11 @@ Chiêu Ninh nhìn ông. “Con cũng nghĩ.”
 
 “Ừ.”
 
-“Người tiền, người vận chuyển, người sửa quân báo, người biến hồ sơ thành án.”
-
-“Ừ.”
-
-“Không cần ai chỉ huy hết.”
-
-“Đúng.”
-
 Chiêu Ninh im.
 
 * * *
 
-Cùng đêm ấy, trên sông Nam, thuyền của Phùng Mậu đi chậm. Tôn Tứ ngồi phía trước. Phùng Mậu không bị trói. Nhưng mặt căng.
+Trên sông Nam, thuyền của Phùng Mậu đi chậm trong đêm. Tôn Tứ ngồi phía trước. Phùng Mậu không bị trói. Nhưng mặt căng.
 
 “Ngươi đưa ta đi đâu?”
 
@@ -1856,7 +1844,7 @@ Hứa Nghiêm nhắm mắt. “Ừ.”
 
 * * *
 
-Chiều ở Đại Lý Tự, Chiêu Ninh đọc lời khai. Không có đại âm mưu. Không lời thề. Chỉ là một người nhận tiền để sửa một con số. Rồi thêm một số. Rồi thêm nữa. Cho tới khi một bản quân báo đủ khác để một ngày kết tội một gia tộc.
+Chiều ở Đại Lý Tự, Chiêu Ninh đọc lời khai. Chỉ là một người nhận tiền để sửa một con số. Rồi thêm một số. Rồi thêm nữa. Cho tới khi một bản quân báo đủ khác để một ngày kết tội một gia tộc.
 
 Nàng hỏi: “Hắn có biết số hắn sửa để làm gì?”
 
@@ -1968,36 +1956,6 @@ Tạ Hoài Xuyên nhìn. Không đủ bắt Cố Văn Lâm vì mạng lưới. N
 
 * * *
 
-Sau đó, Chiêu Ninh nói: “Chúng ta có ba người đã nhận phần.”
-
-“Hứa Nghiêm sửa quân báo.”
-
-“Phùng Mậu chuyển tiền.”
-
-“Tôn Tứ vận chuyển và giữ người.”
-
-“Cố Văn Lâm?”
-
-“Chưa.”
-
-“Nhưng hồ sơ qua tay hắn.”
-
-“Ừ.”
-
-“Có thể hắn biết.”
-
-“Có thể.”
-
-“Có thể không.”
-
-“Ừ.”
-
-Chiêu Ninh nhìn bảng. “Không cần ép hắn thành nút thứ tư nếu chưa đủ.”
-
-Tạ Hoài Xuyên gật. “Đúng.”
-
-* * *
-
 Đêm ở Thẩm phủ, Chiêu Ninh kể cha.
 
 “Con muốn kéo lưới.”
@@ -2041,8 +1999,6 @@ Thẩm Tĩnh An hiểu. “Con muốn xem ai động.”
 Chiêu Ninh hỏi: “Cha đứng về phía ngài ấy?”
 
 “Ta đứng về phía kế hoạch đỡ ngu.”
-
-Chiêu Ninh không nói gì.
 
 * * *
 
@@ -2142,11 +2098,7 @@ Chiều ở hiệu bạc Vĩnh Thái, một quản sự nghe. Mặt đổi. Khô
 
 Tạ Hoài Xuyên nhận. “Phùng Mậu.”
 
-Chiêu Ninh nói: “PM-6 là hắn thật.”
-
-“Ừ.”
-
-“Vậy hiệu bạc đang chủ động liên lạc.”
+Chiêu Ninh nói: “Vậy hiệu bạc đang chủ động liên lạc.”
 
 “Ừ.”
 
@@ -2158,7 +2110,7 @@ Lần này đủ chắc hơn.
 
 * * *
 
-Cùng đêm ấy, trên Nam lộ, Phùng Mậu trên thuyền nhận được tin qua một bến. Tôn Tứ đọc.
+Trên Nam lộ, Phùng Mậu nhận được tin qua một bến. Tôn Tứ đọc.
 
 “Dừng đường cũ.”
 
@@ -2410,7 +2362,7 @@ Phùng Mậu cười mệt. “Ngài vẫn nghĩ có tên?”
 
 Chiêu Ninh nghe. Đúng bốn nút.
 
-Phùng Mậu nói: “Không nhóm nào tin nhóm nào. Nhưng ai cũng cần nhóm khác.”
+Phùng Mậu nói: “Không nhóm nào tin nhóm nào.”
 
 “Người đứng đầu?”
 
@@ -2626,19 +2578,7 @@ Cố Văn Lâm sắc mặt đổi. Lần đầu.
 
 Cố Văn Lâm không đáp.
 
-“Phùng Mậu khai mạng tiền. Ngài không nằm trong đó.”
-
-Cố Văn Lâm không nói gì.
-
-“Hứa Nghiêm khai quân báo. Không có tên ngài.”
-
-Cố Văn Lâm không nói gì.
-
-“Tôn Tứ khai vận chuyển. Không có tên ngài.”
-
-Cố Văn Lâm không nói gì.
-
-“Ngài không phải người của mạng.”
+“Phùng Mậu khai mạng tiền. Hứa Nghiêm khai quân báo. Tôn Tứ khai vận chuyển. Không ai nhắc tên ngài. Ngài không phải người của mạng.”
 
 Cố Văn Lâm nhìn hắn. Tạ Hoài Xuyên nói: “Ngài là người tin chứng cứ do mạng tạo ra.”
 
@@ -2922,9 +2862,7 @@ Chiêu Ninh im.
 
 “Có đeo nhẫn.”
 
-Chiêu Ninh lập tức nhìn cha. Ông nói: “Nhưng rất nhiều người đeo.”
-
-“Con biết.”
+Chiêu Ninh lập tức nhìn cha.
 
 * * *
 
@@ -3122,7 +3060,7 @@ Bùi Tấn nhìn xuống. “Sau khi mạng đã chạy.”
 
 “Vì nếu chỉ sai quân nhu, ông ấy có thể trở lại. Phản quốc thì không.”
 
-Không cần quỷ dữ. Chỉ một quyết định lạnh.
+Chỉ một quyết định lạnh.
 
 “Ông biết chứng cứ giả?”
 
@@ -3244,8 +3182,6 @@ Chiêu Ninh bật cười. “Lần này thật sự là chuyện tốt.”
 
 Thẩm phu nhân nhìn con. “Vậy ăn thêm một bát cơm.”
 
-Chiêu Ninh không nói gì.
-
 Tử Khiêm nói: “Con cũng có công.”
 
 Không ai trả lời.
@@ -3266,11 +3202,7 @@ Tử Khiêm nói: “Nhà này…”
 
 Dưới đó: Bùi Tấn, người kết nối các phần để dựng một vụ án nhắm vào Thẩm gia. Không phải người tạo ra toàn mạng.
 
-Nàng nhìn rất lâu. Rồi viết: Tàn cục không có một người đánh.
-
-Nàng dừng. Thấy câu ấy quá giống khẩu hiệu. Nàng gạch. Viết lại: Việc còn lại, tách từng phần, xử từng người.
-
-Nàng để nguyên.
+Nàng nhìn rất lâu. Rồi viết thêm một dòng: Việc còn lại, tách từng phần, xử từng người.
 
 * * *
 
@@ -3294,7 +3226,7 @@ Hắn dừng. “Bao giờ?”
 
 Sai dịch đi. Tạ Hoài Xuyên ngồi lại. Một lúc. Không cười. Chỉ nhìn tờ ký của mình.
 
-Ba năm trước, cũng bàn này. Hắn ký một tờ đề nghị tiếp tục điều tra, rồi để nó nằm im. Lần này, một chữ ký chặn một vụ án trước khi nó thành hình.
+Ba năm trước, cũng bàn này. Hắn ký một tờ đề nghị tiếp tục điều tra, rồi để nó nằm im.
 
 Hắn đặt tờ giấy xuống. Không coi đó là chuộc tội. Chỉ là việc cần làm.
 
@@ -3309,5 +3241,3 @@ A Lục mơ màng: “Có phải chạy chưa?”
 Chiêu Ninh nhìn cửa sổ. Trời bắt đầu sáng.
 
 “Chưa.”
-
-Lần này, không phải vì nàng biết chuyện gì sẽ tới. Chỉ vì hiện tại, chưa có gì để chạy.
