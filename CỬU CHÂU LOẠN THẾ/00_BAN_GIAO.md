@@ -10,8 +10,8 @@
 |---|---|
 | Ch1–Ch17 | **LOCKED** (file trong `locked/`) |
 | Tổng độ dài | **191.012 ký tự** (đếm lại 17 file LOCKED bằng `len()`; Ch17 = 9.913). Còn khoảng 108.988 cho 15 chương, trung bình ~7.266/chương |
-| **Việc đang dở** | Ch17 **CHAPTER LOCKED**; Canon Update Ch17 xong. **Chạy SONG SONG Ch18 + Ch19:** `gates/CCLT_Gate_Truoc_Ch18.md` (v1, Uyển, **upstream**) và `gates/CCLT_Gate_Truoc_Ch19.md` (v1, Dịch, **downstream**) **đã viết, chờ Pre-Audit của chị**. **Chưa** có Scene Bible/Draft cho hai chương này |
-| Bước tiếp theo | Pre-Audit Gate Ch18 + Gate Ch19 (cùng lượt) → Gate v2 → LOCK → Scene Bible Ch18 + Ch19 → Pre-Audit → LOCK → Draft v1 + Self-Audit → Audit (cả hai cùng lượt, mỗi chương giữ POV/chức năng riêng) → Draft v2 → Final Audit → CHAPTER LOCKED **Ch18 trước, rồi Ch19** → Canon Update (+Sync) |
+| **Việc đang dở** | Ch17 **CHAPTER LOCKED**; Canon Update Ch17 xong. **SONG SONG Ch18 + Ch19:** `gates/CCLT_Gate_Truoc_Ch18.md` và `gates/CCLT_Gate_Truoc_Ch19.md` đều **v2 LOCK** (Pre-Audit PASS CÓ ĐIỀU KIỆN; đã khóa D18-5 giữ im, GR18-3 siết, GR18-16; D19-5 = A, D19-10 = Hàn, Bàng đo bằng xe, "một con số" đọc được, món nợ thật, chuỗi mở cửa, cảnh cáo). **Scene Bible Ch18 v1** (`scene_bible/CCLT_Scene_Bible_Ch18.md`) và **Scene Bible Ch19 v1** (`scene_bible/CCLT_Scene_Bible_Ch19.md`) **đã dựng, chờ Pre-Audit**. Chưa có Draft |
+| Bước tiếp theo | Pre-Audit Scene Bible Ch18 + Ch19 (cùng lượt) → v2 → LOCK → Draft v1 + Self-Audit (cả hai) → Audit → Draft v2 → Final Audit → CHAPTER LOCKED **Ch18 trước, rồi Ch19** → Canon Update (+Sync) |
 | **Quy tắc SONG SONG (chị khóa)** | (1) **Ch18 là upstream:** Gate Ch19 chỉ dựa vào **khóa xuất E18-1/2/3** của Gate Ch18, điểm nối ở bảng **DEPENDENCY/OPEN** (Gate Ch19 mục 0B). (2) **Không** coi kết quả Ch18 là canon cho Ch19 cho tới khi **Ch18 CHAPTER LOCKED**. (3) Nếu Audit Ch18 đổi dependency: **chỉ sửa dòng nối tương ứng** của Gate Ch19, **không** mở lại toàn bộ Gate. (4) Ch19 **không** tự suy author-truth từ chi tiết Ch18 chưa khóa. (5) Hiện tại Gate Ch19 **độc lập dữ kiện** với Ch18 (J19-1…6 mặc định không nối) |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 

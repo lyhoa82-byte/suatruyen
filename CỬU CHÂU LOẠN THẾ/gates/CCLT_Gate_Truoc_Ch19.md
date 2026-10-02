@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 19
 
-*(v1 — **chờ Pre-Audit**. **Author-truth**; chi tiết chỉ thành canon khi Ch19 LOCK. **Pipeline SONG SONG: Ch19 là DOWNSTREAM của Ch18** — Gate này **độc lập dữ kiện** với Ch18; mọi điểm nối nằm trong **bảng DEPENDENCY/OPEN (mục 0B)**. Nền: Canon Ch1–Ch17 LOCKED; Canon Update Ch17 (mục IX); Gate Ch17 v2; **Khóa xuất E18-1/2/3 của Gate Ch18 v1** (mục 0B); Production Bible; Chapter Bible Ch19. Độ dài trên trang: **8.000–9.500** ký tự. Mục cần chị chọn đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị. Chi tiết mới đánh dấu **[P]**.)*
+*(v2 — **LOCK** sau Pre-Audit: PASS CÓ ĐIỀU KIỆN; đã khóa **D19-5 = A**, **D19-10 = Hàn**, Bàng đo bằng xe, **"một con số" đọc được (không magic)**, **"ai mở cửa" = lời hứa vượt quyền, tạo món nợ thật**, **chuỗi người/quyền/lý do cho Dĩnh Xuyên**, **lần tiếp cận đầu bị bắn cảnh cáo** (mục 0D). **Không mở lại Ch17.** **Author-truth**; chi tiết chỉ thành canon khi Ch19 LOCK. **Pipeline SONG SONG: Ch19 là DOWNSTREAM của Ch18** — Gate này **độc lập dữ kiện** với Ch18; mọi điểm nối nằm trong **bảng DEPENDENCY/OPEN (mục 0B)**. Nền: Canon Ch1–Ch17 LOCKED; Canon Update Ch17 (mục IX); Gate Ch17 v2; **Khóa xuất E18-1/2/3 của Gate Ch18 v1** (mục 0B); Production Bible; Chapter Bible Ch19. Độ dài trên trang: **8.000–9.500** ký tự. Mục cần chị chọn đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị. Chi tiết mới đánh dấu **[P]**.)*
 
 **Chapter Bible Ch19 — CỬA TỰ MỞ.** POV **Tiêu Dịch** (narration **"Dịch"/"hắn"**). Arc: **Legitimacy Payoff**. Vai trò: chứng minh **Danh có thể thành binh lực**; thành mở cửa **không vì bị đánh bại hoàn toàn**; Dịch bắt đầu hiểu **bản chất quyền lực của chính danh**. **Goal:** chiếm một thành quan trọng **không công thành**. **Obstacle:** quân Dịch không đủ mạnh để đánh trực diện. **Decision:** dùng **lương thực, kỷ luật quân đội, chính sách với dân, danh nghĩa chính thống, cam kết không trả thù**. **Cost:** Dịch phải cam kết những điều **sẽ ràng buộc mình về sau**. **New info:** dân và quan trong thành **tự mở cửa**. **Seed:** "cửa" như biểu tượng Danh; chính danh thành sức mạnh thực tế. **Payoff → Ch28, Ch32.** **Emotional movement:** Dịch hiểu Danh không phải khẩu hiệu. **Power shift:** một thành tự nguyện theo Dịch. **Hook:** một tướng nói: *"Không phải chúng ta đánh thắng thành này. Là thành này tự chọn chúng ta."*
 
@@ -55,6 +55,20 @@
 
 ---
 
+## 0D. CÁC ĐIỂM KHÓA TỪ PRE-AUDIT (LOCK)
+
+| Mã | Khóa | Hiệu lực với Scene Bible/Draft |
+|---|---|---|
+| **D19-5 = A** | Danh = **lời hứa đáng tin, căn cứ "lệ cũ"**; Dịch ký "Trình Dịch, sứ Ích Châu"; **không** tự xưng hoàng tử; **không** DANH-B/C | GR19-3 |
+| **D19-10 = Hàn** | Người nói câu hook là **Hàn** | Phó tướng thủy quân không nói câu này |
+| **Bàng đo bằng xe** | Chỗ đọc sai duy nhất: sổ đo bằng **xe**, **thuyền không có trong sổ**; Bàng tự thừa nhận bằng *"đi nhanh hơn sổ của ta"*, **không** nói chữ "thuyền" | Mục 4 |
+| **"Một con số" đọc được** | Con số là **số thật trong sổ ải Tây**, **kiểm được**, **không giả, không mật mã, không magic** (bảng mục 4B) | GR19-16 |
+| **"Ai mở cửa…"** | **Lời hứa vượt quyền, tạo món nợ thật** (bảng mục 6B: chủ nợ, cách đòi, mức) | GR19-8, GR19-18 |
+| **Chuỗi mở cửa** | Dĩnh Xuyên **không tự nhiên mở**: mục 3B liệt kê **từng người – quyền – lý do – việc làm – cái Dịch thấy** | GR19-17 |
+| **Lần tiếp cận đầu bị bắn cảnh cáo** | **GIỮ** (mục 8) | GR19-5 |
+
+---
+
 ## 1. SYNC #1 — THỜI GIAN VÀ NƠI CHỐN [P] **[CẦN DUYỆT]**
 
 | Hạng mục | Đề xuất |
@@ -98,6 +112,22 @@
 | **Đô úy** | **Không viện, không nước tiếp, thành chỉ còn lương một thời**; thấy **đầu bộ viện hàng mà không bị giết**; thấy **Bàng không hỏi người kẹt**; **không muốn bắn vào dân của thành mình**. Anh **không** giao thành: anh **không ra lệnh bắn** | Đứng trên tường, nhìn, **im** |
 | **Hàn / Chiêu** | Không vào thành; đứng ngoài **theo điều kiện** | Mục 7 |
 
+### 3B. CHUỖI NGƯỜI – QUYỀN – LÝ DO (khóa; GR19-17)
+
+> Cửa thành nhỏ **không mở vì một mệnh lệnh**; nó mở vì **một chuỗi người, mỗi người có quyền và lý do riêng**. Thiếu một mắt, cửa không mở.
+
+| # | Ai (vô danh) | **Quyền / vị trí** | **Lý do** | **Việc làm** | **Dịch thấy / nghe** |
+|---|---|---|---|---|---|
+| 1 | **Đô úy** | Giữ **lệnh bắn** và **then cổng** (lính cổng thuộc tay hắn) | Không viện (**ba ngày không ai tới**: đuôi bộ viện đã rút, Hổ Lao im); đầu bộ viện **hàng mà sống**; kho bến cháy; **không muốn bắn vào dân thành mình**; nhận **ba điều khoản** qua giỏ (không giết hắn và lính) | **Ngày 38–39** cho bắn **một mũi cảnh cáo** (lần đầu); **đêm ngày 40 nhìn giỏ thư thả xuống mà không ngăn**; **ngày 41 không ra lệnh bắn, không ra lệnh giữ then** | Trên tường, đứng, **im**; tay không đưa lên |
+| 2 | **Quan coi kho** (văn quan) | Giữ **chìa và sổ kho thóc trong thành**; là người **Hạ Hầu sẽ hỏi tội** vì kho bến | Kho bến cháy dưới tay hắn; **không còn chỗ về**; muốn giữ việc | **Viết thư giỏ** (ba câu); **trao sổ kho thóc** cho hào chợ để chia cho dân (thứ trao ra thành) | Giỏ thư; ngày 41 **cầm sổ** ở cổng |
+| 3 | **Hào chợ** (đứng đầu hành chợ sông) | **Tụ dân và người buôn**; giữ tiền thuế chợ; **quen làng trưởng thượng nguồn** (biết giá và **muối trả ngay**, Ch16) | Chợ chết (kho bến cháy, thuyền thóc hạ lưu không còn cập); **kho thóc của quân đóng cửa với dân**; thấy **Ích Châu giữ sổ cũ** | **Cùng quan viết thư giỏ**; **gọi từ chân tường** hỏi *"Ngài là người họ Tiêu?"* (D19-14); **tụ dân ở cổng** | Giọng gọi; đám người dưới cổng |
+| 4 | **Lính giữ cổng** (phần lớn **mộ ở vùng này** [P]; người nhà ở trong thành) | Thực tế **nhấc then** | Đứng giữa **dân (người nhà)** và **Đô úy không ra lệnh** | **Dạt ra**; **một người đặt giáo** khi nghe đọc *"không bị hỏi tội"* | Ngày 41 ở cổng |
+| 5 | **Dân** | **Số đông** ở cổng | Đói, chợ chết, **nghe muối trả ngay**, thấy **ba ngày không ai tới** | **Cùng nhấc then** | Ngày 41 |
+
+**Thứ tự (khóa):** (3)+(2) viết → (1) **không ngăn** → (5)+(4) **nhấc then** → (1) **không ra lệnh**. **Không ai trong liên minh** tham gia. **Không có mắt nào do Dịch xếp sẵn** (Dịch không biết trong thành ai làm gì; hắn chỉ biết qua giỏ thư và qua cái hắn thấy ở cổng).
+
+**Nếu mất một mắt:** nếu Đô úy ra lệnh bắn → không mở (đó là kịch bản thất bại, mục 8). Đây là lý do **lần cảnh cáo ngày 38–39 là có thật**.
+
 **Danh nằm ở đâu:** không phải ở **tước vị** (Dịch chưa công khai, Kim Lăng chưa công nhận), mà ở **chỗ một lời hứa có thể được tin**: **muối trả ngay** (Ch16), **hàng binh sống** (mục 2), **Ích Châu giữ sổ cũ** thậm chí **với kẻ địch** (mục 4). Người trong thành **tin** văn *an dân* vì họ **thấy** ba việc đã được giữ trước khi tờ giấy tới.
 
 **Cửa mở thế nào [P]:** **dân và quan** mở từ bên trong (hào chợ + quan coi kho + một đám dân ở cổng); **Đô úy không ra lệnh bắn**; lính **đứng dạt**. **Không** ai trong liên minh đẩy cánh cửa.
@@ -117,7 +147,16 @@
 - **"Ta cần cỏ"** → kho bến Dĩnh Xuyên là **kho cỏ thật** (khớp lời Dịch ở Ch17: *"Kho cỏ ngoài tường là cỏ của kỵ che"*).
 - **"Tờ thứ nhất, ta vẫn chờ"** → **cánh cửa chính trị** của Bàng còn mở (**không giải**).
 
-**Dịch với Hàn (một cặp câu, nói bằng số, không "hắn nghĩ gì") [P] [CẦN DUYỆT]:**
+### 4B. "MỘT CON SỐ" — ĐỌC ĐƯỢC, KHÔNG MAGIC (khóa; GR19-16)
+
+| | |
+|---|---|
+| **Con số là gì** | *"Một nghìn suất mỗi kỳ. Cỏ cho ba trăm ngựa. Giá như cũ."* = **số thật trong sổ ải Tây nhiều năm**, **khớp phê của Ôn (Ch9)**, **kiểm được** bằng sổ hai bên. **Không giả, không mật mã, không đánh lừa** |
+| **Bàng đọc được gì** (hợp lý, bằng lương) | (a) Ích Châu **không bán nhiều hơn** → **không có dư lương** nuôi đại quân; (b) liên minh **đang ăn bằng đoàn nhỏ lẻ** (chín đường, Ch16; ai cũng thấy); (c) Ích Châu **vẫn đáp đúng sổ cũ** giữa chiến sự → **người bán, không phải người đánh**; (d) kỵ nhẹ vài nghìn ngựa **không thể ăn bằng con số ấy** → **đi tìm cỏ** → *"quân đói đi tìm kho gần nhất"* |
+| **Con số KHÔNG chứng minh** | Ích Châu **không** chở được bộ nhanh. Chỗ ấy là **khoảng trống của sổ** (sổ đo **xe**), **không** do con số |
+| **"Để hắn có một con số" nghĩa là** | **Dịch không ném mồi giả.** Hắn chỉ **không đưa con số nào khác** ngoài **số thật**; Bàng, người nghĩ bằng lương, **tự lấy** nó làm thước. **Chọn không nói thêm** chứ không **nói dối** |
+
+**Dịch với Hàn (một cặp câu, nói bằng số, không "hắn nghĩ gì") [P]:**
 - Hàn: *"Ông gửi cho hắn một nghìn suất. Để làm gì?"*
 - Dịch: *"Để hắn có một con số."*
 (rồi **dừng**; Dịch **không** giải thêm.) Và: *"Sổ của hắn đo bằng xe."* — Hàn: *"Hắn biết rồi."* — Dịch: *"Biết rồi. Lần sau hắn đo bằng thuyền."* → **không dùng lại được** cái bẫy này.
@@ -159,6 +198,17 @@
 3. **C3 — Quan cũ giữ việc:** Dịch **không** thay người; nếu quan cũ **xấu**, hắn **phải chịu**.
 4. **C4 — Vượt thẩm quyền:** hắn **hứa như người có quyền ân xá** trong khi **không có**: nếu **Kim Lăng không nhận**, lời hắn **trống** → hắn **giữ bằng cá nhân**, kể cả khi triều không. → **Ch20** (Vân Chương dùng *ân xá* như một công cụ: Dịch đã **làm trước**).
 
+### 6B. MÓN NỢ THẬT (khóa; GR19-18)
+
+| Món nợ | **Chủ nợ / người đòi được** | **Cách đòi cụ thể** | Mức / payoff |
+|---|---|---|---|
+| **C1 "ai mở cửa, không bị hỏi tội"** | **Những người đã mở cửa** (hào chợ, quan, lính, dân) và **mọi nơi mở cửa về sau** | **Tờ niêm yết** nằm trong tay họ, có **chữ ký Dịch**; họ **đọc lại** nó với chính hắn | Ch28 (Lạc Kinh), Ch32 |
+| **C2 muối vượt trần Ôn** | **Ôn / sổ nợ mang tên Dịch** | *"Quá số ấy, ngươi tự chịu"* (Ch16): ~**50 bao** | Ch24 |
+| **C3 quan cũ giữ việc** | **Thành Dĩnh Xuyên** | Nếu quan **sai**, Dịch **không có quyền thay** theo lời mình | Ch20+ |
+| **C4 vượt quyền ân xá** | **Kim Lăng / Vân Chương** | Nếu Kim Lăng **không nhận**, lời **trống** → Dịch **giữ bằng cá nhân** | Ch20 |
+
+**Món nợ là CÓ THẬT vì:** (i) nó **bằng văn bản, nằm trong tay người khác**; (ii) nó **tốn thật** (muối); (iii) nó **hạn chế lựa chọn** sau này của Dịch (không hỏi tội được, không thay được).
+
 **Cách cái giá hiện trên trang (không giải thích):**
 - Dịch **cộng muối trên một mảnh giấy**, thấy **số vượt**, **ký tên**. Hàn thấy; **không ai nói**.
 - Khi viết dòng *"không bị hỏi tội"*, **ngòi bút dừng**; Chiêu (nếu có mặt) hỏi: *"Ngươi viết thay ai?"* — Dịch: *"Thay người ký."* (OPEN danh).
@@ -186,7 +236,7 @@
 
 Thành **không** mở theo lịch. Trên trang phải có:
 
-1. **Lần tiếp cận đầu (ngày 38–39) bị từ chối:** một sĩ quan Ích Châu (vô danh) đem **văn an dân** tới chân tường dưới cờ trắng; **một mũi tên cắm xuống trước chân người ấy** (cảnh cáo). **Không ai trả lời.**
+1. **(LOCK) Lần tiếp cận đầu (ngày 38–39) bị từ chối:** một sĩ quan Ích Châu (vô danh) đem **văn an dân** tới chân tường dưới cờ trắng; **một mũi tên cắm xuống trước chân người ấy** (cảnh cáo). **Không ai trả lời.**
 2. **Một khoảng im** (ngày 39–40): thuyền lương dỡ thóc; **làng trưởng** và vài dân làng tới mua; **tường nhìn**; **cổng vẫn đóng**. Hàn nói *"Hết ngày bốn mươi mốt, ta về Lạc Thủy."* (**Dịch không cản**; hạn là của Hàn.)
 3. **Thư từ trong thành (đêm ngày 40):** quan coi kho thả **một giỏ** xuống: **ba câu** (giữ việc; không hỏi tội; Đô úy và lính **không bị giết**). **Không** ký tên.
 4. **Nếu không mở (kịch bản đã tính, không dùng):** **không công thành**; thuyền rút; Hàn về Lạc Thủy; Chiêu về biên theo hạn; **văn an dân đã niêm yết vẫn còn hiệu lực** (cam kết **đã ra**). Thất bại **không xóa** cái giá. **Không** nêu kịch bản này trong lời nói; hiện bằng **Hàn nói hạn**.
@@ -197,7 +247,7 @@ Thành **không** mở theo lịch. Trên trang phải có:
 
 - **Cảnh cuối (ngày 41):** **cổng Dĩnh Xuyên** mở: **hào chợ + quan coi kho + đám dân** nhấc then từ trong; **Đô úy đứng trên tường, tay không đưa lên**; lính dạt hai bên. **Văn an dân** được **dán lên cổng bằng tay người khác** (một thư lại / người của thành), **một người đọc to** dòng *"không bị hỏi tội"* cho lính Hạ Hầu nghe; **một người lính đặt ngọn giáo xuống.**
 - **Dịch không vào trước.** Hàn và bộ Ích Châu **đứng ngoài** như đã hẹn. Dịch **đứng nhìn tờ giấy có chữ ký của mình trong tay người khác**; **không** nói gì (**insight hiện bằng hành động, không bằng lời**).
-- **Hook (khóa theo Chapter Bible):** **Hàn** (vai còn băng, cạnh Dịch) nói: *"Không phải chúng ta đánh thắng thành này. Là thành này tự chọn chúng ta."* Dịch **không đáp.** **[CẦN DUYỆT]: người nói là Hàn** (khuyến nghị: Hàn tự chịu quyết gửi bộ, Ch17; câu hợp vai). Phương án khác: phó tướng thủy quân.
+- **Hook (khóa theo Chapter Bible):** **Hàn** (vai còn băng, cạnh Dịch) nói: *"Không phải chúng ta đánh thắng thành này. Là thành này tự chọn chúng ta."* Dịch **không đáp.** **Người nói là Hàn (LOCK, D19-10).**
 - **Power shift:** một thành **tự nguyện** theo Dịch; Hạ Hầu **mất cảng cấp lương hoàn toàn** (không còn chỗ cho thuyền thóc hạ lưu); Hổ Lao **vẫn giữ**; **không** tuyên bố "thế đã đảo".
 - **Không số** quân, thương vong, bao muối.
 
@@ -254,6 +304,9 @@ Thành **không** mở theo lịch. Trên trang phải có:
 | **GR19-13** | **Không moralize** Danh; insight hiện bằng **việc** (đứng nhìn tờ giấy trong tay người khác); không câu *"Danh là…"* |
 | **GR19-14** | **Đầu bộ viện hàng:** Hàn nói **một lần**; **không** cảnh hàng binh kéo dài; **không** hành hạ |
 | **GR19-15** | **Tiểu Thất:** chỉ một nhịp ghi tên; **không** hồi tưởng cách chết |
+| **GR19-16** | **"Một con số" đọc được:** số **thật**, kiểm được; không giả, không mật mã, không "Dịch thao túng"; Dịch **chọn không nói thêm**, không nói dối (mục 4B) |
+| **GR19-17** | **Chuỗi mở cửa:** mỗi người có **quyền, lý do, việc làm** (mục 3B); **không ai** trong liên minh đẩy cửa; Dịch **không** xếp sẵn; thiếu một mắt thì cửa **không** mở |
+| **GR19-18** | **Món nợ thật** (mục 6B): bằng văn bản, tốn thật, hạn chế lựa chọn; **không** giải nghĩa bằng lời |
 
 ---
 
@@ -265,12 +318,12 @@ Thành **không** mở theo lịch. Trên trang phải có:
 | D19-2 | **Trạng thái giữa Ch17 và Ch19** (mục 2): kỵ viện tàn tan về hạ lưu; đuôi bộ viện rút Hổ Lao; **đầu bộ viện buông giáp** (Hàn một lần); Đô úy/quan/dân trong thành | Duyệt |
 | D19-3 | **Chuỗi nhân quả thành mở** (mục 3): dân/hào chợ, quan coi kho, Đô úy không ra lệnh bắn; Danh = lời hứa đáng tin | Duyệt |
 | D19-4 | **Thư Bàng** (mục 4) và cặp câu *"Để hắn có một con số."*; **trả lời đúng sổ cũ** | Duyệt (Scene Bible chỉnh chữ) |
-| D19-5 | **Danh:** DANH-A (khuyến nghị) / B / C | **Chị chọn** (khuyến nghị A) |
+| D19-5 | **Danh = A** | **LOCK** |
 | D19-6 | **Văn an dân** (mục 5); lời hứa **"ai mở cửa, không bị hỏi tội"** (rộng) | Duyệt |
 | D19-7 | **Cái giá** C1–C4 (mục 6): vượt trần Ôn ~50 bao; vượt thẩm quyền; payoff Ch24/Ch28/Ch32/Ch20 | Duyệt |
 | D19-8 | **Chiêu không ký, không cho kỵ nhẹ vào thành**; Hàn quyết bộ | Duyệt |
 | D19-9 | **Khả năng thất bại** (mục 8): tên cảnh cáo; im; thư giỏ đêm ngày 40; Hàn nói hạn | Duyệt |
-| D19-10 | **Hook:** người nói là **Hàn** | **Chị chọn** (khuyến nghị Hàn) |
+| D19-10 | **Hook:** người nói là **Hàn** | **LOCK** |
 | D19-11 | Dịch ở đâu trong trận: **trên thuyền cuối, ở cọc; xuống bờ rạng ngày 37** | Duyệt |
 | D19-12 | **Bảng DEPENDENCY (mục 0B):** J19-1 → J19-6, mặc định **không nối** | Duyệt |
 | D19-13 | Vắng mặt: Bàng (chỉ thư), Uyển, Bắc Nhung, Vân Chương, Chỉ, Ôn, Tô, Phùng Bảo | Duyệt |
@@ -294,4 +347,4 @@ Thành **không** mở theo lịch. Trên trang phải có:
 
 ## 16. TRẠNG THÁI
 
-**FOUNDATION GATE CH19: v1 — chờ Pre-Audit** (SONG SONG; **downstream** của Ch18; **độc lập dữ kiện** với Ch18, mọi điểm nối ở mục 0B, mặc định không nối). D19-1 → D19-14 chờ duyệt; **D19-5 (Danh) và D19-10 (người nói hook) cần chị chọn**. Bước kế: Pre-Audit → v2 → LOCK → Scene Bible Ch19 v1. **Chưa** viết Scene Bible/Draft.
+**FOUNDATION GATE CH19: LOCK (v2).** Pre-Audit: PASS CÓ ĐIỀU KIỆN → các khóa mục 0D đã ghi (D19-5 = A; D19-10 = Hàn; Bàng đo bằng xe; "một con số" đọc được; "ai mở cửa" = món nợ thật; chuỗi mở cửa 3B; cảnh cáo ngày 38–39) → LOCK. **Độc lập dữ kiện** với Ch18 (mục 0B, mặc định không nối). Không mở lại Ch17. Không thêm lore. Bước kế: Scene Bible Ch19 v1 (song song Ch18).

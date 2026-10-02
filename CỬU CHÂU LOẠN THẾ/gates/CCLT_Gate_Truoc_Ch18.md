@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 18
 
-*(v1 — **chờ Pre-Audit**. **Author-truth**; chi tiết chỉ thành canon khi Ch18 LOCK. **Pipeline SONG SONG: Ch18 là UPSTREAM của Ch19** (mục 0B). Nền: Canon Ch1–Ch17 LOCKED; Canon Update Ch17 (mục IX); Gate Ch17 v2; Production Bible (Bắc Nhung; Tây Lương; Nguyên tắc khoảng cách); Chapter Bible Ch18. Độ dài trên trang: **7.500–9.000** ký tự. Mục cần chị chọn đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị. Chi tiết mới đánh dấu **[P]**.)*
+*(v2 — **LOCK** sau Pre-Audit: PASS CÓ ĐIỀU KIỆN; đã khóa **D18-5 = GIỮ IM**, **"đường rút" = cơ hội tuân luật, không phải bẫy**, **cái giá các bộ quay lưng phải có nguyên nhân trực tiếp trên trang** (mục 0D). **Author-truth**; chi tiết chỉ thành canon khi Ch18 LOCK. **Pipeline SONG SONG: Ch18 là UPSTREAM của Ch19** (mục 0B). Nền: Canon Ch1–Ch17 LOCKED; Canon Update Ch17 (mục IX); Gate Ch17 v2; Production Bible (Bắc Nhung; Tây Lương; Nguyên tắc khoảng cách); Chapter Bible Ch18. Độ dài trên trang: **7.500–9.000** ký tự. Mục cần chị chọn đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị. Chi tiết mới đánh dấu **[P]**.)*
 
 **Chapter Bible Ch18 — NGƯỜI Ở PHÍA BẮC.** POV **Tiêu Uyển** (narration **"Uyển"/"nàng"**). Arc: **Diplomatic / Emotional Deepening**. Vai trò: Uyển thành người **chủ động thay đổi chiến tranh**; Bắc Nhung **không phải một khối**; làm rõ tình cảm Uyển–Vân Chương; chuẩn bị cái giá cho Uyển. **Goal:** cắt đường tiếp tế của Hạ Hầu **mà không** kéo Bắc Nhung vào chiến tranh tổng lực. **Obstacle:** các bộ muốn cướp bóc; Hách Liên Chước muốn chiến tranh; Uyển phải giữ quyền lực. **Decision:** xử tử một thủ lĩnh phá kỷ luật. **Cost:** một phần thế lực Bắc Nhung chống lại Uyển. **New info:** Uyển giữ cân bằng **bằng sức mạnh chứ không chỉ ngoại giao**. **Seed:** mâu thuẫn nội bộ Bắc Nhung; Hách Liên Chước; Uyển bị cô lập dần; cái giá của việc giữ Bắc Nhung không tan vỡ. **Payoff → Ch25.** **Emotional movement:** giữ được quyền lực → mất dần chỗ dựa. **Power shift:** Hạ Hầu mất một phần hậu cần; Uyển mất một phần ảnh hưởng. **Hook:** *Hách Liên Chước bắt đầu tập hợp quân.*
 
@@ -49,6 +49,16 @@
 
 ---
 
+## 0D. BA ĐIỂM KHÓA TỪ PRE-AUDIT (LOCK)
+
+| Mã | Khóa | Hiệu lực với Scene Bible/Draft |
+|---|---|---|
+| **D18-5 (LOCK)** | **GIỮ IM về Khả hãn.** Không nhắc, không giải thích vắng. Quyền xử đến từ **hòa ước + luật chợ biên do trướng Khả đôn giữ** và việc **các thủ lĩnh theo nàng có mặt làm chứng** | Không câu nào hỏi/đáp "Khả hãn đâu"; không "mơ hồ nhắc" (bỏ phương án ii) |
+| **GR18-3 (siết)** | **"Đường rút" = cơ hội tuân luật, KHÔNG phải bẫy.** Đề nghị phải **thật sự chấp nhận được** (bán qua chợ biên, nộp thuế, giữ **nửa** bạc cũ); nếu hắn nhận, **nàng giữ lời** và **không xử**. Người đặt ở giếng là **thi hành luật cho mọi đàn đi tây**, không nhằm riêng hắn | Scene Bible: Uyển **không** biết chắc hắn phạm; **không** có cảnh nàng "mong" hắn phạm; trướng quân **chặn mọi đàn** đi qua giếng, hắn là đàn **đầu tiên** tới |
+| **GR18-16 (mới)** | **Mỗi nhóm quay lưng phải có NGUYÊN NHÂN TRỰC TIẾP trên trang** (một việc cụ thể nàng làm hoặc một thiệt hại cụ thể họ chịu), không "vì sợ", không "vì tin đồn" | Mục 6, bảng nguyên nhân; Draft không để một nhóm rời đi mà người nghe không thấy **vì sao** |
+
+---
+
 ## 1. SYNC #1 — THỜI GIAN VÀ NƠI CHỐN [P] **[CẦN DUYỆT]**
 
 | Hạng mục | Đề xuất |
@@ -67,7 +77,7 @@
 
 **Tuyến [P]:** Tây Lương → **rìa tây thảo nguyên** → các **bộ nhỏ** bán ngựa thay và thịt khô vào đầu xuân → Hạ Hầu trả **bạc Lạc Kinh** (kho bạc Lạc Kinh, Production Bible; cùng mạch với bạc mua lương dân ở Ch16). Tuyến này **ngoài đất Hoắc** (Hoắc giữ Hắc Hà – Vân Trung – Bắc Môn; **không chạm rìa tây**) → **liên minh không cắt được**. **Chỉ người có quyền trên chợ, đồng cỏ, giếng nước của thảo nguyên** mới cắt được: **Uyển.**
 
-**Môi giới [P]:** **Tu Bặc Cốt** (thủ lĩnh một bộ lớn, mục 4), gom ngựa của các bộ nhỏ **theo giá của hắn** (bộ nhỏ ép bán), đưa về tây qua giếng. Hai đợt đã đi (mỗi đợt vài trăm ngựa + thịt khô đóng bao). **Đợt ba** là việc của chương.
+**Môi giới [P]:** **Tu Bặc Cốt** (thủ lĩnh một bộ lớn, mục 4), gom ngựa của các bộ nhỏ **theo giá của hắn** (bộ nhỏ ép bán), đưa về tây qua giếng. Hai đợt đã đi (mỗi đợt vài trăm ngựa + thịt khô đóng bao). **Đợt ba** là việc của chương. **Tu Bặc Cốt trả bạc cho bộ nhỏ SAU KHI giao qua giếng** (hai đợt trước đã trả; **đợt ba: bạc chưa trả, ngựa của các bộ nhỏ đã giao cho hắn**). Đây là gốc nguyên nhân của một nhóm quay lưng (mục 6).
 
 **Mức cắt (khóa tối thiểu) [P]:** đợt ba **bị tịch thu**; các bộ nhỏ **ngừng bán đường tây** trong mùa này; Hạ Hầu **thiếu một phần** ngựa thay, **không** thiếu toàn bộ; mất **vài tuần** dựng tuyến khác. **Không** "đứt hậu cần".
 
@@ -86,7 +96,7 @@
 
 **Sức mạnh của Uyển (khóa) [P]:** (a) **trướng quân** (vệ binh Khả đôn, **vài trăm**, trung thành riêng); (b) **kỵ các bộ theo nàng** (gần hai nghìn, Ch10); (c) **giếng nước và chợ biên** (nàng chia nước, chia đồng cỏ, thu thuế). **Sức mạnh = (a)+(b)+(c)**, không phải lời nói. Đây là **new info** của chương.
 
-**Quyền xử [P] [CẦN DUYỆT]:** đến từ **hòa ước và luật chợ biên do trướng Khả đôn giữ**, và từ việc **các thủ lĩnh theo nàng có mặt, đứng làm chứng** (không ai trong số họ phản đối là **một phần** của phán quyết). **Khả hãn: không nhắc trên trang** (OPEN); **không** giải thích vì sao vắng. *Nếu Pre-Audit thấy người nghe sẽ hỏi "Khả hãn đâu" quá mạnh → chị chọn: (i) giữ im (khuyến nghị: quyền của Uyển ở Ch12–13 đã được trình bày không có Khả hãn), (ii) một nhịp nói mơ hồ ("trướng này giữ luật chợ")*.
+**Quyền xử (LOCK, D18-5):** đến từ **hòa ước và luật chợ biên do trướng Khả đôn giữ**, và từ việc **các thủ lĩnh theo nàng có mặt, đứng làm chứng** (không ai trong số họ phản đối là **một phần** của phán quyết). **Khả hãn: GIỮ IM** — không nhắc, không giải thích. Ch12–13 đã trình bày quyền của Uyển không có Khả hãn.
 
 **Uyển bị cô lập dần:** Hách Liên **không** cần có mặt: mỗi lựa chọn đúng của nàng **lấy đi một nhóm ủng hộ**.
 
@@ -105,9 +115,9 @@
 **Tu Bặc Cốt [P]:** thủ lĩnh một bộ lớn (**chừng tám trăm kỵ**, không số trên trang); **kết thân với Hách Liên** (hôn nhân [P]); **khôn, không ngu**: hắn tính được luật này **lấy mất bạc của hắn**, và tin **Hách Liên cần một cớ**. Cớ có thể **do hắn tạo**. Hắn có **năng lực** (hộ tống, đàn, đường).
 > Tên **"Tu Bặc Cốt"** [P] (đã đối chiếu: **không** trùng tên nào trong canon, **không** gần âm "Hách Liên"). Chị có thể đổi.
 
-**Cơ hội rút lui (khóa; GR18-3):** **đêm trước hội**, Uyển **gọi riêng** Tu Bặc Cốt, đề nghị: *bán qua chợ biên, nộp thuế, giữ bạc ở mức nửa cũ*. Hắn **từ chối**, **không nói rõ**. Cơ hội này phải **có trên trang** (một nhịp, S1 hoặc S2) để cái chết sau đó **không phải sự trả thù**.
+**Cơ hội tuân luật (khóa; GR18-3 siết):** **đêm trước hội**, Uyển **gọi riêng** Tu Bặc Cốt, đề nghị: *bán qua chợ biên, nộp thuế, giữ bạc ở mức nửa cũ* (nàng **bù** một phần bằng chia đồng cỏ gần sông cho bộ hắn). Đề nghị **chấp nhận được thật**: bộ hắn **vẫn sống tốt**. Nếu hắn nhận, **nàng giữ lời** và không xử. Hắn **từ chối**, **không nói rõ** vì sao. Nhịp này **có trên trang** (S1) để cái chết sau đó **không phải sự trả thù**. **Cấm:** Uyển nói/nghĩ "hắn sẽ từ chối", "hắn sẽ phạm"; cấm narrator đặt đề nghị như một "nước cờ".
 
-**Uyển không chắc hắn sẽ phạm [P]:** nàng **chuẩn bị** (đặt người ở giếng trước) nhưng **không biết** hắn phạm lúc nào, ở đâu. **Cost của chuẩn bị:** trướng quân rời trướng đúng lúc Hách Liên **có người dự hội nhìn thấy**.
+**Người ở giếng = thi hành luật, không phải bẫy [P]:** **luật 1** làm **mọi đàn ngựa đi tây** phải **đăng sổ ở giếng** (giếng thuộc bộ theo Khả đôn). Trướng quân đặt ở giếng **từ trước hội** vì luật cần người **canh**, **cho mọi đàn** (nhiều bộ nhỏ cũng có đàn đi qua; một đàn của bộ nhỏ **được đăng sổ, đi qua** ngay trên trang là một chi tiết nên có, nếu Scene Bible đủ chỗ). Hắn là đàn **đầu tiên không chịu đăng sổ**, **và** đã giết người trên đường tới. **Cost của việc đặt người:** trướng quân rời trướng đúng lúc người dự hội của Hách Liên **thấy** (nhưng nàng **phải** đặt vì luật, không vì hắn).
 
 ---
 
@@ -131,14 +141,23 @@
 **Chuỗi hành động [P]:**
 1. Hội: Uyển công bố luật. Tu Bặc Cốt đứng nghe, không phản đối công khai. Người của Hách Liên ngồi im.
 2. Đêm: Tu Bặc Cốt **dẫn đàn ngựa (đợt ba)** về tây **cùng người mua Tây Lương**, và để **bù bạc đã mất**, **cướp một đoàn buôn Hán của chợ biên** trên đường ra giếng, **giết một thương nhân**. Hắn biết đó là **phạm luật 2 và hòa ước**; hắn tin Uyển **không dám xử** (xử thì mất một bộ lớn; không xử thì mất luật).
-3. **Giếng:** trướng quân của Uyển (**đã đặt trước**) chặn đàn ngựa **ở nguồn nước**: **không có nước, đàn không đi tiếp** (Production Bible: nước ở đâu). Toán kỵ độc lập hộ tống **rút**. Tu Bặc Cốt **không có đủ người** để đánh vào trướng quân + kỵ các bộ theo Uyển. **Không đổ máu lớn** [P].
+3. **Giếng:** trướng quân (**đặt từ trước để canh luật cho mọi đàn**) **đòi đăng sổ**; đàn của hắn **không đăng sổ, không được lấy nước**: **không có nước, đàn không đi tiếp** (Production Bible: nước ở đâu). Toán kỵ độc lập hộ tống **rút** (hắn không trả nổi công khi đàn bị giữ). Tu Bặc Cốt **không có đủ người** để đánh vào trướng quân + kỵ các bộ theo Uyển. **Không đổ máu lớn** [P]. **Đàn bị giữ:** theo luật, **đàn của kẻ giết thương nhân dưới cờ chợ sung vào chợ biên** (nuôi trướng quân, trả công kỵ các bộ theo nàng); **gồm cả ngựa của các bộ nhỏ chưa được trả bạc** (mục 2).
 4. **Người mua Tây Lương:** Uyển **cho về, tay không**, kèm một câu: *chợ biên mở cho mọi người; ngựa chiến không đi đường khác*. **Không** giết, không bắt. (**GR18-9**)
 5. **Phiên xử** ở bãi hội: Tu Bặc Cốt được **nói**. Lời hắn công kích **quyền** của nàng: *"người Hán"* và việc **trả mũ trụ / quân cờ trắng** (Ch10: *"Khả đôn nói thay người Hán"*). **Uyển không phủ nhận, không xác nhận động cơ** (OPEN: Uyển biết gì về Tam Lang). **Tội** chỉ nêu theo **luật 2 + hòa ước**: **giết thương nhân dưới cờ chợ**, **cướp chợ**. **Nén bạc Lạc Kinh nằm trong tay áo nàng, không đưa ra, không nêu Hạ Hầu** (nếu nêu, Hạ Hầu thành bên đối đầu → chiến tranh lan).
 6. **Xử tử:** theo luật, **trướng quân thi hành**; Uyển **đứng nhìn**, không quay mặt. **Không** miêu tả máu; hiện bằng **tiếng, im lặng, chỗ đứng của người khác**.
 
 **Vì sao xử (không nhẹ hơn) [P]:** (a) nếu **không xử** kẻ giết thương nhân dưới cờ chợ, **Vân Trung/Hoắc** có cớ đáp trả → **chiến tranh biên giới**; (b) các bộ khác **thử** luật; (c) Hách Liên **dùng** vụ việc làm cớ. Xử **ngăn** chiến tranh nhỏ nhưng **mở** đường cho chiến tranh lớn hơn về sau (đó là **cost**, mục 8).
 
-**Cái giá (khóa) [P]:** (1) **bộ của Tu Bặc Cốt và thân tộc** rời hội, không cúi chào; (2) **một nửa bộ nhỏ** (các bộ mất đường bán bạc) **quay lưng**: không ăn lửa của nàng, rời đồng cỏ gần sông; (3) **người dự hội của Hách Liên** rời hội trước; (4) **kỵ độc lập** không còn tin nàng; (5) Uyển **không còn ai để nói** (mục 7). **Không số** trên trang ("nửa số chỗ ngồi").
+**Cái giá (khóa) [P] — mỗi nhóm có NGUYÊN NHÂN TRỰC TIẾP (GR18-16):**
+
+| Nhóm quay lưng | **Nguyên nhân trực tiếp (thấy trên trang)** | Biểu hiện |
+|---|---|---|
+| **Bộ Tu Bặc Cốt và thân tộc** | Nàng **xử tử người của họ** ngay trước mặt họ | Rời hội ngay, **không cúi chào** |
+| **Các bộ nhỏ đã giao ngựa đợt ba** (một nửa số bộ nhỏ) | **Ngựa họ giao cho Tu Bặc Cốt, chưa nhận bạc, bị sung vào chợ biên** theo luật; nàng chỉ **bù nửa giá qua chợ biên** (đúng luật, **không đủ**); thêm **luật 1** đóng đường bán bạc của họ (S2: họ **phản ứng** khi nàng công bố) | Không ăn lửa của nàng; rời đồng cỏ gần sông. **Một người già đứng ra nói một câu về ngựa chưa trả** (S4) |
+| **Người dự hội của Hách Liên** | **Không phải quay lưng vì giận**: hắn **có cớ** (một thủ lĩnh kết thân Hách Liên bị xử trước hội vì một thương nhân Hán) | **Rời hội trước**, không chào |
+| **Kỵ độc lập** | Chủ **chết**, **đàn bị giữ**, **không ai trả công** (nàng không trả công cho kẻ hộ tống kẻ phạm) | **Không theo ai**, tan đi (**không** coi là thù; nếu chị muốn "mất tin" thì phải có một việc cụ thể khác) |
+
+**Uyển lại mất một phần ảnh hưởng, và không ai để kể** (mục 7). **Không số** trên trang ("nửa số chỗ ngồi").
 
 ---
 
@@ -168,9 +187,9 @@
 | Cảnh | Nội dung | Thế cờ đổi |
 |---|---|---|
 | S1 | Trướng Khả đôn: sổ chợ biên thiếu ngựa; người già bộ nhỏ mang nén bạc; **đêm trước hội** gọi riêng Tu Bặc Cốt, **cho một đường rút**, hắn từ chối | **Nàng có fact; cơ hội đầu tiên bị từ chối** |
-| S2 | Bãi hội mùa xuân: Uyển công bố **luật mùa cỏ**; chia đồng cỏ; người của Hách Liên im; Tu Bặc Cốt đứng nghe | **Nàng đã cam kết công khai** (không rút lại) |
+| S2 | Bãi hội mùa xuân: Uyển công bố **luật mùa cỏ**; chia đồng cỏ; **một đàn bộ nhỏ đăng sổ** (nếu đủ chỗ); các bộ nhỏ **phản ứng** vì đường bán bạc đóng; người của Hách Liên im; Tu Bặc Cốt đứng nghe | **Nàng đã cam kết công khai** (không rút lại) + **gieo nguyên nhân** của nhóm quay lưng |
 | S3 | Giếng cuối dải khô: trướng quân chặn đàn; **thương nhân Hán đã chết** (tin); quân nhu Tây Lương; kỵ độc lập rút; nàng cho người mua về | **Hắn phạm; nàng thắng bằng nước và quân**; Hạ Hầu bị cắt **một phần** |
-| S4 | Phiên xử: Tu Bặc Cốt nói; công kích "người Hán"/mũ trụ; nàng **không phủ nhận**; xử tử; cảnh sau (chỗ ngồi trống, tay áo có nén bạc) | **Lựa chọn + cái giá** |
+| S4 | Phiên xử: Tu Bặc Cốt nói; công kích "người Hán"/mũ trụ; nàng **không phủ nhận**; xử tử; **đàn bị sung chợ biên, người già nói về ngựa chưa trả**; cảnh sau (chỗ ngồi trống, tay áo có nén bạc) | **Lựa chọn + cái giá có nguyên nhân** |
 | S5 | Trướng, đêm: thư ngắn; gói vỏ quýt đi sau; ông già ngồi xa; **rạng sáng** tin Hách Liên | **Hook** |
 
 **Độ dài mục tiêu:** **7.500–9.000** ký tự (còn lại **108.988** cho 15 chương, trung bình ~7.266). **Gộp** cảnh nếu cảnh chỉ thêm thông tin (Bible: *mỗi cảnh phải đổi thế cờ*): S3 và S4 là hai cảnh **nặng**; S1 và S2 có thể **gộp** nếu cần.
@@ -201,14 +220,16 @@
 |---|---|
 | **GR18-1** | **Nguồn tin của Uyển** là **sổ chợ biên + người già bộ nhỏ + nén bạc + chính nàng thấy**. **Dạ Kiêu / A Quy / Kha Trọng / rò Ch14 không là nguồn**; không "rò", "báo tin" |
 | **GR18-2** | **Bắc Nhung không "một khối"**, không "man di"/"dã man". Mỗi phe có **lợi ích** (đồng cỏ, nước, bạc, mùa đông). Narrator **không** gắn nhãn đạo đức |
-| **GR18-3** | **Cơ hội rút lui** cho Tu Bặc Cốt **có trên trang** trước khi hắn phạm; xử **vì** luật 2 + hòa ước (giết thương nhân dưới cờ chợ), **không** vì bán ngựa cho Hạ Hầu |
+| **GR18-3** | **Cơ hội tuân luật** (không phải bẫy; mục 0D): đề nghị **thật**, nàng **giữ lời nếu hắn nhận**; xử **vì** luật 2 + hòa ước (giết thương nhân dưới cờ chợ), **không** vì bán ngựa cho Hạ Hầu; người ở giếng **canh luật cho mọi đàn** |
 | **GR18-4** | **Không đụng OPEN:** Khả hãn; con Uyển; huyết thống Hoài Nam vương; căn cứ Uyển biết Tam Lang là nữ; câu Vân Chương không hỏi; Uyển biết gì về Tam Lang |
 | **GR18-5** | **Uyển–Vân Chương chỉ qua hành động** (gói vỏ quýt *đi sau*); **không** lời tỏ tình, **không** "yêu/nhớ", **không** monologue; Vân Chương **không xuất hiện** |
 | **GR18-6** | **Không Chiêu / Dịch / Hoắc quân trong cảnh.** Tên Chiêu **không** lên trang; Tu Bặc Cốt chỉ nêu **mũ trụ / quân cờ trắng / "người Hán"** (Ch10), **không** nêu tên Chiêu |
 | **GR18-7** | **Không moralize** việc xử tử; không narrator "nàng biết đây là điều đúng/ sai"; **không** miêu tả máu; hiện bằng **tiếng, im lặng, chỗ đứng** |
 | **GR18-8** | **Hách Liên Chước không xuất hiện trực tiếp** (chỉ người dự hội, tin cuối); **không** số quân, **không** mục tiêu |
 | **GR18-9** | **Không chiến tranh với Hạ Hầu:** người mua Tây Lương **không bị giết, không bị bắt**; **không** nêu "Hạ Hầu" trong phiên xử; Hạ Hầu chỉ **thấy** qua người mua và nén bạc |
-| **GR18-10** | **Cost thật:** một phần các bộ quay lưng; Uyển **không** thắng sạch; **không** tuyên bố "đã giữ yên Bắc Nhung" |
+| **GR18-10** | **Cost thật:** một phần các bộ quay lưng, **mỗi nhóm có nguyên nhân trực tiếp (GR18-16, mục 6)**; Uyển **không** thắng sạch; **không** tuyên bố "đã giữ yên Bắc Nhung" |
+| **GR18-16** | **Nguyên nhân trực tiếp trên trang** cho mỗi nhóm quay lưng (mục 0D, mục 6). Không "vì sợ", không "vì tin đồn" |
+| **GR18-17** | **Khả hãn: GIỮ IM** (D18-5 LOCK): không nhắc, không giải thích |
 | **GR18-11** | **Mức cắt khóa:** **một phần** hậu cần Hạ Hầu; **không** "đứt", **không** "Hạ Hầu suy sụp" |
 | **GR18-12** | **Không số quân / thương vong** chính xác trên trang |
 | **GR18-13** | **Không "bàn tay vàng":** nàng thắng nhờ **giếng, trướng quân đặt trước, luật đã công bố, kỵ các bộ theo nàng** (những thứ đã gieo ở Ch10, 12); nếu hắn không phạm, nàng **không có** cớ xử |
@@ -226,11 +247,11 @@
 | D18-2 | **Tuyến tiếp tế:** Tây Lương → rìa tây thảo nguyên → bộ nhỏ bán ngựa thay + thịt khô; bạc Lạc Kinh; **ngoài đất Hoắc**; chỉ Uyển cắt được | Duyệt |
 | D18-3 | Mức cắt: **đợt ba bị tịch thu**, một phần, chậm; người mua Tây Lương **được về**, không bị giết/bắt | Duyệt |
 | D18-4 | Phe Bắc Nhung (bảng mục 3); sức mạnh Uyển = trướng quân + kỵ các bộ theo nàng + giếng/chợ biên | Duyệt |
-| D18-5 | **Quyền xử:** luật chợ biên/hòa ước + thủ lĩnh theo nàng làm chứng; **Khả hãn không nhắc** (chọn (i) hoặc (ii)) | **Chị chọn** (khuyến nghị (i)) |
+| D18-5 | **Quyền xử:** luật chợ biên/hòa ước + thủ lĩnh theo nàng làm chứng; **Khả hãn GIỮ IM** | **LOCK** |
 | D18-6 | **Luật mùa cỏ** 4 điều; luật áp mọi người, **không nêu Hạ Hầu** | Duyệt |
-| D18-7 | **Tu Bặc Cốt** (tên, ~tám trăm kỵ, kết thân Hách Liên, khôn); **cơ hội rút lui** trước khi phạm | Duyệt (đổi tên nếu chị muốn) |
+| D18-7 | **Tu Bặc Cốt** (tên, ~tám trăm kỵ, kết thân Hách Liên, khôn); **cơ hội tuân luật** (không phải bẫy) | Duyệt / **LOCK** (GR18-3 siết) |
 | D18-8 | Chuỗi: cướp đoàn buôn Hán + giết thương nhân; giếng chặn; xử vì luật 2 + hòa ước; **nén bạc không đưa ra** | Duyệt |
-| D18-9 | Cái giá: bộ Tu Bặc Cốt + nửa bộ nhỏ + người của Hách Liên + kỵ độc lập; Uyển không ai để kể | Duyệt |
+| D18-9 | Cái giá **với nguyên nhân trực tiếp** (bảng mục 6): bộ Tu Bặc Cốt; bộ nhỏ chưa được trả ngựa; người của Hách Liên (có cớ); kỵ độc lập (không ai trả công); Uyển không ai để kể | **LOCK** (GR18-16) |
 | D18-10 | Uyển–Vân Chương: thư ngắn *"Một bộ trái lời. Đã xử. Trướng giữ."*; **gói vỏ quýt đi sau**; không lời | Duyệt |
 | D18-11 | Hook: **rạng sáng**, tin Hách Liên tập hợp; không số quân | Duyệt |
 | D18-12 | Vắng mặt: Chiêu, Dịch, Vân Chương, Chỉ, Dạ Kiêu, Hạ Hầu, Bàng, Hách Liên, Khả hãn | Duyệt |
@@ -253,4 +274,4 @@
 
 ## 15. TRẠNG THÁI
 
-**FOUNDATION GATE CH18: v1 — chờ Pre-Audit** (SONG SONG với Gate Ch19, Ch18 là upstream). D18-1 → D18-14 chờ duyệt; **D18-5 cần chị chọn**. Bước kế: Pre-Audit → v2 → LOCK → Scene Bible Ch18 v1. **Chưa** viết Scene Bible/Draft.
+**FOUNDATION GATE CH18: LOCK (v2).** Pre-Audit: PASS CÓ ĐIỀU KIỆN → D18-5, GR18-3 (siết), GR18-16 đã ghi (mục 0D) → LOCK. D18-1 → D18-14: duyệt. Không thêm lore. Bước kế: Scene Bible Ch18 v1 (song song Ch19).
