@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 14: NĂM TIN GIẢ
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch14 v2 **LOCKED** (kèm G-1, G-2, Canon Guardrail); Canon Ch1–Ch13; Production Bible; Chapter Bible Ch14. Không mở lại Gate; không thêm lore ngoài những gì cần để dựng cảnh. Độ dài: giữ Production Bible, 7k–10k.)*
+*(v2 — **LOCKED** (Pre-Audit Final PASS; 4 sync APPROVED; thêm guardrail G-3; **sau LOCK mới sang Draft**). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch14 v2 **LOCKED** (kèm G-1, G-2, Canon Guardrail); Canon Ch1–Ch13; Production Bible; Chapter Bible Ch14. Không mở lại Gate; không thêm lore ngoài những gì cần để dựng cảnh. Độ dài: giữ Production Bible, 7k–10k.)*
 
 **POV:** Bùi Chỉ, xuyên suốt. Narration gọi **"Bùi Chỉ"**, **"hắn"** (quy ước Ch2). Người trong Dạ Kiêu gọi hắn **"đương gia"**. Vân Chương: narration **"Vân Chương" / "chàng"**; Chỉ nói với chàng **"Tạ đại nhân"** [P-11].
 **Thời gian:** năm 0, từ **sáng ngày thứ tư** sau khi các đoàn tới Lạc Thủy (cuối tháng Chín) tới **khoảng ngày 20 tháng Mười**.
@@ -11,14 +11,14 @@
 
 ---
 
-## SYNC CẦN DUYỆT TRƯỚC KHI DRAFT
+## SYNC ĐÃ DUYỆT (Pre-Audit Final)
 
 | # | Chỗ | Vấn đề | Đề xuất |
 |---|---|---|---|
-| **SY-1** | Sổ Nam Môn (S2, S5) | Canon Ch1 (mục 7; Ch1 LOCKED): sổ cửa Nam Môn là sổ của lính gác cổng, ghi **số xe** để thu thuế. Gate Ch14 gọi là "bản chép sổ ghi người vào thành" và có dòng ghi tên người, quê, nghề | **Sync, không phải Canon Change:** sổ cửa Nam Môn vẫn ghi số xe (Canon Ch1), **và** mỗi dòng ghi thêm **tên người dẫn xe / chủ hàng, quê quán, hàng, ngày vào, ngày ra**. Bản chép Dạ Kiêu mua là bản lưu ở phủ nha Vân Trung. Dòng Kha Trọng đọc đúng như Gate; cột số xe không đọc ra |
-| **SY-2** | Họ Tạ trong lời đồn (S5) | Vân Chương là **Tạ** Vân Chương; Tạ Diên là cha chàng (Canon Ch5). Lời đồn "một phủ lớn họ Tạ ở Lạc Kinh" người nghe sẽ nối thẳng về nhà Vân Chương. G-2 cấm Chỉ kết luận "Tạ gia đứng sau" | **Phương án A (khuyến nghị):** Chỉ chỉ nghe "một phủ lớn họ Tạ"; một lượt đáp hai câu: *"Họ Tạ ở Lạc Kinh không ít."* / *"Phủ lớn thì không nhiều."* Chỉ **không đáp**. Không nói tên Vân Chương hay Tạ Diên. **Phương án B:** bỏ câu thứ hai, chỉ có "một phủ lớn họ Tạ" |
-| **SY-3** | Điểm E (S1, S3) | Cần loại khả năng **người của Dạ Kiêu tự rò điểm E**, nếu không "đường văn thư có lỗ" bị nghi ngờ | (a) Người canh chỉ nhận chỗ **lúc chập tối** (Chỉ truyền miệng). (b) **Hai người lạ đã ngồi ở điểm E từ trước khi người canh tới.** (c) **Người ở trạm mang tờ giấy T5 không biết chữ** [P], nên không đọc được điểm E. Ba chi tiết này chỉ loại nguồn rò **trong Dạ Kiêu**, **không** thêm kết luận nào về người rò (G-1 giữ nguyên) |
-| **SY-4** | Tờ văn điệp E tới tay ai (S1, S4) | Cost S4 cần Vân Chương thấy **cả hai** chỗ hẹn (D bằng miệng, E bằng giấy) mới nhận ra Dạ Kiêu đã thử Kim Lăng | Tờ văn điệp E đi theo **đường văn thư thường lệ của đoàn Kim Lăng** và tới tay người đứng đầu đoàn. Nội dung tờ giấy nói rõ là chỗ người của Dạ Kiêu đợi nhận tin, nên chàng nhận ra nó thuộc kênh |
+| **SY-1 — APPROVED** | Sổ Nam Môn (S2, S5) | Canon Ch1 (mục 7; Ch1 LOCKED): sổ cửa Nam Môn là sổ của lính gác cổng, ghi **số xe** để thu thuế. Gate Ch14 gọi là "bản chép sổ ghi người vào thành" và có dòng ghi tên người, quê, nghề | **Sync, không phải Canon Change; không mở lại Canon Ch1:** sổ cửa Nam Môn vẫn là sổ thu thuế / kiểm soát xe hàng (Canon Ch1); mỗi dòng có thể ghi **người đứng chuyến, quê quán, mặt hàng, số xe, ngày vào / ra**. Bản chép Dạ Kiêu mua là bản lưu ở phủ nha Vân Trung. Dòng Kha Trọng đọc đúng như Gate; cột số xe không đọc ra |
+| **SY-2 — APPROVED A** | Họ Tạ trong lời đồn (S5) | Vân Chương là **Tạ** Vân Chương; Tạ Diên là cha chàng (Canon Ch5). Lời đồn "một phủ lớn họ Tạ ở Lạc Kinh" người nghe sẽ nối thẳng về nhà Vân Chương. G-2 cấm Chỉ kết luận "Tạ gia đứng sau" | **Phương án A (APPROVED):** Chỉ chỉ nghe "một phủ lớn họ Tạ"; một lượt đáp hai câu: *"Họ Tạ ở Lạc Kinh không ít."* / *"Phủ lớn thì không nhiều."* Chỉ **không đáp**. Không nói tên Vân Chương hay Tạ Diên. **Phương án B (bỏ):** bỏ câu thứ hai. **Gợi nhưng không xác nhận Tạ gia nào.** |
+| **SY-3 — APPROVED** | Điểm E (S1, S3) | Cần loại khả năng **người của Dạ Kiêu tự rò điểm E**, nếu không "đường văn thư có lỗ" bị nghi ngờ | (a) Người canh chỉ nhận chỗ **lúc chập tối** (Chỉ truyền miệng). (b) **Hai người lạ đã ngồi ở điểm E từ trước khi người canh tới.** (c) **Người ở trạm mang tờ giấy T5 không biết chữ** [P], nên không đọc được điểm E. Ba chi tiết này chỉ loại nguồn rò **trong Dạ Kiêu**, **không** thêm kết luận nào về người rò (G-1 giữ nguyên) |
+| **SY-4 — APPROVED** | Tờ văn điệp E tới tay ai (S1, S4) | Cost S4 cần Vân Chương thấy **cả hai** chỗ hẹn (D bằng miệng, E bằng giấy) mới nhận ra Dạ Kiêu đã thử Kim Lăng | Tờ văn điệp E đi theo **đường văn thư thường lệ của đoàn Kim Lăng** và tới tay người đứng đầu đoàn. Nội dung tờ giấy nói rõ là chỗ người của Dạ Kiêu đợi nhận tin, nên chàng nhận ra nó thuộc kênh. **Route test, không person test:** tờ giấy đi theo đường văn thư thường lệ của đoàn Kim Lăng, **không** thiết kế thành phép thử đích danh Vân Chương |
 
 ---
 
@@ -35,6 +35,9 @@
 9. **Không** "A Chiêu", **không** "điện hạ". "Hoắc Chiêu" chỉ trong nội tâm Chỉ, không nói ra.
 10. **Ba nguyên tắc Dạ Kiêu vẫn là nguyên tắc hoạt động:** người của hắn **không hỏi lý do** (hiện trên trang bằng việc họ nhận việc mà không hỏi).
 11. **Không narrator reveal.** Cái tên cuối chương xuất hiện qua **hai vật chứng đặt cạnh nhau**; người nghe tự nối. Không "thì ra…", "chính là…".
+12. **G-3 (Pre-Audit Final):** Vân Chương biết Chỉ đã thử **hai tuyến** của Kim Lăng, nhưng **chưa biết vì sao Chỉ chọn Kim Lăng** để thử hai tuyến. **Không** để chàng suy ra "Kim Lăng là bên bị nghi nhất." Thấy hai tuyến bị thử ≠ biết lý do chọn Kim Lăng ≠ biết Chỉ đang nghi ai.
+13. **Route test, không person test (SY-4):** tờ giấy T5 đi theo đường văn thư thường lệ của đoàn Kim Lăng; không thiết kế thành phép thử đích danh Vân Chương.
+14. **Tinh thần cốt lõi:** không truy tìm kẻ phản bội bằng cách hỏi ai nói dối. Chỉ tạo ra năm lời nói dối khác nhau, rồi quan sát lời nào quay trở về.
 
 ---
 
@@ -55,7 +58,7 @@
 
 | Người | Biết / nghĩ (trên trang) | Không lên trang |
 |---|---|---|
-| **Vân Chương** | Nghe một câu của Chỉ; nhận cả hai chỗ hẹn (một miệng, một giấy) ⇒ **hiểu Dạ Kiêu đã thử Kim Lăng**; giới hạn kênh: một chỗ | Chàng đã viết "người tự nhận" (Ch13) và **chưa quyết phản bội**; chàng có biết mặt Kha Trọng không (OPEN) |
+| **Vân Chương** | Nghe một câu của Chỉ; nhận cả hai chỗ hẹn (một miệng, một giấy) ⇒ **hiểu hai tuyến của Kim Lăng đã bị thử**; **không biết vì sao Chỉ chọn Kim Lăng, không biết Chỉ nghi ai** (G-3); giới hạn kênh: một chỗ | Chàng đã viết "người tự nhận" (Ch13) và **chưa quyết phản bội**; chàng có biết mặt Kha Trọng không (OPEN) |
 | **Hoắc quân (qua thân binh)** | Nghi Dạ Kiêu: lật tin nhanh quá | Chiêu nói gì, nghĩ gì |
 | **Kim Lăng (qua viên quan)** | Nghi Ích Châu | — |
 | **Ích Châu (qua đội trưởng)** | Nghi Kim Lăng | Dịch không biết có rò |
@@ -93,6 +96,7 @@
 - Không câu nói Chỉ **không** nghi Vân Chương hay **có** nghi Vân Chương. Lý do chia hai đường Kim Lăng chỉ hiện ở câu nội tâm trung tính của beat 3.
 - Không narrator giải thích rằng Vân Chương đang giữ một bí mật (Ch13); người nghe nhớ từ Ch13.
 - Không dựng cảnh Chỉ thuyết minh kế hoạch cho người giữ sổ.
+- **G-3:** Chỉ không nói, không nghĩ ra lời, vì sao Kim Lăng có hai đường. Vân Chương không hỏi vì sao chọn chàng hay Kim Lăng.
 
 ---
 
@@ -157,6 +161,7 @@
 **Guardrail:**
 - Vân Chương **không** nói "tin" hay "không tin"; lời chàng chỉ là ba câu việc.
 - Chỉ **không** diễn giải lời chàng thành "chàng nghi ta"; không nội tâm "chàng đã đoán ra".
+- **G-3:** lời Vân Chương **không** có chữ "nghi", "vì sao", "bên nào", "ngươi nghi Kim Lăng". Chàng chỉ nhận hai chỗ và đặt giới hạn một chỗ. Không câu nào của Chỉ hay narrator cho thấy chàng hiểu Chỉ đang nghi ai.
 - Lý do **không báo Hoắc quân** **không** lên trang: báo rằng Kim Lăng có lỗ sẽ khiến Hoắc quân nhìn Kim Lăng khác đi (Cost Chapter Bible). Người nghe tự thấy.
 
 ---
@@ -189,7 +194,7 @@
 |---|---|
 | Bùi Chỉ | Ngoài Lạc Kinh; đang điều tra; cổ chân trái nhức vì lạnh. Biết đường văn thư – trạm ngựa Kim Lăng có lỗ; biết tên Kha Trọng. **Chưa báo Hoắc quân.** |
 | Dạ Kiêu | Một người theo chân đã bị nhìn mặt, rút khỏi vùng. Có người ở trạm Thạch Kiều. Kênh cảnh báo đã **dùng để thử**; Kim Lăng giới hạn còn **một chỗ** |
-| Vân Chương | Biết một câu của Chỉ; hiểu Dạ Kiêu đã thử Kim Lăng. *(Author-truth: đã viết "người tự nhận", chưa quyết phản bội.)* |
+| Vân Chương | Biết một câu của Chỉ; hiểu hai tuyến của Kim Lăng đã bị thử (chưa biết vì sao chọn Kim Lăng; G-3). *(Author-truth: đã viết "người tự nhận", chưa quyết phản bội.)* |
 | Hoắc quân | Đã hỏi Dạ Kiêu một câu, **chưa được đáp**; lệnh bắt A Quy: còn treo qua mùa đông |
 | Các bên khác | Kim Lăng nghi Ích Châu; Ích Châu nghi Kim Lăng; trướng Khả đôn nghi "người Hán" |
 | Người rò (author-truth) | Thư lại nhỏ, vô danh; **không lên trang** |
@@ -266,10 +271,11 @@
 | P-05 | Lời Vân Chương trả: **đã nhận / hai chỗ hẹn / lần sau một chỗ**; **không** nói tin hay không tin | Duyệt (Cost, không quyết phản bội) |
 | P-06 | **Chưa báo Hoắc quân** trong Ch14; lý do **không lên trang** | Duyệt (đúng mặc định Gate mục 7) |
 | P-07 | Bốn lời nhắn S2, mỗi bên một giọng, **không** buộc tội trực tiếp | Duyệt |
-| P-08 | **SY-1** sổ Nam Môn: ghi tên, quê, hàng, ngày vào/ra bên cạnh số xe | **Cần duyệt (Sync)** |
-| P-09 | **SY-2** họ Tạ: phương án A (hai câu đáp, Chỉ không đáp) / B | **Cần duyệt**; khuyến nghị A |
-| P-10 | **SY-3** loại nguồn rò trong Dạ Kiêu: người canh nhận chỗ lúc chập tối; hai người lạ ngồi sẵn từ trước; người mang T5 không biết chữ | **Cần duyệt (Sync)** |
-| P-13 | **SY-4** tờ văn điệp E tới tay Vân Chương qua đường văn thư thường lệ | **Cần duyệt (Sync)** |
+| P-08 | **SY-1** sổ Nam Môn: người đứng chuyến, quê quán, mặt hàng, số xe, ngày vào/ra | **APPROVED** |
+| P-09 | **SY-2** họ Tạ: phương án A (hai câu đáp, Chỉ không đáp) | **APPROVED A** |
+| P-10 | **SY-3** loại nguồn rò trong Dạ Kiêu: người canh nhận chỗ lúc chập tối; hai người lạ ngồi sẵn từ trước; người mang T5 không biết chữ | **APPROVED** |
+| P-13 | **SY-4** tờ văn điệp E tới tay Vân Chương qua đường văn thư thường lệ; route test, không person test | **APPROVED** |
+| P-14 | **G-3** Vân Chương biết hai tuyến bị thử, không biết vì sao chọn Kim Lăng | **LOCK** |
 | P-11 | Chỉ gọi Vân Chương là **"Tạ đại nhân"** trong lời nói; narration "Vân Chương / chàng" | Duyệt |
 | P-12 | Cổ chân trái nhức vì lạnh ở S3 (tiếng vọng Ch2, Ch11) | Duyệt, tùy chọn |
 
@@ -289,6 +295,7 @@
 | Không tuyến nào được báo là đang bị thử | S1 | Có |
 | Loại nguồn rò trong Dạ Kiêu (SY-3); Vân Chương thấy cả hai chỗ hẹn (SY-4) | S1 beat 3; S3 beat 1; S4 beat 4 | Có |
 | Cost: Vân Chương nhận ra; kênh thu hẹp | S4 beat 4 | Có |
+| G-3: Vân Chương không suy ra "Kim Lăng bị nghi nhất"; route test, không person test | S1 beat 3, 5; S4 beat 4 | Kiểm ở Self-Audit |
 | Cost: người theo chân lộ mặt | S5 beat 1 | Có |
 | Không báo Hoắc quân; T2 giữ Hidden | S4 beat 3, 5 | Có |
 | Không Chu Hạc; không Bắc Môn; không quân trắng | Toàn chương | Kiểm ở Self-Audit |
