@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 17: VÂY ĐIỂM DIỆT VIỆN
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch17 v2 **LOCK** (GR17-1/2/3; GR17-04/05/06; PA-A; D17-12; GR17-7…18); Canon Ch1–Ch16; Canon Update Ch16; Production Bible; Chapter Bible Ch17. Không mở lại Gate, không thêm lore ngoài các mục [P] bên dưới. Độ dài 7k–10k.)*
+*(v2 — **LOCKED** (Pre-Audit: PASS CÓ ĐIỀU KIỆN; đã xử lý đúng 6 chỉnh; **không** thêm lore, **không** mở lại Gate, **không** khóa mới; sau LOCK mới sang Draft). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch17 v2 **LOCK** (GR17-1/2/3; GR17-04/05/06; PA-A; D17-12; GR17-7…18); Canon Ch1–Ch16; Canon Update Ch16; Production Bible; Chapter Bible Ch17. Không mở lại Gate, không thêm lore ngoài các mục [P] bên dưới. Độ dài 7k–10k.)*
 
 **POV:** Hoắc Chiêu, xuyên suốt. Narration gọi **"Chiêu"**, **"nàng"**; Chiêu tự xưng **"ta"**, gọi Dịch **"ngươi"**, gọi Hàn **"Đô úy"**. Dịch (qua mắt Chiêu): **"Dịch"**, **"hắn"**; Dịch gọi nàng **"Tam tướng quân"**, tự xưng **"ta"**. Hàn gọi Dịch **"tiên sinh"**. Không ai gọi "điện hạ"; không "A Chiêu"; không tên "Hoắc Chiêu" trên trang; không "Đêm ấy…".
 **Thời gian:** ngày 30 → hoàng hôn ngày 36 sau Hổ Lao (đầu xuân năm 1). Ngày 31 (hạn cũ) trôi qua **trên yên ngựa**, không ai nhắc.
@@ -17,12 +17,12 @@
 |---|---|---|---|
 | **SY-1** | Hàn có mặt (Gate §13) | Gate: Dịch chỉ S1; Hàn **một lần**, ở S2 | S1: **Chiêu – Dịch – Tiểu Thất**, không Hàn. Dịch nói "Đô úy đã đồng ý"; Chiêu **tự hỏi Hàn** ở S2 (đúng Gate §6: nghe tận miệng) |
 | **SY-2** | Hình học cổ chai/Dĩnh Xuyên (Gate §2 chỉ nói "hai dặm trước thành") | Cần một sơ đồ nhất quán cho S2–S5 | **Mục 2** [P] (Tây → Đông). Draft theo sơ đồ, không thêm chi tiết ngoài |
-| **SY-3** | Thuyền đi từ Lạc Thủy xuống Dĩnh Xuyên có ngang Hổ Lao không | Gate: đê "dọc bờ sông từ Hổ Lao"; Hổ Lao và Lạc Thủy cùng sông? | [P] Hổ Lao **nằm trong đất liền**; **đê** chạy từ Hổ Lao ra tới sông rồi **dọc bờ sông** về phía Dĩnh Xuyên. Thuyền xuôi qua chỗ đê gặp sông (cách Hổ Lao chừng nửa ngày, **ngoài tầm tên**). Draft **không** nêu thuyền đi qua đâu ngoài "xuôi sông" |
-| **SY-4** | Mốc ngày | Gate §1: viện tới ngày 36–37, trận 37–38 | Ép lại thành **một ngày trận**: vây **rạng ngày 35**; thuyền rời Lạc Thủy **rạng ngày 35**, tới cọc **chiều ngày 36**; kỵ viện tới **rạng ngày 36**; kết **hoàng hôn ngày 36** (Gate §1 chỉ là [P], ép gọn để không kéo hai ngày giữ) |
+| **SY-3 (LOCK)** | Thuyền / đê / Hổ Lao / Dĩnh Xuyên | Gate: đê "dọc bờ sông từ Hổ Lao" | **Hổ Lao nằm trong đất liền**; **đê** nối từ Hổ Lao ra sông rồi **chạy dọc bờ sông** về Dĩnh Xuyên. Thuyền xuôi sông **không cần đi qua Hổ Lao**. Draft **không** nêu thuyền đi qua đâu ngoài "xuôi sông" |
+| **SY-4 (LOCK)** | Mốc ngày | Gate §1: viện tới ngày 36–37, trận 37–38 | **Toàn bộ trận gom về ngày 35–36**: vây **rạng ngày 35**; thuyền rời Lạc Thủy **rạng ngày 35**, tới cọc **chiều ngày 36**; kỵ viện tới **rạng ngày 36**; kết **hoàng hôn ngày 36**. **Không** kéo tới ngày 38. **Ngày 42 chỉ là mốc tối đa của Gate, không bắt buộc dùng** (trên trang chỉ xuất hiện một lần ở S1 như giới hạn) |
 | **SY-5** | "Cọc hẹn" | Không thể đóng cọc trong đất địch | **Cọc hẹn = một mốc có sẵn: "gốc liễu cụt" ở chân đê, chỗ đê bắt đầu hẹp** (miệng tây cổ chai). Phó tướng thủy quân nói ở S2. Không ai đóng gì |
 | **SY-6** | "Một nén hương" (GR17-18) | Cần cách đo | S2: Chiêu bảo **đốt thử một nén** ở bến, hương cháy **gần nửa canh** (đối với Gate "nửa canh"). Trên trang chỉ "một nén hương" |
-| **SY-7** | Người chết có tên (Gate §7) | Đội trưởng nghe hồi âm hay thân binh? | Chọn **thân binh Chiêu** (người nhận sổ lương ở Ch16): [P] tên **Tiểu Thất** (đã grep, không trùng canon; **không** dùng "Tiểu Lục" — là nhãn vô danh ở Scene Bible Ch3). Hắn xuất hiện S1–S4, **chết ở S4**; ống hương của hắn thành vật nối S4→S5. **Đội trưởng nghe hồi âm** chỉ là **một câu báo** ở S1 (không thành nhân vật) |
-| **SY-8** | Tháp hiệu (Gate §3 lý do 4: "khói hiệu") | Gate nói đồn "nổi lửa hiệu"; cần một vật | [P] **Tháp hiệu** trên mô đất sát tường Dĩnh Xuyên + **một tháp thứ hai xa hơn về phía tây trên đê**. **Dịch chưa nói** (người chèo đi đường nước nên không thấy). Chiêu **tự thấy ở S2** và **quyết không đụng tháp** (để khói bay). Đây là **hành động chủ động của Chiêu**, không biến Dịch thành người sai |
+| **SY-7 (LOCK)** | Người chết có tên (Gate §7) | Đội trưởng nghe hồi âm hay thân binh? | **Tiểu Thất = thân binh đã nhận sổ lương ở Ch16**; giữ đúng vai ấy (sổ hạn, bọc mũ, ống hương) **trước khi hy sinh**. Cái chết **có chức năng tác chiến** (chặn khe, nhường ngựa; mất người giữ hương/hạn nên nàng tự thắp), **không** thành chi tiết cảm xúc đơn thuần. Chọn **thân binh Chiêu** (người nhận sổ lương ở Ch16): [P] tên **Tiểu Thất** (không trùng canon; **không** dùng "Tiểu Lục"). Hắn xuất hiện S1–S4, **chết ở S4**; **ống hương** là vật chức năng nối S4→S5. **Đội trưởng nghe hồi âm** chỉ là **một câu báo** ở S1 (không thành nhân vật) |
+| **SY-8 (LOCK)** | Tháp hiệu (Gate §3 lý do 4: "khói hiệu") | Gate nói đồn "nổi lửa hiệu"; cần một vật | [P] **Tháp hiệu** trên mô đất sát tường Dĩnh Xuyên + **một tháp thứ hai xa hơn về phía tây trên đê**. Tháp **không nằm trong điều Dịch nói** ở S1; trang **không bình luận** vì sao (không "Dịch quên", không "Dịch giấu", không "Dịch biết trước"). Chiêu **tự thấy, tự đánh giá, tự quyết không phá tháp** (S2). **Quyết định độc lập của Chiêu**; Dịch **không** là người biết trước mọi thứ |
 | **SY-9** | Mũ trụ (Ch10) | Ch10: bị Bắc Nhung lấy, Khả đôn trả lại (gãy một chùm lông, vết lõm mới). Ch13 nàng **không** đội | S1: Chiêu **tự nói** *"Họ cần thấy ta"* → bảo Tiểu Thất lấy mũ. Quyết định là **của nàng** (GR17-9). Không hồi tưởng Hắc Hà |
 | **SY-10** | Viện quân tới sớm (GR17-06) | "Sớm" so với cái gì? | So với **lời Dịch ở S1**: *"Sớm nhất chiều ngày ba mươi sáu."* Kỵ viện tới **rạng ngày 36** (đi đêm); bộ viện tới **hoàng hôn ngày 36** (đi gấp, nhanh hơn "hai ngày đi đê" Dịch nói). **Cả hai là quyết định đúng của phía Hạ Hầu**, không phải sai lầm; là cost của Chiêu. Trên trang Chiêu chỉ **ghi nhận chênh lệch** (*"Sớm hơn nửa ngày."*), không đánh giá |
 | **SY-11** | Tên "Bàng" | GR17-04: Chiêu không biết cách Bàng đọc | Chiêu chỉ nói **"Bàng"** một lần ở S1 như fact (*"thư gửi Bàng"* — Tiểu Thất báo). Ở S2–S5 địch là **"họ"**, **"quân Hạ Hầu"**, cờ, kỵ, đuốc. **Không** "Bàng nghĩ" |
@@ -143,11 +143,12 @@
 2. Phó tướng thủy quân (một câu): *"Cọc là gốc liễu cụt, chỗ đê bắt đầu hẹp. Người chèo của ta qua hai lần."* Chiêu bảo Tiểu Thất **đốt thử một nén hương** ngay tại bến, ngồi nhìn nó cháy; *"Gần nửa canh."* Hàn và phó tướng nhìn, không nói. *(SY-6: vật đo thời gian; nén hương thành vật mang cảnh.)*
 3. **Nén lại** (một hai câu): ba ngày vòng ngoài Hổ Lao; ngựa thồ cỏ Ích Châu; ăn lạnh, không lửa; ngày ba mươi mốt qua đi trên yên ngựa, **không ai nhắc hạn**.
 4. Chiều ngày 33, trong lau: hai toán trinh sát về báo bằng ba câu: *"Đường đồi có đồn, đúng ba ngày."* (xác nhận lời Dịch.) *"Kỵ Hạ Hầu đi lại trên đê, từng toán nhỏ, hai lần một ngày."* Nàng **không tin ngay mọi thứ**: tự bò lên gò thấp, nhìn qua lau.
-5. Nàng thấy (kể bằng mắt Chiêu, câu ngắn): đê hẹp giữa sông và lau; đồng ngập hai bên; tường đất thấp; cỏ chất cao ngoài tường, thuyền thóc cập bến; băng trôi lẻ tẻ giữa sông (nàng nhớ thuyền Kim Lăng từng trễ vì băng — **một dòng**, không bình luận). Và **một thứ Dịch chưa nói:** tháp hiệu trên mô đất sát tường; xa hơn về tây, trên đê, một tháp nữa.
-6. Tiểu Thất: *"Tiên sinh không nói tháp."* Chiêu: *"Người chèo đi đường nước."* Rồi quyết, một câu: **"Không đụng tháp. Để nó cháy."** *(Hành động chủ động của nàng: biến chỗ thiếu của kế thành chỗ có lợi; không biến Dịch thành người sai. Không narrator đánh giá.)*
+5. Nàng thấy (kể bằng mắt Chiêu, câu ngắn): đê hẹp giữa sông và lau; đồng ngập hai bên; tường đất thấp; cỏ chất cao ngoài tường, thuyền thóc cập bến; băng trôi lẻ tẻ giữa sông (nàng nhớ thuyền Kim Lăng từng trễ vì băng — **một dòng**, không bình luận). Và **tháp hiệu** trên mô đất sát tường; xa hơn về tây, trên đê, một tháp nữa.
+6. **Chiêu tự đánh giá tháp (SY-8):** nàng nhìn tháp rất lâu, rồi nói với Tiểu Thất, **một câu của chính nàng**: *"Tháp là cái miệng của thành. Bịt nó thì không ai nghe thành kêu."* Rồi quyết: **"Không đụng tháp. Để nó cháy."** *(Việc nàng cân và quyết; không ai nhắc, không nhắc Dịch, không nhắc "Dịch chưa nói".)*
 7. Nàng chọn **gò thấp phía đông miệng cổ chai** (điều kiện 1) và **nhìn bờ đất khô chạy đông nam rất lâu** — đường rút, đồng thời cũng là đường kỵ Hạ Hầu có thể cắt. Nàng không nói điều ấy; chỉ ra lệnh: *"Đêm mai vào bờ đất. Bọc móng."* Tiểu Thất cầm bọc da đựng mũ lên: *"Sáng mai tướng quân đội?"* — *"Lúc vào."* End.
 
 **Guardrail:**
+- **Không** câu nào nhận xét Dịch về tháp (không "tiên sinh không nói", không "người chèo đi đường nước").
 - Chiêu **không** nghĩ "Bàng sẽ…", **không** nghĩ "Dịch muốn nhử". Điều nàng suy hiện bằng **việc**: đi xem, hỏi một lần, quyết không đụng tháp, chọn gò.
 - Không dài: Hàn đúng một lần. Không nhắc "nửa Hoắc quân".
 - Không lore thêm về Hổ Lao/Hạ Hầu ngoài những gì trinh sát thấy.
@@ -190,6 +191,7 @@
 6. Cuối cảnh, **hoàng hôn:** gốc liễu cụt tối ở xa. **Chưa có đèn.** Nàng tìm ống hương trong yên ngựa của Tiểu Thất (xác hắn đã nằm lại trên bờ đất; ngựa hắn nàng đang cưỡi, ống hương vẫn buộc ở yên). Lấy ống ra. Châm lửa. **Thắp nén hương.** *(Hết cảnh. Hook nội cảnh.)*
 
 **Guardrail:**
+- **Tiểu Thất (LOCK):** hắn chết **vì việc**: nhường ngựa, chặn khe cho nàng thoát. Không lời hấp hối, không nhịp tưởng nhớ, không "nàng nhìn xác hắn". Hệ quả **tác chiến**: ống hương và sổ hạn mất người giữ → **nàng tự thắp** ở cuối cảnh.
 - Tiểu Thất chết **không** thành bài diễn văn; không lời hấp hối. Câu cuối của hắn (nếu có) là **việc**: *"Tướng quân lên ngựa."*
 - Nàng **không khóc, không chạm sẹo, không hồi tưởng**. Cost hiện bằng việc nàng làm tiếp.
 - Không số quân. "Bên cánh trái vắng chỗ."
@@ -198,7 +200,7 @@
 
 ---
 
-### S5 — Một nén hương (hoàng hôn ngày 36) · khoảng 1.400 ký tự
+### S5 — Một nén hương (hoàng hôn ngày 36) · khoảng 1.800 ký tự
 
 **Nơi chốn:** gò thấp; bờ đất; miệng đông cổ chai nhìn ngược về gốc liễu cụt. **Có mặt:** Chiêu; một thân binh khác (vô danh, một câu); kỵ nhẹ; bộ viện và kỵ viện; thuyền Kim Lăng; bộ Ích Châu.
 
@@ -208,16 +210,18 @@
 1. Mở bằng **ai, ở đâu, vật:** nén hương cắm trên mặt đất trước yên ngựa; đầu đỏ nhỏ; trời tối nhanh. Bộ viện **vào cổ chai** thành hàng dài, đuốc nối đuôi. Kỵ viện đang dàn hàng cho đợt cuối.
 2. Hương cháy **nửa**. Thân binh: *"Rút?"* — *"Chưa."* Hương **ba phần tư**. Nàng nhìn hướng gốc liễu. Kỵ viện bắt đầu tiến. Nàng ra lệnh rút **một nửa** số ngựa về bờ đất, **sẵn sàng**. *(Điều kiện 2 giữ; nàng không đánh cược quá hương.)*
 3. Hương còn **đốt ngón tay**. Tay nàng giơ lên. **Đèn lên ở gốc liễu**: một, rồi hai. Ánh đèn soi **thân thuyền sơn đỏ** sát đê.
-4. **Điều Hạ Hầu đọc sai (GR17-06):** những kỵ canh cuối hàng bộ viện **nhìn thuyền đỏ**, **không đổi hàng, không dừng**; một người chỉ về phía bờ, người bên cạnh lắc đầu. Rồi **người từ thuyền nhảy lên đê** — bộ Ích Châu, giáp tối, im. **Hiệu** thổi từ phía bộ viện, **muộn**. *(Trên trang chỉ có hình ảnh. Chiêu không giải thích, không ai nói "thuyền lương" thành lời.)*
-5. Hàng bộ viện **đứt**: phần đầu trong cổ chai không quay được (sông bên này, lau bên kia, kỵ viện của chính họ ở phía trước); phần đuôi dừng ngoài cổ chai. Kỵ viện nghe hiệu sau lưng, **quay đầu nhìn**. Chiêu: **"Lên."** Nàng đánh vào **đầu** kỵ viện đang quay. Nó **vỡ**.
-6. **Nén hậu quả vài câu:** kho bến thành tro; kỵ viện phá, phần đuôi chìm trong lau; bộ viện dừng, rồi đứng yên trong đuốc; cổng Dĩnh Xuyên **không mở**; Hổ Lao còn đó, ở phía tây sau đê.
-7. **Cảnh cuối (hình ảnh):** nàng bóp tắt cuống hương bằng hai ngón tay; không thấy Dịch trong số người từ thuyền xuống (nàng không tìm; chỉ thấy đèn). **Trong cổ chai, cờ Hạ Hầu dừng lại, và không đi tiếp được nữa.** *(Đây là hình ảnh, không phải kết luận của narrator.)*
+4. **Thuyền tới.** Đèn lên, thân thuyền đỏ sát đê trong ánh đèn. **Điều Hạ Hầu đọc sai (GR17-06):** những kỵ canh cuối hàng bộ viện **nhìn thuyền đỏ**, **không đổi hàng, không dừng**; một người chỉ về phía bờ, người bên cạnh lắc đầu. *(Chỉ hình ảnh; không ai nói "thuyền lương" thành lời.)*
+5. **Bộ binh đổ quân.** Người từ thuyền **nhảy lên đê**: bộ Ích Châu, giáp tối, im. **Hiệu** thổi từ phía bộ viện, **muộn**. Hàng bộ viện **đứt đôi**: phần đầu trong cổ chai không quay được (sông một bên, lau một bên, kỵ viện của chính họ phía trước); phần đuôi dừng ngoài cổ chai.
+6. **Khối viện bị chặn/phá.** Kỵ viện nghe hiệu sau lưng, **quay đầu nhìn**. Chiêu: **"Lên."** Nàng đánh vào **đầu** kỵ viện đang quay; nó **vỡ**; phần đuôi sa vào lau, ngựa lún.
+7. **Nén hậu quả (vài nhịp, mỗi nhịp một hình ảnh):** **kho bến** vẫn cháy âm ỉ, đỏ lên thân thuyền và mặt nước; **cổng Dĩnh Xuyên không mở**, cung thủ trên tường không bắn; bộ viện **đứng yên trong đuốc**; phía tây sau đê, **Hổ Lao còn đó** (một dải tối, không đèn nào tắt).
+8. **Cảnh cuối (hình ảnh):** nàng bóp tắt cuống hương bằng hai ngón tay, **cất ống hương vào tay áo** (chỉ thế, không nối vật nào khác); nàng không tìm ai trong số người từ thuyền xuống, chỉ thấy đèn. **Trong cổ chai, cờ Hạ Hầu dừng lại, và không đi tiếp được nữa.** *(Hình ảnh, không phải kết luận của narrator.)*
 
 **Guardrail:**
 - Hương **phải gần tàn** khi đèn lên (cost); không đèn lên giữa chừng "may".
 - **Không** "đúng như Dịch tính". Không "thế đã đảo". Không "Hạ Hầu nhận ra liên minh đã thay đổi" bằng lời: hiện bằng **hiệu thổi muộn, hàng đứt, kỵ quay đầu**.
 - Không số quân. Không Dịch trong cảnh. Không đoạn cảm ơn.
-- **Option P-17-6:** cất ống hương của Tiểu Thất vào áo "chỗ tờ kê vẫn nằm" (echo Ch13). Dễ gượng — **giữ nếu chị duyệt**, bỏ nếu thấy quá hiện.
+- **Không** echo "chỗ tờ kê" (P-17-6 đã **BỎ**). Ống hương chỉ **cất trong tay áo**.
+- **S5 phải đủ nhịp đóng bẫy (LOCK):** thuyền tới → bộ binh đổ quân → khối viện bị chặn/phá → kho bến cháy → cờ Hạ Hầu dừng ở cổ chai; **không cắt ngay khi thuyền tới**. Dĩnh Xuyên **chưa hạ**, Hổ Lao **còn**.
 
 ---
 
@@ -258,7 +262,7 @@
 
 | Người | Đối tượng | Loại | Trạng thái |
 |---|---|---|---|
-| Chiêu | Tiểu Thất | Người chết vì nàng | **Mới**, ACTIVE |
+| Chiêu | Tiểu Thất | Chi phí tác chiến (người giữ hương/hạn chết khi chặn khe) | **Mới**; không dựng thành nhịp cảm xúc riêng |
 | Chiêu | Dịch | Tin có điều kiện, **đã được giữ** (đèn lên đúng cọc) | **Chuyển động**, chưa nói thành lời |
 | Dịch | Chiêu | Nợ lương + đã kéo nàng làm mồi | ACTIVE, **tăng** (nhưng chưa trên trang) |
 | Dịch | Hàn | Hàn nhận quyết gửi bộ | ACTIVE |
@@ -269,7 +273,7 @@
 - **Dịch (qua mắt Chiêu):** nói *"Không"* khi hỏi chắc; im đúng chỗ; nhận điều kiện.
 
 ### 6B. COST
-- Tiểu Thất; ngựa; vết thương; kỵ nhẹ hao; một ngày giữ; hương gần tàn.
+- Tiểu Thất (người giữ hương/hạn); ngựa; vết thương; kỵ nhẹ hao; một ngày giữ; hương gần tàn.
 
 ---
 
@@ -288,13 +292,13 @@ Thế: **Mạnh** · Mưu: Có · Gián: Không · Quân tâm: Có · Ngoại gi
 | P-17-3 | S1: PA-A *"Lệnh còn."* đúng một dòng, trước khi Dịch vào | Duyệt |
 | P-17-4 | S1: Dịch nói *"Không"* (hỏi chắc), *"Ta không biết"* (giữ bao lâu); im ở *"vì sao họ sẽ cứu"* | Duyệt |
 | P-17-5 | S1: ba điều kiện của Chiêu; hạn mới hết trận, tối đa ngày 42 | Duyệt |
-| P-17-6 | S5: ống hương Tiểu Thất cất vào áo "chỗ tờ kê vẫn nằm" | **Tùy chị** |
+| P-17-6 | S5: ống hương chỉ **cất trong tay áo**; **bỏ** echo "chỗ tờ kê" | **BỎ echo (LOCK)** |
 | P-17-7 | S2: tháp hiệu do Chiêu thấy, Dịch chưa nói; nàng quyết "Không đụng tháp. Để nó cháy." | Duyệt |
 | P-17-8 | S2: gốc liễu cụt là cọc hẹn; đốt thử một nén hương ở bến (gần nửa canh) | Duyệt |
 | P-17-9 | S3: khoảng yên một ngày; đuốc đêm; *"Sớm hơn nửa ngày."* | Duyệt |
 | P-17-10 | S4: Tiểu Thất chết, ngựa chết, vết thương cánh tay trái | Duyệt |
 | P-17-11 | S5: hiệu thổi **muộn** khi người nhảy lên đê (hình ảnh của chỗ đọc sai duy nhất) | Duyệt |
-| P-17-12 | Ép mốc thành một ngày trận (rạng 35 vây; rạng 36 kỵ viện; hoàng hôn 36 kết) | Duyệt (SY-4) |
+| P-17-12 | Toàn trận gom về ngày 35–36; ngày 42 chỉ là mốc tối đa | **LOCK** (SY-4) |
 
 ---
 
@@ -322,7 +326,7 @@ Thế: **Mạnh** · Mưu: Có · Gián: Không · Quân tâm: Có · Ngoại gi
 
 ## 10. LENGTH BUDGET
 
-S1 2.300 + S2 1.800 + S3 1.700 + S4 2.000 + S5 1.400 = **~9.200** ký tự (khung 7k–10k). Nếu vượt: **rút S2 beat 3** (nén ba ngày vòng), **rút S1 beat 7**, **thu gọn S3 beat 4**, trước khi rút S4/S5. Còn lại theo target ~7.431/chương (tổng 181.099 sau Ch16).
+S1 2.300 + S2 1.800 + S3 1.700 + S4 2.000 + S5 1.800 = **~9.600** ký tự (khung 7k–10k). Nếu vượt 10k: **rút S2 beat 3** (nén ba ngày vòng), **rút S1 beat 7**, **thu gọn S3 beat 4**, trước khi rút S4/S5. Còn lại theo target ~7.431/chương (tổng 181.099 sau Ch16).
 
 ---
 
@@ -340,4 +344,4 @@ S1 2.300 + S2 1.800 + S3 1.700 + S4 2.000 + S5 1.400 = **~9.200** ký tự (khun
 
 ## 12. TRẠNG THÁI
 
-**SCENE BIBLE CH17: v1 — chờ Pre-Audit.** Chưa LOCK. Chưa Draft. Bước kế: Pre-Audit của chị → (nếu có điều kiện) v2 → LOCK → Draft Ch17 v1 + Self-Audit.
+**SCENE BIBLE CH17: LOCK (v2).** Pre-Audit: PASS CÓ ĐIỀU KIỆN → 6 chỉnh đã xử lý (SY-4, SY-7, SY-8, SY-3, P-17-6, S5). Không thêm lore, không khóa mới. Bước kế: Draft Ch17 v1 + Self-Audit.

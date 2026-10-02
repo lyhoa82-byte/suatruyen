@@ -10,8 +10,8 @@
 |---|---|
 | Ch1–Ch16 | **LOCKED** (file trong `locked/`) |
 | Tổng độ dài | **181.099 ký tự** (đếm lại 16 file LOCKED bằng `len()`; Ch16 = 9.075). Còn khoảng 118.901 cho 16 chương, trung bình ~7.431/chương |
-| **Việc đang dở** | Ch16 **CHAPTER LOCKED**; Canon Update Ch16 xong. **Foundation Gate Ch17 = LOCK (v2)** (`gates/CCLT_Gate_Truoc_Ch17.md`; đã ghi GR17-04, GR17-05, GR17-06, PA-A ở mục 0D; không thêm lore). **Scene Bible Ch17 v1** (`scene_bible/CCLT_Scene_Bible_Ch17.md`, POV Chiêu, 5 cảnh, ~9.200 ký tự dự kiến) đã viết; **đang chờ chị Pre-Audit** (chưa LOCK, chưa Draft) |
-| Bước tiếp theo | Pre-Audit Scene Bible Ch17 → v2 → Pre-Audit Final → LOCK → Draft Ch17 v1 + Self-Audit → ... |
+| **Việc đang dở** | Ch16 **CHAPTER LOCKED**. **Gate Ch17 = LOCK v2**; **Scene Bible Ch17 = LOCK v2** (6 chỉnh đã xử lý: SY-3/4/7/8 LOCK, bỏ echo "tờ kê", S5 đủ nhịp đóng bẫy). **Draft Ch17 v1** (`draft/Cuu_Chau_Loan_The_Chuong_17_DRAFT.md`, 9.833 ký tự, Chiêu POV, 5 cảnh) + **Self-Audit** (`audit/CCLT_SelfAudit_Ch17.md`) đã viết; **đang chờ chị Audit** |
+| Bước tiếp theo | Audit Draft Ch17 → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch17 → Gate Ch18 |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -177,6 +177,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch17.md` (đã LOCK v2), `scene_bible/CCLT_Scene_Bible_Ch17.md` (v1) và `canon/CCLT_Canon_Update_Ch16.md`. Mình sẽ gửi Pre-Audit cho Scene Bible Ch17.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch17.md` (LOCK v2), `scene_bible/CCLT_Scene_Bible_Ch17.md` (LOCK v2), `draft/Cuu_Chau_Loan_The_Chuong_17_DRAFT.md`, `audit/CCLT_SelfAudit_Ch17.md` và `canon/CCLT_Canon_Update_Ch16.md`. Mình sẽ gửi Audit cho Draft Ch17.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.
