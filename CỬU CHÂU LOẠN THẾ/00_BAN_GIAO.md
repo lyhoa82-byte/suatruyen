@@ -10,8 +10,8 @@
 |---|---|
 | Ch1–Ch15 | **LOCKED** (file trong `locked/`) |
 | Tổng độ dài | **172.024 ký tự** (đếm lại 15 file LOCKED bằng `len()`; Ch15 = 7.332). Còn khoảng 127.976 cho 17 chương, trung bình ~7.528/chương |
-| **Việc đang dở** | **Gate Ch16 v2: LOCKED** (4 guardrail GR16-11…14). **Scene Bible Ch16 v1** (`scene_bible/CCLT_Scene_Bible_Ch16.md`) đã viết; **đang chờ chị Pre-Audit** |
-| Bước tiếp theo | Pre-Audit Scene Bible Ch16 → v2 → Pre-Audit Final → LOCK → Draft Ch16 → ... |
+| **Việc đang dở** | Gate Ch16 v2 **LOCKED**; Scene Bible Ch16 v2 **LOCKED** (GR16-11…17). **Draft Ch16 v1** (`draft/Cuu_Chau_Loan_The_Chuong_16_DRAFT.md`, ~8.900 ký tự) + Self-Audit đã viết; **đang chờ chị Audit** |
+| Bước tiếp theo | Audit Draft Ch16 → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch16 → Gate Ch17 |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -173,6 +173,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch16.md` (LOCKED v2), `scene_bible/CCLT_Scene_Bible_Ch16.md` (v1) và `canon/CCLT_Canon_Update_Ch15.md`. Mình sẽ gửi Pre-Audit cho Scene Bible Ch16.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `scene_bible/CCLT_Scene_Bible_Ch16.md` (LOCKED v2), `draft/Cuu_Chau_Loan_The_Chuong_16_DRAFT.md`, `audit/CCLT_SelfAudit_Ch16.md` và `canon/CCLT_Canon_Update_Ch15.md`. Mình sẽ gửi Audit cho Draft Ch16.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.

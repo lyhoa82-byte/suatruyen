@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 16: THẾ
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch16 v2 **LOCKED** (kèm GR16-11…14); Canon Ch1–Ch15; Production Bible; Chapter Bible Ch16. Không mở lại Gate. Độ dài 7k–10k. **Sau Pre-Audit → v2 → Pre-Audit Final → LOCK → mới sang Draft.**)*
+*(v2 — **LOCKED** (Pre-Audit: PASS CÓ ĐIỀU KIỆN; cấu trúc 5 cảnh giữ nguyên; thêm 3 guardrail GR16-15…17; giữ GR16-11…14; **sau LOCK mới sang Draft**). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch16 v2 **LOCKED** (kèm GR16-11…14); Canon Ch1–Ch15; Production Bible; Chapter Bible Ch16. Không mở lại Gate. Độ dài 7k–10k.)*
 
 **POV:** Tiêu Dịch, xuyên suốt. Narration gọi **"Dịch"**, **"hắn"**; Dịch tự xưng **"ta"**. Chiêu: narration **"Chiêu"/"nàng"**; Dịch gọi **"Tam tướng quân"**. Hàn: **"Hàn Đô úy"**; Dịch gọi **"Đô úy"**; Hàn gọi Dịch **"tiên sinh"**. Không ai gọi "điện hạ".
 **Thời gian:** ngày 9 → ngày ~29 sau Hổ Lao (đầu xuân năm 1). Ba tuần tính từ hội ngày 10 → hạn **ngày 31**; chương dừng ở **đêm ngày 29, còn hai ngày** [P].
@@ -48,6 +48,10 @@
 16. **GR16-13 — Thư Bàng:** đọc công khai, **chỉ lương**. Toàn văn **không** có: tuyến mới, Kim Lăng, ba tuần, Dĩnh Xuyên, Hổ Lao, quân số, ý đồ, rò. Người nghe nghe hết thư mà **không biết gì về kế hoạch**.
 17. **GR16-14 — Dĩnh Xuyên:** chỉ một tên, một nét vẽ, một chỗ trên giấy. **Không** giải thích vì sao quan trọng (không "nhử/cắt/bao vây/kho/ai giữ"). Tên đã được nói **một lần** ở S3, như một **chợ cũ** của làng. Ch17 giải.
 
+18. **GR16-15 — "Việc kia":** cụm **"Việc kia"** (tờ thứ nhất thư Bàng) chỉ xuất hiện **đúng một lần** ở S4: sĩ quan hỏi, **Hàn đáp một câu** *"Việc kia Thứ sử đã xem."* Ch16 **không** giải thích thêm: không nội dung, không "mời", không "chứng cứ/người làm chứng", không "điện hạ", không Lạc Kinh/tông miếu; Dịch **không** nói gì thêm; không ai hỏi tiếp trong cùng cảnh; không nhắc lại ở S5.
+19. **GR16-16 — Hạ Hầu mua lương dân:** chỉ là **fact** ở S3 (làng trưởng nói: bên kia tới hỏi, trả bạc, lấy cả xe, một phần ba). Dịch **không bình luận, không suy diễn**, không nối với tiếp tế/Uyển/Ch18; **không** ai giải thích chiến lược tiếp tế; không lặp lại ở S4–S5 như một suy luận. (Seed Ch18 giữ ở **author-truth**, không xuất hiện trên trang.)
+20. **GR16-17 — Sĩ quan xin về:** là **chi phí nhân lực thực tế**, không phải khủng hoảng quân tâm hay phản bội. Lý do trên trang cụ thể (**áp tải thương binh về**); Hàn cho đi bằng một chữ; **không** sĩ quan nào đi theo hay hùa; không tranh cãi, không kết tội, không bị gọi là bỏ trận; Dịch không giữ, không bình luận; **không** nhắc lại ở S5 như mối lo lan rộng.
+
 ---
 
 ## 1. KNOWLEDGE MATRIX
@@ -59,6 +63,7 @@
 
 ### 1B. Dịch — Checkpoint CUỐI
 - **FACT (Hàn xác nhận, S1):** Bàng biết một xe Ích Châu chở bao nhiêu, đi một ngày mấy dặm, qua sông ở đâu, vì **mua lương ải Tây nhiều năm**.
+- **FACT:** (làng trưởng) Hạ Hầu cũng mua lương dân, trả bạc, lấy cả xe, một phần ba. **Dịch không suy diễn gì từ fact này trên trang** (GR16-16).
 - **FACT:** Hoắc quân rút nửa, kỵ nhẹ ở lại; hạn ngày 31; làng bán **một phần ba**; Hạ Hầu cũng mua; một đoàn nhỏ bị chặn (sáu xe), còn **chín** đường chạy; Hổ Lao thêm quân; Ôn đóng ấn tới hết vụ thu có mức tối đa; hồi âm đã gửi.
 - **QUYẾT ĐỊNH:** không đánh trận nhỏ; lương nhiều đường; mua tại chỗ; hồi âm chỉ lương; tuyến tới Dĩnh Xuyên.
 - **KHÔNG BIẾT:** có rò hay không; Ch14; Bàng phản ứng hồi âm thế nào; **Dĩnh Xuyên sẽ dùng làm gì** (hắn chỉ vẽ một hướng; mục đích thuộc Ch17).
@@ -138,6 +143,7 @@
 - **Dĩnh Xuyên** chỉ là **tên một chợ cũ**, trong lời than giá. **Không** giải thích; Dịch **không** hỏi, **không** ghi tên ra giấy ở S3.
 - Không trưng thu; không đe dọa.
 - Dân **không** là công cụ nhân đức: làng trưởng nghi, tính toán, giữ thóc giống.
+- **GR16-16:** đoạn "bên kia cũng tới hỏi" chỉ là **ba câu đáp qua lại về giá và số**; không thêm câu nào của Dịch hay narrator về ý nghĩa.
 - Phiếu nợ là **nợ thật** của Ích Châu; Dịch **không** hứa điều hắn không có quyền hứa (ấn Ôn "tới sau", lấy tên mình).
 
 ---
@@ -149,18 +155,19 @@
 **Chức năng:** Nghi ngờ nảy từ câu "chưa hồi âm" (Ch15 S5) **xử bằng công khai**; có người rời.
 
 **Beats:**
-1. Dịch cho gọi sĩ quan ba bên. Hắn không giải thích vì sao. Thư đã viết xong. Hắn nói *một* câu: *"Thư của Bàng có hai việc. Một việc là lương. Ta trả lời việc ấy."* Một sĩ quan hỏi: *"Việc kia?"* **Hàn** đáp, không để Dịch đáp: *"Việc kia Thứ sử đã xem."* (SY-10.)
+1. Dịch cho gọi sĩ quan ba bên. Hắn không giải thích vì sao. Thư đã viết xong. Hắn nói *một* câu: *"Thư của Bàng có hai việc. Một việc là lương. Ta trả lời việc ấy."* Một sĩ quan hỏi: *"Việc kia?"* **Hàn** đáp, không để Dịch đáp: *"Việc kia Thứ sử đã xem."* (SY-10, **GR16-15:** một câu, hết.)
 2. Dịch **đọc toàn văn** thư (GR16-13). Toàn văn [P], chỉ lương, ngắn, đọc thành tiếng được:
    *"Ích Châu, Trình Dịch, trả lời thư của Bàng tướng quân. Thư của ngài nhắc một việc: lương ải Tây. Ích Châu trả lời việc ấy. Lương ải Tây giữ theo sổ cũ. Một nghìn suất mỗi kỳ. Cỏ cho ba trăm ngựa. Giá như cũ. Giao nhận tại ải, kiểm đếm hai bên. Từ đầu đông, bên ngài không tới nhận. Kỳ tới, nếu ngài cần, Ích Châu giao. Thư này chỉ bàn việc lương."*
 3. Hàn cầm bút bằng **tay còn lành**, ký chức và tên bên dưới. Nét chữ run một chút. Dịch ký bằng danh **Ích Châu – Trình Dịch**, **không ấn** ("làm trước, ấn sau"). *(Không "điện hạ".)*
 4. Sĩ quan Ích Châu (người đòi trả đũa): *"Bán lương cho kẻ vừa giết một nghìn tám?"* Dịch **không giải thích**. Hắn đáp bằng sổ: *"Một nghìn suất. Ba trăm ngựa. Ta chưa từng bán nhiều hơn."* Sĩ quan: *"Thế thì là gì?"* Dịch im. (Subtext: hắn **không đưa lý do** vì lý do thuộc phần không nói trên trang.)
-5. Sĩ quan quay sang Hàn: *"Xin Đô úy cho thuộc hạ theo xe thương binh về."* (Cost uy tín.) Hàn nhìn hắn, không giận: *"Đi."* Dịch không giữ. Sĩ quan chắp tay, ra khỏi lều. **Rời trang.**
+5. Sĩ quan quay sang Hàn: *"Xin Đô úy cho thuộc hạ áp tải thương binh về. Xe thương binh thiếu người coi."* (**GR16-17:** lý do việc thật; cost nhân lực, không phải tuyên bố.) Hàn nhìn hắn, không giận: *"Đi."* Dịch không giữ, không nói. Sĩ quan chắp tay, ra khỏi lều. **Rời trang.** Hai sĩ quan còn lại ngồi yên; không ai nói gì thêm.
 6. Thư gấp, niêm. **Một kỵ Ích Châu, cờ trắng**, rời bến theo hướng bắc. Đội trưởng kỵ nhẹ Hoắc quân ra khỏi lều **không nói gì** (về báo Chiêu).
 
 **Guardrail:**
 - Toàn văn thư **đúng GR16-13**: nghe hết không biết gì về kế hoạch. Kiểm bằng cách đọc thư cho một người chưa xem Ch16.
 - Dịch **không** biện hộ, **không** nhắc "lương là thứ Bàng đọc"; **không** nói "cho hắn một thứ để đọc".
-- Sĩ quan xin về **không** thành phản bội; không ai kết tội.
+- **GR16-17:** sĩ quan xin về là **chi phí nhân lực** (áp tải thương binh); không thành phản bội, không thành khủng hoảng quân tâm; không ai kết tội; không ai đi theo.
+- **GR16-15:** "Việc kia" đúng một lần, một câu của Hàn; sau câu ấy **không ai hỏi tiếp**.
 - Không nhắc "điện hạ", "Lạc Kinh", "tông miếu".
 
 ---
@@ -194,10 +201,10 @@
 |---|---|
 | Hổ Lao | Hạ Hầu giữ, **củng cố** (thêm quân, thêm người giữ tuyến cỏ) |
 | Hoắc quân | **Rút một nửa** về biên (phó tướng dẫn); **kỵ nhẹ + Chiêu ở lại**; hạn **ngày 31** |
-| Ích Châu | Thêm **nợ** (muối ~300 bao, vải, phiếu); **ấn Ôn đóng**, mức tối đa, tới hết vụ thu; một sĩ quan **về**; Hàn vai còn băng |
+| Ích Châu | Thêm **nợ** (muối ~300 bao, vải, phiếu); **ấn Ôn đóng**, mức tối đa, tới hết vụ thu; một sĩ quan **về** (áp tải thương binh; thiếu một người hộ tống, không hơn); Hàn vai còn băng |
 | Kim Lăng | Thuyền chạy ~7 chuyến; có thứ để báo ("chở lương đường sông cho liên quân"); **chưa công nhận ai** |
 | Lương hội minh | **Chín đường** chạy; mất một đoàn nhỏ (sáu xe); làng bán một phần ba, chậm |
-| Dân | Một làng cho mua; làng thứ hai chỉ giao nửa; Hạ Hầu cũng mua |
+| Dân | Một làng cho mua; làng thứ hai chỉ giao nửa; Hạ Hầu cũng mua một phần ba (**fact**, chưa giải thích) |
 | Hồi âm Bàng | **Đã gửi** (ngày 14), toàn văn đọc công khai; Bàng chưa đáp (→ Ch19) |
 | Nghi ngờ trong hội | Giảm ở bề mặt; còn "ai báo tin" (OPEN) |
 | Uy tín Dịch | Chưa hồi; thêm **trách nhiệm cá nhân** (làm trước, ấn sau) |
@@ -305,3 +312,9 @@ Thế: **Rất mạnh** · Mưu: Có · Gián: Nhẹ · Quân tâm: Có · Ngo�
 - Hạ Hầu củng cố bao nhiêu (không số).
 - Tên làng, tên chỗ ép, tên bến, tên các phó tướng và sĩ quan (Draft đặt hoặc để vô danh).
 - Họ tên đầy đủ của Bàng.
+
+---
+
+## 10. TRẠNG THÁI
+
+**SCENE BIBLE CH16: LOCK (v2).** Pre-Audit: PASS CÓ ĐIỀU KIỆN → 3 guardrail (GR16-15, 16, 17) đã ghi; GR16-11…14 giữ nguyên; cấu trúc 5 cảnh giữ nguyên. Bước kế: Draft Ch16 v1 + Self-Audit.
