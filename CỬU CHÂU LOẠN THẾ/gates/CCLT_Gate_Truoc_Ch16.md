@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 16
 
-*(v1 — **chờ Pre-Audit**. **Author-truth**; chi tiết chỉ thành canon khi Ch16 LOCK. Nền: Canon Ch1–Ch15 LOCKED; Gate Ch15 (K-1, K-2); Canon Update Ch15; Production Bible (Atlas, Nguyên tắc khoảng cách); Chapter Bible Ch16. Độ dài 7k–10k. Mục nào cần chị chọn được đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị.)*
+*(v2 — **LOCK** sau Pre-Audit: PASS CÓ ĐIỀU KIỆN; D16-1 → D16-10 PASS; đã khóa 4 guardrail GR16-11 → GR16-14 (mục 0B). **Author-truth**; chi tiết chỉ thành canon khi Ch16 LOCK. Nền: Canon Ch1–Ch15 LOCKED; Gate Ch15 (K-1, K-2); Canon Update Ch15; Production Bible (Atlas, Nguyên tắc khoảng cách); Chapter Bible Ch16. Độ dài 7k–10k. Mục nào cần chị chọn được đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị.)*
 
 **Chapter Bible Ch16 — THẾ.** POV **Tiêu Dịch**. Arc: **Strategic Transformation**. Vai trò: chương chuyển hóa Dịch từ người giỏi mưu thành người hiểu Thế; **không thắng ngay**; Dịch bắt đầu xây điều kiện để thắng. **Goal:** không đánh Hạ Hầu trực diện nữa. **Obstacle:** quân liên minh muốn một trận thắng để lấy lại tinh thần. **Decision:** chuyển trọng tâm sang lương, đường vận chuyển, ngựa, dân, thành, thời tiết, thông tin. **Cost:** mất thời gian; cho Hạ Hầu thời gian củng cố. **New info:** một trận thắng không đồng nghĩa thắng chiến tranh. **Seed:** chiến tranh hậu cần; hệ thống đường vận tải; dân tâm; thế trận nhiều lớp. **Hook:** một tuyến lương mới xuất hiện trên bản đồ.
 
@@ -21,6 +21,19 @@
 7. **A Quy / lệnh bắt:** OPEN → Ch17. Ch16 **không** chạm.
 8. **Vân Chương, Uyển, Chỉ, Dạ Kiêu:** vắng (xem mục 9).
 9. Production Bible: không "sáng nhận tin, chiều xuất quân"; mọi tuyến vận phải trả lời được "mất bao lâu, ăn gì, nước đâu, ngựa đâu".
+
+---
+
+## 0B. BỐN GUARDRAIL KHÓA TỪ PRE-AUDIT (LOCK)
+
+| Mã | Khóa | Hiệu lực với Gate/Scene Bible/Draft |
+|---|---|---|
+| **GR16-11 (Hàn)** | Hàn chỉ xác nhận: **đối phương đọc được thói quen hậu cần của Ích Châu qua giao dịch nhiều năm** (mua lương, ải Tây). Hàn **không xác nhận, không bác, không gợi ý** nội gián hay rò tin; không nói "có người báo", không nói "không có ai báo" | Lời Hàn là **fact về giao dịch**, không phải phán đoán về người. Dịch không nối fact này với bất cứ thứ gì ngoài sổ lương |
+| **GR16-12 (Chiêu)** | Hoắc quân **rút một nửa vì chi phí + hạn chót** (lương hết đợt băng tan, lời hứa của Khả đôn, ba tuần). **Giữ kỵ nhẹ.** Đây **không phải** bỏ Dịch, không phải mất niềm tin, không phải giận | Chiêu nói bằng **số và hạn**, không bằng thái độ. Không câu nào của Chiêu đọc được như "ta bỏ ngươi". Kỵ nhẹ ở lại nhận lương theo tuyến mới |
+| **GR16-13 (Thư Bàng)** | Hồi âm **đọc công khai** nhưng **chỉ nói chuyện lương**: không tuyến mới, không thuyền Kim Lăng, không ba tuần, không Dĩnh Xuyên, không Hổ Lao, không quân số, không ý đồ, không nhắc rò | Thư là **bề mặt buôn bán**. Mọi thứ chiến lược nằm ngoài thư. Nghe toàn văn thư, người nghe không biết gì về kế hoạch |
+| **GR16-14 (Dĩnh Xuyên)** | Ch16 **chỉ giới thiệu Dĩnh Xuyên như một hướng mới**: một tên, một nét vẽ, một chỗ trên giấy. **Không** giải thích vì sao nó quan trọng (không "nhử", không "cắt", không "bao vây", không kho, không ai giữ). Lý do → **Ch17 giải** | Dịch không nói lý do trên trang; narrator không nói; không ai hỏi "sao Dĩnh Xuyên" mà được trả lời. Tên đã được nói **một lần** trước hook (GR16-8) như một thành "ngoài đường chính" |
+
+**Timeline Ch15 (Chiêu phi ngựa gấp đêm ngày 7 để kịp sáng ngày 8): GIỮ NGUYÊN, không sửa.**
 
 ---
 
@@ -175,6 +188,7 @@ Dịch không "học bài học". Trên trang chỉ có hành động. Author-tr
 | **GR16-8** | "Dĩnh Xuyên" đã được nói một lần trước hook; chi tiết thành chỉ khóa tối thiểu |
 | **GR16-9** | Không chạm A Quy, Kha Trọng, Chu Hạc, Bắc Môn, quân trắng |
 | **GR16-10** | Dịch **không tuyên bố** muốn "thành Hoàng đế"; "điện hạ" không ai gọi |
+| **GR16-11 → GR16-14** | Xem mục 0B (Hàn / Chiêu / Thư Bàng / Dĩnh Xuyên) |
 
 ---
 
@@ -204,3 +218,9 @@ Dịch không "học bài học". Trên trang chỉ có hành động. Author-tr
 - Hạ Hầu củng cố bao nhiêu: [P], không số liệu.
 - Tiết tướng quân; K2 (viên quan Kim Lăng); Kha Trọng; nguồn rò Ch14: **OPEN** (G-1, G-2).
 - Phản ứng của Khả đôn khi hết băng tan: Ch18.
+
+---
+
+## 13. TRẠNG THÁI
+
+**FOUNDATION GATE CH16: LOCK (v2).** Pre-Audit: PASS CÓ ĐIỀU KIỆN → điều kiện (4 guardrail mục 0B) đã ghi → LOCK. D16-1 → D16-10: PASS. Bước kế: Scene Bible Ch16 v1.
