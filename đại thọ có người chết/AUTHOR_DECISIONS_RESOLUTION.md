@@ -249,6 +249,179 @@ PARTIALLY REOPENED — các điểm canon giữ nguyên ở trên: APPROVED — 
 
 ---
 
+### FA-09 — Đêm nhà bếp / Tây Nguyệt môn / Hạnh Nhi (C-01)
+
+Decision:
+Các sự việc ở Ep01, Cảnh 1 thuộc đêm án mạng.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Việc Minh Lễ ăn vụng chân gà, bóng người ở Tây Nguyệt môn, và việc Vãn Ý gặp Hạnh Nhi diễn ra trong đêm án mạng, tức đêm ngay trước buổi sáng phát hiện Tống Chính Nghiêm đã chết.
+2. Câu "Đêm trước đại thọ" ở Ep01 là lỗi câu chữ / timeline, phải sửa trong EDIT MODE.
+3. KHÔNG tạo thêm một lần lặp lại thứ hai của các sự việc này, trừ khi có quyết định riêng.
+
+Episodes Potentially Affected:
+- Ep01, Cảnh 1 — "Đêm trước đại thọ…" (cần sửa trong EDIT MODE).
+- Các mốc khác ở Ep01 hiện đang gắn với đêm trước đại thọ (Cảnh 1 "Ngày mai đại tẩu bảo phải cân đại ca"; Cảnh 2 "tối qua"; Cảnh 4 "Đêm qua" và cuộc trò chuyện chiều ngày đại thọ; cuối tập "canh ba hôm trước") — cần đối chiếu khi sửa. Quyết định này không xác định cách xử lý từng câu.
+- Ep02, Cảnh 3–6, 10 và Ep03, Cảnh 10 — khớp với quyết định; giữ nguyên.
+
+Requires Edit Pass:
+YES
+
+Status:
+APPROVED — LOCKED
+
+---
+
+### FA-03 — Mùi thuốc / người kéo chân (C-06)
+
+Decision:
+Xác định người kéo chân trong hồi ức Ep07 và tình trạng câu "Chu Thành Quý khi ấy chưa què".
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Người kéo chân trái trong hồi ức ở Ep07 (Cảnh 3) là người mà Vãn Thanh nhận ra là Lão Quý / Trịnh Vạn Xuân.
+2. Câu ở Ep10 (Cảnh 17) "Chu Thành Quý khi ấy chưa què" là suy luận của Vãn Ý, KHÔNG phải canon đã xác lập.
+3. KHÔNG khóa thêm dữ kiện nào về việc tật ở chân của Trịnh là thật, giả vờ hay tạm thời.
+4. KHÔNG đồng nhất mọi manh mối "mùi thuốc" ở các tập trước với thuốc trị chân, trừ khi có xác lập riêng.
+5. Danh tính những người có mùi thuốc ở các tập trước (người trả 30 lượng cho Phương Tử Bình ở Ep04; người gửi thư qua A Sửu ở Ep06) giữ tách biệt, trừ khi manuscript xác lập rõ.
+
+Episodes Potentially Affected:
+- Ep07, Cảnh 3 và 12; Ep10, Cảnh 17 — khớp với quyết định; Ep10 Cảnh 17 có thể cần đối chiếu khi sửa.
+- Ep04, Cảnh 4; Ep06, Cảnh 11–12 — giữ nguyên.
+
+Requires Edit Pass:
+CHƯA XÁC ĐỊNH
+
+Status:
+APPROVED — LOCKED
+
+---
+
+### FA-01 — Việc nhận diện Lão Quý là Chu Thành Quý (C-04)
+
+Decision:
+Việc Minh Lễ và Minh Đức chấp nhận Lão Quý là Chu Thành Quý ở Ep08 là nhận nhầm có chủ ý trong truyện, không phải lỗi continuity.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Ở Ep08, Minh Lễ và Minh Đức nhận nhầm Lão Quý là Chu Thành Quý. Đây là chủ ý của truyện.
+2. Lão Quý lợi dụng trí nhớ, giọng nói và thông tin về Chu Thành Quý thật để duy trì thân phận giả.
+3. Chu Thành Quý thật và Trịnh Vạn Xuân là hai người khác nhau. KHÔNG được gộp danh tính.
+4. KHÔNG thêm canon về việc hai người có nét giống nhau, trừ khi manuscript sau này cần và xác lập rõ.
+
+Episodes Potentially Affected:
+- Ep08, Cảnh 1 và 4 — khớp với quyết định; giữ nguyên.
+
+Requires Edit Pass:
+NO hiện tại
+
+Status:
+APPROVED — LOCKED
+
+---
+
+### FA-02 — Các lời Lão Quý kể khi mạo danh Chu Thành Quý
+
+Decision:
+CHỈ KHÓA MỘT PHẦN. Các lời Lão Quý kể ở Ep08 dưới thân phận "Chu Thành Quý" KHÔNG tự động là canon.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Các lời Lão Quý kể ở Ep08 khi mạo danh "Chu Thành Quý" không được tự động coi là sự thật.
+
+Đối chiếu với lock đã có (không thay đổi):
+- C-09B, điểm 4 đã khóa riêng một lời nói ở Ep08, Cảnh 7 (mốc "bảy năm"): mốc này không bị xác định là lời nói dối. Lock riêng đó giữ nguyên; FA-02 không ghi đè.
+- C-09A, điểm 4 ("Lão Quý không nói dối ở đoạn này") áp dụng cho Ep10, Cảnh 2, không thuộc phạm vi Ep08 của FA-02; giữ nguyên.
+
+OPEN (không tự giải quyết, không chuyển thành giải thích canon đầy đủ):
+- Tống Chính Nghiêm có biết người làm vườn là Trịnh Vạn Xuân không.
+- Chuyện "giả chết" liên quan tới lão thái gia có thật do Chu Thành Quý thật làm hay không.
+- Ai thực sự xử lý thi thể trong vụ tám năm trước.
+- Ai trả 30 lượng cho Phương Tử Bình.
+- Ai gửi thư qua A Sửu.
+- Các lời kể khác ở Ep08 thuộc về Chu thật, Trịnh, hay là cố ý đánh lừa.
+
+Episodes Potentially Affected:
+- Ep08, Cảnh 2–7; Ep04, Cảnh 4; Ep06, Cảnh 11–12; Ep10, Cảnh 21 — phụ thuộc các mục OPEN.
+
+Requires Edit Pass:
+CHƯA XÁC ĐỊNH
+
+Status:
+PARTIAL LOCK — điểm 1: APPROVED — LOCKED; các mục OPEN: AUTHOR DECISION REQUIRED
+
+---
+
+### FA-08 — Chuỗi hạ độc của Thanh Mai (C-F03)
+
+Decision:
+Chỉ khóa cơ chế đã được xác lập.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Thanh Mai bị một người chưa xác định đe dọa, nên đã bỏ một liều nhỏ Ô Đầu vào trà Phù Dung của Chu thị.
+2. Tống Chính Nghiêm tự uống một liều nhỏ riêng.
+3. Hai liều cộng lại khiến ông ngất sâu.
+4. KHÔNG coi cơ chế hạ độc là bằng chứng rằng người ép Thanh Mai biết toàn bộ kế hoạch giết người.
+
+OPEN (không tự giải quyết; không bịa người ép hay sự biết trước):
+- Danh tính người đã đe dọa Thanh Mai.
+- Cơ sở để người đó biết hoặc kỳ vọng trà của Chu thị sẽ tới tay Tống Chính Nghiêm.
+- Chu thị có uống phải trà có độc hay không (implementation detail, trừ khi canon sau xác lập).
+
+Episodes Potentially Affected:
+- Ep10, Cảnh 5–7 và 20 — khớp với quyết định; giữ nguyên.
+
+Requires Edit Pass:
+CHƯA XÁC ĐỊNH
+
+Status:
+APPROVED — LOCKED (điểm 1–4); các mục OPEN: AUTHOR DECISION REQUIRED
+
+---
+
+### FA-32 — Ep06 cuối tập: "Đông viện / Lấy một thứ"
+
+Decision:
+Khóa cách xử lý mâu thuẫn. Liên kết với C-03 (AD-1, AD-2); C-03 không thay đổi.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Câu "Lấy một thứ" ở cuối Ep06 KHÔNG được hiểu là Vãn Thanh vừa lấy được nửa phân sản thư của mình.
+2. C-03 giữ quyền quyết định: Vãn Thanh lấy nửa phân sản thư của mình trong đêm án mạng, cạnh ghế trong thư phòng.
+3. Đoạn "Đông viện / Lấy một thứ" ở Ep06 là vấn đề implementation / missing canon chưa giải quyết.
+4. KHÔNG dùng cách giải thích "cất giấu" (cách hiểu I-2 đã bị loại theo AD-2).
+
+OPEN (không tự giải quyết):
+- Vãn Thanh ở Đông viện để làm gì.
+- "Một thứ" là gì.
+- Vì sao máu của Trương Phúc Sinh dính trên tay áo cô.
+- Câu "tiếng người chạy chữa" ở Ep07 nói về sự việc gì.
+
+Episodes Potentially Affected:
+- Ep06, cuối tập; Ep07, Cảnh 1 và 7 — KHÔNG sửa trong lần cập nhật này.
+
+Requires Edit Pass:
+YES (phạm vi chờ các mục OPEN)
+
+Status:
+APPROVED — LOCKED (điểm 1–4); các mục OPEN: AUTHOR DECISION REQUIRED
+
+---
+
 ## OPEN ISSUES REGISTER
 
 Các mục dưới đây chưa được quyết định. Không được coi là canon.
@@ -258,13 +431,18 @@ Các mục dưới đây chưa được quyết định. Không được coi là
 | C-F02 | Mô tả trực tiếp việc Trịnh cài then trong manuscript | IMPLEMENTATION GAP |
 | C-F02 | Động cơ, thời điểm cài then; gieo manh mối; lộ trình quay lại của Triệu Kha | OPEN |
 | C-F02 | Cách xử lý tiêu đề Ep10 Cảnh 20 và câu Ep09 Cảnh 12 | OPEN (không sửa trong lần cập nhật này) |
-| C-03 | Ep06 cuối tập ("Đông viện" / "Lấy một thứ") mâu thuẫn với điểm 6 | OPEN / MISSING CANON |
-| C-03 | Lý do Vãn Thanh ở Đông viện; máu của Trương Phúc Sinh; "tiếng người chạy chữa" | OPEN / MISSING CANON |
+| C-03 / FA-32 | Ep06 cuối tập ("Đông viện" / "Lấy một thứ") — không được hiểu là vừa lấy nửa phân sản thư (FA-32); câu chữ chưa xử lý | IMPLEMENTATION / MISSING CANON |
+| C-03 / FA-32 | Vãn Thanh ở Đông viện làm gì; "một thứ" là gì; máu của Trương Phúc Sinh; "tiếng người chạy chữa" | OPEN / MISSING CANON |
 | C-03 | Phân sản thư ra khỏi ngăn tủ khóa thế nào; thời điểm chính xác bị xé | OPEN / MISSING CANON |
 | C-09A | Danh tính người mua Ô Đầu ba tháng trước | OPEN / UNRESOLVED |
 | C-09A | Các implementation details của nốt ruồi giả | OPEN |
 | C-09B | Lần gặp cuối Minh Lễ – Triệu Kha; thời điểm Triệu Kha rời chức hộ vệ; quan hệ thời gian với Ep08 Cảnh 12 | OPEN / AUTHOR DECISION REQUIRED |
-| Khác | C-01, C-02, C-04, C-05, C-06, C-07, C-08, C-10, C-F01, C-F03 | OPEN theo `AUTHOR_DECISIONS_PART1.md` |
+| FA-09 | Câu "Đêm trước đại thọ" và các mốc liên quan ở Ep01 | IMPLEMENTATION GAP (sửa trong EDIT MODE) |
+| FA-03 | Tật ở chân của Trịnh (thật / giả vờ / tạm thời); danh tính những người có mùi thuốc ở Ep04, Ep06 | OPEN |
+| FA-02 | Lão thái gia có biết người làm vườn là Trịnh; ai làm việc "giả chết"; ai xử lý xác; ai trả 30 lượng; ai gửi thư qua A Sửu; các lời kể khác ở Ep08 | OPEN / AUTHOR DECISION REQUIRED |
+| FA-08 | Danh tính người ép Thanh Mai; cơ sở để người đó kỳ vọng trà tới tay lão thái gia; Chu thị có uống trà có độc không | OPEN |
+| Khác | C-02, C-05, C-07, C-08, C-10, C-F01 | OPEN theo `AUTHOR_DECISIONS_PART1.md` |
+| Ghi chú | C-01 → đã xử lý bởi FA-09; C-04 → FA-01; C-06 → FA-03; C-F03 → FA-08 (khóa cơ chế; phần còn lại OPEN) | Tham chiếu |
 
 ---
 
