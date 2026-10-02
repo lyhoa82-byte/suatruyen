@@ -1,0 +1,394 @@
+WRITING CONTROL SYSTEM
+
+Trong quá trình viết Cửu Châu Loạn Thế, sử dụng 5 hệ thống dưới đây như các lớp kiểm soát bắt buộc.
+
+Không cần biến chúng thành phần văn bản của truyện.
+
+Không cần giải thích chúng cho độc giả.
+
+Chỉ dùng để kiểm tra logic, continuity, mystery, character knowledge, timeline và emotional consequences trong quá trình sáng tác.
+
+1. KNOWLEDGE MATRIX — “AI BIẾT GÌ?”
+
+Đây là hệ thống kiểm soát quan trọng nhất đối với mystery, chính trị, phản gián và nhiều POV.
+
+Theo dõi:
+
+* Biết thật
+* Tin sai
+* Nghi ngờ
+* Không biết
+* Khi nào biết
+* Biết từ nguồn nào
+
+Nguyên tắc:
+
+Thông tin không được tự động chuyển từ “tác giả biết” thành “nhân vật biết”.
+
+Một nhân vật chỉ được biết điều mà họ có nguồn hợp lý để biết.
+
+Nếu nhân vật tin sai, phải ghi rõ họ đang tin sai điều gì.
+
+Nếu nhân vật nghi ngờ, không được viết họ như thể đã biết sự thật.
+
+Sau mỗi scene hoặc chapter có reveal, betrayal, discovery, death hoặc thay đổi thông tin quan trọng, cập nhật Knowledge Matrix.
+
+Mục tiêu:
+
+Không để thông tin chạy từ tác giả → nhân vật một cách vô lý.
+
+2. SEED → PAYOFF REGISTRY — “CÁI GÌ ĐÃ GIEO?”
+
+Theo dõi:
+
+* Seed
+* Chapter gieo
+* Các lần reinforcement
+* Payoff
+* Trạng thái
+* Mức độ quan trọng
+
+Trạng thái:
+
+* Chưa gieo
+* Đã gieo
+* Đang tăng cường
+* Đã payoff
+* Đã đóng
+
+Mức độ:
+
+* Minor
+* Supporting
+* Major
+* Core
+
+Mục tiêu:
+
+Không để mystery, motif, foreshadowing, vật chứng hoặc chi tiết quan trọng bị quên.
+
+Không được tạo payoff lớn mà trước đó không có đủ setup hợp lý.
+
+Không được gieo quá nhiều chi tiết chỉ để tạo cảm giác bí ẩn mà không có chức năng về sau.
+
+Ví dụ:
+
+Bắc Môn:
+Ch1 → tăng cường Ch5, Ch6, Ch11, Ch14 → payoff Ch28.
+
+Quân cờ trắng:
+Ch3 → tăng cường Ch10, Ch12, Ch13 → payoff Ch32.
+
+Hoắc Tam Lang:
+Ch1 → tăng cường Ch10, Ch12, Ch17 → payoff Ch31.
+
+Chính danh của Dịch:
+Ch8 → tăng cường Ch9, Ch19, Ch20 → payoff Ch32.
+
+Chu Hạc:
+Ch1 → tăng cường Ch6, Ch10, Ch14 → payoff Ch26–30.
+
+Mục tiêu cuối cùng:
+
+Không có Core Seed nào bị bỏ quên.
+
+3. MASTER TIMELINE — “KHI NÀO CHUYỆN XẢY RA?”
+
+Master Timeline theo dõi thời gian tuyệt đối của truyện.
+
+Không dùng Master Timeline để ghi toàn bộ trạng thái nhân vật.
+
+Chỉ ghi:
+
+* Ngày / tháng / mùa / năm
+* Sự kiện
+* Khoảng cách địa lý và thời gian di chuyển cần thiết
+* Những sự kiện xảy ra đồng thời
+* Nhân vật có mặt
+* Những sự kiện nào xảy ra trước / sau nhau
+
+Bao gồm hai tầng:
+
+A. TIMELINE LỚN
+
+Ví dụ:
+
+15 năm trước:
+Thẩm Chiêu Nghi bị vu oan.
+
+14 năm trước:
+Bùi gia bị diệt.
+
+10 năm trước:
+Vân Trung thất thủ.
+
+Hiện tại:
+Đế quốc tan rã.
+
+B. TIMELINE TRUYỆN
+
+Ví dụ:
+
+Chương 1:
+Vân Trung, trước Giao Thừa.
+
+Chương 5:
+Đêm Giao Thừa.
+
+Chương 6:
+Cùng đêm — Vân Trung thất thủ.
+
+Chương 15:
+Mùa hè năm 1.
+
+Chương 25:
+Nhạn Môn.
+
+Chương 32:
+Sau khi chiến tranh kết thúc.
+
+Mục tiêu:
+
+Không để khoảng cách địa lý, thời gian di chuyển hoặc tuổi nhân vật trở nên vô lý.
+
+4. STATE LEDGER — “SAU CHƯƠNG NÀY, THẾ GIỚI ĐANG Ở TRẠNG THÁI NÀO?”
+
+State Ledger là ảnh chụp trạng thái của thế giới sau mỗi chapter hoặc một biến cố lớn.
+
+Nhân vật:
+
+* Vị trí
+* Tình trạng
+* Thương tích
+* Quan hệ
+* Mục tiêu hiện tại
+
+Quân sự:
+
+* Quân số
+* Chỉ huy
+* Morale
+* Tình trạng chiến đấu
+
+Lãnh thổ:
+
+* Thành nào thuộc phe nào
+* Tuyến đường nào đang kiểm soát
+* Khu vực nào đang tranh chấp
+
+Hậu cần:
+
+* Lương
+* Ngựa
+* Vũ khí
+* Đường vận chuyển
+* Mùa / thời tiết ảnh hưởng chiến tranh
+
+Chính trị:
+
+* Liên minh
+* Phản bội
+* Danh
+* Chính danh
+* Uy tín của các phe
+
+Vật chứng:
+
+* Thư
+* Sổ sách
+* Quân cờ
+* Chứng cứ
+* Vật quan trọng
+* Người đang giữ vật đó
+
+Mục tiêu:
+
+Sau bất kỳ chapter nào, có thể mở State Ledger và biết ngay bàn cờ hiện tại đang như thế nào.
+
+Không được tự ý khôi phục trạng thái cũ sau khi một biến cố đã thay đổi thế giới.
+
+5. EMOTIONAL DEBT MATRIX — “AI ĐANG NỢ AI?”
+
+Không chỉ theo dõi nợ cảm xúc.
+
+Theo dõi:
+
+* Nợ cảm xúc
+* Nợ đạo đức
+* Nợ danh dự
+* Ân nghĩa
+* Tội lỗi
+* Lời hứa
+* Trách nhiệm
+* Món nợ bị hiểu sai
+
+Mỗi món nợ cần theo dõi:
+
+* Người nợ
+* Người được nợ
+* Nguyên nhân
+* Nhân vật đang hiểu thế nào
+* Sự thật thực tế là gì
+* Đã trả hay chưa
+* Nếu trả thì trả bằng gì
+* Hậu quả sau khi trả
+
+Ví dụ:
+
+Chỉ → Hoắc Thành Lĩnh
+
+Bề ngoài:
+Hoắc Thành Lĩnh là người đứng về phía kẻ đã diệt Bùi gia.
+
+Sự thật:
+Hoắc Thành Lĩnh đã âm thầm cứu Bùi Chỉ.
+
+Chỉ không biết sự thật này trong phần lớn câu chuyện.
+
+Vì vậy đây là một món nợ bị hiểu sai.
+
+Đến Chương 26, khi sự thật được phơi bày, bản chất món nợ thay đổi.
+
+Mục tiêu:
+
+Các quyết định lớn ở Chương 27, 28, 30, 31 phải có liên hệ với những món nợ đã tích lũy trước đó.
+
+Không được tạo cảm xúc lớn mà không có lịch sử cảm xúc tương ứng.
+
+==================================================
+THỨ TỰ ƯU TIÊN KHI CÓ XUNG ĐỘT
+==============================
+
+Khi phát hiện mâu thuẫn giữa các tài liệu hoặc trong quá trình viết, ưu tiên theo thứ tự:
+
+1. Logic nhân vật và sự thật đã xác lập
+2. Knowledge Matrix
+3. Master Timeline
+4. State Ledger
+5. Seed → Payoff Registry
+6. Emotional Debt Matrix
+7. Chapter Bible
+8. Scene Bible
+9. Câu chữ / chi tiết trang trí
+
+Tuy nhiên:
+
+Không tự ý thay đổi Production Bible hoặc các sự kiện nền tảng chỉ để giải quyết một lỗi nhỏ trong Scene Bible.
+
+Nếu Scene Bible xung đột với Chapter Bible:
+ưu tiên Chapter Bible và điều chỉnh Scene.
+
+Nếu Chapter Bible xung đột với Production Bible:
+không tự ý sửa Production Bible; phải đánh dấu vấn đề và đề xuất thay đổi trước.
+
+Nếu một chi tiết mới trong Draft tạo ra một logic tốt hơn:
+không tự động retcon.
+
+Kiểm tra tác động của nó lên Knowledge Matrix, Timeline, State Ledger, Seed → Payoff và Emotional Debt trước.
+
+==================================================
+NGUYÊN TẮC VẬN HÀNH
+===================
+
+Không cần cập nhật cả 5 hệ thống sau mọi scene.
+
+Chỉ cập nhật hệ thống bị ảnh hưởng.
+
+Ví dụ:
+
+Một cảnh Dịch gặp Hoắc Tam Lang:
+
+Knowledge Matrix → có thể cập nhật.
+
+Seed → Payoff → cập nhật seed Hoắc Tam Lang.
+
+Timeline → không cần nếu không có thay đổi thời gian.
+
+State Ledger → chỉ cập nhật nếu vị trí / quan hệ / trạng thái thay đổi đáng kể.
+
+Emotional Debt → không cần.
+
+==================================================
+MỤC TIÊU CUỐI CÙNG
+==================
+
+Hệ thống này không được làm chậm việc viết.
+
+Nó tồn tại để bảo đảm:
+
+* Nhân vật chỉ biết những gì họ có lý do để biết.
+* Mystery có setup và payoff.
+* Timeline không vỡ.
+* Bàn cờ chiến tranh luôn nhất quán.
+* Cảm xúc có lịch sử và hậu quả.
+* Không có plot hole do tác giả quên trạng thái cũ.
+* Không dùng “thông minh giả” để che lỗi logic.
+
+Khi viết, ưu tiên:
+
+Character logic > clever twist.
+
+Logistics > convenient strategy.
+
+Natural action > forced coincidence.
+
+Consequence > spectacle.
+
+Emotion through action > explanation.
+
+Không để hệ thống kiểm soát biến thành lời thuyết minh trong truyện.
+
+==================================================
+GOLDEN RULE
+===========
+
+DRAFT KHÔNG TỰ ĐỘNG TRỞ THÀNH CANON.
+
+Một chi tiết mới chỉ được nâng thành CANON khi:
+
+1. Đã vượt qua các lớp kiểm tra:
+
+   * Production Bible
+   * Chapter Bible
+   * Scene Bible
+   * Knowledge Matrix
+   * Master Timeline
+   * State Ledger
+   * Emotional Debt Matrix
+   * Seed → Payoff Registry
+
+2. Không tạo ra mâu thuẫn chưa được xử lý với Canon hiện có.
+
+3. Các hệ thống bị ảnh hưởng đã được cập nhật.
+
+4. Chapter chứa chi tiết đó đã được LOCKED.
+
+Quy trình:
+
+Idea
+↓
+Draft Detail
+↓
+Draft Accepted
+↓
+Chapter Locked
+↓
+Canon
+
+Một chi tiết chưa qua bước Chapter Locked vẫn là Draft, dù nó đã xuất hiện trong bản thảo.
+
+Không được coi một chi tiết là Canon chỉ vì nó “đã được viết”.
+
+Không retcon âm thầm.
+
+Nếu Canon đã khóa cần thay đổi, phải xác định đó là một thay đổi Canon có chủ đích và cập nhật toàn bộ hệ thống bị ảnh hưởng.
+
+GOLDEN RULE:
+
+DRAFT LÀ NƠI SÁNG TẠO.
+
+BIBLE LÀ NƠI GIỮ KIẾN TRÚC.
+
+CONTROL SYSTEMS LÀ NƠI KIỂM TRA.
+
+CANON CHỈ HÌNH THÀNH SAU KHI ĐƯỢC KHÓA.

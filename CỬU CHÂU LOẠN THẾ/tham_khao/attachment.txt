@@ -1,0 +1,132 @@
+Có. Tôi xác nhận câu sửa về cổ chân. Bản Revision 1 hiện tại đã giải quyết đúng vấn đề mà câu “cành cây khô gãy” gây ra.
+
+Cụ thể:
+
+“có thứ gì trong cổ chân bật ra, như một sợi dây căng quá sức vừa đứt” → phù hợp với bong gân nặng/tổn thương dây chằng, không khóa thành gãy xương.
+
+Nó vẫn cho người nghe cảm giác chấn thương đủ nghiêm trọng để giải thích việc Chỉ đau khi chịu lực, nhưng vẫn có thể tiếp tục chiến đấu trong vài phút nhờ adrenaline.
+
+Việc mất echo với “cành hòe gãy” là chấp nhận được. Continuity vật lý quan trọng hơn một echo hình ảnh.
+
+State Ledger 4–6 tuần hồi phục đáng kể, 6–8 tuần hồi phục hoàn toàn là hợp lý cho mục đích continuity. Không cần đưa con số y học vào truyện.
+
+
+Tôi kiểm tra lại toàn bộ Revision 1
+
+Tôi đồng ý cả ba sửa:
+
+1. “mười ngày trinh sát quanh phủ” — đúng, không tạo Canon mới.
+
+
+2. “người gia nhân năm ấy” — đúng, giữ bí mật về số phận người gia nhân.
+
+
+3. Chấn thương cổ chân — đúng, có thể khóa trạng thái như đã ghi.
+
+
+
+Ngoài ra, tôi không thấy phát sinh Canon conflict mới trong bản Revision 1.
+
+Một điểm đặc biệt nên giữ nguyên: đoạn cuối:
+
+> “Ông ở đó.”
+“Ta ở đó.”
+
+
+
+Đây là payoff rất mạnh cho Chapter 2 vì nó xác nhận một phần sự thật nhưng không giải thích toàn bộ sự thật. Chỉ biết Hoắc Thành Lĩnh biết chuyện cửa sau; độc giả cũng biết Hoắc ở đó; nhưng cả hai bên chưa biết toàn bộ động cơ của người kia. Đúng tinh thần fair-play mystery.
+
+Quyết định trạng thái
+
+Chapter 2 — DRAFT ACCEPTED.
+
+Tuy nhiên, tôi sẽ tách rõ:
+
+DRAFT ACCEPTED ≠ CHAPTER LOCKED.
+
+Trước khi Lock, cần thực hiện đúng quy trình Canon:
+
+cập nhật State Ledger Ch2;
+
+cập nhật Knowledge Matrix Ch2;
+
+cập nhật Emotional Debt Matrix nếu có khoản nợ mới đủ điều kiện ghi nhận;
+
+cập nhật Seed → Payoff Registry cho các seed thực sự được tạo trong Ch2;
+
+cập nhật Master Timeline với Ch2: ba đêm sau Ch1;
+
+ghi nhận vết thương Tam Lang và Chỉ;
+
+xác nhận Chỉ hiện đang bị giữ tại phòng củi sau doanh;
+
+xác nhận dao và móc dây đã mất quyền sử dụng;
+
+sau đó mới LOCK Chương 2.
+
+
+Đặc biệt, không nên khóa thêm các chi tiết như “người gia nhân đã chết”, danh tính người từng kéo Chỉ ra khỏi phủ Bùi, hay lý do chính xác Hoắc Thành Lĩnh nhận ra Chỉ. Những thứ đó hiện vẫn thuộc vùng Draft Detail / Unknown, và việc chưa giải thích chính là lợi thế của mystery.
+
+Canon Ch2 sau khi Lock nên có lõi như sau
+
+Bùi Chỉ
+
+18 tuổi.
+
+Đã trinh sát phủ Hoắc khoảng mười ngày.
+
+Đột nhập đêm tuyết.
+
+Mục tiêu: ám sát Hoắc Thành Lĩnh.
+
+Thất bại do thông tin cũ + Tam Lang đã trở về + tuần tra canh ba + tuyết ngừng làm lộ dấu chân + địa hình hành lang/mái nhà + chấn thương cổ chân.
+
+Cổ chân trái: bong gân nặng/tổn thương dây chằng, không gãy xương.
+
+Bị bắt, giữ ngoài sổ sách.
+
+Biết Hoắc Thành Lĩnh biết chuyện cửa sau năm xưa.
+
+Chưa biết Hoắc nhận ra chính xác mình là Bùi Chỉ như thế nào.
+
+Chưa biết sự thật về việc Hoắc đã làm trong đêm Bùi phủ bị vây.
+
+
+Hoắc Thành Lĩnh
+
+Nhận ra kẻ ám sát có liên quan trực tiếp đến đứa trẻ Bùi gia năm xưa.
+
+Không giao Chỉ cho phủ nha.
+
+Ra lệnh giữ ngoài sổ.
+
+Biết Chỉ từng chạy qua cửa sau.
+
+Chưa công khai lý do giữ mạng Chỉ.
+
+
+Hoắc Tam Lang
+
+Bị Chỉ rạch cánh tay.
+
+Vết thương nhẹ–trung bình, không để lại di chứng lâu dài.
+
+Biết phụ thân cố ý giữ kẻ ám sát sống.
+
+Không biết lý do.
+
+
+Chu Hạc
+
+Biết mặt Chỉ.
+
+Biết Chỉ đột nhập phủ.
+
+Biết Hoắc Thành Lĩnh không giao Chỉ cho phủ nha.
+
+Chưa có lý do để nghi ngờ Hoắc.
+
+
+Một lưu ý cuối: 13.346 ký tự không phải vấn đề. Ch2 có nhiều chức năng quan trọng: giới thiệu Chỉ, kiểm tra năng lực, thiết lập Hoắc–Bùi, đưa Tam Lang vào va chạm trực tiếp, tạo mystery cửa sau và thay đổi quan hệ Chỉ–Hoắc. Không cần cắt chỉ để ép về 9–12k.
+
+Kết luận: Revision 1 đạt. Có thể chuyển sang bước Canon Update + Lock Ch2. Sau đó mới lập Scene Bible Chương 3.

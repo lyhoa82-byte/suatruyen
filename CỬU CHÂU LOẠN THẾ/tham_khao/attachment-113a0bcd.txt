@@ -1,0 +1,239 @@
+Tôi đã audit Draft Chương 2 theo **Canon Update + Scene Bible v2 + Knowledge Matrix + Martial Arts Module + State/Timeline logic**.
+
+**Kết luận:** Draft **đạt chức năng và logic cốt lõi**, chưa thấy Canon conflict nghiêm trọng. Tôi **chưa khuyến nghị viết lại chương**. Chỉ có **2 điểm cần chốt trước khi Accepted/Locked**, đúng như self-audit của Claude, và thêm vài chỉnh kỹ thuật nhỏ.
+
+## 1. Cổ chân Chỉ — nên chốt mức độ
+
+Tôi **không khuyên khóa là nứt xương**.
+
+Với những gì Draft đang diễn ra:
+
+* tiếp đất sai ở Scene I;
+* vẫn tiếp tục đột nhập;
+* giao chiến;
+* chạy lên mái;
+* leo/đu dây;
+* sau đó còn cố đứng dậy và vung dao ở hẻm,
+
+thì **bong gân nặng/tổn thương dây chằng cổ chân trái** hợp lý hơn một vết nứt xương.
+
+Tôi đề xuất Canon trạng thái:
+
+> **Cổ chân trái: bong gân nặng, tổn thương dây chằng; không gãy xương.**
+>
+> Sau đêm Ch2: sưng, đau khi chịu lực, đi lại khó; vài ngày đầu không thể vận động mạnh bình thường. Khoảng 4–6 tuần mới hồi phục đáng kể, 6–8 tuần mới trở lại hoàn toàn.
+
+Như vậy:
+
+* Ch3–4: Chỉ bị hạn chế thật sự.
+* Ch5–6: vẫn còn hậu quả nhưng có thể hành động nếu cần.
+* Đêm Giao thừa sau khoảng hai tháng: đủ thời gian hồi phục.
+* Quan trọng nhất: **thương tích có hậu quả nhưng không biến Chỉ thành người tàn phế chỉ để phục vụ cốt truyện.**
+
+Không cần viết tên chấn thương trong truyện. State Ledger mới cần ghi rõ.
+
+## 2. “Người gia nhân đã chết” — tôi đề nghị CHƯA LOCK
+
+Đây là điểm tôi muốn thận trọng hơn Claude.
+
+Draft hiện viết:
+
+> “Mười năm nay, hắn tin rằng chỉ có mình hắn và người gia nhân đã chết ấy biết về cánh cửa đó.”
+
+Câu này **khóa thêm một sự thật**: gia nhân đó đã chết.
+
+Trong khi Canon hiện tại chỉ cần:
+
+* Chỉ tin một gia nhân đã mở cửa;
+* Chỉ không biết người đó là ai;
+* sự thật là **Hoắc Thành Lĩnh mở cửa**.
+
+Việc gia nhân có chết hay không **không phục vụ mystery hiện tại**.
+
+Vì vậy tôi đề nghị sửa Draft Detail này thành:
+
+> “Mười năm nay, hắn tin rằng chỉ có mình hắn và người gia nhân năm ấy biết về cánh cửa đó.”
+
+Như vậy giữ được hoàn toàn ý nghĩa tâm lý mà không khóa một chi tiết có thể gây thêm gánh continuity.
+
+**Nếu sau này cần gia nhân đã chết để phục vụ một payoff, lúc đó mới khóa.**
+
+---
+
+# 3. Độ dài 13.352 ký tự: tôi KHÔNG khuyên cắt
+
+Đây là điểm tôi khác với đề xuất “có thể cắt” của self-audit.
+
+**13.352 không phải vấn đề.**
+
+Chương 2 có sáu chức năng:
+
+1. giới thiệu Chỉ;
+2. xác lập năng lực;
+3. cho thấy trinh sát bị lỗi thời;
+4. giới thiệu Tam Lang qua hành động;
+5. cho Hoắc nhận ra Chỉ;
+6. tạo mystery cửa sau.
+
+Đặc biệt Scene III và VI cần có nhịp. Nếu cắt chỉ để đưa về 9–12k thì dễ xảy ra tình trạng **“đúng ngân sách nhưng mất không khí.”**
+
+Hai đoạn Claude đề xuất cắt đều không phải phần dư nghiêm trọng:
+
+* Chu Hạc cần đủ để xác lập cách ông ta xuất hiện đúng Canon;
+* cảnh bát cháo cần đủ để tạo sự bất thường của Hoắc.
+
+Tôi sẽ ghi:
+
+> **Ch2 actual: 13.352 ký tự — chấp nhận được. Không cắt chỉ vì vượt working range.**
+
+Nhưng từ đây **không lấy 13.352 làm chuẩn mới cho các chương thường**. Length Budget vẫn chỉ là cảnh báo.
+
+---
+
+# 4. Có một chi tiết tôi muốn giữ nguyên: Tam Lang bị thương
+
+Đây là một bổ sung tốt.
+
+Chỉ không thắng Tam Lang, nhưng:
+
+> Chỉ **rạch được tay áo và làm Tam Lang chảy máu**.
+
+Điều này rất quan trọng vì nó khiến trận đánh có tính hai chiều.
+
+Tam Lang thắng nhờ:
+
+**tầm thương + địa hình + dấu tuyết + dây + thương tích của Chỉ**
+
+chứ không phải:
+
+**Tam Lang mạnh hơn → Chỉ thua.**
+
+Đúng tinh thần Martial Arts Module.
+
+Vết thương này có thể được State Ledger ghi:
+
+> Tam Lang: vết rạch ở cánh tay, mức độ nhẹ/trung bình, không ảnh hưởng chiến đấu lâu dài.
+
+**Không cần biến nó thành một subplot.**
+
+---
+
+# 5. “Người kéo hắn ra khỏi đó” — CHƯA cần sửa
+
+Câu:
+
+> “cho tới khi có người kéo hắn ra khỏi đó.”
+
+Tôi **không xem đây là Canon mới bắt buộc**.
+
+Nó chỉ xác nhận rằng ký ức Chỉ về đêm đó có một người tác động trực tiếp tới hắn. Điều này phù hợp với hướng mystery hiện tại.
+
+Nhưng phải ghi rõ trong Knowledge Matrix:
+
+**Chỉ tin:** một người đã kéo hắn ra.
+**Sự thật:** Hoắc là người cứu/giúp hắn thoát.
+**Chỉ chưa biết:** người đó là Hoắc.
+
+Không cần giải thích thêm ở Ch2.
+
+---
+
+# 6. Một chỉnh rất nhỏ về câu “mười ngày nằm trên mái nhà”
+
+Tôi sẽ sửa ở Draft nếu Accepted, vì câu:
+
+> “Trong mười ngày nằm trên mái nhà...”
+
+có thể hiểu theo nghĩa đen là Chỉ nằm trên mái suốt mười ngày, hơi vô lý.
+
+Nên đổi thành:
+
+> “Trong mười ngày trinh sát quanh phủ...”
+
+hoặc tương đương.
+
+Các câu sau vẫn đủ chứng minh hắn đã quan sát rất kỹ.
+
+Đây là **wording fix**, không phải Canon Change.
+
+---
+
+# 7. Knowledge Matrix cuối Chương 2
+
+Bản Draft hiện tại nhìn chung đúng.
+
+Có một điểm nên ghi chính xác hơn:
+
+### Chỉ biết
+
+* Hoắc biết một chi tiết bí mật về đường thoát.
+* Hoắc có lý do chưa rõ để giữ hắn sống.
+* Hoắc không phủ nhận việc dẫn quân vây Bùi gia.
+* **Tam Lang là con Hoắc và là người đã giao chiến với hắn.**
+* Tam Lang bị hắn làm bị thương.
+
+### Chỉ chưa biết
+
+* Hoắc đã nhận ra chính xác mình là Bùi Chỉ.
+* Hoắc nhận ra bằng vết bớt.
+* Hoắc là người mở cửa sau.
+* Hoắc từng xin tha Bùi gia.
+
+Đặc biệt **không ghi “Chỉ biết Hoắc nhận ra hắn”**. Chỉ mới biết Hoắc **biết một chuyện mà người ngoài không thể biết**. Hai thứ này khác nhau và rất quan trọng cho Ch26.
+
+---
+
+# 8. State Ledger cần thêm sau Ch2
+
+Sau khi Accepted, tôi sẽ cập nhật tối thiểu:
+
+**Bùi Chỉ**
+
+* vị trí: phòng củi phủ tướng quân;
+* tình trạng: bị bắt, cổ chân trái bong gân nặng;
+* mục tiêu: chưa đổi — giết Hoắc;
+* thông tin mới: Hoắc biết chuyện cửa sau;
+* quan hệ với Hoắc: hận → xuất hiện nghi vấn;
+* vật dụng: dao bị tịch thu, dây/móc sắt mất quyền kiểm soát.
+
+**Hoắc Thành Lĩnh**
+
+* biết sát thủ là Bùi Chỉ;
+* giữ Chỉ ngoài sổ;
+* cố ý không giao phủ nha;
+* lý do thật: chưa công khai.
+
+**Hoắc Tam Lang**
+
+* bị thương nhẹ ở cánh tay;
+* biết cha cố ý giữ sát thủ;
+* chưa biết lý do.
+
+**Chu Hạc**
+
+* biết mặt Chỉ;
+* biết Hoắc không giao Chỉ cho phủ nha;
+* chưa có lý do để nghi ngờ Hoắc.
+
+---
+
+# Quyết định của tôi
+
+Tôi sẽ **không yêu cầu Claude viết lại Chương 2**.
+
+Chỉ cần xử lý 3 việc trước khi chuyển sang Accepted:
+
+1. **Cổ chân:** chốt **bong gân nặng/tổn thương dây chằng, không gãy xương**.
+2. **“Người gia nhân đã chết”:** đổi thành **“người gia nhân năm ấy”**, chưa khóa cái chết.
+3. **“Mười ngày nằm trên mái nhà”:** sửa thành **“mười ngày trinh sát quanh phủ”** hoặc câu tương đương.
+
+Còn lại **giữ nguyên Draft 13.352 ký tự**.
+
+Và tôi đánh giá **cảnh cuối đang rất đúng hướng**. Câu:
+
+> “Ông ở đó.”
+> “Ta ở đó.”
+
+nên giữ nguyên. Nó xác nhận một sự thật nhưng **không giải thích sự thật**, đúng mức mystery mà Chương 2 cần có.
+
+Sau ba chỉnh nhỏ trên, Chương 2 có thể chuyển sang **Draft Accepted → kiểm tra Canon → Chapter Locked**.
