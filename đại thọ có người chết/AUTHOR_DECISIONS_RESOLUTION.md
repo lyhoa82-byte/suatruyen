@@ -115,3 +115,85 @@ YES
 
 Status:
 APPROVED
+
+---
+
+### C-09A — Nốt ruồi / dấu nhận diện Triệu Kha
+
+Decision:
+Chọn M-A kết hợp I-1: Triệu Kha thực tế không có nốt ruồi; nốt ruồi nhìn thấy ở Ep10, Cảnh 24 là dấu giả trang. I-2 và I-3 bị loại.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Triệu Kha thực tế KHÔNG có nốt ruồi ở thái dương trái.
+2. Nốt ruồi nhìn thấy trên người xuất hiện ở Ep10, Cảnh 24 là dấu giả trang của Triệu Kha. (Canon mới, additive.)
+3. Người xuất hiện ở Ep10, Cảnh 24–25 VẪN LÀ TRIỆU KHA. Người này là:
+   - người giả làm Tống lão thái gia;
+   - người lấy nửa phân sản thư dưới chân bàn;
+   - người được Minh Lễ nhận ra;
+   - người gọi Minh Lễ là "Đại ca".
+4. Canon ở Ep09 và Ep10, Cảnh 2 giữ nguyên:
+   - Phương Tử An có nốt ruồi ở thái dương trái.
+   - Triệu Kha không có nốt ruồi ở đó.
+   - Minh Lễ không nhớ sai.
+   - Lão Quý không nói dối ở đoạn này.
+5. Không được thay đổi thân phận người xuất hiện ở Ep10, Cảnh 24–25.
+
+Implementation details chưa quyết định (để mở — không tự giải quyết, không tự thêm canon):
+- Triệu Kha làm giả nốt ruồi bằng cách nào.
+- Làm giả từ thời điểm nào.
+- Vì sao chọn đúng dấu nhận diện này.
+- Ai có thể nhận ra đây là dấu giả.
+- Vì sao các nhân vật ở Ep10, Cảnh 24 không phản ứng với nốt ruồi.
+
+Episodes Potentially Affected:
+- Ep10, Cảnh 24 — mô tả nốt ruồi và việc không ai phản ứng với nó.
+- Ep10, Cảnh 25 — lời khai của Triệu Kha.
+- Ep09, Cảnh 12 và Ep10, Cảnh 2 — giữ nguyên.
+- Phạm vi sửa cụ thể phụ thuộc vào các implementation details còn mở.
+
+Requires Edit Pass:
+YES (phạm vi chờ các implementation details)
+
+Status:
+APPROVED — LOCKED
+
+---
+
+### C-09B — Khoảng thời gian Triệu Kha và Minh Lễ không gặp nhau
+
+Decision:
+Chọn I-4a: lần cuối Minh Lễ gặp trực tiếp Triệu Kha sớm hơn thời điểm Triệu Kha được báo chết.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Minh Lễ và Triệu Kha gặp trực tiếp nhau lần cuối từ hơn mười năm trước.
+2. Triệu Kha đã rời vị trí hộ vệ của Minh Lễ trước thời điểm đó.
+3. Sau khi rời phủ, Triệu Kha có một giai đoạn hoạt động riêng mà Minh Lễ không biết.
+4. Khoảng bảy năm trước, Minh Lễ nhận được tin Triệu Kha đã chết trên đường về quê.
+5. Mốc "bảy năm" trong lời Trịnh KHÔNG bị xác định là lời nói dối. (Cách hiểu I-4b không được áp dụng.)
+6. Hồ sơ ở Ep08 về việc Triệu Kha chết ở ngoại thành Thanh Châu giữ nguyên. Hồ sơ không tự động được bổ sung năm chết khi chưa có canon cụ thể.
+7. "Mười một năm làm hộ vệ" vẫn là canon.
+8. C-09A giữ nguyên:
+   - Người xuất hiện ở Ep10, Cảnh 24–25 là Triệu Kha.
+   - Triệu Kha thực tế không có nốt ruồi ở thái dương trái.
+   - Nốt ruồi ở Ep10 là dấu giả trang.
+
+Timeline implementation details chưa quyết định (để mở — không tự giải quyết, không tự thêm canon):
+- Cách tính chính xác giữa mốc mười một năm làm hộ vệ, thời điểm Triệu Kha rời phủ, lần gặp cuối cùng và mốc báo chết khoảng bảy năm trước.
+- Nội dung giai đoạn hoạt động riêng của Triệu Kha sau khi rời phủ.
+
+Episodes Potentially Affected:
+- Ep10, Cảnh 24 — "Mười mấy năm không gặp." khớp với quyết định; giữ nguyên.
+- Ep08, Cảnh 7 — mốc "Bảy năm trước." / "Gần." khớp với quyết định; giữ nguyên.
+- Ep08, Cảnh 9–10 — mốc "mười một năm" và hồ sơ báo chết; giữ nguyên, cần đối chiếu khi các timeline implementation details được quyết định.
+
+Requires Edit Pass:
+NO hiện tại (có thể phát sinh khi các timeline implementation details được quyết định)
+
+Status:
+APPROVED — LOCKED
