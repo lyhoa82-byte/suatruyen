@@ -10,8 +10,8 @@
 |---|---|
 | Ch1–Ch16 | **LOCKED** (file trong `locked/`) |
 | Tổng độ dài | **181.099 ký tự** (đếm lại 16 file LOCKED bằng `len()`; Ch16 = 9.075). Còn khoảng 118.901 cho 16 chương, trung bình ~7.431/chương |
-| **Việc đang dở** | Ch16 **CHAPTER LOCKED**; Canon Update Ch16 xong. **Foundation Gate Ch17 v1** (`gates/CCLT_Gate_Truoc_Ch17.md`, POV Chiêu, "Vây điểm diệt viện") đã viết theo 3 guardrail của chị (Dĩnh Xuyên / Chiêu + đường than / A Quy tách tuyến) và 4 OPEN của Ch16; **đang chờ chị Pre-Audit** |
-| Bước tiếp theo | Pre-Audit Gate Ch17 → Gate v2 → LOCK → Scene Bible Ch17 → ... |
+| **Việc đang dở** | Ch16 **CHAPTER LOCKED**; Canon Update Ch16 xong. **Foundation Gate Ch17 = LOCK (v2)** (`gates/CCLT_Gate_Truoc_Ch17.md`; đã ghi GR17-04, GR17-05, GR17-06, PA-A ở mục 0D; không thêm lore). **Scene Bible Ch17 v1** (`scene_bible/CCLT_Scene_Bible_Ch17.md`, POV Chiêu, 5 cảnh, ~9.200 ký tự dự kiến) đã viết; **đang chờ chị Pre-Audit** (chưa LOCK, chưa Draft) |
+| Bước tiếp theo | Pre-Audit Scene Bible Ch17 → v2 → Pre-Audit Final → LOCK → Draft Ch17 v1 + Self-Audit → ... |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -153,6 +153,7 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 - Năm nhân vật chính không nghi nhau trực tiếp trên trang; không tin nào được báo là test.
 - **K-1/K-2 (Gate Ch15):** Bàng không biết kế hoạch Dịch, chỉ suy từ seed cũ (sổ lương ải Tây, quan sát công khai, địa hình); **rò Ch14 ≠ nguyên nhân Hổ Lao**; kế hoạch liên quân không đi qua văn thư – trạm ngựa Kim Lăng. Tiếp tục hiệu lực ở Ch16–19.
 - **GR16-11…19 (Gate/Scene Bible/Audit Ch16):** Hàn chỉ xác nhận giao dịch, không về người báo tin; Chiêu rút nửa vì chi phí + hạn, ở lại; thư Bàng chỉ lương, đọc công khai; Dĩnh Xuyên chỉ giới thiệu như hướng mới, lý do giải ở Ch17; "Việc kia" không giải thích thêm; Hạ Hầu mua lương dân chỉ là fact; sĩ quan xin về là chi phí nhân lực; Dịch gõ vào dòng "Một nghìn suất" thay lời; Dịch nhìn theo dòng nước hạ lưu thay lời.
+- **GR17 (Gate Ch17 LOCK v2):** GR17-1 Dĩnh Xuyên chỉ nói chức năng/vị trí/kho/người giữ, không giải vì sao Dịch chắc Bàng cứu (→ Ch19); GR17-2/04 Chiêu chỉ biết theo nguồn trên trang, không biết author-truth; GR17-3/PA-A A Quy chỉ một dòng "Lệnh còn." ở S1, không nối Dĩnh Xuyên; GR17-05 Dĩnh Xuyên chưa phải "nước chắc thắng" (Dịch nói "Không", có khoảng không ai đến, viện tới sớm, mất mát thật, thắng một phần); GR17-06 Bàng chỉ một điểm đọc sai (bộ binh trên thuyền Kim Lăng đọc là thuyền lương), mọi quyết định khác của phía Hạ Hầu đúng; GR17-17 K-1/K-2; GR17-18 "một nén hương" thay "nửa canh"; D17-12 Đô úy vô danh.
 - **G-15-1/2/3:** "700" = tổn thất chiến đấu (không mặc định tử trận); Chiêu hành động ở cấp quyết định quân sự, không cứu riêng Dịch; "thư chưa hồi âm" chỉ nối về thư Ch9, tuyệt đối không nối Ch14.
 
 ---
@@ -176,6 +177,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch17.md` và `canon/CCLT_Canon_Update_Ch16.md`. Mình sẽ gửi Pre-Audit cho Gate Ch17.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch17.md` (đã LOCK v2), `scene_bible/CCLT_Scene_Bible_Ch17.md` (v1) và `canon/CCLT_Canon_Update_Ch16.md`. Mình sẽ gửi Pre-Audit cho Scene Bible Ch17.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.

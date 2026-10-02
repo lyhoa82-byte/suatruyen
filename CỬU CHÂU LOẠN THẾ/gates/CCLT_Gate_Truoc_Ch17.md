@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 17
 
-*(v1 — **chờ Pre-Audit**. **Author-truth**; chi tiết chỉ thành canon khi Ch17 LOCK. Nền: Canon Ch1–Ch16 LOCKED; Canon Update Ch16; Gate Ch16 (GR16-11…19); Production Bible (Atlas: Dĩnh Xuyên; Nguyên tắc khoảng cách); Chapter Bible Ch17. Độ dài 7k–10k. Mục nào cần chị chọn được đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị. Chi tiết mới đánh dấu **[P]**.)*
+*(v2 — **LOCK** sau Pre-Audit: PASS CÓ ĐIỀU KIỆN; đã khóa GR17-04, GR17-05, GR17-06 và PA-A (mục 0D); khung hiện tại đủ cho Scene Bible, **không thêm lore**. **Author-truth**; chi tiết chỉ thành canon khi Ch17 LOCK. Nền: Canon Ch1–Ch16 LOCKED; Canon Update Ch16; Gate Ch16 (GR16-11…19); Production Bible (Atlas: Dĩnh Xuyên; Nguyên tắc khoảng cách); Chapter Bible Ch17. Độ dài 7k–10k. Mục nào cần chị chọn được đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị. Chi tiết mới đánh dấu **[P]**.)*
 
 **Chapter Bible Ch17 — VÂY ĐIỂM DIỆT VIỆN.** POV **Hoắc Chiêu** (narration **"Chiêu"/"nàng"**). Arc: **Operational Victory**. Vai trò: cho thấy Dịch và Chiêu phối hợp chiến thuật; Chiêu là mũi nhọn chiến trường; dùng Hạ Hầu như người bị buộc phải phản ứng. **Goal:** ép Hạ Hầu cứu một điểm tưởng như nhỏ. **Obstacle:** Hạ Hầu hiểu rằng đó có thể là bẫy. **Decision:** Chiêu đóng vai mục tiêu hấp dẫn để kéo viện quân. **Cost:** Chiêu thực sự đặt mình vào nguy hiểm. **New info:** Hạ Hầu bắt đầu nhận ra liên minh đã thay đổi cách chiến đấu. **Seed:** Chiêu làm mồi; quan hệ chiến lược Dịch–Chiêu; Hạ Hầu bắt đầu chuyển từ chủ động sang phản ứng. **Emotional movement:** Chiêu **tin Dịch trên chiến trường**. **Power shift:** liên minh lấy lại một phần thế. **Hook:** *Quân cứu viện của Hạ Hầu đã mắc vào vị trí đã định.*
 
@@ -44,7 +44,21 @@
 | 1 | **Dĩnh Xuyên quan trọng vì đâu** | Là **cảng cấp lương** của Hổ Lao: kho cỏ và thóc; nằm trên sông liên quân đang dùng; một đường duy nhất (đê) nối với Hổ Lao khi nước lên. Quan trọng với **Hạ Hầu** vì kho, với **liên quân** vì nó nằm cuối con sông liên quân đã chiếm | **Vì sao Dịch chắc Bàng sẽ cứu** (cách Bàng đọc liên minh; ý đồ hồi âm) → Ch19 |
 | 2 | **Hạn hai ngày của Chiêu; số phận nửa Hoắc quân** | Chiêu **không rút kỵ nhẹ** ngày 31; **gia hạn có điều kiện** tới **hết trận** (tối đa mười hai ngày, mục 4). **Nửa đã về biên không thu hồi** | Số phận kỵ nhẹ **sau trận**; phản ứng Khả đôn khi hết băng tan → Ch18 |
 | 3 | **Chiêu biết gì về đường than** | **Bậc biết** theo nguồn (mục 5): chỉ qua Dịch tự mang giấy tới và qua kiểm chứng của chính nàng | Điều Chiêu **nghĩ** về ý đồ Dịch **không** nói thành lời |
-| 4 | **Lệnh bắt A Quy** | **Hạn hoãn đã hết**; lệnh **còn**; **không** ai truy trong Ch17; **không** nối Dĩnh Xuyên (mục 8) | A Quy ở đâu; Chiêu sẽ làm gì khi gặp; **mọi hành động** → sau Ch17 |
+| 4 | **Lệnh bắt A Quy** | **PA-A (đã khóa):** hạn hoãn đã hết; **một dòng "Lệnh còn."**; **không** ai truy trong Ch17; **không** nối Dĩnh Xuyên (mục 8) | A Quy ở đâu; Chiêu sẽ làm gì khi gặp; **mọi hành động** → sau Ch17 |
+
+---
+
+## 0D. BỐN ĐIỂM KHÓA TỪ PRE-AUDIT (LOCK)
+
+> **Đánh số:** các mã **GR17-04 / 05 / 06** dưới đây là mã **đã khóa**. Ba dòng cùng tên đề xuất ở mục 14 (GR17-4, 5, 6 bản v1) **được gộp vào đây** và đổi thành con trỏ; không còn trùng mã.
+
+| Mã | Khóa | Hiệu lực với Scene Bible/Draft |
+|---|---|---|
+| **GR17-04** | **Chiêu chỉ biết theo nguồn trên trang / quan sát của chính nàng; không biết author-truth** (mục 3: cách Bàng đọc liên minh, bốn lý do của Bàng, ý đồ hồi âm, Dịch tính Bàng ra sao) | Mỗi điều Chiêu biết có nguồn (mục 5). Narrator không vào đầu Bàng; Hạ Hầu chỉ hiện qua **cờ, kỵ, khói, thời điểm**. Chiêu **không** nói/nghĩ điều chỉ có ở mục 3 |
+| **GR17-05** | **Dĩnh Xuyên chưa phải "nước chắc thắng"** | Trên trang phải **có khả năng thất bại thật**: Dịch nói được "không chắc" (bằng số/địa hình); có một khoảng **không ai đến** (Bàng không phản ứng ngay); viện quân tới **sớm hơn dự tính**; Chiêu giữ bằng **mất mát thật**; kết quả **một phần**, thành chưa hạ, Hổ Lao vẫn giữ. **Cấm** câu/narration "chắc thắng", "mọi việc đã tính", "đúng như dự liệu" |
+| **GR17-06** | **Bàng chỉ có MỘT điểm đọc sai: bộ binh trên thuyền Kim Lăng.** Mọi quyết định khác của Bàng **đúng**: phản ứng nhanh (kỵ đi ngay, đêm), chia hai khối, trinh sát trước, chọn đê (đường đồi mất ba ngày), thấy cổ chai là rủi ro | Việc kỵ viện **tới sớm hơn dự tính của liên minh** là **quyết định đúng của Bàng**, **không** phải sai lầm của hắn; nó là **cost** của Chiêu. Bàng **không** bỏ cổ chai vì ngu, **không** bỏ trinh sát, **không** "lơ là". Thuyền sơn đỏ bảy chuyến chở lương nên **bị đọc là thuyền lương** (seed Ch16) |
+| **PA-A (A Quy)** | **Chỉ một dòng "Lệnh còn."** Không hành động truy bắt, không tin, không điều tra, không nối Dĩnh Xuyên | Một lần, S1, một câu của Chiêu đáp một dòng báo hạn của thân binh; **không** lặp; **không** ở cảnh trận; **không** nghĩ đến A Quy trong trận |
+| **D17-12 (tên Đô úy)** | Chị: "không cần thêm lore". **Để vô danh** ("Đô úy giữ Dĩnh Xuyên"); Scene Bible chỉ đặt tên nếu **cảnh cần** | Chiêu không cần tên |
 
 ---
 
@@ -66,7 +80,7 @@
 | **Vị trí** | Thành nhỏ ven sông (đúng con sông liên quân dùng), **phía đông Hổ Lao**, **ngoài đường chính** Hổ Lao – Lạc Kinh. Hạ lưu so với Lạc Thủy và làng. **Chợ sông** từ trước loạn (làng trưởng Ch16) |
 | **Chức năng** | **Cảng cấp lương** cho Hổ Lao: thóc, cỏ khô từ vùng hạ lưu đổ về bến Dĩnh Xuyên, đi **đê** lên Hổ Lao. Đây là **chỗ kho cỏ nuôi kỵ che** của Hạ Hầu (kỵ che: Ch15) |
 | **Kho** | Kho **trong thành** (thóc, đậu) + **kho bến** ngoài tường (cỏ khô, thuyền lương). **Kho bến dễ đốt**; kho trong thành phải **vào thành** mới lấy. Mốc [P]: đủ nuôi Hổ Lao **một thời gian dài** (không số) |
-| **Người giữ** | **Một Đô úy của Hạ Hầu** (tên [P]: **Vệ Tùng**; Chiêu **chỉ nghe tên**, không gặp) với **chừng một nghìn** bộ; **một quan coi kho** (văn quan, vô danh). Thành **thấp, tường đất**; không phải thành lớn. **Không** phải người của Bàng sâu (đóng vai **tưởng như nhỏ**) |
+| **Người giữ** | **Một Đô úy của Hạ Hầu** (**vô danh**, theo D17-12; Chiêu không gặp) với **chừng một nghìn** bộ; **một quan coi kho** (văn quan, vô danh). Thành **thấp, tường đất**; không phải thành lớn. **Không** phải người của Bàng sâu (đóng vai **tưởng như nhỏ**) |
 | **Đường tới** | **Một con đê** chạy dọc bờ sông từ Hổ Lao; nước lên (xuân), **đồng thấp hai bên ngập**; đường khác phải **vòng đồi ba ngày** (con "đường đồi" Ch16: Hạ Hầu giữ, đã chặn đoàn nhỏ). **Cổ chai [P]**: ~hai dặm trước Dĩnh Xuyên, **sông một bên, bờ đất / bãi lau một bên**; đội hình **không dàn được** |
 | **"Tưởng như nhỏ"** | Nhỏ **về quân và thành**; **không nhỏ về kho**. Liên minh nhìn nó như điểm nhỏ cuối sông; **Bàng** nhìn nó là **kho cỏ của kỵ che** |
 | **Atlas** | "Bao vây / nhử viện / cắt tiếp tế" **cả ba**: Chiêu **vây** (từ bên ngoài, không công thành), **nhử** viện, **cắt** cảng cấp lương |
@@ -278,9 +292,11 @@
 | Mã | Nội dung |
 |---|---|
 | **GR17-1 / 2 / 3** | Xem mục 0B (Dĩnh Xuyên / Chiêu + đường than / A Quy) |
-| **GR17-4** | **Không** narrator cho biết điều Chiêu chưa có nguồn; **không** vào đầu Bàng; Hạ Hầu chỉ qua **hành động thấy được** |
-| **GR17-5** | **Bàng không ngu** và **không** "tự phá kế hoạch": đi **đê** vì đường đồi mất ba ngày; chia hai khối; trinh sát trước. Thua vì **một chỗ đọc sai** (thuyền chở bộ binh), **không** vì rò |
-| **GR17-6** | **K-1/K-2:** không "rò", "báo tin", "nhà buôn tin" làm lý do; Dịch không biết Ch14 |
+| **GR17-4** | *(đã nhập vào **GR17-04**, mục 0D)* |
+| **GR17-5** | *(đã nhập vào **GR17-06**, mục 0D)* |
+| **GR17-6** | *(mã này nay là **GR17-06**, mục 0D. K-1/K-2 chuyển sang **GR17-17** dưới đây)* |
+| **GR17-17** | **K-1/K-2:** không "rò", "báo tin", "nhà buôn tin" làm lý do; Dịch không biết Ch14; kế hoạch dựa nguồn công khai (làng trưởng, thuyền Kim Lăng, trinh sát Hoắc quân) |
+| **GR17-18** | **"Một nén hương" thay "nửa canh" trên trang** để nghe được mọi giờ (xem Scene Bible) |
 | **GR17-7** | **Không "bàn tay vàng":** thuyền tới **trong** nửa canh đã tính; băng trôi làm trễ, **Chiêu dùng hết** nửa canh |
 | **GR17-8** | **Chiêu không "được cứu"**; thoát bằng phần của mình; thuyền chỉ đóng cửa sau viện quân |
 | **GR17-9** | Chiêu **không** bị Dịch ép (hắn **không** có quân); quyết định mồi là **của nàng**, có **ba điều kiện** |
@@ -306,10 +322,10 @@
 | D17-6 | Bậc biết của Chiêu theo nguồn (mục 5): nguồn duy nhất của đường than là **Dịch tự mang tới** | Duyệt |
 | D17-7 | Phối hợp: không tổng chỉ huy; cọc hẹn, nửa canh, tín hiệu đèn/còi; Dịch **không** có mặt sau S1 | Duyệt |
 | D17-8 | Chiêu làm mồi: mũ trụ của cha; vây ngoài, đốt kho bến, khói hiệu; viện quân tới sớm hơn dự tính nửa ngày; cost thật | Duyệt |
-| D17-9 | **A Quy: PA-A** (một dòng "Lệnh còn", không hành động, không nối Dĩnh Xuyên) **hoặc PA-B** (không nhắc) | **PA-A** |
+| D17-9 | **A Quy: PA-A — ĐÃ KHÓA** (một dòng "Lệnh còn", không hành động, không nối Dĩnh Xuyên) | **LOCK** |
 | D17-10 | Kết quả trận: khối kỵ viện bị phá, khối bộ dừng, kho bến cháy, thành chưa hạ; hậu quả nén vài câu | Duyệt |
 | D17-11 | Vắng mặt: Hạ Hầu, Bàng, Uyển, Vân Chương, Chỉ, Chu Hạc, Ôn, Tô, Phùng Bảo; phó tướng Hoắc quân | Duyệt |
-| D17-12 | Tên Đô úy giữ Dĩnh Xuyên: **Vệ Tùng** [P] (Chiêu chỉ nghe tên) hoặc để vô danh | Vô danh nếu chị không cần tên |
+| D17-12 | Tên Đô úy giữ Dĩnh Xuyên: **vô danh** (chị: không thêm lore) | **LOCK** |
 
 ---
 
@@ -328,4 +344,4 @@
 
 ## 17. TRẠNG THÁI
 
-**FOUNDATION GATE CH17: v1 — chờ Pre-Audit.** Bước kế: Pre-Audit → Gate v2 → LOCK → Scene Bible Ch17.
+**FOUNDATION GATE CH17: LOCK (v2).** Pre-Audit: PASS CÓ ĐIỀU KIỆN → GR17-04, 05, 06 và PA-A đã ghi (mục 0D) → LOCK. D17-1 → D17-12: duyệt. Không thêm lore. Bước kế: Scene Bible Ch17 v1.
