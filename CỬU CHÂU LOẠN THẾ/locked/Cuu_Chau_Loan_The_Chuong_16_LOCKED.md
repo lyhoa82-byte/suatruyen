@@ -2,7 +2,7 @@
 
 ## CHƯƠNG 16 — THẾ
 
-*(DRAFT v1 — đã Audit: PASS CÓ ĐIỀU KIỆN; sửa 2 nét nhỏ GR16-18, GR16-19)*
+*(CHAPTER LOCKED — CANON)*
 
 ---
 

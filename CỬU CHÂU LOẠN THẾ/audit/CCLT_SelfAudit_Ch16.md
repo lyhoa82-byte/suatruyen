@@ -55,3 +55,7 @@
 ## 5. Kết luận tự kiểm
 
 Không phát hiện vi phạm guardrail hay xung đột canon. Chờ Audit của chị.
+
+## 6. SAU AUDIT CỦA CHỊ
+
+PASS CÓ ĐIỀU KIỆN → sửa 2 nét: **GR16-18** (IV: Dịch gõ ngón tay vào dòng "Một nghìn suất mỗi kỳ" sau "Vậy thì là gì?"); **GR16-19** (III: Dịch nhìn theo dòng nước về phía hạ lưu sau "chợ Dĩnh Xuyên"). Câu kết V giữ nguyên (chị đánh giá: chưa reveal). Ngoài hai điểm đó không sửa, không thêm lore. **Draft Ch16 v1 = LOCK (9.075 ký tự).**

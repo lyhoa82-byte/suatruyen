@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — HỒ SƠ BÀN GIAO
 
-*(Bàn giao ngày 02/10/2026, cập nhật sau Ch15 LOCKED. Đọc file này TRƯỚC khi làm bất cứ việc gì. Chi tiết canon từng chương nằm trong `canon/`; văn bản chuẩn nằm trong `locked/`.)*
+*(Bàn giao ngày 02/10/2026, cập nhật sau Ch16 LOCKED. Đọc file này TRƯỚC khi làm bất cứ việc gì. Chi tiết canon từng chương nằm trong `canon/`; văn bản chuẩn nằm trong `locked/`.)*
 
 ---
 
@@ -8,10 +8,10 @@
 
 | Hạng mục | Trạng thái |
 |---|---|
-| Ch1–Ch15 | **LOCKED** (file trong `locked/`) |
-| Tổng độ dài | **172.024 ký tự** (đếm lại 15 file LOCKED bằng `len()`; Ch15 = 7.332). Còn khoảng 127.976 cho 17 chương, trung bình ~7.528/chương |
-| **Việc đang dở** | Gate Ch16 v2 **LOCKED**; Scene Bible Ch16 v2 **LOCKED** (GR16-11…17). **Draft Ch16 v1** (`draft/Cuu_Chau_Loan_The_Chuong_16_DRAFT.md`, ~8.900 ký tự) + Self-Audit đã viết; **đang chờ chị Audit** |
-| Bước tiếp theo | Audit Draft Ch16 → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch16 → Gate Ch17 |
+| Ch1–Ch16 | **LOCKED** (file trong `locked/`) |
+| Tổng độ dài | **181.099 ký tự** (đếm lại 16 file LOCKED bằng `len()`; Ch16 = 9.075). Còn khoảng 118.901 cho 16 chương, trung bình ~7.431/chương |
+| **Việc đang dở** | Ch16 vừa **CHAPTER LOCKED**; Canon Update Ch16 (kèm Canon Sync) **xong**. **Chưa làm Gate Ch17** (chờ lệnh của chị) |
+| Bước tiếp theo | Foundation Gate Ch17 (POV Hoắc Chiêu, "Vây điểm diệt viện"; khóa Dĩnh Xuyên, lệnh bắt A Quy, hạn ba tuần) → Pre-Audit → Gate v2 → LOCK → Scene Bible Ch17 → ... |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -89,6 +89,7 @@ Foundation Gate (author-truth) → Pre-Audit → Gate v2 → **LOCK** → Scene 
 | Cuối tháng Sáu → đầu tháng Bảy | Ôn đặt cược có điều kiện vào Dịch (CC-2 Ch12) |
 | **Cuối tháng Chín năm 0** | **Ch12** Lạc Thủy (chiều ngày 1 + ngày 2 + đêm); **Ch13** (ngày 3) |
 | **Đầu tháng Mười → ngày 18** | **Ch14** (Chỉ): năm điểm hẹn ở các đêm 11–15; báo Vân Chương ngày 12; Kha Trọng ngày 18 *(ngày-tháng tuyệt đối là suy ra, không nêu trên trang)* |
+| **Đầu xuân năm 1 (băng tan), ngày 9 → 29 sau Hổ Lao** | **Ch16** (Dịch): sổ ải Tây (ngày 9); hội, Chiêu rút nửa, hạn ba tuần (ngày 10); làng mua lương, "chợ Dĩnh Xuyên" (ngày 12); hồi âm Bàng đọc công khai (ngày 14); thư Ôn tới (ngày 28); đêm ngày 29: hook Dĩnh Xuyên; hạn Chiêu hết ngày 31 |
 | **Đầu xuân năm 1 (băng tan), ngày 1 → 8** | **Ch15** (Dịch): Hổ Lao; cột lương bị chặn ở bến trên ngày 5; Chiêu tới Hổ Lao ngày 7, tới doanh Dịch sáng ngày 8 (cưỡi gấp); sứ Hạ Hầu chạng vạng ngày 8 |
 
 Năm 0: Dịch 27 tuổi, Chỉ 28.
@@ -111,14 +112,15 @@ Năm 0: Dịch 27 tuổi, Chỉ 28.
 - **Ch13 Những điều không nói (5 POV):** vải bông chống rét; Chiêu hoãn (không tha) lệnh bắt A Quy qua mùa đông; vỏ quýt; Chỉ truy kẻ đếm thuyền → phía Hạ Hầu, nhận ra rò tin bên trong qua chữ "không văn thư", báo cả bốn bên miễn phí; tin giả "Kim Lăng đã công nhận Thất hoàng tử"; viên quan Kim Lăng gửi ngựa trước; Vân Chương viết "người tự nhận"; hook "đã có một con ngựa đi trước".
 - **Ch14 Năm tin giả (Chỉ, cả chương):** năm tin giả = năm điểm hẹn khác nhau (3 tuyến miệng, T4 nói riêng với Vân Chương, T5 tờ giấy qua người giữ ngựa không biết chữ); chỉ **T5 quay lại** (hai người lạ ở miếu thổ địa, đêm 11) → **"đường văn thư – trạm ngựa Kim Lăng có lỗ"**; Vân Chương: "đã nhận hai chỗ hẹn, lần sau báo một chỗ"; Chỉ chưa trả lời Hoắc quân; sổ thuê ngựa Thạch Kiều ghi **"Người bảo lãnh: Kha Trọng"** đặt cạnh bản chép sổ Nam Môn cũ **"Kha Trọng, người Lạc Kinh, buôn giấy"**; lời đồn lão Kha, quản sự một phủ lớn họ Tạ; hook "Hắn không đóng sổ lại."
 - **Ch15 Hổ Lao (Dịch):** đầu xuân năm 1; hội minh có điều kiện (không tổng chỉ huy; Hàn chỉ huy đạo Ích Châu, Dịch kế hoạch/lương); kế hoạch ba cột đồng bộ hội ở Hổ Lao; kho Hổ Lao đầy (Dịch đọc là Hạ Hầu giữ thành); kỵ Hạ Hầu đánh chỗ nối của cột lương ở bến trên; Dịch cắt xe cứu người ("Người trước"); mất ~nghìn tám và toàn bộ đoàn xe; Chiêu mất bảy trăm (tổn thất chiến đấu), lui, giao hai xe lương cho cột Ích Châu (ghi sổ hội minh, "Ghi bằng tên Ích Châu"); sứ Hạ Hầu trả thương binh + "thư ông ấy gửi, Ích Châu chưa có hồi âm"; hội nhỏ nghi "ai biết cột đi hướng nào", "nhà buôn tin"; hook Dịch vẽ vòng chỉ chạm hai bến, gạch chữ "Hổ Lao", tờ giấy trắng.
+- **Ch16 Thế (Dịch):** ba tuần sau Hổ Lao; Hàn xác nhận fact giao dịch (Bàng mua lương ải Tây nhiều năm, biết một xe Ích Châu chở bao nhiêu); Dịch từ chối trận kiếm cỏ (~200 người) bằng số; Hàn: "Không đánh"; Dịch: "Có hay không, đường lương cũng phải đổi"; Chiêu: "Ngươi cần bao lâu?" → ba tuần → rút **một nửa** Hoắc quân vì chi phí và hạn, **kỵ nhẹ + Chiêu ở lại** ăn lương Ích Châu; Kim Lăng nhận việc chở lương ("đường sông cho liên quân"); làng bán một phần ba, trả muối/vải bông + phiếu nợ mang tên Dịch và Hàn, "ấn Thứ sử tới sau"; **Hạ Hầu cũng mua lương dân một phần ba** (fact); làng trưởng nhắc **"chợ Dĩnh Xuyên"**, Dịch nhìn theo dòng nước hạ lưu; hồi âm Bàng đọc công khai, chỉ lương (sổ cũ một nghìn suất, ba trăm ngựa), Hàn ký kèm, **"Việc kia Thứ sử đã xem"**; một sĩ quan xin về áp tải thương binh; ngày 29: nợ muối 300 bao, thuyền 7 chuyến, mất 6 xe, **chín** đường chạy; Hổ Lao thêm quân; thư Ôn: ấn tới hết vụ thu, tối đa 400 bao muối / 200 tấm vải; hook Dịch vẽ đường than tới **Dĩnh Xuyên** trên tờ giấy trắng.
 
 ---
 
-## 7. KNOWLEDGE MATRIX HIỆN TẠI (cuối Ch15)
+## 7. KNOWLEDGE MATRIX HIỆN TẠI (cuối Ch16)
 
 | Người | Biết | Không biết |
 |---|---|---|
-| **Dịch** | (Ch15) cột lương bị chặn đúng chỗ ép; Hạ Hầu đánh chỗ nối, giữ đường chứ không giữ thành; vòng chỉ chạm hai bến; Bàng nhắc thư chưa hồi âm; **không biết** Bàng đọc bằng cách nào, **không biết** Ch14 (lỗ văn thư, Kha Trọng). Tam Lang = Hoắc Chiêu; Uyển vận hành như Khả đôn (thấy một phần); Kim Lăng chưa công nhận; A Quy nói lời Dạ Kiêu; A Quy từng được thuê giết hắn (giữ kín); hai người khiêng then (giữ kín) | A Quy là đầu lĩnh hay chỉ là người của Dạ Kiêu; tên "Bùi Chỉ"; có rò tin bên trong; thư "người tự nhận" |
+| **Dịch** | (Ch16) Bàng biết cách xe Ích Châu chở (Hàn xác nhận giao dịch); Hoắc quân rút nửa, hạn ba tuần; Hạ Hầu cũng mua lương dân; Ôn ấn có mức tối đa; đã vẽ đường lương tới Dĩnh Xuyên (chưa biết dùng làm gì). (Ch15) cột lương bị chặn đúng chỗ ép; Hạ Hầu đánh chỗ nối, giữ đường chứ không giữ thành; vòng chỉ chạm hai bến; Bàng nhắc thư chưa hồi âm; **không biết** Bàng đọc bằng cách nào, **không biết** Ch14 (lỗ văn thư, Kha Trọng). Tam Lang = Hoắc Chiêu; Uyển vận hành như Khả đôn (thấy một phần); Kim Lăng chưa công nhận; A Quy nói lời Dạ Kiêu; A Quy từng được thuê giết hắn (giữ kín); hai người khiêng then (giữ kín) | A Quy là đầu lĩnh hay chỉ là người của Dạ Kiêu; tên "Bùi Chỉ"; có rò tin bên trong; thư "người tự nhận" |
 | **Chiêu** | Trình Dịch = Thẩm thư lại; A Quy sống, nói lời Dạ Kiêu; đã hoãn lệnh bắt qua mùa đông | Hai người khiêng then; A Quy từng được thuê giết Dịch |
 | **Uyển** | Trình Dịch = Thẩm thư lại; biết Tam Lang là nữ từ Vân Trung (căn cứ: OPEN) | Bắc Môn; rò tin |
 | **Chỉ** | Thẩm thư lại = Trình Dịch; Tam Lang = Hoắc Chiêu; kết luận cũ "một người mở cửa" đã sụp; kẻ đếm thuyền → phía Hạ Hầu (qua ba mắt xích); **có rò tin bên trong** (chỉ mình hắn biết); **đường văn thư – trạm ngựa Kim Lăng có lỗ** (T5); **Kha Trọng**: hai dòng chữ cạnh nhau (sổ Nam Môn cũ / sổ thuê ngựa Thạch Kiều), lời đồn lão Kha–phủ họ Tạ (**OPEN**) | Người thứ hai khiêng then; **ai rò**; Kha Trọng có là một người / còn sống / liên quan Bắc Môn, Chu Hạc, Tạ gia; người ra lệnh giết Dịch (K1: phía Hạ Hầu — author-truth) |
@@ -150,6 +152,7 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 - **G-3:** Vân Chương biết Chỉ đã thử hai tuyến của Kim Lăng; **không** biết vì sao Chỉ chọn Kim Lăng; không để chàng suy ra "Kim Lăng bị nghi nhất".
 - Năm nhân vật chính không nghi nhau trực tiếp trên trang; không tin nào được báo là test.
 - **K-1/K-2 (Gate Ch15):** Bàng không biết kế hoạch Dịch, chỉ suy từ seed cũ (sổ lương ải Tây, quan sát công khai, địa hình); **rò Ch14 ≠ nguyên nhân Hổ Lao**; kế hoạch liên quân không đi qua văn thư – trạm ngựa Kim Lăng. Tiếp tục hiệu lực ở Ch16–19.
+- **GR16-11…19 (Gate/Scene Bible/Audit Ch16):** Hàn chỉ xác nhận giao dịch, không về người báo tin; Chiêu rút nửa vì chi phí + hạn, ở lại; thư Bàng chỉ lương, đọc công khai; Dĩnh Xuyên chỉ giới thiệu như hướng mới, lý do giải ở Ch17; "Việc kia" không giải thích thêm; Hạ Hầu mua lương dân chỉ là fact; sĩ quan xin về là chi phí nhân lực; Dịch gõ vào dòng "Một nghìn suất" thay lời; Dịch nhìn theo dòng nước hạ lưu thay lời.
 - **G-15-1/2/3:** "700" = tổn thất chiến đấu (không mặc định tử trận); Chiêu hành động ở cấp quyết định quân sự, không cứu riêng Dịch; "thư chưa hồi âm" chỉ nối về thư Ch9, tuyệt đối không nối Ch14.
 
 ---
@@ -159,11 +162,11 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 | Thư mục | Nội dung |
 |---|---|
 | `bible/` | Production Bible, Chapter Bible 32 chương, Writing Control System, Luật vận hành Bible–Draft, Scene Bible Quyển I (gốc) |
-| `locked/` | **Văn bản chuẩn** Ch1–Ch15 |
-| `canon/` | Canon Update Ch1–Ch15 (**nguồn canon chi tiết**) |
+| `locked/` | **Văn bản chuẩn** Ch1–Ch16 |
+| `canon/` | Canon Update Ch1–Ch16 (**nguồn canon chi tiết**) |
 | `gates/` | Foundation Gate các chương (+ Gate Vân Chương, Gate tiếp tế mùa đông, Proposal) |
-| `scene_bible/` | Scene Bible Ch2–Ch15 |
-| `audit/` | Self-Audit Ch7–Ch15 |
+| `scene_bible/` | Scene Bible Ch2–Ch16 |
+| `audit/` | Self-Audit Ch7–Ch16 |
 | `draft/` | Các bản DRAFT (lịch sử) |
 | `tham_khao/` | Các ghi chú audit cũ của chị (Ch1–Ch2) |
 
@@ -173,6 +176,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `scene_bible/CCLT_Scene_Bible_Ch16.md` (LOCKED v2), `draft/Cuu_Chau_Loan_The_Chuong_16_DRAFT.md`, `audit/CCLT_SelfAudit_Ch16.md` và `canon/CCLT_Canon_Update_Ch15.md`. Mình sẽ gửi Audit cho Draft Ch16.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `canon/CCLT_Canon_Update_Ch16.md` và `bible/CHAPTER_BIBLE_32_CHUONG.txt` (Ch17). Mình sẽ ra lệnh làm Foundation Gate Ch17.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.
