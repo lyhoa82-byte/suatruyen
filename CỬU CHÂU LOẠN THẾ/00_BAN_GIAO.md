@@ -10,8 +10,9 @@
 |---|---|
 | Ch1–Ch17 | **LOCKED** (file trong `locked/`) |
 | Tổng độ dài | **191.012 ký tự** (đếm lại 17 file LOCKED bằng `len()`; Ch17 = 9.913). Còn khoảng 108.988 cho 15 chương, trung bình ~7.266/chương |
-| **Việc đang dở** | Ch17 **CHAPTER LOCKED** (Chiêu POV; Audit PASS CÓ ĐIỀU KIỆN: làm rõ Tiểu Thất đã chết; "cháy rụi"). **Canon Update Ch17 xong** (`canon/CCLT_Canon_Update_Ch17.md`). Chưa bắt đầu Foundation Gate Ch18 |
-| Bước tiếp theo | Foundation Gate Ch18 (Uyển; Chapter Bible: cắt tiếp tế phía bắc, Hách Liên Chước tập hợp quân) → Pre-Audit → Gate v2 → LOCK → Scene Bible Ch18 → ... |
+| **Việc đang dở** | Ch17 **CHAPTER LOCKED**; Canon Update Ch17 xong. **Chạy SONG SONG Ch18 + Ch19:** `gates/CCLT_Gate_Truoc_Ch18.md` (v1, Uyển, **upstream**) và `gates/CCLT_Gate_Truoc_Ch19.md` (v1, Dịch, **downstream**) **đã viết, chờ Pre-Audit của chị**. **Chưa** có Scene Bible/Draft cho hai chương này |
+| Bước tiếp theo | Pre-Audit Gate Ch18 + Gate Ch19 (cùng lượt) → Gate v2 → LOCK → Scene Bible Ch18 + Ch19 → Pre-Audit → LOCK → Draft v1 + Self-Audit → Audit (cả hai cùng lượt, mỗi chương giữ POV/chức năng riêng) → Draft v2 → Final Audit → CHAPTER LOCKED **Ch18 trước, rồi Ch19** → Canon Update (+Sync) |
+| **Quy tắc SONG SONG (chị khóa)** | (1) **Ch18 là upstream:** Gate Ch19 chỉ dựa vào **khóa xuất E18-1/2/3** của Gate Ch18, điểm nối ở bảng **DEPENDENCY/OPEN** (Gate Ch19 mục 0B). (2) **Không** coi kết quả Ch18 là canon cho Ch19 cho tới khi **Ch18 CHAPTER LOCKED**. (3) Nếu Audit Ch18 đổi dependency: **chỉ sửa dòng nối tương ứng** của Gate Ch19, **không** mở lại toàn bộ Gate. (4) Ch19 **không** tự suy author-truth từ chi tiết Ch18 chưa khóa. (5) Hiện tại Gate Ch19 **độc lập dữ kiện** với Ch18 (J19-1…6 mặc định không nối) |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -181,6 +182,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `canon/CCLT_Canon_Update_Ch17.md` và `locked/Cuu_Chau_Loan_The_Chuong_17_LOCKED.md`. Mình sẽ ra lệnh làm Foundation Gate Ch18.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `canon/CCLT_Canon_Update_Ch17.md` và `locked/Cuu_Chau_Loan_The_Chuong_17_LOCKED.md`. Gate Ch18 và Gate Ch19 (v1) đang chờ Pre-Audit; đọc thêm `gates/CCLT_Gate_Truoc_Ch18.md` và `gates/CCLT_Gate_Truoc_Ch19.md`, và nhớ **quy tắc SONG SONG** ở mục 1. Mình sẽ ra lệnh tiếp.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.
