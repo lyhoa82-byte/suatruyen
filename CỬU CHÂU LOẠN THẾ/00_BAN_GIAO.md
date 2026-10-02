@@ -10,8 +10,8 @@
 |---|---|
 | Ch1–Ch16 | **LOCKED** (file trong `locked/`) |
 | Tổng độ dài | **181.099 ký tự** (đếm lại 16 file LOCKED bằng `len()`; Ch16 = 9.075). Còn khoảng 118.901 cho 16 chương, trung bình ~7.431/chương |
-| **Việc đang dở** | Ch16 vừa **CHAPTER LOCKED**; Canon Update Ch16 (kèm Canon Sync) **xong**. **Chưa làm Gate Ch17** (chờ lệnh của chị) |
-| Bước tiếp theo | Foundation Gate Ch17 (POV Hoắc Chiêu, "Vây điểm diệt viện"; khóa Dĩnh Xuyên, lệnh bắt A Quy, hạn ba tuần) → Pre-Audit → Gate v2 → LOCK → Scene Bible Ch17 → ... |
+| **Việc đang dở** | Ch16 **CHAPTER LOCKED**; Canon Update Ch16 xong. **Foundation Gate Ch17 v1** (`gates/CCLT_Gate_Truoc_Ch17.md`, POV Chiêu, "Vây điểm diệt viện") đã viết theo 3 guardrail của chị (Dĩnh Xuyên / Chiêu + đường than / A Quy tách tuyến) và 4 OPEN của Ch16; **đang chờ chị Pre-Audit** |
+| Bước tiếp theo | Pre-Audit Gate Ch17 → Gate v2 → LOCK → Scene Bible Ch17 → ... |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -176,6 +176,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `canon/CCLT_Canon_Update_Ch16.md` và `bible/CHAPTER_BIBLE_32_CHUONG.txt` (Ch17). Mình sẽ ra lệnh làm Foundation Gate Ch17.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch17.md` và `canon/CCLT_Canon_Update_Ch16.md`. Mình sẽ gửi Pre-Audit cho Gate Ch17.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.
