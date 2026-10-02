@@ -4,6 +4,8 @@ File này liệt kê các **lựa chọn canon chưa được xác lập** mà t
 
 File này không quyết thay tác giả, không đề xuất phương án, không sửa tập nào, không cập nhật Bible hay Handbook.
 
+> **N3 SYNC (cập nhật sau N3) — đọc trước.** File này là hồ sơ **trước khóa**. Các câu hỏi AD-01…AD-04 và AD-01-SUB đã được khóa ở B1: AD-01 (án Thẩm gia chưa từng xảy ra ở kiếp này), AD-02 (chỉ Chiêu Ninh nhớ), AD-01-SUB (17/10 LK23 = ngày Thẩm phủ bị niêm phong ở kiếp trước), AD-03 (Lạc Thủy không vỡ), AD-04 (không Final Boss), khóa EP7 và khóa EP8–EP9 (xem `PASS_B1_REPORT.md`). Phần phân tích phương án bên dưới giữ nguyên làm hồ sơ lịch sử; không đọc là câu hỏi còn mở. Các quyết định về sau dùng tiền tố riêng `AD-N2-01…11` (đã khóa và thực thi ở N2B, xem `N2B_DECISION_EXECUTION_REPORT.md`). Số dòng `ep5`–`ep9` trong file này trỏ tới bản kịch bản cũ.
+
 **Nguồn đã đối chiếu** (theo thứ tự thẩm quyền: Episodes → Bible → Handbook → Status Report):
 
 - `TÀN CỤC/EP1.txt`, `EP2.txt`, `EP3.txt`, `EP4.txt`, `ep5.txt` → `ep9.txt`
@@ -332,7 +334,7 @@ EP3 dựng vụ án nhiều tầng: hai điểm bắn, tiếng chim khách làm 
 |---|---|---|
 | `EP3.txt:601–695` | Hai mũi tên từ hai hướng; đổi tuyến do xe chắn; "Có thể mục tiêu không phải Tam hoàng tử"; "Hoặc chính họ tạo ra lý do đổi tuyến." | [Explicit] |
 | `EP3.txt:905–931`, `EP3.txt:947–969` | Hai tiếng chim khách cách ba nhịp thở; tiểu thái giám báo kẹt đường, rồi "không thấy nữa" | [Explicit] |
-| `EP3.txt:1007–1021` | Tam hoàng tử: "Cho hắn vào sau." Từ Kính khẽ siết tay khi nghe tên Hàn Dực | [Weak] Gợi ý chưa được giải thích |
+| `EP3.txt:1007–1021` | Tam hoàng tử: "Cho hắn vào sau." Từ Kính khẽ siết tay khi nghe tên Hàn Dực *(chi tiết "siết tay" đã bị cắt ở N2B theo AD-N2-03b; không còn trong `EP3`)* | [Weak] Gợi ý chưa được giải thích |
 | `EP3.txt:1749–1849`, `EP4.txt:1145–1175` | Xe của Mã Tam bị trộm; người lạ đe dọa mẹ Mã Tam; mũi tên giả đưa cho Hàn Dực khác lông đuôi; "Có hai tầng. Ít nhất." | [Explicit] |
 
 ### Evidence B — Có nối với đường dây của án Thẩm gia

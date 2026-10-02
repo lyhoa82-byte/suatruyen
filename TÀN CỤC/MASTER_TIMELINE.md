@@ -4,6 +4,19 @@ Tài liệu kiểm toán. Không sửa episode, không tạo canon mới. Mọi 
 
 ---
 
+## N3 SYNC (cập nhật sau N3) — đọc trước
+
+Tài liệu này là **bản chụp Pass A** (trước khóa B1, trước chuyển văn xuôi N1A/N1B và trước N2B). Phần thân giữ nguyên làm hồ sơ lịch sử. Những điểm sau đã **lỗi thời** và được cập nhật hoặc đánh dấu ở dưới:
+
+- **Số dòng `file:dòng` của `ep5`–`ep9` (và một phần `EP1`–`EP4`)** trỏ tới bản kịch bản cũ; không còn khớp bản văn xuôi hiện hành. Dùng số cảnh (`EPx sc.N`) hoặc tìm theo câu.
+- **Nhãn `[AD-01]`, `[SUB]`, `[LOGIC]`, `CONTRADICTORY`** ghi các vi phạm canon trước B1. B1 đã sửa các vi phạm đó (`PASS_B1_REPORT.md`, `B1_VERIFICATION_REPORT.md`); không đọc các nhãn này như lỗi còn mở.
+- **Khóa canon hiện hành:** AD-01 (án Thẩm gia chưa từng xảy ra ở kiếp này), AD-02 (chỉ Chiêu Ninh nhớ kiếp trước), 17/10 LK23 = ngày Thẩm phủ bị niêm phong ở kiếp trước (AD-01-SUB đã khóa theo phương án C), AD-03 (Lạc Thủy không vỡ), AD-04 (không Final Boss), khóa EP7 (Hoài Xuyên không nhớ kiếp trước; tự chọn), khóa EP8–EP9 (phát hiện và chặn một vụ án đang được dựng, không tái thẩm).
+- **Các quyết định tác giả AD-N2-01…11** (tiền tố `AD-N2-` để không trùng AD-01…04) đã khóa và thực thi ở N2B (`N2B_DECISION_EXECUTION_REPORT.md`).
+- **Chi tiết đã bị cắt khỏi bản thảo** (không còn trong `ep5`/`ep7`/`ep8`/`EP3`/`EP4`): bản sớ của Trịnh Hành; đơn nặc danh; đứa trẻ đưa thư; "Ngài biết chỗ? / Có manh mối. / Ở đâu? / Không nói." (EP7 sc.35); con dấu mẻ góc trong ngăn thứ ba (EP4); "Từ Kính khẽ siết tay" (EP3); các câu luận đề giữa (EP7 sc.56/62/70; EP8 sc.61/90/99/100/101/116/118; câu sổ "Tàn cục không có một người đánh"); cặp thoại tóm tắt "ba người đã nhận phần" (EP8). Chi tiết **mới thêm** ở N2B: EP7 sc.61 ("Ba chuyện, cùng một cửa…"), EP9 sc.30 ("Còn Tây Uyển?… chưa chắc cùng một người"), mục Tôn Tứ ở bảng cuối EP8.
+- **Chỉnh nhỏ ở N3:** `EP1` ("Tử Khiêm chết sau cha"), `ep5` ("hơn mười ngày"), `EP4` (viết thường "Bắc lộ"). Xem `PASS_N3_FINAL_QA_REPORT.md`.
+
+---
+
 ## 0. TRẠNG THÁI CANON ÁP DỤNG
 
 ### 0.1. Khóa canon (lấy từ brief Pass A)
@@ -11,10 +24,10 @@ Tài liệu kiểm toán. Không sửa episode, không tạo canon mới. Mọi 
 | ID | Trạng thái | Nội dung |
 |---|---|---|
 | AD-01 | **KHÓA** | Án Thẩm gia **chưa từng xảy ra** trong dòng thời gian hiện tại. Án chỉ tồn tại ở kiếp trước. |
-| AD-01-SUB | **CHƯA KHÓA** | Năm của án ở kiếp trước. `AUTHOR_DECISIONS.md` có hai phương án đều thỏa AD-01: **B** (khoảng LK26, theo EP1) và **C** (Thẩm phủ bị phong 17/10 LK23, theo EP9 và Handbook). Brief không chỉ định phương án nào. |
+| AD-01-SUB | **ĐÃ KHÓA ở B1 (phương án C)** — trạng thái Pass A ghi "chưa khóa" nay lỗi thời | Năm của án ở kiếp trước. `AUTHOR_DECISIONS.md` có hai phương án đều thỏa AD-01: **B** (khoảng LK26, theo EP1) và **C** (Thẩm phủ bị phong 17/10 LK23, theo EP9 và Handbook). Brief không chỉ định phương án nào. |
 | AD-02 | **KHÓA** | Chỉ Chiêu Ninh giữ ký ức kiếp trước. |
-| AD-03 | Chưa quyết | Pass A chỉ truy chuỗi nhân quả. |
-| AD-04 | Chưa quyết | Pass A chỉ lập bản đồ bằng chứng. |
+| AD-03 | **KHÓA ở B1** (ghi "chưa quyết" ở Pass A) | Lạc Thủy không vỡ ở kiếp này. |
+| AD-04 | **KHÓA ở B1** (ghi "chưa quyết" ở Pass A) | Không có Final Boss; không gán Tây Uyển cho một chủ mưu duy nhất. |
 
 Ghi chú: bản `AUTHOR_DECISIONS.md` trong repo vẫn chỉ liệt kê các phương án, chưa ghi lựa chọn nào. Pass A không sửa file đó.
 
@@ -64,14 +77,14 @@ Cơ sở: ba mốc ký ức đầu tiên đều đúng (`EP1.txt:1159–1195`), 
 | ~10/7 ("ba tháng sau") | Hàn Dực làm chứng một vụ quân lương | `EP3.txt:837` | [OK] / [SUB] |
 | 19/7, 22/7 | Ngựa hoảng ở lễ cầu phúc; Hộ bộ đổi chủ sự kho Đông | `ep5.txt:509–511`, `ep5.txt:571–577` | [OK] |
 | Tháng 8 | Lạc Thủy vỡ đê, hơn 2.000 hộ; sổ của Lục Trầm dẫn tới ba quan bị bắt, một người bị trảm | `EP1.txt:869–891` | [OK] |
-| 3/8 | Trịnh Hành chết ("bệnh cấp"), mất bản sớ | `ep5.txt:513–531` | [OK] |
+| 3/8 | Trịnh Hành chết ("bệnh cấp"; nguyên nhân để mở — bản sớ đã bị cắt ở N2B) | `ep5.txt:513–531` | [OK] |
 | 16/8 | Lão Trương bị gọi hỏi | `ep9.txt:93` | **[LOGIC]**: lão Trương chết LK21, trước điểm trọng sinh (xem T-05) |
 | 18/8, đầu tháng 9, 12/9, 20/9 | Hộ bộ đối chiếu; Tử Khiêm bị gọi hỏi; Thẩm phủ bị theo dõi; cha bị đình chức | `ep9.txt:101`, `ep9.txt:1409–1417` | [SUB] |
 | 17/10 | Thẩm phủ bị phong | `ep9.txt:1573–1591` | [SUB] |
 | Tết sau đó | Cha trong ngục, anh bị giam | `ep9.txt:1541–1551` | [SUB] |
 | "Một năm sau nữa" sau 10/7 | Hàn Dực xuất hiện trong hồ sơ kết tội Thẩm gia | `EP3.txt:839–841` | [SUB] |
 | Ba năm sau EP1 | Diệt môn; "hồ sơ quân báo giả đi qua Binh bộ"; Hoài Xuyên tiếp cận hồ sơ qua hôn ước | `EP1.txt:7`, `EP1.txt:655`, `EP1.txt:1464–1466`, `EP1.txt:2540–2548` | [SUB] |
-| Cuối thu, 3 năm 4 tháng sau 11/6 LK23 | Cha chết trong ngục; ba ngày sau anh bị chém; mẹ chết; Chiêu Ninh uống thuốc độc; "Bắc môn có động" | `EP1.txt:27–247`, `EP1.txt:361–363` | [SUB] |
+| Cuối thu, 3 năm 4 tháng sau 11/6 LK23 | Cha chết trong ngục; một ngày sau anh bị chém (`EP1` mở đầu: cha ba ngày trước, anh hai ngày trước); mẹ chết; Chiêu Ninh uống thuốc độc; "Bắc môn có động" | `EP1.txt:27–247`, `EP1.txt:361–363` | [SUB] |
 
 **Hai cách đặt năm án ở kiếp trước** (chỉ ghi nhận, không chọn):
 
@@ -144,7 +157,7 @@ Viết tắt các tuyến được theo dõi:
 | **Tây Uyển** | 3/7 tập kích → 4/7 các lời khai → ~9/7 mũi tên khác loại, "hai tầng" → EP7 sc.23 Hàn Dực nối cách tráo xe với cách người ta ép hắn | Kẻ chủ mưu chưa xác lập (AD-04). Mối nối ở EP7 phụ thuộc vào sự kiện [AD-01]. |
 | **Bắc Tam** | Mã tuyến ở nửa tờ sổ (EP7 sc.33–34) → lão Ngô: "một loại chuyến" (EP7 sc.38–40) → An Bình: sổ Bắc Nhất/Nhị/Tam (EP7 sc.53) → BT-3 ở hiệu bạc (EP8 sc.8) | Việc chọn An Bình dựa một phần vào "chuyến mất tích trong án Thẩm gia" [AD-01] (`ep7.txt:2331–2339`); phần còn lại dựa vào mùi thuốc (`ep7.txt:2327–2329`) [OK] |
 | **HX-4** | Ký hiệu trong sổ An Bình (EP7 sc.54–55) → Hòm Xét số bốn (EP7 sc.59) → bốn người giữ chìa, mất bản đối chiếu LK20 (EP7 sc.60–61) → Cố Văn Lâm (EP8 sc.55–58) → H4 ≠ HX-4 (EP8 sc.92) | Phần LK20 [OK]. Phần "bản gốc trong án" [AD-01]. Lý do sổ buôn lậu ghi "Đã kiểm — HX-4" chưa được giải thích. |
-| **Trịnh Hành** | Tra gỗ LK19 sau một đơn nặc danh → thư "hỏi Bắc lộ" → chết 23/7 → cáo thị → vai trò người chuyển thư (EP5) → "gửi bản trước khi nhà ta bị bắt nửa tháng" (EP7 sc.63) | `ep7.txt:3241–3257` [AD-01]; Trịnh Hành chết 23/7 LK23 nên dưới mọi phương án không thể còn sống lúc đó |
+| **Trịnh Hành** | Tra gỗ LK19 (đơn nặc danh đã bị cắt ở N2B) → thư "hỏi Bắc lộ" → chết 23/7 → cáo thị → vai trò người chuyển thư (EP5) → "gửi bản trước khi nhà ta bị bắt nửa tháng" (EP7 sc.63) | `ep7.txt:3241–3257` [AD-01]; Trịnh Hành chết 23/7 LK23 nên dưới mọi phương án không thể còn sống lúc đó |
 | **Hàn Dực** | 3/7 đổi tuyến để cứu Tam hoàng tử → 4/7 bị trói → khỏi nghi trực tiếp (~9/7) → mất tích lần hai (mid-7) → xuất hiện lại không giải thích (EP7 sc.18) → "từng làm chứng ba năm trước", em gái bị bắt (EP7) → nhẫn (EP8) → quân doanh phía Đông (EP9) | Toàn bộ phần "làm chứng" [AD-01]; mâu thuẫn với `EP3.txt:821–847` (kiếp trước hắn chỉ lên vị trí sau 3/7 LK23) |
 | **Phùng Mậu** | Ty Độ Chi → về quê chịu tang (LK20) → quản sự Vĩnh Thái → bỏ chạy về Nam (đầu tháng 8) → PM-6 → bị bắt ở cảng Đông → khai bốn nhóm → "ba năm trước ai đưa tên Thẩm Tĩnh An vào" → nhẫn ngọc đen | Phần tiền và sổ [OK]. `ep8.txt:4433–4569` [AD-01]. |
 | **Trần Quảng** | LK19 chuyển khoản, nhận tội → 11/6 ở Hộ bộ → ~26/6 sang Binh bộ → 1/7 – 10/7 so hồ sơ → 23/7 bị cho nghỉ → ~28/7 trốn → nhà an toàn → mồi tin (EP8) → về Hộ bộ (đầu đông) | [OK] toàn tuyến |
