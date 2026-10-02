@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 15
 
-*(v1 — **chờ Pre-Audit**. **Author-truth**; chi tiết chỉ thành canon khi Ch15 LOCK. Nền: Canon Ch1–Ch14 LOCKED; Gate Ch9 (seed Bàng); CC-2 (Gate Ch12); thỏa thuận Lạc Thủy (Ch12); Production Bible (Atlas, Nguyên tắc khoảng cách); Chapter Bible Ch15. Độ dài 7k–10k. Mục nào cần chị chọn được đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị.)*
+*(v2 — **LOCKED** sau Pre-Audit (PASS có điều kiện): khóa **K-1** (năm bậc suy luận của Bàng có seed từ trước; Bàng không biết kế hoạch Dịch) và **K-2** (Ch14 leak ≠ nguyên nhân Hổ Lao); lệnh bắt A Quy giữ OPEN → Ch17. Ngoài đó giữ nguyên v1. **Author-truth**; chi tiết chỉ thành canon khi Ch15 LOCK. Nền: Canon Ch1–Ch14 LOCKED; Gate Ch9 (seed Bàng); CC-2 (Gate Ch12); thỏa thuận Lạc Thủy (Ch12); Production Bible (Atlas, Nguyên tắc khoảng cách); Chapter Bible Ch15. Độ dài 7k–10k. Mục nào cần chị chọn được đánh dấu **[CẦN DUYỆT]**, kèm khuyến nghị.)*
 
 **Chapter Bible Ch15 — HỔ LAO.** POV **Tiêu Dịch**. Arc: **First Major Failure**. Vai trò: cho Dịch thất bại; chứng minh Hạ Hầu là đối thủ thật sự; phá ảo tưởng "thông minh là thắng". **Goal:** đánh chiếm Hổ Lao. **Obstacle:** Hạ Hầu đọc được đường hành quân; địa hình bất lợi; quân liên minh thiếu phối hợp. **Decision:** Dịch vẫn tiến công và bị đánh bại. **Cost:** quân thương vong; uy tín Dịch giảm; liên minh bắt đầu nghi ngờ. **New info:** Hạ Hầu không chỉ mạnh mà còn hiểu hậu cần và dự đoán tuyến đường. **Seed:** Hạ Hầu đọc "Thế"; Dịch cần đổi cách đánh. **Hook:** Dịch nhìn bản đồ và nhận ra mình đã đánh nhầm thứ.
 
@@ -19,6 +19,14 @@
 5. **G-1, G-2, G-3 (Ch14)** còn hiệu lực. Ch15 **không** chạm Kha Trọng, không kết luận nguồn rò.
 6. Võ công chỉ tạo lợi thế cục bộ; không dùng để giải quyết vấn đề chiến lược (Production Bible).
 7. Nguyên tắc khoảng cách: không "sáng nhận tin — chiều xuất quân — tối tới nơi".
+
+### 0B. KHÓA THÊM Ở PRE-AUDIT (LOCK)
+
+**K-1 — Bàng không biết kế hoạch của Dịch.** Hạ Hầu/Bàng **không biết** kế hoạch, ngày, đường, nghi binh hay quân số của liên quân. Bàng chỉ **suy ra các tuyến vận lương có khả năng đi qua** từ **dữ liệu thương lộ, sổ lương và quan sát công khai** (mục 4). **Năm bậc suy luận chỉ dùng dữ kiện đã có seed từ các chương đã LOCK.** Không được để một bậc **xuất hiện lần đầu ở Ch15** rồi coi như đã gieo. *(Địa hình/mùa là kiến thức nền công khai; dữ kiện địa lý mới ở Ch15 là [P], không được tính là seed.)*
+
+**K-2 — Ch14 leak ≠ nguyên nhân Hổ Lao.** Hạ Hầu **không thắng nhờ biết leak Ch14**. Hổ Lao **đứng độc lập** trên tuyến suy luận thương lộ / sổ lương. Hai tuyến có thể cùng dẫn tới một trận mai phục nhưng **không được nhập thành một nguyên nhân** (mục 4B).
+
+**Giữ OPEN → Ch17:** lệnh bắt A Quy (gia hạn off-page; xử lý ở Gate Ch17, POV Chiêu). Ch15 không giải quyết.
 
 ---
 
@@ -50,7 +58,7 @@ Ch14 kết thúc ngày ~18 tháng Mười năm 0. Thỏa thuận Lạc Thủy l�
 - **Không có tổng chỉ huy.** Mỗi bên tự chỉ huy quân mình và **giữ quyền rút**.
 - **Dịch lập kế hoạch và điều phối lương** (đúng quyền CC-2), vì hắn là người duy nhất đã tính được lương cho cả ba bên từ Ch13. Hắn **đi cùng cột Ích Châu** (cột chậm nhất, mang lương) để chịu rủi ro cùng cột ấy.
 - Kế hoạch được **ba bên gật** nhưng không ai **ký** (không văn thư, Ch12).
-- **Thiếu phối hợp** có nguyên nhân hữu hình: ba bên **nhanh chậm khác nhau** (kỵ Hoắc nhanh, bộ Ích Châu chậm, thuyền Kim Lăng phụ thuộc mực nước); tín hiệu giữa cột bằng **lửa và người chạy**, không có chỉ huy chung để quyết khi tín hiệu lệch.
+- **Thiếu phối hợp** có nguyên nhân hữu hình: ba bên **nhanh chậm khác nhau** (kỵ Hoắc nhanh, bộ Ích Châu chậm, thuyền Kim Lăng phụ thuộc nước và băng trôi); tín hiệu giữa cột bằng **lửa và người chạy**, không có chỉ huy chung để quyết khi tín hiệu lệch.
 
 ---
 
@@ -66,31 +74,46 @@ Ch14 kết thúc ngày ~18 tháng Mười năm 0. Thỏa thuận Lạc Thủy l�
 | Ích Châu | ~5.000 bộ (mới luyện) + ~2.000 phu | Dưới Hàn Đô úy; mang lương cho cả đạo |
 | Kim Lăng | ~1.500 thủy quân + thuyền lương | Không bộ binh |
 | Hạ Hầu ở Hổ Lao | ~10.000 (6.000 kỵ + 4.000 bộ) | Dự bị ~20.000 ở Lạc Kinh (không tham chiến) |
-| Thời gian hành quân | Hoắc quân ~4 ngày; Ích Châu ~7 ngày (có xe); thuyền Kim Lăng ~5 ngày nhưng nước thấp | Khớp "chậm nhất quyết định ngày hội" |
+| Thời gian hành quân | Hoắc quân ~4 ngày; Ích Châu ~7 ngày (có xe); thuyền Kim Lăng ~5 ngày nhưng băng trôi, nước chưa yên | Khớp "chậm nhất quyết định ngày hội" |
 
 *(Quân số chỉ là tương quan để Scene Bible dùng; trên trang nêu theo cảm giác "bên ta ngang bên địch ở điểm hội", không đọc số liệu như báo cáo.)*
 
 ---
 
-## 4. SYNC #4 — HẠ HẦU "ĐỌC THẾ": CHUỖI LOGIC, KHÔNG GIÁN ĐIỆP **[CẦN DUYỆT]**
+## 4. SYNC #4 — HẠ HẦU "ĐỌC THẾ": NĂM BẬC, MỖI BẬC CÓ SEED (K-1, K-2)
 
-**Author-truth (khóa):** Hạ Hầu **không** nhận bất kỳ thông tin nội bộ nào của liên quân. **Rò tin ở Ch14 ≠ nguyên nhân thua ở Ch15.** Mọi thứ Hạ Hầu biết đều **suy ra được** từ địa hình, mùa, tốc độ, lương.
+**Author-truth (khóa):** Bàng [P] (tướng trấn thủ biên tây, chỉ huy Hạ Hầu ở Hổ Lao) **không biết** kế hoạch của Dịch. Hắn **suy ra tập hợp các đường vận lương khả dĩ** rồi đặt lực lượng sao cho **các đường ấy đều nằm trong tầm**. Hắn **không** chọn đúng "đường Dịch đã chọn" nhờ biết; hắn chọn vị trí mà **mọi đường khả dĩ đều phải đi qua**.
 
-**Người đọc: Bàng** [P] (tướng trấn thủ biên tây; chỉ huy Hạ Hầu ở Hổ Lao). Payoff seed Ch9: **Bàng buôn lương qua ải Tây với Ích Châu nhiều năm** → có **sổ lương** (lượng, nhịp, đường vận, kho) → **biết Ích Châu nuôi quân được bao nhiêu, vận lương bằng đường nào, chậm nhanh ra sao**. Dịch đã ghi trong Ch9 "kho ba huyện" nhưng **chưa nghĩ** rằng nhiều năm buôn lương làm chính hệ lương Ích Châu **bị đọc được**.
+### 4A. Năm bậc suy luận và seed
 
-**Chuỗi suy luận năm bậc (mỗi bậc phải có seed trên trang trước khi Bàng dùng; Dịch **tự làm** cùng phép tính ở cảnh kế hoạch):**
+| Bậc | Bàng suy ra | Dữ kiện đã có seed (chương LOCKED) | Loại dữ liệu |
+|---|---|---|---|
+| **1** | **Hệ lương Ích Châu nuôi quân ra sao:** lượng, nhịp, sức vận của xe và kho; Ích Châu **không có dư lực** để nuôi một đạo viễn chinh lâu | **Ch8:** số khai ải Tây (1.200 quân / 300 ngựa); lương và cỏ bán qua hướng tây qua thương lái ("thương lái từ phía tây trả giá cao"). **Ch9:** gian kho thứ chín nhà Đỗ; bao lương mang dấu quân lương ải Tây; giấy thông hành nhà Đỗ; số thật ~1.000 suất / ~300 ngựa; **thư Bàng: "Lương bên ải Tây mấy năm nay qua lại êm thấm"**. Sau Ch9 Dịch **thu hồi giấy thông hành** → buôn lương **ngừng đột ngột** (Bàng thấy cái ngừng ấy) | **Thương lộ / sổ lương** |
+| **2** | **Ích Châu, Hoắc quân, Kim Lăng đã mang gì tới Lạc Thủy, bố trí ra sao** | **Ch12:** kẻ đếm thuyền ba hôm đếm thuyền và người; hai cỗ xe lương mẫu; bốn vòng gác tách rời. **Ch13:** chuỗi kẻ đếm thuyền → quán nước → người bán củi → cửa Lạc Kinh do quân Hạ Hầu giữ (**đầu dây phía Hạ Hầu**) | **Quan sát công khai** (không phải nghe trộm) |
+| **3** | **Bốn bên không chung chỉ huy** | **Ch12:** "Mỗi bên một vòng gác; giữa các vòng là đất trống"; "không ai gọi đó là liên minh"; Hoắc quân "không đứng dưới cờ ai"; **Dịch: "Hạ Hầu không cần thắng cả bốn chúng ta. Ông ta chỉ cần mỗi bên đứng một mình."** | **Quan sát công khai** + lời Dịch (seed) |
+| **4** | **Mùa và địa hình giới hạn đường qua của xe nặng; bên chậm nhất quyết định ngày hội** | **Ch10:** đường vận đóng băng. **Ch9:** mưa lở đường vận phía nam. *(Mực nước mùa xuân: băng tan, nước dâng, băng trôi là kiến thức nền; không dựa vào cảnh nước cạn mùa thu ở Ch12.)* *(Số chỗ qua sông và tên chỗ là **[P]** của Ch15, **không tính seed**.)* | **Kiến thức nền công khai** |
+| **5** | **Không cần giữ thành. Để Hổ Lao "mở", chặn cột chậm (cột lương) tại chỗ ép, tách từng bên** | **Ch9:** điều duy nhất cụ thể trong thư Bàng là **lương** (Bàng nghĩ bằng lương). **Ch12:** chính Dịch đã nói phương pháp của Hạ Hầu là **tách từng bên**. Bậc 5 là kết luận **chiến thuật** từ bậc 1–4, không thêm dữ kiện | **Suy luận từ bậc 1–4** + tính cách Bàng (seed Ch9) |
 
-| Bậc | Bàng suy ra | Seed trên trang |
+**Điều Dịch bỏ sót (khóa):** Dịch **đã tự nói** (Ch12) rằng Hạ Hầu muốn "mỗi bên đứng một mình", nhưng thiết kế một cuộc hội ba cột **đồng bộ** — chính cấu trúc cho Hạ Hầu **đánh từng cột**. Sai lầm **không phải thông tin mới**, mà là **không biến câu nói của chính hắn thành phép tính.** Hắn cũng **không xem** hệ lương của mình là **thứ có thể bị đọc** (bậc 1), dù chính hắn là người phát hiện buôn lương ải Tây ở Ch8–9.
+
+### 4B. Hai tuyến độc lập (K-2)
+
+| | **Tuyến rò Ch14** | **Tuyến suy luận Hổ Lao (Ch15)** |
 |---|---|---|
-| 1 | Băng tan → xe nặng chỉ qua sông được ở **hai chỗ** | Dịch chọn chỗ qua cho cột lương **vì cùng lý do** |
-| 2 | Ba bên **không có tổng chỉ huy** → hội ở **Hổ Lao** | Mục 2 |
-| 3 | Bên **chậm nhất** (bộ + xe Ích Châu) quyết ngày hội; tính ngược ra **ngày** và **chỗ ép** (chỗ qua sông) | Dịch tính ngày hội từ cột chậm |
-| 4 | Ích Châu **mang lương cho cả đạo** → cắt cột ấy là cắt cả ba | Dịch biết nhưng tin cột có hộ tống đủ mạnh |
-| 5 | **Không cần giữ Hổ Lao.** Để thành "mở", chặn cột chậm tại chỗ ép trước ngày hội, rồi quay đánh cột nhanh | **Chưa** seed: đây là điều Dịch **không nghĩ tới** (hắn mô hình Hạ Hầu **giữ thành**) |
+| Nguồn | Thư lại nhỏ đoàn Kim Lăng → người mua tin ở trạm → Hạ Hầu | Sổ thương lộ ải Tây + quan sát công khai (kẻ đếm thuyền) + địa hình |
+| Nội dung | "Kim Lăng về tay không, không văn thư, chỉ báo bằng miệng"; điểm hẹn Dạ Kiêu (T5) | Sức vận của Ích Châu; bố trí tách rời; chỗ qua sông |
+| Có chứa kế hoạch Hổ Lao? | **Không** (nội dung có từ tháng Chín–Mười năm 0, trước mọi kế hoạch Hổ Lao) | — |
+| Giá trị với Hạ Hầu | Đã dùng một lần (tin giả Ch13), hết giá trị | Đủ để dựng mai phục |
 
-**Nghi binh của Dịch:** Dịch có một đạo nghi binh (mồi) để kéo kỵ Hạ Hầu đi. Bàng **không đáp** vì đạo ấy **không có lương để đi xa** (logic: "một đạo không có lương không thể là mồi"). Chi tiết này vừa cho thấy Dịch **không bỏ sót**, vừa cho thấy Bàng **tính trên lương**.
+- **Kiểm đối chứng (counterfactual):** nếu xóa tuyến rò Ch14 khỏi thế giới, trận Hổ Lao **vẫn xảy ra y hệt**. Nếu xóa tuyến suy luận, Bàng **không có căn cứ** đặt mai phục.
+- **Đường truyền kế hoạch của liên quân:** bằng **miệng** và **người chạy giữa các cột**; Kim Lăng nhận bằng miệng qua liên lạc viên tại Lạc Thủy. **Không** đi qua **đường văn thư – trạm ngựa Kim Lăng.**
+- **Trên trang:** không câu nào nối rò Ch14 với Hổ Lao. Nghi ngờ "ai báo tin?" trong hội minh là **nghi ngờ của nhân vật**, không được xác nhận hay bác bỏ, **không** nêu lỗ văn thư (Dịch **không biết** Ch14).
 
-**Vì sao Dịch không thấy:** hắn mô hình Hạ Hầu như người **phản ứng theo quân** (đánh nơi có quân), không theo **đường lương**. Đây là **ảo tưởng "thông minh là thắng"**: kế của hắn đẹp nhưng chỉ đúng trong thế giới Hạ Hầu giữ thành.
+### 4C. Nghi binh của Dịch
+Dịch có một đạo nghi binh (mồi) kéo kỵ Hạ Hầu đi. Bàng **không đáp**: **suy luận** từ bậc 1 cho thấy đạo ấy **không có lương để đi xa**. *(Bàng không "biết" đó là nghi binh; hắn tính rằng một đạo không có lương thì không đáng để chạy theo.)*
+
+### 4D. Vị trí mai phục
+Có **hai chỗ qua sông** khả dĩ cho xe nặng [P]. Bàng không biết cột Ích Châu chọn chỗ nào; hắn đặt lực lượng ở vị trí **cả hai chỗ đều trong tầm một ngày kỵ**, và đánh vào **chỗ ép** nơi cột phải qua. Cột đã chọn chỗ nào thì Hạ Hầu cũng đánh được; **không** cần biết trước.
 
 ---
 
@@ -117,7 +140,7 @@ Dịch **không ngu**: hắn có điểm nghi (một trinh sát báo kho Hổ La
 |---|---|
 | Ích Châu | Mất ~1.800 người (chết, bị bắt) và **toàn bộ đoàn xe lương** của cột |
 | Hoắc quân | Mất ~700; Chiêu **lui có trật tự**, không liều đánh Hổ Lao khi cột lương đã bị cắt (lựa chọn có lý) |
-| Kim Lăng | Thuyền **tới trễ một ngày** vì nước thấp (nguyên nhân tự nhiên); không tổn thất đáng kể |
+| Kim Lăng | Thuyền **tới trễ một ngày** vì băng trôi, nước chưa yên (nguyên nhân tự nhiên); không tổn thất đáng kể |
 | **Uy tín Dịch** | Giảm: sĩ quan Ích Châu (trừ Hàn) nghi kế hoạch; Hoắc quân hỏi vì sao chỉ cột Ích Châu bị chặn |
 | **Nghi ngờ trong hội minh** | Có người hỏi **"ai báo tin?"**; mũi nghi hướng **thuyền trễ** (Kim Lăng) và, trong lời lẽ riêng của Hoắc quân, **Dạ Kiêu** (Gate Ch14 mục 4). **Dịch không kết tội ai** và **không giải được** nghi ngờ ấy |
 | Hạ Hầu | Không tổn thất đáng kể; giữ Hổ Lao |
@@ -145,7 +168,7 @@ Dịch **không ngu**: hắn có điểm nghi (một trinh sát báo kho Hổ La
 - **Không narrator reveal** ("Thì ra…"). Người nghe tự thấy: hắn đặt hai đường chồng nhau, rồi viết lại chữ **mục tiêu** trên bản đồ: chữ "Hổ Lao" hắn đã viết từ trước, nay hắn **gạch** và để trống.
 - **Seed cho Ch16 (Thế):** cái hắn cần đánh là **đường, lương, thời gian**, không phải một nơi.
 
-**Fair-play:** cảnh kế hoạch ở đầu chương phải cho người nghe **thấy** Dịch chọn chỗ qua sông vì cùng lý do với Bàng, **trước** khi Bàng dùng (bậc 1).
+**Fair-play:** cảnh kế hoạch ở đầu chương cho người nghe **thấy** Dịch tính ngày hội theo cột chậm và chọn chỗ qua sông vì địa hình. Nhưng **tính hợp lệ** của suy luận Bàng dựa trên **seed Ch8–Ch13** (mục 4A), **không** dựa vào cảnh này.
 
 ---
 
@@ -167,14 +190,16 @@ Dịch **không ngu**: hắn có điểm nghi (một trinh sát báo kho Hổ La
 
 | Mã | Nội dung |
 |---|---|
-| **GR-1** | Hạ Hầu **không** nhận thông tin nội bộ. Rò Ch14 ≠ nguyên nhân thua |
+| **GR-1 (K-2)** | Hạ Hầu **không** nhận thông tin nội bộ. **Rò Ch14 ≠ nguyên nhân Hổ Lao**; hai tuyến độc lập (mục 4B), có kiểm đối chứng |
 | **GR-2** | Dịch **không ngu**: mọi quyết định có lý do tại thời điểm; thua vì thiếu một biến, không vì bỏ qua cảnh báo |
-| **GR-3** | Mỗi bậc suy luận của Bàng có seed trên trang **trước** khi dùng |
+| **GR-3 (K-1)** | Năm bậc của Bàng chỉ dùng dữ kiện **đã có seed ở chương LOCKED** (mục 4A); không bậc nào mới xuất hiện lần đầu ở Ch15. Bàng **không biết** kế hoạch Dịch |
 | **GR-4** | Không "giải cứu" kịch tính: Chiêu lui có lý, không cứu Dịch bằng hành động anh hùng |
 | **GR-5** | Hội minh không tan, không bị tiêu diệt; lui có trật tự |
 | **GR-6** | Dạ Kiêu, Chỉ, Vân Chương, Uyển **không xuất hiện**; không chạm Kha Trọng |
 | **GR-7** | Dịch không kết tội ai; nghi ngờ nảy ra từ hai thứ có thật (thuyền trễ; Bàng đọc đúng) |
 | **GR-8** | Cuối chương Dịch **không tuyên bố bài học**; chỉ làm một hành động (gạch chữ) |
+| **GR-9** | Kế hoạch liên quân **không** đi qua đường văn thư – trạm ngựa Kim Lăng; không nhắc lỗ văn thư (Dịch không biết) |
+| **GR-10** | Không dùng chữ "gián điệp", "nội gián", "kẻ báo tin" như **sự thật**; chỉ là lời nhân vật nghi |
 
 ---
 
@@ -184,9 +209,9 @@ Dịch **không ngu**: hắn có điểm nghi (một trinh sát báo kho Hổ La
 |---|---|---|
 | D15-1 | Thời điểm: đầu xuân năm 1; bốn thay đổi qua mùa đông nén ngắn | **A** |
 | D15-2 | Hội minh không tổng chỉ huy; Dịch lập kế hoạch/lương và đi cùng cột Ích Châu | Duyệt |
-| D15-3 | Bàng chỉ huy Hạ Hầu ở Hổ Lao; hiểu hậu cần nhờ sổ buôn lương ải Tây; **không** gián điệp | Duyệt |
+| D15-3 | Bàng chỉ huy Hạ Hầu ở Hổ Lao; hiểu hậu cần nhờ sổ buôn lương ải Tây; **không** gián điệp | **LOCK** (K-1, K-2) |
 | D15-4 | Hổ Lao: ngã ba ba đường, cách Lạc Kinh hai ngày kỵ; quân số [P] | Duyệt (Scene Bible chỉnh con số) |
-| D15-5 | Chuỗi suy luận năm bậc, nghi binh vô lương không là mồi | Duyệt |
+| D15-5 | Chuỗi suy luận năm bậc (mục 4A), nghi binh vô lương không là mồi | **LOCK** (K-1) |
 | D15-6 | Quyết định Dịch: cắt xe cứu người | Duyệt |
 | D15-7 | Cái giá: Ích Châu mất ~1.800 + đoàn xe; Hoắc ~700; uy tín giảm; nghi "ai báo tin" | Duyệt |
 | D15-8 | Vân Chương, Uyển, Chỉ, Dạ Kiêu vắng mặt | Duyệt |
@@ -203,5 +228,25 @@ Dịch **không ngu**: hắn có điểm nghi (một trinh sát báo kho Hổ La
 - Kha Trọng, nguồn rò Ch14: **OPEN** (G-1, G-2).
 - Họ tên Bàng (chỉ "Bàng mỗ" đã có); tên chỗ qua sông, chỗ ép: Scene Bible đặt.
 - Thái độ Ôn sau thất bại: Ch16.
+
+---
+
+## 13. TRẠNG THÁI (v2)
+
+| Mã | Mục | Trạng thái |
+|---|---|---|
+| D15-1 | Đầu xuân năm 1, nén bốn thay đổi | **LOCK** |
+| D15-2 | Hội minh không tổng chỉ huy; Dịch kế hoạch/lương, đi cùng cột Ích Châu | **LOCK** |
+| D15-3, 5 | Bàng; năm bậc có seed; không gián điệp | **LOCK** (K-1) |
+| D15-4 | Hổ Lao + quân số | **LOCK** (quân số [P], chỉ cho Scene Bible) |
+| D15-6, 7 | Cắt xe cứu người; cái giá | **LOCK** |
+| D15-8 | Vân Chương, Uyển, Chỉ, Dạ Kiêu vắng | **LOCK** |
+| D15-9 | Một câu Bàng về hồi âm (tùy chọn) | **LOCK** (đúng một câu) |
+| D15-10 | Hook gạch chữ "Hổ Lao" | **LOCK** |
+| K-1 | Bàng không biết kế hoạch; năm bậc chỉ dùng seed cũ | **LOCK** |
+| K-2 | Ch14 leak ≠ nguyên nhân Hổ Lao | **LOCK** |
+| A Quy | Lệnh bắt: OPEN → Ch17 | **OPEN** |
+
+**FOUNDATION GATE CH15: LOCK.** → Scene Bible Ch15 v1.
 
 **Độ dài mục tiêu:** 7.500–9.000 ký tự (5 cảnh). Còn lại theo target: ~7.517 ký tự/chương trung bình.
