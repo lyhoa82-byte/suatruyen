@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 15: HỔ LAO
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch15 v2 **LOCKED** (kèm K-1, K-2); Canon Ch1–Ch14; Production Bible; Chapter Bible Ch15. Không mở lại Gate. Độ dài 7k–10k.)*
+*(v2 — **LOCKED** (Pre-Audit PASS; SY-A/C/E, K-1/K-2, hook, POV PASS; thêm 3 guardrail G-15-1…3; **sau LOCK mới sang Draft**). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch15 v2 **LOCKED** (kèm K-1, K-2); Canon Ch1–Ch14; Production Bible; Chapter Bible Ch15. Không mở lại Gate. Độ dài 7k–10k.)*
 
 **POV:** Tiêu Dịch, xuyên suốt. Narration gọi **"Dịch"**, **"hắn"**; Dịch tự xưng **"ta"**. Chiêu: narration **"Chiêu"/"nàng"**; Dịch nói với nàng **"Tam tướng quân"**. Hàn: **"Hàn Đô úy"**; Dịch gọi **"Đô úy"**; Hàn gọi Dịch **"tiên sinh"**. Không ai gọi "điện hạ".
 **Thời gian:** đầu xuân năm 1 (băng tan), từ ngày hội bàn tới đêm sau trận, khoảng **chín ngày** [P].
@@ -39,6 +39,9 @@
 11. **Không** Kha Trọng, không Chu Hạc, không Bắc Môn, không quân trắng.
 12. **Dịch chưa nói "Đêm ấy…"**. Quan hệ Dịch – Chiêu chuyển bằng **việc** (lương), không bằng lời.
 13. **Không "A Chiêu"**; tên "Hoắc Chiêu" không nói trên trang.
+14. **G-15-1 — "700" là tổn thất chiến đấu**, không mặc định 700 tử trận: gồm chết, bị thương, lạc. Trên trang dùng **"mất bảy trăm"** / "chưa đếm xong"; không viết "bảy trăm người chết".
+15. **G-15-2 — Hành động Chiêu ở S4 ở cấp quyết định quân sự**, không phải cứu riêng Dịch: nàng lui vì đánh Hổ Lao một mình là sai; nàng hỏi lương cột Ích Châu như đồng minh hỏi lương; giao hai xe **cho cột Ích Châu, ghi vào sổ lương hội minh**, nói với Hàn / thân binh, không với riêng Dịch; không lời an ủi; không "đã bảo".
+16. **G-15-3 — "Thư chưa có hồi âm" tuyệt đối không nối về Ch14 leak.** Câu của Bàng chỉ nối về **thư Ch9**. Trên trang: không đặt cạnh câu hỏi "ai báo tin?" (tách thành hai beat khác nhau, có khoảng cách); không ai nói "thư" và "tin lọt" trong cùng một lượt; Dịch không suy ra liên hệ; không nhắc văn thư, trạm ngựa, "không văn thư".
 
 ---
 
@@ -146,8 +149,8 @@
 
 **Beats:**
 1. Mở bằng **ai, ở đâu:** Dịch ngồi bên đống lửa nhỏ; Hàn băng vai, mặt xám.
-2. **Chiêu tới** (ngày 8) cùng một toán kỵ nhỏ, từ hướng bắc. Nàng đã tới **thấy Hổ Lao** đúng ngày hẹn (ngày 7), thấy Hạ Hầu **dàn quân đủ**; kỵ che của Hạ Hầu đánh một trận ngắn vào vanguard của nàng (mất vài trăm, [P] ~700); nàng ngừng, và quay lại tìm cột Ích Châu. **Nàng không giải thích**, Dịch không hỏi.
-3. Chiêu hỏi **một câu về lương:** *"Cột của ngươi còn lương?"* Dịch: *"Ba ngày."* Chiêu: *"Ta có sáu."* Nàng sai thân binh giao **hai xe lương** của Hoắc quân cho Hàn. **Không nói "ta cho".** (Nợ mới của Dịch. Đảo chiều tờ kê Ch13.)
+2. **Chiêu tới** (ngày 8) cùng một toán kỵ nhỏ, từ hướng bắc. Nàng đã tới **thấy Hổ Lao** đúng ngày hẹn (ngày 7), thấy Hạ Hầu **dàn quân đủ**; kỵ che của Hạ Hầu đánh một trận ngắn vào vanguard của nàng (nàng nói **"mất bảy trăm"** — tổn thất chiến đấu gồm chết, bị thương, lạc; "chưa đếm xong" [G-15-1]); nàng ngừng, và quay lại tìm cột Ích Châu. **Nàng không giải thích**, Dịch không hỏi.
+3. Chiêu hỏi Hàn **một câu về lương:** *"Cột Ích Châu còn lương mấy ngày?"* Hàn nhìn Dịch (lương thuộc Dịch). Dịch: *"Ba ngày."* Chiêu: *"Hoắc quân còn sáu."* Nàng sai thân binh giao **hai xe lương** cho cột Ích Châu, **ghi vào sổ lương hội minh.** Không nói "ta cho". Dịch: *"Ghi bằng tên Ích Châu."* Chiêu: *"Ghi."* **(G-15-2: quyết định giữ một cột còn đánh được; nợ lương của Dịch là hệ quả, không phải ý nàng.)**
 4. Một câu duy nhất giữa hai người, không liên quan trận: Chiêu: *"Hổ Lao còn đó."* Dịch: *"Phải."* (Subtext: nàng không bỏ hội minh.)
 5. Hàn nhìn hai người, không nói. Chiêu quay đi trước, như ở Ch13.
 
@@ -165,8 +168,8 @@
 **Chức năng:** Cost (uy tín, nghi ngờ). Hook.
 
 **Beats:**
-1. **Sứ Hạ Hầu** tới dưới cờ trắng, **trả thương binh** Ích Châu (trên xe). Hắn nói đúng một câu của Bàng, trước các sĩ quan: *"Bàng tướng quân nhờ hỏi: thư ông ấy gửi, đến nay Ích Châu chưa có hồi âm."* Dịch **không đáp**. Một sĩ quan liếc hắn. Hàn nhắm mắt.
-2. **Hội nhỏ trong lều:** phó tướng Hoắc quân: *"Cột nào bị chặn? Cột mang lương. Ai biết cột ấy đi hướng nào?"* Dịch: *"Cả hội biết cột đi hướng nào."* Phó tướng: *"Thuyền Kim Lăng trễ một ngày."* Phó tướng thủy quân: *"Băng trôi."* Rồi phó tướng Hoắc quân: *"Mùa thu có một nhà buôn tin ngồi cùng bàn."* Chiêu không có mặt (hoặc im lặng); **không ai kết tội ai**. Dịch không bác, không nhận.
+1. **Sứ Hạ Hầu** tới lúc chạng vạng, dưới cờ trắng, **trả thương binh** Ích Châu (trên xe). Hắn nói đúng một câu của Bàng, trước các sĩ quan: *"Bàng tướng quân nhờ hỏi: thư ông ấy gửi, đến nay Ích Châu chưa có hồi âm."* Dịch **không đáp**. Một sĩ quan liếc hắn. Hàn nhắm mắt.
+2. **(Sau đó, khi đèn đã thắp — cách beat 1 một quãng)** **Hội nhỏ trong lều:** phó tướng Hoắc quân: *"Cột nào bị chặn? Cột mang lương. Ai biết cột ấy đi hướng nào?"* Dịch: *"Cả hội biết cột đi hướng nào."* Phó tướng: *"Thuyền Kim Lăng trễ một ngày."* Phó tướng thủy quân: *"Băng trôi."* Rồi phó tướng Hoắc quân: *"Mùa thu có một nhà buôn tin ngồi cùng bàn."* Chiêu không có mặt (hoặc im lặng); **không ai kết tội ai**. Dịch không bác, không nhận.
 3. Mọi người rời lều. Dịch ở lại với sa bàn/bản đồ trải ra bàn.
 4. Dịch vẽ lại **đường hắn chọn cho cột lương** (bến trên) bằng than; đặt cạnh nó **chỗ kỵ Hạ Hầu xuất hiện** (hắn nhớ bờ đất). Hai đường **trùng**. Hắn nhìn rất lâu.
 5. Nhìn chữ **"Hổ Lao"** hắn đã viết ở S1. Hắn **gạch** nó, để trống. Rồi đặt tay lên bản đồ ở chỗ **con sông**, không phải chỗ thành.
@@ -247,8 +250,8 @@ Thế: **Rất mạnh** · Mưu: Có · Gián: Có · Quân tâm: **Rất mạnh
 | P-15-3 | Nghi binh "không có lương" làm seed trên trang S1 | Duyệt |
 | P-15-4 | Kho Hổ Lao nhiều lương = Dịch đọc là giữ thành (SY-D) | Duyệt |
 | P-15-5 | Kỵ Hạ Hầu không đuổi sâu (Bàng nghĩ bằng lương) | Duyệt |
-| P-15-6 | Chiêu giao hai xe lương cho Hàn, không nói "cho" | Duyệt |
-| P-15-7 | Ích Châu mất ~1.800 (nêu "nghìn tám" một lần) | Duyệt |
+| P-15-6 | Chiêu giao hai xe lương **cho cột Ích Châu, ghi sổ lương hội minh**; quyết định quân sự (G-15-2) | Duyệt |
+| P-15-7 | Ích Châu mất ~1.800 (nêu "nghìn tám" một lần; là chết + bị bắt, không phân chia); Hoắc quân "mất bảy trăm" = tổn thất chiến đấu (G-15-1) | Duyệt |
 | P-15-8 | Sứ Hạ Hầu trả thương binh + một câu của Bàng (SY-E, SY-F) | Duyệt |
 | P-15-9 | Hàn bị thương nhưng sống | Duyệt |
 | P-15-10 | Câu hoài nghi của phó tướng Hoắc quân về "nhà buôn tin" (một câu, không kết tội) | Duyệt |
