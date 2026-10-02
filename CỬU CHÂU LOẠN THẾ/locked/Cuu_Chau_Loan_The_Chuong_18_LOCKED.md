@@ -2,7 +2,7 @@
 
 ## CHƯƠNG 18 — NGƯỜI Ở PHÍA BẮC
 
-*(DRAFT v1 — chưa LOCK)*
+*(CHAPTER LOCKED — CANON)*
 
 ---
 

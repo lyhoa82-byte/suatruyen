@@ -8,12 +8,12 @@
 
 | Hạng mục | Trạng thái |
 |---|---|
-| Ch1–Ch17 | **LOCKED** (file trong `locked/`) |
-| Tổng độ dài | **191.012 ký tự** (đếm lại 17 file LOCKED bằng `len()`; Ch17 = 9.913). Còn khoảng 108.988 cho 15 chương, trung bình ~7.266/chương |
-| **Việc đang dở** | Ch17 **CHAPTER LOCKED**; Canon Update Ch17 xong. **SONG SONG Ch18 + Ch19:** `gates/CCLT_Gate_Truoc_Ch18.md` và `gates/CCLT_Gate_Truoc_Ch19.md` đều **v2 LOCK** (Pre-Audit PASS CÓ ĐIỀU KIỆN; đã khóa D18-5 giữ im, GR18-3 siết, GR18-16; D19-5 = A, D19-10 = Hàn, Bàng đo bằng xe, "một con số" đọc được, món nợ thật, chuỗi mở cửa, cảnh cáo). **Scene Bible Ch18 v2 — LOCKED** (`scene_bible/CCLT_Scene_Bible_Ch18.md`; hội sáu ngày H…H+5, phiên xử H+5, hook rạng H+6; tên Tu Bặc Cốt ổn định; không hàng binh/đại cục) và **Scene Bible Ch19 v2 — LOCKED** (`scene_bible/CCLT_Scene_Bible_Ch19.md`; S5 chuỗi mở cổng 5 mắt xích đọc được theo thứ tự; Dịch "Đo bằng xe. Ta tưởng hắn không chịu viết ra."; hook Hàn neo bằng báo cáo *"Sổ đêm qua không thêm tên."*; Chiêu *"Không ai của ta tự vào."*). **Draft v1 + Self-Audit đã xong cả hai** (`draft/Cuu_Chau_Loan_The_Chuong_18_DRAFT.md` = 9.096 ký tự; `draft/Cuu_Chau_Loan_The_Chuong_19_DRAFT.md` = 9.178 ký tự; `audit/CCLT_SelfAudit_Ch18.md`, `audit/CCLT_SelfAudit_Ch19.md`). **Chờ Audit của chị**; tổng nếu tính hai Draft v1 = 209.286, còn ~90.714 cho 13 chương (~6.978/chương) |
-| Bước tiếp theo | Chị Audit Draft v1 Ch18 + Ch19 (cùng lượt) → Audit → Draft v2 → Final Audit → CHAPTER LOCKED **Ch18 trước, rồi Ch19** → Canon Update (+Sync) |
+| Ch1–Ch19 | **LOCKED** (file trong `locked/`; Ch18 LOCKED trước, Ch19 LOCKED sau — đúng quy tắc SONG SONG) |
+| Tổng độ dài | **209.473 ký tự** (đếm lại 19 file LOCKED bằng `len()`; Ch18 = 9.376, Ch19 = 9.085). Còn khoảng **90.527 cho 13 chương (Ch20–Ch32)**, trung bình ~6.963/chương — cần co ở các chương chuyển tiếp để dành đất cho Ch28–32 |
+| **Việc đang dở** | Ch18 + Ch19 **CHAPTER LOCKED**; **Canon Update Ch18 + Ch19 xong** (`canon/CCLT_Canon_Update_Ch18.md`, `canon/CCLT_Canon_Update_Ch19.md`). Audit sửa: Ch18 (hội sáu ngày → phiên xử ngày thứ sáu; Tu Bặc Cốt đã chết rõ cho audio); Ch19 (quan coi kho có lý do trực tiếp *"Kho cháy dưới tay ta"*; **bỏ câu tổng kết Hàn**, hook = *"Đô úy. Sổ đêm qua không thêm tên."*). Chưa có Gate Ch20 |
+| Bước tiếp theo | **Foundation Gate Ch20** (Đứa trẻ trên ngôi — Kim Lăng/Vân Chương; đọc mục IX Canon Update Ch19 và Chapter Bible Ch20) → Pre-Audit → Gate v2 → LOCK → Scene Bible → … → CHAPTER LOCKED → Canon Update |
 | **Quy tắc SONG SONG (chị khóa)** | (1) **Ch18 là upstream:** Gate Ch19 chỉ dựa vào **khóa xuất E18-1/2/3** của Gate Ch18, điểm nối ở bảng **DEPENDENCY/OPEN** (Gate Ch19 mục 0B). (2) **Không** coi kết quả Ch18 là canon cho Ch19 cho tới khi **Ch18 CHAPTER LOCKED**. (3) Nếu Audit Ch18 đổi dependency: **chỉ sửa dòng nối tương ứng** của Gate Ch19, **không** mở lại toàn bộ Gate. (4) Ch19 **không** tự suy author-truth từ chi tiết Ch18 chưa khóa. (5) Hiện tại Gate Ch19 **độc lập dữ kiện** với Ch18 (J19-1…6 mặc định không nối) |
-| Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
+| Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới. **Phân model (chị chốt 02/10/2026): Ch28, 29, 30, 31, 32 viết bằng Opus; Ch20–27 dùng Sonnet high.** |
 
 ---
 

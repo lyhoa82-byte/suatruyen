@@ -2,7 +2,7 @@
 
 ## CHƯƠNG 19 — CỬA TỰ MỞ
 
-*(DRAFT v1 — chưa LOCK)*
+*(CHAPTER LOCKED — CANON)*
 
 ---
 
