@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 19: CỬA TỰ MỞ
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch19 v2 **LOCK** (D19-5 = A; D19-10 = Hàn; GR19-1…18; mục 3B chuỗi mở cửa; 4B "một con số"; 6B món nợ thật; mục 8 cảnh cáo); Canon Ch1–Ch17; Canon Update Ch17; Production Bible; Chapter Bible Ch19. **Pipeline SONG SONG: Ch19 là downstream của Ch18**; Scene Bible này **độc lập dữ kiện** với Ch18 (bảng DEPENDENCY mục 12). Không mở lại Ch17/Gate, không thêm lore ngoài các mục [P]. Độ dài trên trang 8.000–9.500.)*
+*(v2 — **LOCKED** (sửa theo Pre-Audit). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch19 v2 **LOCK** (D19-5 = A; D19-10 = Hàn; GR19-1…18; mục 3B chuỗi mở cửa; 4B "một con số"; 6B món nợ thật; mục 8 cảnh cáo); Canon Ch1–Ch17; Canon Update Ch17; Production Bible; Chapter Bible Ch19. **Pipeline SONG SONG: Ch19 là downstream của Ch18**; Scene Bible này **độc lập dữ kiện** với Ch18 (bảng DEPENDENCY mục 12). Không mở lại Ch17/Gate, không thêm lore ngoài các mục [P]. Độ dài trên trang 8.000–9.500. **Sửa v2:** (1) S5 dựng lại để **chuỗi mở cổng đọc được đúng thứ tự** Đô úy không ra lệnh bắn → quan coi kho → hào chợ → lính cổng → dân; (2) S2 "đo bằng thuyền" thành **nhận thức mới của Dịch**, không tiên tri; (3) hook Hàn **neo vào một báo cáo chiến trường cụ thể**; (4) S3 thêm *"Không ai của ta tự vào."*; (5) guardrail hàng binh = tin chiến trường cục bộ; (6) nguyên tắc mốc ngày 37–41.)*
 
 **POV:** Tiêu Dịch, xuyên suốt. Narration gọi **"Dịch"**, **"hắn"**. Dịch tự xưng **"ta"**; gọi Hàn **"Đô úy"**; gọi Chiêu **"Tam tướng quân"**/**"tướng quân"**. Hàn gọi Dịch **"tiên sinh"**, tự xưng **"ta"**. Chiêu gọi Dịch **"ngươi"**. Người trong thành gọi Dịch **"ngài"**. Không "điện hạ"; không "A Chiêu"; không "Hoắc Chiêu"; không "Đêm ấy…".
 **Thời gian:** **ngày 37 (rạng) → ngày 41** sau Hổ Lao (đầu xuân năm 1). Trang chỉ nói *"rạng"*, *"chiều"*, *"đêm"*, *"ba dặm"*, *"ngày bốn mươi hai"*, *"hết ngày bốn mươi mốt"*.
@@ -22,11 +22,15 @@
 | **SY-5** | Sĩ quan Ích Châu "đòi trả đũa" (Ch16) | Gate: tùy | **Dùng** một nhịp ở S2: *"Bán lương cho kẻ vừa…"*; Dịch **gõ một ngón** vào dòng *"Một nghìn suất"* (GR16-18, **không lặp lời cũ**: gõ, không nói) |
 | **SY-6** | Chiêu ở S3 | Gate: *"Ngươi viết thay ai?"* / *"Ta không ký."* | Nàng **vào lều** (tay trái buộc), **đứng**; **không ngồi**; nói **ba câu**, đi |
 | **SY-7** | Làng trưởng (S4) | Gate: một nhịp mua thóc | Ông tới **bằng xuồng nhỏ** với vài dân làng, **mua thóc**, trả **muối** (Ích Châu trả theo giá đã định); nói **một câu** về người trong thành |
-| **SY-8** | **Dịch đi tới cổng** (S5) | Rủi ro thật | Hào chợ gọi từ tường; Dịch bước ra **trong tầm tên**. Hàn: *"Tên."* — Dịch: *"Họ đã bắn một lần."* (hắn **không chắc**; Hàn **đứng cạnh**, vai băng). **Không** "chắc họ không bắn" |
+| **SY-8** | **Dịch đi tới cổng** (S5) | Rủi ro thật | Hào chợ gọi từ tường; Dịch bước ra **trong tầm tên**. Hàn: *"Tên."* — Dịch: *"Họ đã bắn một lần."* (hắn **không chắc**; Hàn **đứng cạnh**, vai băng). Một cung thủ trên tường **giương**, rồi **hạ cung** khi **không có lệnh** (mắt xích 1). **Không** "chắc họ không bắn" |
 | **SY-9** | Hook | Gate: Hàn nói | **Câu cuối chương = lời Hàn nguyên văn.** Dịch **không đáp** (im **trước** câu cuối, không sau) |
 | **SY-10** | Tiểu Thất | GR19-15: một nhịp | S1: Dịch xin **tên** để ghi; Chiêu đáp **một tên**; không cách chết |
 | **SY-11** | Dịch ở đâu trong trận | Gate: thuyền cuối, xuống bờ rạng ngày 37 | S1 mở bằng **Dịch bước xuống bờ** (bùn gốc liễu cụt, mùi khét kho bến); **không** giải thích |
 | **SY-12** | Văn an dân ngắn | Trang chỉ vài dòng | S3: đúng **năm câu** (Gate §5), **đọc to lần đầu** ở S3, **đọc lại ở S5 bởi người khác** (hai lần, không thêm) |
+| **SY-13** *(Pre-Audit)* | **Chuỗi mở cổng** S5 phải đọc **theo thứ tự**, không "dân muốn → cả thành mở" | Mỗi mắt xích có **hành động Dịch thấy/nghe được** và **lý do riêng** (không narrator suy) | [P] S5 chia **5 mắt xích** (bảng ngay dưới mục S5): (1) Đô úy **không ra lệnh bắn** → (2) **quan coi kho** (kho bến cháy dưới tay, sợ hỏi tội; tờ giữ *"quan cũ giữ việc"* → ông **mở sổ kho**, nói to) → (3) **hào chợ** (*"Người họ Tiêu?" / "Ấn đâu?" / muối thật?* → *"Mở."*) → (4) **lính cổng** (đội trưởng nhìn Đô úy; Đô úy **không nói**; nhấc then) → (5) **dân** theo sau. **Sau** chuỗi: tờ dán, người đọc, lính đặt giáo |
+| **SY-14** *(Pre-Audit)* | Hàng binh Hạ Hầu buông giáp | **Tin chiến trường cục bộ**, không đại cục | [P] Hàn nói **một lần**: *vài trăm người bị kẹt trong cổ chai*. **Không** dùng để nói Hạ Hầu tan rã; **không** ai (Dịch/Hàn/thành) suy ra đại cục từ nó; Hổ Lao còn |
+| **SY-15** *(Pre-Audit)* | Hook Hàn là **lời triết lý?** | Phải neo vào **thông báo chiến trường cụ thể** | [P] Ngay trước hook: **sĩ quan Ích Châu** báo Hàn *"Sổ đêm qua không thêm tên."* Hàn **gập sổ người chết**, nhìn cổng, nói hook. Câu cuối chương **vẫn nguyên văn lời Hàn**; Dịch không đáp |
+| **SY-16** *(Pre-Audit)* | Mốc ngày 37–41 | Đủ khoảng cách sau Ch17, không ép liền cảnh | [P] **Duyệt nguyên tắc**: Ch17 trận Dĩnh Xuyên → hậu quả/di chuyển (ngày 37 rạng) → tiếp cận lần đầu bị bắn cảnh cáo (ngày 39) → khoảng dừng (chiều 39–40) → mở cổng (ngày 41). **Không** nêu "vì sao ngày 38" trên trang |
 
 ---
 
@@ -37,13 +41,16 @@
 3. **GR19-3 / D19-5 = A:** Danh = **lời hứa đáng tin căn cứ "lệ cũ"**; Dịch ký **"Trình Dịch, sứ Ích Châu"**; **không** tự xưng hoàng tử; **không** "điện hạ"; **không** mượn ấn Kim Lăng.
 4. **GR19-4 + 4B + SY-3:** payoff GR17-1 bằng **thư Bàng + một cặp câu**; số **thật, kiểm được**; **không** "Bàng nghĩ", **không** "Thì ra…"; Bàng **đo bằng xe**, tự thừa nhận *"đi nhanh hơn sổ của ta"* **không** nói chữ "thuyền".
 5. **GR19-5:** **khả năng thất bại thật**: **lần tiếp cận đầu bị bắn cảnh cáo (LOCK)**; khoảng im; Hàn nói hạn; thành **không** mở theo lịch Dịch; **cấm** "chắc thắng", "đúng như tính".
-6. **GR19-6 / 17:** **không công thành**; **chuỗi mở cửa 3B**: hào chợ + quan viết → Đô úy không ngăn → lính + dân nhấc then → Đô úy không ra lệnh; **không** ai trong liên minh đẩy cửa; Dịch **không** xếp sẵn.
+6. **GR19-6 / 17 + SY-13:** **không công thành**; **chuỗi mở cổng đọc theo thứ tự trên trang:** Đô úy **không ra lệnh bắn** → **quan coi kho** (lợi ích/sức ép riêng) → **hào chợ** đứng về phía mở → **lính cổng** thi hành → **dân** theo sau; **không** "dân muốn → cả thành mở"; **không** ai trong liên minh đẩy cửa; Dịch **không** xếp sẵn.
 7. **GR19-7 (CC-2):** Dịch **hỏi**, **không ra lệnh**; Hàn quyết bộ và hàng binh; Chiêu quyết kỵ nhẹ, **không ký**, **không vào thành**.
 8. **GR19-8 / 18 + 6B:** cái giá **thật, không giải nghĩa**; món nợ **bằng văn bản, tốn thật, hạn chế lựa chọn**; **không ai** nói "ràng buộc / cái giá / mai sau".
 9. **GR19-9:** Dịch **không biết Ch14**; **không** "rò", "báo tin", "nhà buôn tin".
 10. **GR19-10/11/12:** không "Đêm ấy…", "A Chiêu", "Hoắc Chiêu"; **Hạ Hầu chưa bị diệt, Hổ Lao còn**, chỉ hiện qua thư và sứ; **không số** quân/thương vong/bao muối (mốc cho phép: "ba dặm", "ngày bốn mươi hai", "hết ngày bốn mươi mốt").
 11. **GR19-13:** **không moralize Danh**; insight hiện bằng **việc** (đứng nhìn tờ giấy trong tay người khác).
 12. **GR19-14/15/16:** hàng binh **Hàn nói một lần**, không cảnh hàng binh kéo dài; Tiểu Thất **một nhịp tên**; **số thật**, không "Dịch thao túng".
+13. **GR19-19 *(Pre-Audit)*:** hàng binh buông giáp = **tin chiến trường cục bộ** (vài trăm người bị kẹt). **Cấm** dùng để kết luận Hạ Hầu đang tan rã / đại cục; Hổ Lao vẫn giữ.
+14. **GR19-20 *(Pre-Audit)*:** "đo bằng thuyền" **không** là lời tiên tri; chỉ là **nhận thức mới của Dịch** sau khi đọc thư (xem S2 beat 6). Chữ "thuyền" **không** có trong thư Bàng.
+15. **GR19-21 *(Pre-Audit)*:** hook Hàn **neo** vào báo cáo cụ thể (*"Sổ đêm qua không thêm tên."*); không biến thành aside triết lý.
 
 ---
 
@@ -55,7 +62,7 @@
 
 ### 1B. Dịch — Checkpoint CUỐI (ngày 41, cổng)
 - **FACT:** Bàng **đo bằng xe**, thừa nhận nhanh hơn sổ; Bàng **cần cỏ**, **vẫn chờ tờ thứ nhất**, **không hỏi người kẹt**; thành **mở cho lời hứa**, không cho tước vị; hắn **đã ký** điều không rút được; vượt trần Ôn (~50 bao, không số trên trang); Chiêu **không ký**.
-- **KHÔNG BIẾT:** Hạ Hầu phản ứng ra sao; Kim Lăng/Vân Chương nhận lời hứa không; Bàng sẽ đo bằng thuyền lần sau; **Ch18**.
+- **KHÔNG BIẾT:** Hạ Hầu phản ứng ra sao; Kim Lăng/Vân Chương nhận lời hứa không; Bàng sẽ đổi cách đo hay không; **Ch18**.
 
 ### 1C. Người khác (điều Dịch thấy)
 | Người | Biết | Không biết |
@@ -92,7 +99,7 @@
 1. Mở bằng **ai, ở đâu, vật:** rạng; **Dịch bước xuống bờ** ở gốc liễu cụt, bùn tới mắt cá; **mùi khét** của kho bến theo gió; Hàn đứng đầu đê, vai băng, cung treo lưng. *(SY-11: không giải thích Dịch ở đâu trong trận.)*
 2. Hàn báo ngắn: đuôi họ **rút đêm qua**; **đầu** còn trong cổ chai, **không nước từ hôm qua**. Hàn đưa **sổ**: tên người của Ích Châu đã chết. Dịch đọc **không nói**. *"Của Hoắc quân ai ghi?"* — *"Nàng tự ghi."*
 3. Hàn: *"Đánh thành?"* Dịch trả lời **bằng số và địa hình, ngắn:** *"Tường thấp. Bộ trên tường nhiều hơn bộ của ông. Bộ của ông đã hao. Kỵ nhẹ của nàng đã hao. Kho thóc trong thành cháy trước khi ta tới cổng thứ hai."* — *"Vậy không đánh."* — *"Không."* — *"Vậy làm gì?"* — *"Chờ xem Hổ Lao nói gì."* *(Không "chắc họ sẽ…".)*
-4. Hàn đi nói với đầu bộ viện **một lần** (Dịch không đi): Dịch đứng ở miệng tây nhìn; **giáo đặt xuống từng cây** (tiếng kim khí khô, không hô); **trên tường**, người đứng **nhiều hơn**. *(Hàn quyết; GR19-14.)*
+4. Hàn đi nói với đầu bộ viện **một lần** (Dịch không đi): Dịch đứng ở miệng tây nhìn; **giáo đặt xuống từng cây** (tiếng kim khí khô, không hô); **trên tường**, người đứng **nhiều hơn**. *(Hàn quyết; GR19-14.)* **Tầm vóc:** vài trăm người **bị kẹt**, **đủ để đổi một khúc cổ chai**; **không** ai nói/nghĩ "Hạ Hầu tan rồi" (SY-14).
 5. Dịch tới **gò thấp**. Chiêu ngồi trên **ngựa của Tiểu Thất**, **tay trái buộc dải vải**; **tay áo phải phồng** (ống hương). Dịch: *"Tên người đã chết, để ta ghi."* — Chiêu: *"Tiểu Thất."* — *"Còn?"* — *"Hàn có sổ."* Dịch ghi **một chữ**. *(SY-10: không cách chết, không hồi tưởng.)*
 6. Dịch: *"Hạn của tướng quân: ngày bốn mươi hai. Ta không xin thêm."* — Chiêu: *"Ta biết."* Nàng nhìn về **thành**: *"Ngươi có cách khác?"* — *"Có. Chưa chắc."* — *"Chưa chắc."* Nàng nhắc lại, **không thêm**. Dịch chắp tay rời. **Không** xin lỗi, **không** tha thứ, **không** nhắc làm mồi.
 
@@ -100,6 +107,7 @@
 - **Không** "Dịch áy náy"; **không** narrator giải thích vì sao hắn im ở chuyện mồi.
 - Không số quân (chỉ so sánh: "nhiều hơn bộ của ông").
 - Không "Đêm ấy…".
+- **Hàng binh = tin chiến trường cục bộ**; **không** thành dấu hiệu tan rã của Hạ Hầu (GR19-19).
 
 ---
 
@@ -116,7 +124,7 @@
 3. Hàn hỏi sứ **một lần:** *"Ông không có gì nói về người trong kia?"* — sứ: *"Thư chỉ bàn việc lương."* **Không thêm.** Sứ đứng, chờ hồi âm.
 4. **Sĩ quan Ích Châu:** *"Bán lương cho kẻ vừa—"* Dịch **không đáp**; **gõ một ngón** vào dòng *"Một nghìn suất"* trong thư. Sĩ quan **im**. *(GR16-18: gõ, không lặp lời cũ.)*
 5. **Cặp câu (GR17-1; D19-4):** Hàn, khi sứ vừa lùi ra cửa: *"Ông gửi cho hắn một nghìn suất. Để làm gì?"* — Dịch: *"Để hắn có một con số."* **Dừng.** Dịch **không giải thêm**.
-6. Hàn: *"Sổ của hắn đo bằng xe."* (Hàn tự nói, **không hỏi**.) — Dịch: *"Biết rồi. Lần sau hắn đo bằng thuyền."* *(**Không dùng lại** được cái bẫy.)*
+6. Hàn: *"Sổ của hắn đo bằng xe."* (Hàn tự nói, **không hỏi**.) — Dịch, **chậm**, mắt còn trên dòng thư: *"Đo bằng xe. Ta tưởng hắn không chịu viết ra."* *(**Nhận thức mới của Dịch** sau khi đọc: Bàng **tự viết** sổ mình chậm. **Không** tiên tri, **không** chữ "thuyền", **không** "lần sau"; GR19-20.)* Hàn **không hỏi lại**.
 7. **Quyết định (đổi thế cờ):** Dịch viết hồi âm **hai dòng**: *"Một nghìn suất. Ba trăm ngựa. Như cũ. Giao tại ải."* — ký **"Trình Dịch"**, **không ấn**. Hàn: *"Ngươi không bán thêm cho hắn một bao."* — *"Không. Cũng không bớt."* Sứ nhận thư, **đi**. **Hàn không ký kèm lần này** (hắn **nhìn tờ** rồi để Dịch ký một mình).
 
 **Guardrail:**
@@ -139,7 +147,7 @@
 3. **Viết văn an dân:** Dịch viết **năm câu** (đọc to một lần):
    > *Ai mở cửa, không bị hỏi tội vì đã phục Hạ Hầu. Hàng binh không giết, có ăn. Thuế giữ theo lệ cũ. Quan cũ giữ việc cho đến khi có người thay hợp lệ. Lương vào thành bán theo giá chợ cũ.*
    **Ngòi bút dừng** ở *"không bị hỏi tội"*; hắn **viết tiếp**, **không sửa**.
-4. **Chiêu vào lều** (tay trái buộc), **đứng**, **không ngồi**; đọc từ trên vai hắn. *"Ngươi viết thay ai?"* — *"Thay người ký."* — *"Ta không ký."* — *"Ta không xin tướng quân ký."* — *"Kỵ nhẹ của ta không vào thành. Không phải vì tờ giấy."* — *"Ta biết."* Nàng **đi**. *(Chiêu quyết riêng; **không** giải thích.)* Sáng mai kỵ nhẹ **lùi về phía cổ chai** (hình ảnh ở S5).
+4. **Chiêu vào lều** (tay trái buộc), **đứng**, **không ngồi**; đọc từ trên vai hắn. *"Ngươi viết thay ai?"* — *"Thay người ký."* — *"Ta không ký."* — *"Ta không xin tướng quân ký."* — *"Kỵ nhẹ của ta không vào thành. Không ai của ta tự vào. Không phải vì tờ giấy."* — *"Ta biết."* Nàng **đi**. *(Chiêu quyết riêng; **không** giải thích.)* Sáng mai kỵ nhẹ **lùi về phía cổ chai** (hình ảnh ở S5).
 5. Hàn đọc tờ: *"Phần của ta, ta giữ."* Dịch ký **"Trình Dịch, sứ Ích Châu."** **Không ấn.** Hàn: *"Không ấn."* — Dịch: *"Ấn tới sau."* (Echo Ch16: *"Ấn Thứ sử tới sau."*) Hắn **thổi mực**, **gấp lại một lần**, trao **sĩ quan Ích Châu** (người đòi trả đũa; **hắn là người đi**: Hàn chỉ hắn, **không** thưởng, **không** phạt; **cái giá của hắn**).
 
 **Guardrail:**
@@ -173,24 +181,37 @@
 
 ---
 
-### S5 — Cửa (cổng Dĩnh Xuyên, ngày 41) · khoảng 1.900 ký tự
+### S5 — Cửa (cổng Dĩnh Xuyên, ngày 41) · khoảng 2.100 ký tự
 
-**Nơi chốn:** trước cổng thành; tường; tháp hiệu; (xa) gò thấp. **Có mặt:** Dịch; Hàn; hào chợ; quan coi kho; Đô úy (trên tường); lính cổng; dân; thư lại; **Chiêu** (xa, trên gò thấp).
+**Nơi chốn:** trước cổng thành; tường; tháp hiệu; (xa) gò thấp. **Có mặt:** Dịch; Hàn; sĩ quan Ích Châu (báo một câu); hào chợ; quan coi kho; Đô úy (trên tường); cung thủ; đội trưởng cổng và lính cổng; dân; thư lại; làng trưởng; **Chiêu** (xa, trên gò thấp, không nói).
 
-**Chức năng:** **Hook** + **insight bằng việc**.
+**Chức năng:** **Hook** + **insight bằng việc**. **Chuỗi mở cổng đọc được theo thứ tự (SY-13).**
+
+**Bảng chuỗi 5 mắt xích (Dịch chỉ thấy/nghe; không narrator suy):**
+
+| # | Mắt xích | Lý do riêng (Dịch **không** biết, người nghe **suy** từ việc) | Hành động trên trang |
+|---|---|---|---|
+| 1 | **Đô úy không ra lệnh bắn** | Ông quyết **không bắn lần hai** (lần cảnh cáo đã hết tác dụng; hàng binh trong cổ chai tường nhìn thấy) | Dịch bước vào tầm tên; **một cung thủ giương rồi hạ cung**; Đô úy hiện **một lần**, **không giơ tay**, **không nói** |
+| 2 | **Quan coi kho** | Kho bến cháy **dưới tay ông**; Hạ Hầu sẽ hỏi tội ông; tờ văn có câu **"Quan cũ giữ việc"** (căn cứ để giữ ghế) | Ông lên tường, **mở sổ kho**, giơ cho tường **nhìn thấy**, nói to xuống Dịch: *"Thóc ngoài bãi bán giá nào?"* — *"Giá chợ cũ."* — *"Tờ viết: quan cũ giữ việc. Ai ký?"* — *"Trình Dịch."* — ông **gập sổ**, quay mặt về phía hào chợ |
+| 3 | **Hào chợ** | Chợ **sống bằng muối và thóc vào thành**; làng trưởng đã **ăn muối** (S4) | Gọi: *"Ngài là người họ Tiêu?"* — Dịch: *"Ta ký là Trình Dịch."* — *"Ấn đâu?"* — *"Ấn tới sau. Chữ ký này có tên ta."* **Im.** — *"Muối ở làng… thật?"* — làng trưởng: *"Tôi ăn rồi."* — hào chợ, quay xuống phía cổng: **"Mở."** |
+| 4 | **Lính cổng** | Họ **thi hành** vì Đô úy **không cấm** và hai người có tiếng đã nói | **Đội trưởng cổng** nhìn lên Đô úy; Đô úy **không nói**; đội trưởng gật với hai lính; **then nhấc từ bên trong**, tiếng gỗ nặng, không ai hô |
+| 5 | **Dân** | Theo **sau** khi cổng **đã hé** (không phải trước) | Cổng hé; hào chợ, quan coi kho ra trước; **đám dân** theo sau; lính **dạt hai bên** |
 
 **Beats:**
-1. Mở bằng **ai, ở đâu, vật:** rạng; Dịch và Hàn tới **ngoài tầm tên**; **kỵ nhẹ Chiêu đã lùi xa hơn hôm trước** (hình ảnh quyết định của nàng ở S3). **Tiếng gọi từ tường** (hào chợ, vô danh): *"Người ký tờ giấy có ở đó không?"* Dịch **bước ra**, **vào tầm tên**. Hàn: *"Tên."* — Dịch: *"Họ đã bắn một lần."* Hàn **đi cạnh**, vai băng. *(Dịch **không chắc**; SY-8.)*
-2. **Hào chợ** gọi: *"Ngài là người họ Tiêu?"* — Dịch: *"Ta ký là Trình Dịch."* — *"Ấn đâu?"* — *"Ấn tới sau. Chữ ký này có tên ta."* **Im.** Rồi hào chợ: *"Muối ở làng… thật?"* — **làng trưởng** (đứng sau Dịch, đã tới cùng): *"Tôi ăn rồi."* *(D19-14; DANH-A; Danh = lời đáng tin.)*
-3. **Im lâu.** Trên tường, **Đô úy** hiện ra **một lần**, nhìn xuống Dịch, nhìn cổ chai (hàng binh), **không giơ tay**, **không ra lệnh**. **Tiếng gỗ nặng** bị nhấc từ bên trong, **không ai hô**. **Cổng hé.** **Quan coi kho** ra trước, **cầm sổ**; **hào chợ**; **đám dân** sau; **lính cổng dạt hai bên**.
-4. **Tờ giấy trên cổng:** một **thư lại của thành** (vô danh) **dán lên cổng** tờ văn **đã nhàu, có bùn** (**ai nhặt, lúc nào, Dịch không thấy**; SY-2) bằng **hồ**; một người **đọc to** cho lính nghe: *"Ai mở cửa, không bị hỏi tội vì đã phục Hạ Hầu."* **Một người lính** mặc áo Hạ Hầu **đặt ngọn giáo xuống đất.** **Dịch đứng nhìn chữ ký của mình trong tay người khác.** *(**Insight bằng việc**; không câu "Danh là…".)*
-5. Dịch **không bước vào trước.** Hàn **đứng cạnh**. Phía đông, trên gò thấp, **kỵ nhẹ vẫn đứng yên**. Hàn, nhìn cổng, giọng **thấp**: **"Không phải chúng ta đánh thắng thành này. Là thành này tự chọn chúng ta."** **Hết** (câu cuối chương = lời Hàn).
+1. Mở bằng **ai, ở đâu, vật:** rạng; Dịch và Hàn tới **ngoài tầm tên**; **kỵ nhẹ Chiêu đã lùi xa hơn hôm trước** (quyết định của nàng ở S3); **sĩ quan Ích Châu** đứng sau Hàn, **cầm sổ người chết** (vật S1). **Tiếng gọi từ tường:** *"Người ký tờ giấy có ở đó không?"* Dịch **bước ra**, **vào tầm tên**. Hàn: *"Tên."* — Dịch: *"Họ đã bắn một lần."* Hàn **đi cạnh**, vai băng. Trên tường **một cung thủ giương cung**, nhìn **sang bên**, chờ; **không lệnh**; **hạ cung**. Đô úy hiện **một lần**, nhìn xuống Dịch, nhìn về **cổ chai** (hàng binh), **không giơ tay**, **không nói**. *(Mắt xích 1; Dịch **không chắc**; SY-8.)*
+2. **Quan coi kho** lên tường, **mở sổ**, hỏi *"Thóc ngoài bãi bán giá nào?"* … **gập sổ**, quay về **hào chợ**. *(Mắt xích 2; **không** narrator nói ông sợ gì; sợ hiện ở **việc ông hỏi "Ai ký?"** và **mở sổ trước mặt Đô úy**.)*
+3. **Hào chợ:** *"Ngài là người họ Tiêu?"* … *"Ta ký là Trình Dịch."* … *"Ấn đâu?"* … *"Ấn tới sau. Chữ ký này có tên ta."* **Im.** Rồi *"Muối ở làng… thật?"* — **làng trưởng** (đứng sau Dịch, đã tới cùng): *"Tôi ăn rồi."* — hào chợ quay xuống: *"Mở."* *(Mắt xích 3; D19-14; DANH-A; Danh = lời đáng tin.)*
+4. **Lính cổng:** đội trưởng cổng **nhìn lên Đô úy**; Đô úy **không nói**; đội trưởng gật; **then bị nhấc**, tiếng gỗ nặng, **không ai hô**. **Cổng hé.** *(Mắt xích 4.)* **Dân** ra sau (mắt xích 5); **lính cổng dạt**; quan coi kho và hào chợ **đi trước** họ.
+5. **Tờ giấy trên cổng:** một **thư lại của thành** (vô danh) **dán lên cánh cổng** tờ văn **đã nhàu, có bùn** (**ai nhặt, lúc nào, Dịch không thấy**; SY-2) bằng **hồ**; một người **đọc to** cho lính nghe: *"Ai mở cửa, không bị hỏi tội vì đã phục Hạ Hầu."* **Một người lính** mặc áo Hạ Hầu **đặt ngọn giáo xuống đất.** **Dịch đứng nhìn chữ ký của mình trong tay người khác.** *(**Insight bằng việc**; không câu "Danh là…".)*
+6. Dịch **không bước vào trước.** Phía đông, trên gò thấp, **kỵ nhẹ Chiêu vẫn đứng yên** (**không ai của nàng tự vào**; S3). **Sĩ quan Ích Châu** báo Hàn, giọng thấp: *"Đô úy. Sổ đêm qua không thêm tên."* Hàn **gập sổ người chết**, nhìn cổng, **thấp**: **"Không phải chúng ta đánh thắng thành này. Là thành này tự chọn chúng ta."** Dịch **im** (im **trước** câu cuối, không sau). **Hết** (câu cuối chương = lời Hàn nguyên văn; SY-9, SY-15).
 
 **Guardrail:**
-- **Không** liên minh nào **đẩy cửa**; **không** Dịch ra hiệu; **không** "đúng như tính".
-- **Không** nêu **Đô úy nghĩ gì**; chỉ **không ra lệnh**.
+- **Chuỗi mắt xích 1→5 phải đọc được theo thứ tự**; **không** nhảy từ "dân" sang "cửa mở"; **không** liên minh nào **đẩy cửa**; **không** Dịch ra hiệu; **không** "đúng như tính".
+- **Không** nêu **Đô úy nghĩ gì**; chỉ **không ra lệnh** (hạ cung, không nói, không giơ tay).
+- **Không** narrator nêu **quan coi kho sợ gì**/lợi ích; chỉ **việc** ông làm (mở sổ trước mặt Đô úy, hỏi *"Ai ký?"*).
 - **Không** "điện hạ"; câu *"người họ Tiêu?"* là **câu hỏi**; Dịch **không nhận, không phủ**.
 - **Không** hồi tưởng Ch17; **không** Chiêu nói; **không** Bắc Nhung.
+- **Báo cáo "Sổ đêm qua không thêm tên."** chỉ là **tin chiến trường** (không người chết thêm trong đêm), **không** nâng thành đại cục.
 - Dịch **không** đáp câu cuối.
 
 ---
@@ -216,7 +237,7 @@
 |---|---|---|---|
 | **"Cửa" như biểu tượng Danh** (cửa mở từ bên trong) | Ch19 | Core | **Ch21** (cổng thành mở), **Ch28** |
 | **"Ai mở cửa, không bị hỏi tội"** | Ch19 | Core | **Ch28, Ch32** |
-| **Thư Bàng; Bàng đo bằng xe, sẽ đo bằng thuyền** | Ch9 → Ch19 | Core | Ch21–22 |
+| **Thư Bàng; Bàng đo bằng xe và tự viết sổ mình chậm hơn lương Ích Châu** | Ch9 → Ch19 | Core | Ch21–22 (Bàng đổi cách đo hay không: OPEN) |
 | **Tờ nhất thư Bàng chưa đáp** | Ch9 → Ch19 | Major | Ch20+ |
 | Món nợ muối vượt trần Ôn; ấn tới sau | Ch16 → Ch19 | Major | **Ch24** |
 | Lời hứa vượt quyền (ân xá làm trước) | Ch19 | Major | **Ch20** (Vân Chương) |
@@ -266,7 +287,7 @@
 | P-19-2 | S1: Dịch **xuống bờ** (không giải thích); Hàn *"Đánh thành?"* — *"Không."* bằng số và địa hình; Hàn nói với đầu bộ viện **một lần** | Duyệt |
 | P-19-3 | S1: tên **Tiểu Thất** (một nhịp); *"Ta không xin thêm."* / *"Ta biết."*; *"Có. Chưa chắc."* | Duyệt (GR19-15) |
 | P-19-4 | S2: thư Bàng (văn bản trong mục S2); sứ **chỉ thư**; Hàn hỏi **một câu** | Duyệt (D19-4) |
-| P-19-5 | S2: *"Để hắn có một con số."* / *"Lần sau hắn đo bằng thuyền."* | Duyệt (GR19-4/16) |
+| P-19-5 | S2: *"Để hắn có một con số."* / Dịch: *"Đo bằng xe. Ta tưởng hắn không chịu viết ra."* (nhận thức mới, **không tiên tri**) | Duyệt (GR19-4/16/20) |
 | P-19-6 | S2: **trả lời đúng sổ cũ**, không bán thêm, không bớt; **Hàn không ký kèm** | Duyệt |
 | P-19-7 | S3: Dịch **cộng muối**, vượt trần; Hàn đọc *"Ôn nói bốn trăm."* — Dịch *"…ta tự chịu."* | Duyệt (6B C2) |
 | P-19-8 | S3: văn an dân **năm câu**; **Chiêu *"Ta không ký."*** | Duyệt (D19-8) |
@@ -275,8 +296,10 @@
 | P-19-11 | S4: làng trưởng *"Tôi ăn nó rồi."*; khoảng im; Hàn nói hạn | Duyệt (GR19-5) |
 | P-19-12 | S4: giỏ thư **ba câu**, **không ký**; Dịch **không đáp bằng thư** | Duyệt (3B) |
 | P-19-13 | S5: Dịch **bước vào tầm tên**; hào chợ hỏi *"người họ Tiêu?"* — *"Ta ký là Trình Dịch."* | Duyệt (D19-14; DANH-A) |
-| P-19-14 | S5: Đô úy hiện **một lần, không giơ tay**; then nhấc **từ trong**; tờ **dán bằng tay thư lại**; một người đặt giáo | **LOCK** (3B) |
-| P-19-15 | S5: **câu cuối = lời Hàn nguyên văn**; Dịch không đáp | **LOCK** (D19-10) |
+| P-19-14 | S5: **chuỗi 5 mắt xích đọc được theo thứ tự** (Đô úy không bắn → quan coi kho mở sổ → hào chợ *"Mở"* → đội trưởng cổng nhấc then → dân); **sau** chuỗi: tờ **dán bằng tay thư lại**; một người đặt giáo | **LOCK** (3B; SY-13) |
+| P-19-15 | S5: **câu cuối = lời Hàn nguyên văn**; Dịch không đáp; **neo** bằng báo cáo *"Sổ đêm qua không thêm tên."* | **LOCK** (D19-10; SY-15) |
+| P-19-16 | S3: Chiêu *"Không ai của ta tự vào."* (kỵ nhẹ không vào thành); S5: kỵ nhẹ đứng yên trên gò | Duyệt |
+| P-19-17 | Hàng binh = **tin chiến trường cục bộ** (SY-14; GR19-19) | Duyệt |
 
 ---
 
@@ -303,14 +326,14 @@
 
 ## 10. LENGTH BUDGET
 
-S1 1.600 + S2 1.700 + S3 1.900 + S4 1.800 + S5 1.900 = **~8.900** ký tự (khung 8.000–9.500). Nếu vượt 9.500: **rút S1 beat 2**, **gộp S4 beat 3–4**, **thu gọn S2 beat 4**, trước khi rút S3/S5. Còn lại theo target ~7.266/chương (tổng 191.012 sau Ch17).
+S1 1.600 + S2 1.700 + S3 1.900 + S4 1.700 + S5 2.100 = **~9.000** ký tự (khung 8.000–9.500). Nếu vượt 9.500: **rút S1 beat 2**, **gộp S4 beat 3–4**, **thu gọn S2 beat 4**, trước khi rút S3/S5 (**không** rút mắt xích nào của chuỗi S5). Còn lại theo target ~7.266/chương (tổng 191.012 sau Ch17).
 
 ---
 
 ## 11. OPEN GIỮ NGUYÊN
 
 - **Tờ nhất thư Bàng** (lời mời "Thất điện hạ", người làm chứng): ý định thật của Bàng; Dịch/Ôn **không** đáp.
-- **Hạ Hầu Liệt / Bàng** phản công sau Dĩnh Xuyên; Bàng đo bằng thuyền lần sau → Ch20+.
+- **Hạ Hầu Liệt / Bàng** phản công sau Dĩnh Xuyên; Bàng có đổi cách đo hay không → Ch20+.
 - **Vân Chương / Kim Lăng** phản ứng với lời hứa của Dịch → **Ch20**.
 - **Cách Dịch trả C1** ở Lạc Kinh → **Ch28**; Ch32.
 - **Số phận Đô úy, quan coi kho; quân hàng:** Ch20+ (vô danh).
@@ -338,4 +361,4 @@ S1 1.600 + S2 1.700 + S3 1.900 + S4 1.800 + S5 1.900 = **~8.900** ký tự (khun
 
 ## 13. TRẠNG THÁI
 
-**SCENE BIBLE CH19: v1 — chờ Pre-Audit** (song song Scene Bible Ch18; Ch19 downstream, **độc lập dữ kiện**). **Chưa** viết Draft. Sau Pre-Audit → v2 → LOCK → Draft v1 + Self-Audit.
+**SCENE BIBLE CH19: v2 — LOCKED** (đã sửa theo Pre-Audit; song song Scene Bible Ch18; Ch19 downstream, **độc lập dữ kiện**). Từ đây: Draft v1 + Self-Audit. Mọi thay đổi sau LOCK: ghi **[Sync]**, không silent retcon.
