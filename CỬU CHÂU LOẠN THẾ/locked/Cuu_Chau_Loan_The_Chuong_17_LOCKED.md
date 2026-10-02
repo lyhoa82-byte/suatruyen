@@ -2,7 +2,7 @@
 
 ## CHƯƠNG 17 — VÂY ĐIỂM DIỆT VIỆN
 
-*(DRAFT v1 — đã Audit: PASS CÓ ĐIỀU KIỆN; sửa 2 nét: làm rõ Tiểu Thất đã chết (IV); "đã thành tro" → "đã cháy rụi")*
+*(CHAPTER LOCKED — CANON)*
 
 ---
 

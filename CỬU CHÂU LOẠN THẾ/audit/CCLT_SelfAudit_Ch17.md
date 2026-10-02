@@ -2,7 +2,7 @@
 
 *(Tự kiểm của tác giả, trước Audit của chị. Nền: Gate Ch17 v2 LOCK; Scene Bible Ch17 v2 LOCK; Canon Ch1–Ch16.)*
 
-**Độ dài:** 9.833 ký tự cả file (`len()`; khung 7k–10k; Scene Bible ước ~9.600). **POV:** Chiêu xuyên suốt. **Cấu trúc:** 5 cảnh đúng Scene Bible. Tổng tích lũy nếu LOCK nguyên văn: 181.099 + 9.833 = 190.932.
+**Độ dài:** 9.833 ký tự cả file (`len()`; khung 7k–10k; Scene Bible ước ~9.600). **POV:** Chiêu xuyên suốt. **Cấu trúc:** 5 cảnh đúng Scene Bible. Sau Audit: xem Canon Update Ch17.
 
 ## 1. Guardrail
 
@@ -70,4 +70,4 @@ Không phát hiện vi phạm guardrail hay xung đột canon. Chờ Audit của
 
 ## 6. SAU AUDIT CỦA CHỊ
 
-*(chưa có)*
+**Audit của chị: PASS CÓ ĐIỀU KIỆN.** (1) **BẮT BUỘC — làm rõ Tiểu Thất đã chết:** đã sửa ở IV, sau đoạn kỵ viện ngừng đuổi: *"— Tiểu Thất chết rồi. — Một thân binh nói. — Nằm lại trên bờ đất. / — Ta biết."* (báo ngắn, không nhịp tưởng nhớ; vẫn đúng SY-7). (2) **Tùy chọn — audio:** đã đổi "đã thành tro" → "đã cháy rụi". (3) Các điểm còn lại **giữ nguyên**: "bảy chuyến / đường buôn"; câu hook cuối; "âm ỉ" (V); bỏ "nửa canh"; không mở audit mới. **Kết luận: DRAFT PASS → CHAPTER LOCKED.**

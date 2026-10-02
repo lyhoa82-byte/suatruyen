@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — HỒ SƠ BÀN GIAO
 
-*(Bàn giao ngày 02/10/2026, cập nhật sau Ch16 LOCKED. Đọc file này TRƯỚC khi làm bất cứ việc gì. Chi tiết canon từng chương nằm trong `canon/`; văn bản chuẩn nằm trong `locked/`.)*
+*(Bàn giao ngày 02/10/2026, cập nhật sau Ch17 LOCKED. Đọc file này TRƯỚC khi làm bất cứ việc gì. Chi tiết canon từng chương nằm trong `canon/`; văn bản chuẩn nằm trong `locked/`.)*
 
 ---
 
@@ -8,10 +8,10 @@
 
 | Hạng mục | Trạng thái |
 |---|---|
-| Ch1–Ch16 | **LOCKED** (file trong `locked/`) |
-| Tổng độ dài | **181.099 ký tự** (đếm lại 16 file LOCKED bằng `len()`; Ch16 = 9.075). Còn khoảng 118.901 cho 16 chương, trung bình ~7.431/chương |
-| **Việc đang dở** | Ch16 **CHAPTER LOCKED**. **Gate Ch17 = LOCK v2**; **Scene Bible Ch17 = LOCK v2** (6 chỉnh đã xử lý: SY-3/4/7/8 LOCK, bỏ echo "tờ kê", S5 đủ nhịp đóng bẫy). **Draft Ch17 v1** (`draft/Cuu_Chau_Loan_The_Chuong_17_DRAFT.md`, 9.833 ký tự, Chiêu POV, 5 cảnh) + **Self-Audit** (`audit/CCLT_SelfAudit_Ch17.md`) đã viết; **đang chờ chị Audit** |
-| Bước tiếp theo | Audit Draft Ch17 → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch17 → Gate Ch18 |
+| Ch1–Ch17 | **LOCKED** (file trong `locked/`) |
+| Tổng độ dài | **191.012 ký tự** (đếm lại 17 file LOCKED bằng `len()`; Ch17 = 9.913). Còn khoảng 108.988 cho 15 chương, trung bình ~7.266/chương |
+| **Việc đang dở** | Ch17 **CHAPTER LOCKED** (Chiêu POV; Audit PASS CÓ ĐIỀU KIỆN: làm rõ Tiểu Thất đã chết; "cháy rụi"). **Canon Update Ch17 xong** (`canon/CCLT_Canon_Update_Ch17.md`). Chưa bắt đầu Foundation Gate Ch18 |
+| Bước tiếp theo | Foundation Gate Ch18 (Uyển; Chapter Bible: cắt tiếp tế phía bắc, Hách Liên Chước tập hợp quân) → Pre-Audit → Gate v2 → LOCK → Scene Bible Ch18 → ... |
 | Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
@@ -89,6 +89,7 @@ Foundation Gate (author-truth) → Pre-Audit → Gate v2 → **LOCK** → Scene 
 | Cuối tháng Sáu → đầu tháng Bảy | Ôn đặt cược có điều kiện vào Dịch (CC-2 Ch12) |
 | **Cuối tháng Chín năm 0** | **Ch12** Lạc Thủy (chiều ngày 1 + ngày 2 + đêm); **Ch13** (ngày 3) |
 | **Đầu tháng Mười → ngày 18** | **Ch14** (Chỉ): năm điểm hẹn ở các đêm 11–15; báo Vân Chương ngày 12; Kha Trọng ngày 18 *(ngày-tháng tuyệt đối là suy ra, không nêu trên trang)* |
+| **Đầu xuân năm 1 (băng tan), ngày 30 → 36 sau Hổ Lao** | **Ch17** (Chiêu): ngày 30 Dịch mang giấy tới, Chiêu đặt ba điều kiện; ngày 30–33 vòng ngoài Hổ Lao; ngày 35 rạng vây Dĩnh Xuyên, đốt kho bến; ngày 36 kỵ viện tới rạng, bộ viện hoàng hôn; Chiêu thắp hương; thuyền tới, bộ Ích Châu nhảy lên đê; kỵ viện vỡ; Tiểu Thất chết |
 | **Đầu xuân năm 1 (băng tan), ngày 9 → 29 sau Hổ Lao** | **Ch16** (Dịch): sổ ải Tây (ngày 9); hội, Chiêu rút nửa, hạn ba tuần (ngày 10); làng mua lương, "chợ Dĩnh Xuyên" (ngày 12); hồi âm Bàng đọc công khai (ngày 14); thư Ôn tới (ngày 28); đêm ngày 29: hook Dĩnh Xuyên; hạn Chiêu hết ngày 31 |
 | **Đầu xuân năm 1 (băng tan), ngày 1 → 8** | **Ch15** (Dịch): Hổ Lao; cột lương bị chặn ở bến trên ngày 5; Chiêu tới Hổ Lao ngày 7, tới doanh Dịch sáng ngày 8 (cưỡi gấp); sứ Hạ Hầu chạng vạng ngày 8 |
 
@@ -113,10 +114,13 @@ Năm 0: Dịch 27 tuổi, Chỉ 28.
 - **Ch14 Năm tin giả (Chỉ, cả chương):** năm tin giả = năm điểm hẹn khác nhau (3 tuyến miệng, T4 nói riêng với Vân Chương, T5 tờ giấy qua người giữ ngựa không biết chữ); chỉ **T5 quay lại** (hai người lạ ở miếu thổ địa, đêm 11) → **"đường văn thư – trạm ngựa Kim Lăng có lỗ"**; Vân Chương: "đã nhận hai chỗ hẹn, lần sau báo một chỗ"; Chỉ chưa trả lời Hoắc quân; sổ thuê ngựa Thạch Kiều ghi **"Người bảo lãnh: Kha Trọng"** đặt cạnh bản chép sổ Nam Môn cũ **"Kha Trọng, người Lạc Kinh, buôn giấy"**; lời đồn lão Kha, quản sự một phủ lớn họ Tạ; hook "Hắn không đóng sổ lại."
 - **Ch15 Hổ Lao (Dịch):** đầu xuân năm 1; hội minh có điều kiện (không tổng chỉ huy; Hàn chỉ huy đạo Ích Châu, Dịch kế hoạch/lương); kế hoạch ba cột đồng bộ hội ở Hổ Lao; kho Hổ Lao đầy (Dịch đọc là Hạ Hầu giữ thành); kỵ Hạ Hầu đánh chỗ nối của cột lương ở bến trên; Dịch cắt xe cứu người ("Người trước"); mất ~nghìn tám và toàn bộ đoàn xe; Chiêu mất bảy trăm (tổn thất chiến đấu), lui, giao hai xe lương cho cột Ích Châu (ghi sổ hội minh, "Ghi bằng tên Ích Châu"); sứ Hạ Hầu trả thương binh + "thư ông ấy gửi, Ích Châu chưa có hồi âm"; hội nhỏ nghi "ai biết cột đi hướng nào", "nhà buôn tin"; hook Dịch vẽ vòng chỉ chạm hai bến, gạch chữ "Hổ Lao", tờ giấy trắng.
 - **Ch16 Thế (Dịch):** ba tuần sau Hổ Lao; Hàn xác nhận fact giao dịch (Bàng mua lương ải Tây nhiều năm, biết một xe Ích Châu chở bao nhiêu); Dịch từ chối trận kiếm cỏ (~200 người) bằng số; Hàn: "Không đánh"; Dịch: "Có hay không, đường lương cũng phải đổi"; Chiêu: "Ngươi cần bao lâu?" → ba tuần → rút **một nửa** Hoắc quân vì chi phí và hạn, **kỵ nhẹ + Chiêu ở lại** ăn lương Ích Châu; Kim Lăng nhận việc chở lương ("đường sông cho liên quân"); làng bán một phần ba, trả muối/vải bông + phiếu nợ mang tên Dịch và Hàn, "ấn Thứ sử tới sau"; **Hạ Hầu cũng mua lương dân một phần ba** (fact); làng trưởng nhắc **"chợ Dĩnh Xuyên"**, Dịch nhìn theo dòng nước hạ lưu; hồi âm Bàng đọc công khai, chỉ lương (sổ cũ một nghìn suất, ba trăm ngựa), Hàn ký kèm, **"Việc kia Thứ sử đã xem"**; một sĩ quan xin về áp tải thương binh; ngày 29: nợ muối 300 bao, thuyền 7 chuyến, mất 6 xe, **chín** đường chạy; Hổ Lao thêm quân; thư Ôn: ấn tới hết vụ thu, tối đa 400 bao muối / 200 tấm vải; hook Dịch vẽ đường than tới **Dĩnh Xuyên** trên tờ giấy trắng.
+- **Ch17 Vây điểm diệt viện (Chiêu):** ngày 30 Dịch mang tờ giấy đường than tới, Chiêu hỏi như hỏi đường vận; Dịch nói "Không" khi hỏi chắc, im ở "vì sao họ sẽ cứu"; Chiêu tự quyết làm mồi (đội mũ chùm lông đen), đặt ba điều kiện (tự chọn chỗ đứng; một nén hương sau mặt trời lặn; hết trận kỵ nhẹ về biên, tối đa ngày 42); "Lệnh còn." (một dòng); Hàn "Ta quyết"; Chiêu tự xem đê, thấy tháp hiệu, quyết không phá; vây và đốt kho bến rạng ngày 35, cả ngày không ai tới, đêm đuốc sớm hơn nửa ngày; ngày 36 kỵ viện tới rạng, Chiêu giữ cả ngày (ngựa chết, Tiểu Thất chết chặn khe, cánh tay trái bị rạch, kỵ nhẹ hao); bộ viện đi gấp tới hoàng hôn; Chiêu thắp hương, đèn lên gần tàn; bộ Ích Châu nhảy lên đê, hiệu địch muộn, hàng đứt, kỵ viện vỡ; kho bến cháy, Dĩnh Xuyên chưa hạ, Hổ Lao còn; hook: cờ Hạ Hầu dừng ở cổ chai.
 
 ---
 
-## 7. KNOWLEDGE MATRIX HIỆN TẠI (cuối Ch16)
+## 7. KNOWLEDGE MATRIX HIỆN TẠI (cuối Ch17; chi tiết Ch17 trong `canon/CCLT_Canon_Update_Ch17.md`)
+
+> **Ch17 (Chiêu):** biết đường than (Dịch tự mang), Dĩnh Xuyên cảng cấp lương, tháp hiệu, đường đồi có đồn; thuyền tới đúng cọc; Tiểu Thất chết; mình bị thương. **Không biết** vì sao Dịch chắc họ sẽ cứu, ai chỉ huy viện, Dịch ở đâu trong trận, ý đồ hồi âm, A Quy ở đâu.
 
 | Người | Biết | Không biết |
 |---|---|---|
@@ -163,11 +167,11 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 | Thư mục | Nội dung |
 |---|---|
 | `bible/` | Production Bible, Chapter Bible 32 chương, Writing Control System, Luật vận hành Bible–Draft, Scene Bible Quyển I (gốc) |
-| `locked/` | **Văn bản chuẩn** Ch1–Ch16 |
-| `canon/` | Canon Update Ch1–Ch16 (**nguồn canon chi tiết**) |
+| `locked/` | **Văn bản chuẩn** Ch1–Ch17 |
+| `canon/` | Canon Update Ch1–Ch17 (**nguồn canon chi tiết**) |
 | `gates/` | Foundation Gate các chương (+ Gate Vân Chương, Gate tiếp tế mùa đông, Proposal) |
-| `scene_bible/` | Scene Bible Ch2–Ch16 |
-| `audit/` | Self-Audit Ch7–Ch16 |
+| `scene_bible/` | Scene Bible Ch2–Ch17 |
+| `audit/` | Self-Audit Ch7–Ch17 |
 | `draft/` | Các bản DRAFT (lịch sử) |
 | `tham_khao/` | Các ghi chú audit cũ của chị (Ch1–Ch2) |
 
@@ -177,6 +181,6 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch17.md` (LOCK v2), `scene_bible/CCLT_Scene_Bible_Ch17.md` (LOCK v2), `draft/Cuu_Chau_Loan_The_Chuong_17_DRAFT.md`, `audit/CCLT_SelfAudit_Ch17.md` và `canon/CCLT_Canon_Update_Ch16.md`. Mình sẽ gửi Audit cho Draft Ch17.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `canon/CCLT_Canon_Update_Ch17.md` và `locked/Cuu_Chau_Loan_The_Chuong_17_LOCKED.md`. Mình sẽ ra lệnh làm Foundation Gate Ch18.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.
