@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — HỒ SƠ BÀN GIAO
 
-*(Bàn giao ngày 02/10/2026, sau Ch13 LOCKED. Đọc file này TRƯỚC khi làm bất cứ việc gì. Chi tiết canon từng chương nằm trong `canon/`; văn bản chuẩn nằm trong `locked/`.)*
+*(Bàn giao ngày 02/10/2026, cập nhật sau Ch14 LOCKED. Đọc file này TRƯỚC khi làm bất cứ việc gì. Chi tiết canon từng chương nằm trong `canon/`; văn bản chuẩn nằm trong `locked/`.)*
 
 ---
 
@@ -8,10 +8,11 @@
 
 | Hạng mục | Trạng thái |
 |---|---|
-| Ch1–Ch13 | **LOCKED** (file trong `locked/`) |
-| Tổng độ dài | **156.564 ký tự** (đếm lại 13 file LOCKED lúc bàn giao; Canon Update Ch13 ghi 156.667 — chênh 103 do cách đếm các chương đầu. Từ nay dùng số đếm lại) |
-| **Việc đang dở** | **Foundation Gate Ch14 v1** (`gates/CCLT_Gate_Truoc_Ch14.md`): đã viết theo Pre-Audit định hướng (PASS WITH 3 REQUIRED SYNCS); **đang chờ chị Pre-Audit Final** |
-| Bước tiếp theo | Pre-Audit Final Gate Ch14 → LOCK → Scene Bible Ch14 → ... |
+| Ch1–Ch14 | **LOCKED** (file trong `locked/`) |
+| Tổng độ dài | **164.692 ký tự** (đếm lại 14 file LOCKED bằng `len()`; Ch14 = 8.128). Còn khoảng 135.308 cho 18 chương, trung bình ~7.517/chương |
+| **Việc đang dở** | **Foundation Gate Ch15 (Hổ lao) v1** (`gates/CCLT_Gate_Truoc_Ch15.md`): đã viết; **đang chờ chị Pre-Audit** |
+| Bước tiếp theo | Pre-Audit Gate Ch15 → Gate v2 → LOCK → Scene Bible Ch15 → ... |
+| Kế hoạch của chị | Viết tới **Ch20**, rồi mở chat mới (có thể dùng Opus) |
 
 ---
 
@@ -87,7 +88,7 @@ Foundation Gate (author-truth) → Pre-Audit → Gate v2 → **LOCK** → Scene 
 | Cuối tháng Năm → tháng Sáu | **Ch11** Dạ Kiêu |
 | Cuối tháng Sáu → đầu tháng Bảy | Ôn đặt cược có điều kiện vào Dịch (CC-2 Ch12) |
 | **Cuối tháng Chín năm 0** | **Ch12** Lạc Thủy (chiều ngày 1 + ngày 2 + đêm); **Ch13** (ngày 3) |
-| Đầu tháng Mười | Ch14 (dự kiến; Gate v1) |
+| **Đầu tháng Mười → ngày 18** | **Ch14** (Chỉ): năm điểm hẹn ở các đêm 11–15; báo Vân Chương ngày 12; Kha Trọng ngày 18 *(ngày-tháng tuyệt đối là suy ra, không nêu trên trang)* |
 
 Năm 0: Dịch 27 tuổi, Chỉ 28.
 
@@ -107,18 +108,19 @@ Năm 0: Dịch 27 tuổi, Chỉ 28.
 - **Ch11 Dạ Kiêu (Chỉ):** Dạ Kiêu nhận đơn giết Dịch; Chỉ tự đi, nhận ra Thẩm thư lại; **"Đêm đó ta thấy người khiêng then cửa Bắc có hai người. Ngươi chỉ có một."**; Chỉ trả tiền (phá 2/3 nguyên tắc — Canon Change); hook "Ai đã có mặt ở Bắc Môn đêm ấy?"
 - **Ch12 Lạc Thủy (Dịch):** năm thế lực gặp lại; A Quy vào dưới bảo chứng Ích Châu; thỏa thuận **thăm dò qua mùa đông**, bằng lời, **không văn thư**; **"Người hứa là Hoắc Chiêu."**; thư Ôn chỉ ghi "Hoắc quân".
 - **Ch13 Những điều không nói (5 POV):** vải bông chống rét; Chiêu hoãn (không tha) lệnh bắt A Quy qua mùa đông; vỏ quýt; Chỉ truy kẻ đếm thuyền → phía Hạ Hầu, nhận ra rò tin bên trong qua chữ "không văn thư", báo cả bốn bên miễn phí; tin giả "Kim Lăng đã công nhận Thất hoàng tử"; viên quan Kim Lăng gửi ngựa trước; Vân Chương viết "người tự nhận"; hook "đã có một con ngựa đi trước".
+- **Ch14 Năm tin giả (Chỉ, cả chương):** năm tin giả = năm điểm hẹn khác nhau (3 tuyến miệng, T4 nói riêng với Vân Chương, T5 tờ giấy qua người giữ ngựa không biết chữ); chỉ **T5 quay lại** (hai người lạ ở miếu thổ địa, đêm 11) → **"đường văn thư – trạm ngựa Kim Lăng có lỗ"**; Vân Chương: "đã nhận hai chỗ hẹn, lần sau báo một chỗ"; Chỉ chưa trả lời Hoắc quân; sổ thuê ngựa Thạch Kiều ghi **"Người bảo lãnh: Kha Trọng"** đặt cạnh bản chép sổ Nam Môn cũ **"Kha Trọng, người Lạc Kinh, buôn giấy"**; lời đồn lão Kha, quản sự một phủ lớn họ Tạ; hook "Hắn không đóng sổ lại."
 
 ---
 
-## 7. KNOWLEDGE MATRIX HIỆN TẠI (cuối Ch13)
+## 7. KNOWLEDGE MATRIX HIỆN TẠI (cuối Ch14)
 
 | Người | Biết | Không biết |
 |---|---|---|
 | **Dịch** | Tam Lang = Hoắc Chiêu; Uyển vận hành như Khả đôn (thấy một phần); Kim Lăng chưa công nhận; A Quy nói lời Dạ Kiêu; A Quy từng được thuê giết hắn (giữ kín); hai người khiêng then (giữ kín) | A Quy là đầu lĩnh hay chỉ là người của Dạ Kiêu; tên "Bùi Chỉ"; có rò tin bên trong; thư "người tự nhận" |
 | **Chiêu** | Trình Dịch = Thẩm thư lại; A Quy sống, nói lời Dạ Kiêu; đã hoãn lệnh bắt qua mùa đông | Hai người khiêng then; A Quy từng được thuê giết Dịch |
 | **Uyển** | Trình Dịch = Thẩm thư lại; biết Tam Lang là nữ từ Vân Trung (căn cứ: OPEN) | Bắc Môn; rò tin |
-| **Chỉ** | Thẩm thư lại = Trình Dịch; Tam Lang = Hoắc Chiêu; kết luận cũ "một người mở cửa" đã sụp; kẻ đếm thuyền → phía Hạ Hầu (qua ba mắt xích); **có rò tin bên trong** (chỉ mình hắn biết) | Người thứ hai khiêng then; ai rò; người ra lệnh giết Dịch (K1: phía Hạ Hầu — author-truth) |
-| **Vân Chương** | Kết quả chuỗi suy luận: Trình Dịch là con Thẩm chiêu nghi (mức tin rất cao); viên quan Kim Lăng gửi tin không hỏi chàng; đã viết "người tự nhận" (**chưa quyết phản bội**) | Ai rò; viên quan gửi cho ai |
+| **Chỉ** | Thẩm thư lại = Trình Dịch; Tam Lang = Hoắc Chiêu; kết luận cũ "một người mở cửa" đã sụp; kẻ đếm thuyền → phía Hạ Hầu (qua ba mắt xích); **có rò tin bên trong** (chỉ mình hắn biết); **đường văn thư – trạm ngựa Kim Lăng có lỗ** (T5); **Kha Trọng**: hai dòng chữ cạnh nhau (sổ Nam Môn cũ / sổ thuê ngựa Thạch Kiều), lời đồn lão Kha–phủ họ Tạ (**OPEN**) | Người thứ hai khiêng then; **ai rò**; Kha Trọng có là một người / còn sống / liên quan Bắc Môn, Chu Hạc, Tạ gia; người ra lệnh giết Dịch (K1: phía Hạ Hầu — author-truth) |
+| **Vân Chương** | Kết quả chuỗi suy luận: Trình Dịch là con Thẩm chiêu nghi (mức tin rất cao); viên quan Kim Lăng gửi tin không hỏi chàng; đã viết "người tự nhận" (**chưa quyết phản bội**); Chỉ báo "đường văn thư – trạm ngựa Kim Lăng có lỗ"; đã nhận hai chỗ hẹn (miệng và giấy) | Ai rò; viên quan gửi cho ai; **vì sao Chỉ chọn Kim Lăng / Chỉ nghi ai** (G-3); Kha Trọng |
 
 ---
 
@@ -134,16 +136,17 @@ Năm 0: Dịch 27 tuổi, Chỉ 28.
 
 ## 9. OPEN (chưa quyết)
 
-Người thứ hai khiêng then; người dò tin bị bắt (Ch11); phản ứng của người thuê (Ch11); vì sao Dịch không gọi lính (Ch11); quân trắng của từng người; động cơ Chu Hạc; Lão Tần; Chiêu có từng tới ngõ cháy không; người gia nhân năm -20; căn cứ Uyển biết Tam Lang là nữ; viên quan Kim Lăng gửi cho ai (K2); triều Kim Lăng phản ứng; Hạ Hầu phản ứng sau tin giả; Khả hãn hiện tại; con của Uyển; quan hệ huyết thống Hoài Nam vương.
+Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọng (G-2); hai người lạ ở miếu; lời đáp cho Hoắc quân; Người thứ hai khiêng then; người dò tin bị bắt (Ch11); phản ứng của người thuê (Ch11); vì sao Dịch không gọi lính (Ch11); quân trắng của từng người; động cơ Chu Hạc; Lão Tần; Chiêu có từng tới ngõ cháy không; người gia nhân năm -20; căn cứ Uyển biết Tam Lang là nữ; viên quan Kim Lăng gửi cho ai (K2); triều Kim Lăng phản ứng; Hạ Hầu phản ứng sau tin giả; Khả hãn hiện tại; con của Uyển; quan hệ huyết thống Hoài Nam vương.
 
 ---
 
-## 10. GATE CH14 v1 — ĐANG CHỜ PRE-AUDIT FINAL
+## 10. GUARDRAIL ĐANG HIỆU LỰC TỪ CH14
 
-Xem `gates/CCLT_Gate_Truoc_Ch14.md`. Tóm tắt các đề xuất chờ duyệt:
-- **Người rò:** thư lại nhỏ đoàn Kim Lăng lo văn thư – đổi ngựa; chỉ biết "không mang văn thư về"; bán vì tiền.
-- **Năm tin giả** = năm **điểm hẹn** khác nhau của kênh cảnh báo Dạ Kiêu (T1 Ích Châu, T2 Hoắc quân, T3 trướng Khả đôn, T4 Vân Chương, T5 tuyến văn thư – trạm ngựa Kim Lăng). Kết quả: **T5 rò**; T2 chưa có kết quả (giữ Hidden: không bằng chứng Chu Hạc).
-- **Cái tên mười năm trước:** **Kha Trọng** — trong bản chép sổ vào thành Nam Môn Vân Trung tháng Chạp năm -10, và trong sổ thuê ngựa hiện tại (người bảo lãnh). Lời đồn: lão Kha từng làm quản sự một phủ họ Tạ ở Lạc Kinh. **Mức chắc chắn thấp–trung bình**; Chỉ **chưa được kết luận** cùng người, còn sống, liên quan Bắc Môn / Chu Hạc / Tạ gia đứng sau / chủ mưu.
+- **G-1:** nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng **OPEN**; chưa được nói rò nằm trong đoàn Kim Lăng.
+- **G-2: Kha Trọng OPEN.** Chưa được kết luận: cùng một người; còn sống; liên quan Bắc Môn; liên quan Chu Hạc; Tạ gia đứng sau; chủ mưu. Chỉ ghi nhận khả năng ("Tìm lão ấy. Không bắt. Không lại gần.").
+- **Canon Guardrail:** năm tin giả đo đường truyền, không đo lòng trung thành. Một tuyến bị rò ≠ người đứng đầu phản bội; một tuyến sạch ≠ tuyến an toàn tuyệt đối ("Là không ai", không nói "sạch").
+- **G-3:** Vân Chương biết Chỉ đã thử hai tuyến của Kim Lăng; **không** biết vì sao Chỉ chọn Kim Lăng; không để chàng suy ra "Kim Lăng bị nghi nhất".
+- Năm nhân vật chính không nghi nhau trực tiếp trên trang; không tin nào được báo là test.
 
 ---
 
@@ -152,11 +155,11 @@ Xem `gates/CCLT_Gate_Truoc_Ch14.md`. Tóm tắt các đề xuất chờ duyệt:
 | Thư mục | Nội dung |
 |---|---|
 | `bible/` | Production Bible, Chapter Bible 32 chương, Writing Control System, Luật vận hành Bible–Draft, Scene Bible Quyển I (gốc) |
-| `locked/` | **Văn bản chuẩn** Ch1–Ch13 |
-| `canon/` | Canon Update Ch1–Ch13 (**nguồn canon chi tiết**) |
+| `locked/` | **Văn bản chuẩn** Ch1–Ch14 |
+| `canon/` | Canon Update Ch1–Ch14 (**nguồn canon chi tiết**) |
 | `gates/` | Foundation Gate các chương (+ Gate Vân Chương, Gate tiếp tế mùa đông, Proposal) |
-| `scene_bible/` | Scene Bible Ch2–Ch13 |
-| `audit/` | Self-Audit Ch7–Ch13 |
+| `scene_bible/` | Scene Bible Ch2–Ch14 |
+| `audit/` | Self-Audit Ch7–Ch14 |
 | `draft/` | Các bản DRAFT (lịch sử) |
 | `tham_khao/` | Các ghi chú audit cũ của chị (Ch1–Ch2) |
 
@@ -166,6 +169,6 @@ Xem `gates/CCLT_Gate_Truoc_Ch14.md`. Tóm tắt các đề xuất chờ duyệt:
 
 Gửi cho Claude:
 
-> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch14.md` và `canon/CCLT_Canon_Update_Ch13.md`. Mình sẽ gửi Pre-Audit Final cho Gate Ch14.
+> Đọc `CỬU CHÂU LOẠN THẾ/00_BAN_GIAO.md` trong repo `lyhoa82-byte/suatruyen`. Sau đó đọc `gates/CCLT_Gate_Truoc_Ch15.md` và `canon/CCLT_Canon_Update_Ch14.md`. Mình sẽ gửi Pre-Audit cho Gate Ch15.
 
 Khi viết Draft: đọc thêm Scene Bible đã LOCK của chương đó và **1–2 chương LOCKED gần nhất** để giữ giọng văn.
