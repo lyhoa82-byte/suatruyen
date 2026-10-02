@@ -159,3 +159,41 @@ YES (phạm vi chờ các implementation details)
 
 Status:
 APPROVED — LOCKED
+
+---
+
+### C-09B — Khoảng thời gian Triệu Kha và Minh Lễ không gặp nhau
+
+Decision:
+Chọn I-4a: lần cuối Minh Lễ gặp trực tiếp Triệu Kha sớm hơn thời điểm Triệu Kha được báo chết.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Minh Lễ và Triệu Kha gặp trực tiếp nhau lần cuối từ hơn mười năm trước.
+2. Triệu Kha đã rời vị trí hộ vệ của Minh Lễ trước thời điểm đó.
+3. Sau khi rời phủ, Triệu Kha có một giai đoạn hoạt động riêng mà Minh Lễ không biết.
+4. Khoảng bảy năm trước, Minh Lễ nhận được tin Triệu Kha đã chết trên đường về quê.
+5. Mốc "bảy năm" trong lời Trịnh KHÔNG bị xác định là lời nói dối. (Cách hiểu I-4b không được áp dụng.)
+6. Hồ sơ ở Ep08 về việc Triệu Kha chết ở ngoại thành Thanh Châu giữ nguyên. Hồ sơ không tự động được bổ sung năm chết khi chưa có canon cụ thể.
+7. "Mười một năm làm hộ vệ" vẫn là canon.
+8. C-09A giữ nguyên:
+   - Người xuất hiện ở Ep10, Cảnh 24–25 là Triệu Kha.
+   - Triệu Kha thực tế không có nốt ruồi ở thái dương trái.
+   - Nốt ruồi ở Ep10 là dấu giả trang.
+
+Timeline implementation details chưa quyết định (để mở — không tự giải quyết, không tự thêm canon):
+- Cách tính chính xác giữa mốc mười một năm làm hộ vệ, thời điểm Triệu Kha rời phủ, lần gặp cuối cùng và mốc báo chết khoảng bảy năm trước.
+- Nội dung giai đoạn hoạt động riêng của Triệu Kha sau khi rời phủ.
+
+Episodes Potentially Affected:
+- Ep10, Cảnh 24 — "Mười mấy năm không gặp." khớp với quyết định; giữ nguyên.
+- Ep08, Cảnh 7 — mốc "Bảy năm trước." / "Gần." khớp với quyết định; giữ nguyên.
+- Ep08, Cảnh 9–10 — mốc "mười một năm" và hồ sơ báo chết; giữ nguyên, cần đối chiếu khi các timeline implementation details được quyết định.
+
+Requires Edit Pass:
+NO hiện tại (có thể phát sinh khi các timeline implementation details được quyết định)
+
+Status:
+APPROVED — LOCKED
