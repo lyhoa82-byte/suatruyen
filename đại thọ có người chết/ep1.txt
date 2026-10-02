@@ -80,7 +80,7 @@ Một lát sau, bên trong có tiếng lẩm bẩm.
 
 Từ nhà bếp về Tây viện phải đi vòng qua hồ sen.
 
-Đêm trước đại thọ bảy mươi của Tống lão thái gia, khách khứa từ xa đã đến gần đủ. Ban ngày trong phủ ồn đến đau đầu, chỉ có giờ này mới yên.
+Đêm đại thọ bảy mươi của Tống lão thái gia, khách khứa đã về gần hết. Ban ngày trong phủ ồn đến đau đầu, chỉ có giờ này mới yên.
 
 Vãn Ý vừa đi vừa ăn màn thầu.
 
@@ -174,7 +174,7 @@ Chuyện ấy lúc đó chẳng có gì đáng để nàng nghĩ thêm.
 
 ### CẢNH 2 — MỘT NGÀY ĐẠI HỶ
 
-Sáng hôm sau, Tống phủ náo nhiệt từ khi trời vừa sáng.
+Sáng ngày đại thọ, Tống phủ náo nhiệt từ khi trời vừa sáng.
 
 “Treo cao thêm!”
 
@@ -395,64 +395,6 @@ Minh Khiêm nhìn theo.
 “Chàng vừa nói không ăn.”
 
 Hắn hết lời.
-
-Tứ thúc Tống Minh Đức chống gậy từ đầu hành lang đi tới.
-
-“Minh Khiêm.”
-
-“Tứ thúc.”
-
-Minh Đức dừng lại.
-
-“Đêm qua ta nghe có người đi lại phía Tây Nguyệt môn. Hai đứa có nghe gì không?”
-
-Vãn Ý đáp:
-
-“Không ạ.”
-
-Nói xong, nàng nhìn xuống cây gậy của ông.
-
-Đầu gậy có một vệt bùn vàng đã khô.
-
-Minh Đức gật đầu.
-
-“Chắc hạ nhân.”
-
-Ông đi khỏi.
-
-Minh Khiêm nhìn nàng.
-
-“Đêm qua nàng có ra ngoài?”
-
-“Có.”
-
-“Đi đâu?”
-
-“Nhà bếp.”
-
-“Làm gì?”
-
-“Bắt gặp đại ca ăn vụng chân gà.”
-
-Minh Khiêm quay hẳn sang.
-
-“Đại ca?”
-
-“Nhỏ thôi.”
-
-“Đại tẩu biết chưa?”
-
-“Chưa.”
-
-“Ta nói được không?”
-
-“Không.”
-
-“Vì sao?”
-
-“Đại ca đang nợ ta một ân tình.”
-
-Minh Khiêm cúi đầu cười.
 
 Vãn Ý nhìn thấy một vết xước trên tay áo hắn.
 
@@ -914,6 +856,58 @@ Minh Khiêm chỉ vào vết tím.
 
 Minh Nghĩa im bặt.
 
+Tứ thúc Tống Minh Đức chống gậy từ đầu hành lang đi tới.
+
+“Minh Khiêm.”
+
+“Tứ thúc.”
+
+Minh Đức dừng lại.
+
+“Đêm qua ta nghe có người đi lại phía Tây Nguyệt môn. Hai đứa có nghe gì không?”
+
+Vãn Ý đáp:
+
+“Không ạ.”
+
+Nói xong, nàng nhìn xuống cây gậy của ông.
+
+Đầu gậy có một vệt bùn vàng đã khô.
+
+Minh Đức gật đầu.
+
+“Chắc hạ nhân.”
+
+Ông đi khỏi.
+
+Minh Khiêm nhìn nàng.
+
+“Đêm qua, ngoài lúc gặp ta, nàng còn đi đâu nữa?”
+
+“Nhà bếp.”
+
+“Làm gì?”
+
+“Bắt gặp đại ca ăn vụng chân gà.”
+
+Minh Khiêm quay hẳn sang.
+
+“Đại ca?”
+
+“Nhỏ thôi.”
+
+“Đại tẩu biết chưa?”
+
+“Chưa.”
+
+“Ta nói được không?”
+
+“Không.”
+
+“Vì sao?”
+
+“Đại ca đang nợ ta một ân tình.”
+
 ---
 
 ### CẢNH 11 — PHÂN SẢN THƯ BIẾN MẤT
@@ -1102,7 +1096,7 @@ Tiếng giày của quan sai đã đến ngoài cửa.
 
 Vãn Ý lùi sang một bên nhường đường.
 
-Nàng bỗng thấy cái màn thầu ăn lúc canh ba hôm trước là một quyết định khá sai lầm.
+Nàng bỗng thấy cái màn thầu ăn lúc canh ba đêm qua là một quyết định khá sai lầm.
 
 Nếu đêm ấy nàng chịu đói mà ngủ—
 
