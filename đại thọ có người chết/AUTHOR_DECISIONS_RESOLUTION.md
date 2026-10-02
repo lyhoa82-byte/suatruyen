@@ -115,3 +115,47 @@ YES
 
 Status:
 APPROVED
+
+---
+
+### C-09A — Nốt ruồi / dấu nhận diện Triệu Kha
+
+Decision:
+Chọn M-A kết hợp I-1: Triệu Kha thực tế không có nốt ruồi; nốt ruồi nhìn thấy ở Ep10, Cảnh 24 là dấu giả trang. I-2 và I-3 bị loại.
+
+Reason:
+Quyết định của tác giả (AUTHOR CANON DECISION).
+
+Canon After Decision:
+1. Triệu Kha thực tế KHÔNG có nốt ruồi ở thái dương trái.
+2. Nốt ruồi nhìn thấy trên người xuất hiện ở Ep10, Cảnh 24 là dấu giả trang của Triệu Kha. (Canon mới, additive.)
+3. Người xuất hiện ở Ep10, Cảnh 24–25 VẪN LÀ TRIỆU KHA. Người này là:
+   - người giả làm Tống lão thái gia;
+   - người lấy nửa phân sản thư dưới chân bàn;
+   - người được Minh Lễ nhận ra;
+   - người gọi Minh Lễ là "Đại ca".
+4. Canon ở Ep09 và Ep10, Cảnh 2 giữ nguyên:
+   - Phương Tử An có nốt ruồi ở thái dương trái.
+   - Triệu Kha không có nốt ruồi ở đó.
+   - Minh Lễ không nhớ sai.
+   - Lão Quý không nói dối ở đoạn này.
+5. Không được thay đổi thân phận người xuất hiện ở Ep10, Cảnh 24–25.
+
+Implementation details chưa quyết định (để mở — không tự giải quyết, không tự thêm canon):
+- Triệu Kha làm giả nốt ruồi bằng cách nào.
+- Làm giả từ thời điểm nào.
+- Vì sao chọn đúng dấu nhận diện này.
+- Ai có thể nhận ra đây là dấu giả.
+- Vì sao các nhân vật ở Ep10, Cảnh 24 không phản ứng với nốt ruồi.
+
+Episodes Potentially Affected:
+- Ep10, Cảnh 24 — mô tả nốt ruồi và việc không ai phản ứng với nó.
+- Ep10, Cảnh 25 — lời khai của Triệu Kha.
+- Ep09, Cảnh 12 và Ep10, Cảnh 2 — giữ nguyên.
+- Phạm vi sửa cụ thể phụ thuộc vào các implementation details còn mở.
+
+Requires Edit Pass:
+YES (phạm vi chờ các implementation details)
+
+Status:
+APPROVED — LOCKED
