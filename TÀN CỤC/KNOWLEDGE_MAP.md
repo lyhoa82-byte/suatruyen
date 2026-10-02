@@ -2,6 +2,12 @@
 
 Bản đồ ai biết gì, biết bằng cách nào, biết từ khi nào. Không sửa episode, không tạo canon mới.
 
+**N3 SYNC (cập nhật sau N3) — đọc trước.** Đây là bản chụp Pass A (trước B1, trước N1A/N1B, trước N2B); phần thân giữ làm hồ sơ lịch sử.
+- Số dòng `file:dòng` của `ep5`–`ep9` trỏ tới bản kịch bản cũ; dùng số cảnh hoặc tìm theo câu.
+- Nhãn `CONTRADICTORY`/`SUSPECTED` gắn với AD-01/AD-02 ghi các vi phạm **trước B1**; B1 đã sửa nguồn tin các mục đó (`PASS_B1_REPORT.md`, `B1_VERIFICATION_REPORT.md`). Không đọc như lỗi còn mở.
+- Khóa hiện hành: AD-01, AD-02, 17/10 LK23 (AD-01-SUB đã khóa, phương án C), AD-03, AD-04, khóa EP7, khóa EP8–EP9; AD-N2-01…11 đã thực thi ở N2B.
+- Tri thức đã đổi do cắt/thêm ở N2B: không còn "bản sớ", "đơn nặc danh", "đứa trẻ đưa thư" ở EP5; không còn "Có manh mối" của Hoài Xuyên về chủ Tấn Ký ở EP7 sc.35; EP7 sc.61 mới nối ba dấu hiệu ("cùng một cửa") với "Chưa biết"; EP9 sc.30 mới có "Cùng một cách, chưa chắc cùng một người" (không gán người).
+
 **Canon khóa áp dụng** (xem `MASTER_TIMELINE.md` mục 0):
 - **AD-01:** án Thẩm gia chưa từng xảy ra ở kiếp này.
 - **AD-02:** chỉ Chiêu Ninh giữ ký ức kiếp trước.
@@ -45,7 +51,7 @@ Hệ quả trực tiếp của hai khóa: mọi chi tiết thuộc **án Thẩm 
 | R19 | Cố Văn Lâm / H4 = Hạng bốn, vai trò trong án | Chỉ có ở kiếp trước (phần liên quan án) | EP8 sc.55–60, 91–100 |
 | R20 | Bùi Tấn dựng án Thẩm gia cho phe Nhị hoàng tử | Chỉ có ở kiếp trước | EP8 sc.103–117 |
 | R21 | Chu Tử Dung xin tra Bắc lộ năm LK20, bị Ty Độ Chi bác | Sự thật kiếp này | EP6 sc.54; EP7 sc.67–69 |
-| R22 | Ngày 17/10 là ngày Thẩm phủ bị phong ở kiếp trước | Chỉ có ở kiếp trước (năm phụ thuộc AD-01-SUB) | EP9 sc.32 |
+| R22 | Ngày 17/10 là ngày Thẩm phủ bị phong ở kiếp trước | Chỉ có ở kiếp trước (LK23, đã khóa ở B1) | EP9 sc.32 |
 | R23 | Phong thư của cha Lục Trầm đang ở Thẩm gia | Sự thật kiếp này (đến ngày 24/7) | EP5 sc.2–4 |
 
 ---
@@ -72,7 +78,7 @@ Hệ quả trực tiếp của hai khóa: mọi chi tiết thuộc **án Thẩm 
 | R16, R17, R18 | CONFIRMED | Có mặt tại An Bình; được thông báo kết quả điều tra | EP7, EP8 | |
 | R19, R20 | CONTRADICTORY | Đứng ngoài cửa hoặc sau bình phong nghe | EP8 sc.97–117 | Nội dung là thông tin chỉ có ở kiếp trước, do người khác nói ra |
 | R21 | CONFIRMED | Có mặt khi Chu Tử Dung tới | EP7 sc.72 | |
-| R22 | CONFIRMED | Ký ức | EP9 sc.32 | Năm phụ thuộc AD-01-SUB |
+| R22 | CONFIRMED | Ký ức | EP9 sc.32 | Năm: LK23 (AD-01-SUB đã khóa ở B1) |
 | R23 | CONFIRMED | Tĩnh An giao thư | EP5 sc.2 | |
 
 ### 2.2. Thẩm Tĩnh An
