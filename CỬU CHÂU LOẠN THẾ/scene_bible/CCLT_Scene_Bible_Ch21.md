@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 21: TRÁ HÀNG
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch21 v2 **LOCK** (D21-1 = C hai tầng, **thư thật**, không "thư giả"; D21-2/2b: **"một lời" là thông tin thật**; D21-3 = **lịch lương**; D21-4 = **Bàng tự ra lệnh mở cổng, mở ≠ đầu hàng**; D21-8: **không gọi tên Bàng**; GR21-1…23); Canon Ch1–Ch20 LOCKED; Canon Update Ch20 (mục IX); Ch20 LOCKED; Production Bible; Chapter Bible Ch21. **Không mở lại Ch18–20; không đụng Ch22–23.** Độ dài trên trang **7.000–8.000** (còn 82.728 ký tự cho Ch21–32). **Ch21 viết bằng Sonnet high.**)*
+*(v2 — **LOCK** (Pre-Audit: **PASS CÓ ĐIỀU KIỆN**; không mở lại Gate; thêm 3 khóa Draft, mục 0B). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch21 v2 **LOCK** (D21-1 = C hai tầng, **thư thật**, không "thư giả"; D21-2/2b: **"một lời" là thông tin thật**; D21-3 = **lịch lương**; D21-4 = **Bàng tự ra lệnh mở cổng, mở ≠ đầu hàng**; D21-8: **không gọi tên Bàng**; GR21-1…23); Canon Ch1–Ch20 LOCKED; Canon Update Ch20 (mục IX); Ch20 LOCKED; Production Bible; Chapter Bible Ch21. **Không mở lại Ch18–20; không đụng Ch22–23.** Độ dài trên trang **7.000–8.000** (còn 82.728 ký tự cho Ch21–32). **Ch21 viết bằng Sonnet high.**)*
 
 **POV:** **Tạ Vân Chương**, xuyên suốt. Narration gọi **"Vân Chương"**, **"chàng"**. Người dưới gọi chàng **"đại nhân"**, **"Tạ đại nhân"**. Chàng nói **ngắn, ít chữ, không giải thích lý do**; ra lệnh bằng việc cụ thể. **Không** "điện hạ"; **không** "A Chiêu"; **không** "Hoắc Chiêu"; **không** "Đêm ấy…". **Không** gọi tên Bàng (người bên kia = *"người bên kia"*, *"chỗ bị đọc"*; chàng không có nguồn cho tên).
 **Thời gian trên trang:** chỉ có **"đêm"**, **"sáng"**, **"chiều"**, **"đêm thứ hai"**, **"ba đêm"**, **"mấy ngày"**, **"ngày kia"** (tương đối). **Không số ngày tuyệt đối.**
@@ -44,6 +44,16 @@
 7. **Điều (2)** (GR21-13): hạt giống Ch23, **LOCK**: chàng **nhận bằng chữ**, **không nói liên quân**; **không** tự kết luận đạo đức (*"ta đã bán…"*).
 8. **Dịch** (GR21-8): **không viết Dịch một dòng** (D20-11); **không** "điện hạ"; Kim Lăng **chưa công nhận** Dịch. **Ấu đế vắng** (GR21-14). **Quan huyện** (GR21-10): hai dữ kiện, không nối nhân quả.
 9. **GR21-9, 11, 12, 15, 17, 18:** thể lực không máu/ngất; Uyển: gói vỏ quýt = một dữ kiện, **không đáp**, **không** Hách Liên; không số quân/thuyền/người chết (trừ "một", "ba đêm", "ba ngày", "gấp ba"); không *"Đêm ấy…"*; không câu tổng kết/triết lý; không mở lại Ch18–20, không đụng Ch22–23.
+
+---
+
+## 0B. KHÓA THÊM TỪ PRE-AUDIT (chị)
+
+1. **S4 = cảnh nhận thông tin**, **không** giải mã chiến trường. Hai dòng báo chỉ cho chàng thấy **một dữ kiện khớp** (thuyền neo đúng lệnh); **không** biến thành *"chàng biết người bên kia sẽ làm gì"*.
+2. **S5 cực sạch:** chỉ *"Cổng thành mở."* — **không** ai mở, vì sao mở, người bên kia ở đâu, bẫy hay thắng, liên quân có vào được không, Hổ Lao đã đổi chủ chưa.
+3. **Audit Draft tập trung 5 điểm:** (a) Vân Chương **không đoán quá mức**; (b) *"một lời"* là **dữ kiện thật**; (c) **lương thật sự xuất kho**; (d) thư điều (2) là **cam kết cá nhân**; (e) *"Cổng thành mở."* là **hook chưa giải thích**.
+4. **SY-13 PASS:** chỉ sửa Production Check (đã ghi ~13 ngày); **không** sửa Gate/Scene Bible về chữ.
+5. **Nếu vượt 8.000:** cắt nhịp quan giữ ấn (SY-9) trước.
 
 ---
 
@@ -328,4 +338,4 @@ S1 1.700 + S2 1.900 + S3 1.700 + S4 1.200 + S5 500 = **~7.000** (khung 7.000–8
 
 ## 13. TRẠNG THÁI
 
-**SCENE BIBLE CH21: v1 — chờ Pre-Audit.** Bước tiếp: Pre-Audit → Scene Bible v2 → LOCK → Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch21.
+**SCENE BIBLE CH21: v2 — LOCK.** Bước tiếp: Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch21.
