@@ -3,7 +3,7 @@
 *(Tự kiểm trước Audit. File: `draft/Cuu_Chau_Loan_The_Chuong_21_DRAFT.md`. Nền: Scene Bible Ch21 v2 LOCK; Gate Ch21 v2 LOCK. Chưa phải canon.)*
 
 ## 1. Độ dài
-Thân ~7.074 ký tự (đếm theo ký tự, không theo byte). S1 ~1.620 · S2 ~1.980 · S3 ~1.640 · S4 ~1.450 · S5 ~380. **Trong khung 7.000–8.000.** S5 giữ ngắn theo khóa Pre-Audit. Còn lại sau Ch21: ~75.7k cho Ch22–32 (~6.9k/chương).
+Thân ~7.020 ký tự (đếm theo ký tự, không theo byte). S1 ~1.620 · S2 ~1.980 · S3 ~1.670 · S4 ~1.450 · S5 ~300. **Trong khung 7.000–8.000.** S5 giữ ngắn theo khóa Pre-Audit. Còn lại sau Ch21: ~75.7k cho Ch22–32 (~6.9k/chương).
 
 ## 2. Năm điểm chị sẽ audit
 | Điểm | Kết quả | Chỗ trên trang |
@@ -42,13 +42,20 @@ Thân ~7.074 ký tự (đếm theo ký tự, không theo byte). S1 ~1.620 · S2 
 - **GR21-19 lịch lương:** ba thứ; không động từ tác chiến. **Ngoại lệ cần chị duyệt (mục 5-1).**
 - **GR21-20/21/23:** không câu nào nói bên kia nhìn thấu/ngu; mở ≠ đầu hàng không lên trang. Đạt.
 
-## 5. Điểm em thêm so với Scene Bible (cần chị xem)
-1. **Lời miệng "neo ngang sông, một đêm"** (S2) — Scene Bible/Gate chỉ có thuyền neo (T3) là *hành động trên sông, không giấy*, nhưng chưa nói **lệnh ấy ra từ đâu**; em đặt thành **lời miệng của Vân Chương cho phó tướng thủy quân** (lệnh cho thuyền Kim Lăng của chàng, **không** vào lịch lương gửi liên quân, **không** qua trạm). Nếu chị muốn giữ lịch lương tuyệt đối "ba thứ", có thể bỏ lời miệng này và để phó tướng tự neo — nhưng khi đó dòng *"Dòng đầu đúng với lệnh chàng đã viết"* (S4) phải đổi.
-2. **Sĩ quan của võ tướng xem sổ kho** (S4) — cost lương hiện ra trước người ngoài, **không tên, không lời**; cắt được nếu chị thấy dư.
-3. **Đốt tờ ghi ba câu trả lời** (S3) — chi tiết "ngoài sổ". Cắt được.
-4. **Thư lại nhân số thủy thủ lên và nói *"Mọi kỳ chỉ bằng đầu người…"*** (S2) — để người nghe thấy con số **bất thường** mà không giải thích mục đích.
-5. **S5 có thêm một câu về dầu đèn** (châm thêm, chàng ngăn) — chi tiết không mang thông tin; cắt được nếu chị muốn S5 tuyệt đối trần.
+## 5. Xử lý theo Audit Draft v1 (chị: PASS CÓ ĐIỀU KIỆN)
+| # | Yêu cầu | Xử lý |
+|---|---|---|
+| 1 | GIỮ lời miệng *"neo ngang sông, một đêm"* | Giữ; ghi vào Scene Bible mục 0C-1 (lệnh riêng cho thuyền Kim Lăng; không qua trạm; không thuộc lịch lương) |
+| 2 | GIỮ *"Dòng đầu đúng với lệnh chàng đã viết."* | Giữ (0C-2) |
+| 3 | CẮT dầu đèn S5 | **Đã cắt.** S5 còn ba nhịp: sĩ quan vào → đặt ống tre → *"Cổng thành mở."* (0C-3) |
+| 4 | Khóa chức năng *"Thuyền Kim Lăng tới bến. Chỉ Kim Lăng."* | **Đã ghi vào Scene Bible (SY-8 + 0C-5):** điều khoản của **thư riêng** (nhắc lại câu trong thư G + nhận điều (2)); **không** là mục thứ tư của lịch lương |
+| 5 | Làm rõ ngày *"Đêm hẹn"* | **Đã sửa:** *"Đêm hẹn: đêm thứ sáu kể từ đêm nay."* (mốc tương đối từ đêm viết thư; khớp thuyền khởi hành ngày kia + ~5 ngày; không số ngày tuyệt đối). Scene Bible 0C-4 |
+
+Hai chi tiết em tự thêm còn lại (sĩ quan võ tướng xem sổ kho; đốt tờ ghi ba câu trả lời) **chị không yêu cầu cắt → giữ**.
 
 ## 6. Rủi ro tự thấy
 - **S2 nhiều thoại ngắn** (nhịp hỏi–đáp của thư lại) — đúng giọng Ch20 nhưng nếu tai nghe thấy đều, có thể gộp thành ba nhịp.
 - **S4 "Dòng đầu đúng với lệnh chàng đã viết."** là dữ kiện; không phải suy đoán. Nếu chị thấy đã nghiêng về "đúng như tính", bỏ câu này.
+
+## 7. Kết luận
+**SELF-AUDIT CH21 (Draft v1 sau sửa): PASS.** Chờ chị LOCK Ch21 → Canon Update Ch21.

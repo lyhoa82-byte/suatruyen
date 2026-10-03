@@ -158,9 +158,9 @@ Người ấy bỏ tờ vào ống sáp, không đọc, lui ra. Tờ ấy đi b�
 
 Vân Chương không gọi thư lại. Chàng tự viết.
 
-*Nhận ba điều.* Chàng viết chậm, từng chữ. *Binh ở lại với tướng; không giao người ngoài.* Tới hai chữ cuối, bút dừng một nhịp trên giấy, để lại một chấm mực. Rồi chàng viết tiếp. *Đêm hẹn:* chàng viết ngày, nét chữ nhỏ và chắc. *Thuyền Kim Lăng tới bến. Chỉ Kim Lăng.*
+*Nhận ba điều.* Chàng viết chậm, từng chữ. *Binh ở lại với tướng; không giao người ngoài.* Tới hai chữ cuối, bút dừng một nhịp trên giấy, để lại một chấm mực. Rồi chàng viết tiếp. *Đêm hẹn: đêm thứ sáu kể từ đêm nay.* Nét chữ nhỏ và chắc. *Thuyền Kim Lăng tới bến. Chỉ Kim Lăng.*
 
-Chàng nhìn chữ ngày một lúc. Chấm mực ở hai chữ *người ngoài* đã khô thành một hạt đen nhỏ. Chàng thổi cho cả tờ giấy khô.
+Chàng nhìn dòng ấy một lúc. Chấm mực ở hai chữ *người ngoài* đã khô thành một hạt đen nhỏ. Chàng thổi cho cả tờ giấy khô.
 
 Cửa mở. Quan giữ ấn bước vào, tay cầm tờ phong tước ngày mai. Ông thấy phong thư chưa niêm.
 
@@ -269,8 +269,6 @@ Chàng buông tờ báo xuống bàn. Cơn ho tới, khô và dài. Thư lại �
 Đêm.
 
 — Người của thủy quân, — người hầu nói. — Đi suốt đêm.
-
-Dầu trong đèn đã gần cạn. Người hầu định châm thêm, chàng ngăn bằng một ngón tay.
 
 Sĩ quan bước vào, áo ướt đẫm, không ngồi. Ông đặt lên bàn một ống tre bịt sáp.
 
