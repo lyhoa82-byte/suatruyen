@@ -1,15 +1,15 @@
-# CỬU CHÂU LOẠN THẾ — SELF-AUDIT CH22 (Draft v1)
+# CỬU CHÂU LOẠN THẾ — SELF-AUDIT CH22 (Draft v1 → v1.1 sau Audit)
 
 *(Tự kiểm trước Audit. File: `draft/Cuu_Chau_Loan_The_Chuong_22_DRAFT.md`. Nền: Scene Bible Ch22 v2 LOCK; Gate Ch22 v2 LOCK. Chưa phải canon.)*
 
 ## 1. Độ dài
-**7.920 ký tự cả file** (Python `len()`; tính cả tiêu đề). S1 ~1.320 · S2 ~2.930 · S3 ~1.560 · S4 ~1.180 · S5 ~820. **Trong khung 7.000–8.000.** Không cắt bước nào trong chuỗi đọc → thấy → chọn → quyết → giá → chiếu. S2 dôi hơn dự kiến (2.400 → 2.930) vì gom hai sáng trinh sát + Hàn tự chọn + đêm đê + cổ chai vào một cảnh; S5 dôi (600 → 820) vì giữ câu *"Từ ngày huyện bên bị treo."*. Còn lại sau Ch22: **67.681** cho Ch23–32 (~6.77k/chương).
+**7.900 ký tự cả file** (v1: 7.920) (Python `len()`; tính cả tiêu đề). S1 ~1.320 · S2 ~2.930 · S3 ~1.560 · S4 ~1.150 · S5 ~820. **Trong khung 7.000–8.000.** Không cắt bước nào trong chuỗi đọc → thấy → chọn → quyết → giá → chiếu. S2 dôi hơn dự kiến (2.400 → 2.930) vì gom hai sáng trinh sát + Hàn tự chọn + đêm đê + cổ chai vào một cảnh; S5 dôi (600 → 820) vì giữ câu *"Từ ngày huyện bên bị treo."*. Còn lại sau Ch22: **67.701** cho Ch23–32 (~6.77k/chương).
 
 ## 2. Ba điểm chị dặn kiểm
 | Điểm | Kết quả | Chỗ trên trang |
 |---|---|---|
 | **GR22-H1** | Đạt. Dịch chỉ nhận ngày · lượng · đường. Mọi hành động của hắn dựa vật hắn **tự thấy**: bến dưới thêm người, *"Hổ Lao dồn quân ra phía bến"*, cổng đê ít đèn, thuyền không cập bến, dự bị *mặt ra sông*, đất liền thưa đèn, **cổng mở không ai hô**. Không thư Hổ Lao, điều (2), Vân Chương, *"Cổng thành mở"*, Bàng đọc gì. *"Ai ăn số này?"* và *"Ngoài lương?"* — không đáp. **Ba tay chìa ra** (S4) là ba hướng độc lập (Ích Châu đòi kho; thủy quân ghi công; quan cũ hỏi ai thay), không ai bị Dịch điều khiển. Phó tướng nói *"Sổ kho… gửi Kim Lăng"* (thủ tục), không *"Kim Lăng muốn…"*; không ai nói nguồn lệnh neo | S1, S2, S4 |
-| **Hệ thống cổng** | Đạt. **Cổng bến**: mô tả vật ngay lần đầu (*hẹp, thấp hơn tường thành chính sau lưng nó; cổng của khu đầu bến*). **Cổng đê**: chỉ nhắc ở S1 (chấm bản đồ), rồi **S5 do Hàn ra lệnh mở** (*"đóng từ đêm trận"*). **Cổng nối**: định nghĩa lần đầu (*khu đầu bến thông sang thành*), *"mở sẵn từ đêm"*, bộ Hàn vào thành chính **buổi sáng**. Grep: *"cổng thành"* = 0, *"thành mở"* = 0, *"tự mở"* = 0 | S2, S3, S5 |
+| **Hệ thống cổng** | Đạt. **Cổng bến**: mô tả vật ngay lần đầu (*hẹp, thấp hơn tường thành chính sau lưng nó; cổng của khu đầu bến*). **Cổng đê**: chỉ nhắc ở S1 (chấm bản đồ), rồi **S5 do Hàn ra lệnh mở** (*"đóng từ đêm trận"*). **Cổng nối**: định nghĩa lần đầu (*khu đầu bến thông sang thành*); **v1.1:** *"Cổng nối mới mở sáng nay"* — bộ Hàn vào thành chính **buổi sáng**; không còn câu nào gợi cổng nối mở từ đêm. Grep: *"cổng thành"* = 0, *"thành mở"* = 0, *"tự mở"* = 0 | S2, S3, S5 |
 | **Chiêu/Hoắc** | Đạt. Tên/thư/tin: 0. Chỉ **gò thấp phía đông trống** (S1, một nhịp). *"Kỵ"* trên trang chỉ **kỵ của Hạ Hầu** (*"Kỵ của Hạ Hầu?"*; *"kỵ che hai bên"*). Lực lượng Dịch = **bộ Hàn** (+ thủy quân trên sông). Không lực thứ hai | S1, S2, S3 |
 
 ## 3. Đối chiếu Scene Bible v2 / SY
@@ -24,8 +24,8 @@
 | SY-7 cổ chai, thuyền ngang sông là mặt thứ ba (đèn, không tiếng), Dịch tay không; sĩ quan Ích Châu hô tờ văn; giáo đặt xuống từng cây; một nhóm đi mép nước về tây, không ai chặn | Đạt. **Thêm một nhịp:** *"Tay những người đặt giáo gầy, và run"* (đói, không giải thích) |
 | SY-8 vào thành chính bằng cổng nối buổi sáng; người cầm đuốc hạ đuốc / lùi vào ngõ | Đạt |
 | SY-9/10/11 giữ thành không truy (*"Vào thành. Giữ kho."*); xô cho chính những người vừa cầm đuốc; *"Ngươi để chúng đi."*; *"Ta cần cả bộ ở đây."*; *"Tờ ghi có ăn."*; chốt bằng vệt bụi nhạt dần, không lời | Đạt |
-| SY-12/13/14 *"Ai đổ máu, người ấy giữ."*; *"Sông do thủy quân giữ. Ta ghi sổ."*; *"Lương còn nguyên."* (Dịch không hỏi thêm); *"Bàng?" — "Ông ấy cũng không thấy."* | Đạt |
-| SY-15 *"họ Tiêu?"* không đáp; ký *Trình Dịch, sứ Ích Châu*, không ấn | Đạt |
+| SY-12/13/14 *"Ai đổ máu, người ấy giữ."*; *"Sông do thủy quân giữ. Ta ghi sổ."*; *"Lương còn nguyên."* (Dịch không hỏi thêm); *"Ai giữ thành đêm qua?" — "Một tướng của Hạ Hầu. Không thấy từ đêm qua."* (**v1.1:** đã **xóa** *"Bàng?" — "Ông ấy cũng không thấy."*; Bàng = 0 trên trang; không thay bằng tên khác) | Đạt |
+| SY-15 *"họ Tiêu?"* không đáp; ký *Trình Dịch, sứ Ích Châu*, không ấn | Đạt. **v1.1:** chữ ký chuyển lên **gắn vào bản chép sổ kho** (*"ký dưới dòng cuối bản chép, chỗ người kiểm"*); cảnh kết ở *"họ Tiêu?"* — *"Dịch không đáp. Hắn trả bút."* — nên không đọc thành Dịch nhận thành |
 | SY-16 một nhịp gò thấp trống | Đạt |
 | SY-17 chiếu ấn đỏ dán lên cổng đê; nguyên văn Ch20; câu cuối (a) | Đạt |
 | SY-18 không *"Cổng thành mở."* | Đạt |
@@ -42,8 +42,16 @@
 - Hạ Hầu không ngu: có kỵ che cột bại quân, tự đốt kho.
 - Hook = chiếu dán trên cổng, không sứ Kim Lăng, không ấu đế/ông áo tía/hôn thư.
 
-## 6. Chỗ em muốn chị nhìn kỹ
-- **Hai luồng đi bờ phía tây:** đêm là một nhóm đi theo mép nước (không đặt giáo); sáng là một cột có kỵ che (từ trong thành). Em để hai luồng riêng; nếu chị thấy dễ lẫn thì gộp.
-- **S2 nặng (~2.930):** nếu chị muốn nhẹ, chỗ cắt an toàn là câu *"Ngoài lều có tiếng bát gõ…"* và đoạn *"Họ chờ. Rất lâu."*. Không đụng chuỗi suy luận.
+## 6. Lượt sửa theo Audit (Draft v1 → v1.1)
+| # | Yêu cầu của chị | Đã làm |
+|---|---|---|
+| 1 | Xóa *"Bàng?"* / *"Ông ấy cũng không thấy."* | Xóa cả hai câu. Giữ *"Một tướng của Hạ Hầu. Không thấy từ đêm qua."* rồi sang thẳng *"Ngài là người họ Tiêu?"*. Grep *Bàng* = 0 |
+| 2 | Cổng nối: sáng mới mở | *"Cổng nối mới mở sáng nay, hai cánh dựa tường."* (cảnh S3 vốn đã là buổi sáng nên em dùng *"sáng nay"* thay *"Đến sáng"*; cùng nghĩa với câu chị đề xuất). Grep *"từ đêm"*: chỉ còn *"không thấy từ đêm qua"* và *"đóng từ đêm trận"* (cổng đê) |
+| 3 | Chữ ký ≠ nhận thành | Chữ ký **không** đứng sau câu *"Ai nhận thành?"* nữa. Nó nằm ở lúc quan cũ chép bản sổ kho cho phó tướng, ghi *chỗ người kiểm*. Sau câu hỏi về quan cũ/ai hợp lệ/ai giữ thành, cảnh chỉ còn *"họ Tiêu?"* — không đáp — trả bút. Không thêm lời giải thích |
+
+*(Ghi chú: đây là chỉnh trình tự trong Draft, không sửa Scene Bible.)*
+
+## 7. Chỗ em muốn chị nhìn kỹ (còn lại)
+- **Hai luồng đi bờ phía tây:** đêm là một nhóm đi theo mép nước (không đặt giáo); sáng là một cột có kỵ che (từ trong thành). Để riêng; nếu dễ lẫn thì gộp.
 - **Số ngày:** Production Check Scene Bible ghi trận ~ngày 59 nhưng đoạn *"Đêm cuối, bộ đi đê"* ở ~58. Trên trang không số, nên không lộ; sẽ chốt một số khi Canon Update.
-- **Mốc Ch23 đã nhìn thấy:** thuyền chưa dỡ, sổ kho một bản, *ai hợp lệ*, Bàng không thấy, tên trong chiếu có ấn.
+- **Mốc Ch23 đã nhìn thấy:** thuyền chưa dỡ, sổ kho một bản, *ai hợp lệ*, người giữ thành *không thấy*, tên trong chiếu có ấn.

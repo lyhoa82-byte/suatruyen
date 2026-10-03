@@ -204,7 +204,7 @@ Dịch không đáp. Hàn nói, thấp, như nói với chính mình:
 
 — Ta cần cả bộ ở đây.
 
-Cổng nối mở sẵn từ đêm, hai cánh dựa tường. Bộ Hàn qua cổng, vào thành chính. Khói dày dần. Một dãy kho đang cháy, mái tre nổ lách tách. Trước kho, vài người của Hạ Hầu cầm đuốc đứng sững, đuốc còn cháy trong tay. Họ nhìn bộ Hàn. Một người hạ đuốc xuống đất, giẫm tắt. Người bên cạnh buông giáp. Mấy người khác lùi vào ngõ, biến đi.
+Cổng nối mới mở sáng nay, hai cánh dựa tường. Bộ Hàn qua cổng, vào thành chính. Khói dày dần. Một dãy kho đang cháy, mái tre nổ lách tách. Trước kho, vài người của Hạ Hầu cầm đuốc đứng sững, đuốc còn cháy trong tay. Họ nhìn bộ Hàn. Một người hạ đuốc xuống đất, giẫm tắt. Người bên cạnh buông giáp. Mấy người khác lùi vào ngõ, biến đi.
 
 — Ai biết dập kho? — Dịch hỏi.
 
@@ -246,7 +246,7 @@ Dịch gật. Phó tướng nói tiếp.
 
 — Sổ kho Hổ Lao. Một bản, gửi Kim Lăng.
 
-Một người áo xám cầm sổ nhà đứng cạnh, quan cũ của Hổ Lao. Dịch ra hiệu. Ông ngồi xuống bậc cửa, chép một bản trên đầu gối, đưa phó tướng.
+Một người áo xám cầm sổ nhà đứng cạnh, quan cũ của Hổ Lao. Dịch ra hiệu. Ông ngồi xuống bậc cửa, chép một bản trên đầu gối. Dịch cầm bút của ông, ký dưới dòng cuối bản chép, chỗ người kiểm: *Trình Dịch, sứ Ích Châu.* Không ấn. Ông đưa bản chép cho phó tướng.
 
 — Thuyền sao không vào bến? — Dịch hỏi.
 
@@ -268,15 +268,9 @@ Không ai đáp. Hàn nhìn ra chỗ khác. Sĩ quan nhìn cánh cửa kho.
 
 — Một tướng của Hạ Hầu. Không thấy từ đêm qua.
 
-— Bàng?
-
-— Ông ấy cũng không thấy.
-
-Dịch chờ. Quan cũ không nói thêm.
-
 — Ngài là người họ Tiêu?
 
-Dịch không đáp. Hắn cầm bút của quan cũ, ký xuống cuối sổ kho: *Trình Dịch, sứ Ích Châu.* Không ấn.
+Dịch không đáp. Hắn trả bút.
 
 ---
 
