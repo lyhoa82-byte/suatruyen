@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 20: ĐỨA TRẺ TRÊN NGÔI
 
-*(v1 — **chờ Pre-Audit**. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch20 v2 **LOCK** (D20-1 = R2 hợp thức hóa hậu quả, **không ủy quyền**; D20-2 = tướng giữ Hổ Lao; sáu công cụ **không combo hoàn hảo**; quan huyện **chỉ hai dữ kiện**; ấu đế **thao tác hành chính**; GR20-1…18); Canon Ch1–Ch19; Canon Update Ch18, Ch19 (mục IX); Production Bible; Chapter Bible Ch20. **Không mở lại Ch18–19; không đụng Ch21–23.** Độ dài trên trang **7.000–8.500** (còn 90.527 ký tự cho Ch20–32; Ch20 là chương chuyển tiếp). **Ch20 viết bằng Sonnet high.**)*
+*(v2 — **LOCK** (sửa theo Pre-Audit: PASS CÓ ĐIỀU KIỆN; 6 điểm bắt buộc + 1 tự kiểm). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: Gate Ch20 v2 **LOCK** (D20-1 = R2 hợp thức hóa hậu quả, **không ủy quyền**; D20-2 = tướng giữ Hổ Lao; sáu công cụ **không combo hoàn hảo**; quan huyện **chỉ hai dữ kiện**; ấu đế **thao tác hành chính**; GR20-1…18); Canon Ch1–Ch19; Canon Update Ch18, Ch19 (mục IX); Production Bible; Chapter Bible Ch20. **Không mở lại Ch18–19; không đụng Ch21–23.** Độ dài trên trang **7.000–8.500** (còn 90.527 ký tự cho Ch20–32; Ch20 là chương chuyển tiếp). **Ch20 viết bằng Sonnet high.**)*
 
 **POV:** **Tạ Vân Chương**, xuyên suốt. Narration gọi **"Vân Chương"**, **"chàng"**; nhắc người ở Ích Châu là **"Dịch"** (như Ch13). Người dưới gọi chàng **"đại nhân"**, **"Tạ đại nhân"**; chàng gọi ấu đế **"bệ hạ"** (câu ngắn, đúng lễ). Chàng nói **ngắn, ít chữ, không giải thích lý do**; chỉ ra lệnh bằng việc cụ thể. Không "điện hạ"; không "A Chiêu"; không "Hoắc Chiêu"; không "Đêm ấy…".
 **Thời gian:** trên trang chỉ có **"sáng"**, **"chiều"**, **"ngày thứ hai"**, **"mấy ngày sau"**, **"đêm"**; **không số ngày** (suy ra: ~ngày 44 → ~51 sau Hổ Lao).
@@ -16,29 +16,30 @@
 
 | # | Chỗ | Vấn đề | Đề xuất |
 |---|---|---|---|
-| **SY-1** | Nguồn tin S1 | Gate: báo cáo của **phó tướng thủy quân**; nhưng phó tướng ở bãi cháy, không về Kim Lăng | [P] Một **sĩ quan thủy quân** (vô danh, người của phó tướng) **đi thuyền nhanh về** và **đặt báo cáo + bản chép tờ văn lên bàn**; trả lời hai câu hỏi (*"Có ấn không?"*, *"Ai giữ thành?"*) |
-| **SY-2** | Ba nhóm cản (vô danh) cần **nhận diện bằng tai** | Audio không có tên | [P] **Văn quan** = *"ông già tóc bạc"*; **võ tướng** = *"tướng thủy quân râu quai nón"* (chủ tướng thủy quân Kim Lăng, **cấp trên của phó tướng**; thuyền Ch16–19 là thuyền của ông); **ngoại thích** = *"ông áo tía"*. **Quan giữ ấn** = người đứng cạnh hộp ấn. Mỗi người **một dấu hiệu** khi vào cảnh, rồi gọi theo dấu hiệu đó |
-| **SY-3** | **Lợi ích cụ thể** cho từng nhóm (Gate §4A "Lợi ích") | Gate chỉ nói "đất của kẻ không hàng chia cho võ tướng và văn quan" | [P] **(a) Văn quan:** thêm vào chiếu *"Sau hạn, pháp trở lại"* + ruộng nhà của kẻ không hàng **sung vào công**. **(b) Tướng thủy quân:** được **phần đầu** ruộng sung công + **tờ phong tước** cho người giữ thủy lộ **đóng ấn cùng ngày** chiếu. **(c) Ngoại thích:** **hôn phối** (SY-4). **Nhóm không hài lòng = ông áo tía** (vẫn hỏi **ai giữ ấn tước**) |
-| **SY-4** | **Hôn phối** (D20-7: một mối, rất ngắn) | Ai nối với ai, nối để làm gì | [P] **Con trai tướng thủy quân** — **con gái ông áo tía**. Vân Chương đề nghị **triều đình chủ hôn, hôn thư đóng ấn cùng ngày chiếu**. **Hai người trẻ không có mặt, không nhắc tên.** Một nhịp: hai người đàn ông nhìn nhau, rồi **cúi đầu**. Không bình luận |
-| **SY-5** | **Chỗ hở của "hạn"** | Phải lộ ra trên trang | [P] **S2:** thư lại soạn hỏi hạn ghi ngày nào → Vân Chương: *"Kể từ ngày chiếu tới."* → thư lại: *"Mỗi nơi tới một ngày khác."* → *"Phải."* → **không sửa**. **S3:** tướng thủy quân hỏi **đúng câu** *"Hạn là bao giờ?"*, Vân Chương **lặp đúng lời** *"Kể từ ngày chiếu tới."* **Không** ai sửa |
+| **SY-1** | Nguồn tin S1 | Gate: báo cáo của **phó tướng râu quai nón**; nhưng phó tướng ở bãi cháy, không về Kim Lăng | [P] Một **sĩ quan thủy quân** (vô danh, người của phó tướng) **đi thuyền nhanh về** và **đặt báo cáo + bản chép tờ văn lên bàn**; trả lời hai câu hỏi (*"Có ấn không?"*, *"Ai giữ thành?"*) |
+| **SY-2** *(Pre-Audit)* | Ba nhóm cản (vô danh) cần **nhận diện bằng tai** | Audio không có tên; **không** biến võ tướng thành nhân vật quan trọng mới | [P] **Văn quan** = *"ông già tóc bạc"*; **võ tướng** = *"tướng râu quai nón"* (**chỉ đại diện nhóm võ tướng** + một đầu của hôn phối; **không** gắn thủy quân, **không** lore, **không** tái xuất ngoài Ch23 nếu cần); **ngoại thích** = *"ông áo tía"*. **Quan giữ ấn** = người đứng cạnh hộp ấn. Mỗi người **một dấu hiệu** khi vào cảnh, rồi gọi theo dấu hiệu đó. **LOCK** |
+| **SY-3** *(Pre-Audit)* | **Lợi ích cụ thể**; **mỗi nhóm nhượng một phần vì lợi ích riêng**, Vân Chương **cũng nhượng** | Tránh cảm giác Vân Chương thắng ba nhóm bằng một lần nói | [P] **(a) Văn quan:** nhượng ân xá; **được** *"Sau hạn, pháp trở lại"* + **sổ ruộng sung công do văn quan ghi** (Vân Chương nhượng quyền ghi sổ). **(b) Tướng râu quai nón:** nhượng chữ *"sứ Ích Châu"* trong chiếu; **được phần đầu ruộng sung công**; **vẫn chưa chịu** sau câu *"Phát theo tờ có ấn"* (im, không gật). **(c) Ông áo tía:** **không được ấn tước**; **mặc cả hôn phối** (SY-4); **vẫn không hài lòng**. **LOCK** |
+| **SY-4** *(Pre-Audit)* | **Hôn phối** (D20-7: một mối, rất ngắn; **không mở subplot**) | Ai nối với ai | [P] **Con trai tướng râu quai nón** — **con gái ông áo tía**. **Một nhịp mặc cả:** Vân Chương đề nghị triều đình chủ hôn; ông áo tía **đòi hôn thư đóng trước chiếu**; Vân Chương: *"Cùng ngày."* Hai người đàn ông nhìn nhau, **cúi đầu**. **Hai người trẻ không có mặt, không nhắc tên.** Không bình luận, **không** thêm cảnh/lời nào về hôn sự sau đó. **LOCK** |
+| **SY-5** | **Chỗ hở của "hạn"** | Phải lộ ra trên trang | [P] **S2:** thư lại soạn hỏi hạn ghi ngày nào → Vân Chương: *"Kể từ ngày chiếu tới."* → thư lại: *"Mỗi nơi tới một ngày khác."* → *"Phải."* → **không sửa**. **S3:** tướng râu quai nón hỏi **đúng câu** *"Hạn là bao giờ?"*, Vân Chương **lặp đúng lời** *"Kể từ ngày chiếu tới."* **Không** ai sửa |
 | **SY-6** | **"Hạ Hầu có nhận chiếu này không?"** (chỗ hở của danh nghĩa) | Gate: **không ai đáp** | [P] **Văn quan** hỏi; **không ai đáp, kể cả Vân Chương**; **một nhịp im**; rồi quan giữ ấn nói *"Bệ hạ"* |
-| **SY-7** | **"Quân ta ăn lương của ai?"** (quân không trung thành) | Gate: một võ tướng nói thẳng | [P] Tướng thủy quân hỏi. Vân Chương: *"Của kho triều đình. Phát theo tờ có ấn."* Tướng **nhìn hộp ấn, nhìn đứa trẻ, không nói nữa**. **Câu này cũng là mắt xích của cost** (lương **đi theo ấn** → ấn phải có người cầm, S5) |
+| **SY-7** | **"Quân ta ăn lương của ai?"** (quân không trung thành) | Gate: một võ tướng nói thẳng | [P] Tướng râu quai nón hỏi. Vân Chương: *"Của kho triều đình. Phát theo tờ có ấn."* Tướng **nhìn hộp ấn, nhìn đứa trẻ, không nói nữa**. **Câu này cũng là mắt xích của cost** (lương **đi theo ấn** → ấn phải có người cầm, S5) |
 | **SY-8** | **Ấu đế** (D20-6) | Chỉ thao tác hành chính | [P] **S3:** ngồi ngai, hai chân không chạm đất; quan giữ ấn **chỉ chỗ**; ngài đặt tay; hỏi **một câu**: *"Đóng ở đâu?"* Cuối S3: nhìn Vân Chương ho, hỏi **một câu trẻ con**: *"Tạ đại nhân ho vì sao?"* — *"Thần nhiễm lạnh, bệ hạ."* **Hết.** Không tên húy, không Dịch, không biểu tượng |
 | **SY-9** | **Chiếu — chữ trên trang** | Gate §3: ba ý + một câu nêu Dịch | [P] **Đọc to một lần ở S3**, bản đầy đủ (mục S3 beat 1). **Cắt:** *"Hàng binh không giết, có ăn"*; *"Lương bán theo giá chợ cũ"*. **Có:** *"Theo lệ cũ"*; *"Sau hạn, pháp trở lại"* (SY-3a) |
 | **SY-10** | **Hai đường tin** + **chức trong sổ cũ** | Thư riêng gửi **cho ai** | [P] Thư riêng + tờ phong tước **ghi theo *chức* trong sổ cũ của triều** (thư lại: *"Sổ ghi chức, không ghi người đang giữ"*). **Ai giữ chức, người ấy nhận** — **không biết tới tay ai**. **Chỗ hở** của thư riêng. Bản công khai đi **trạm ngựa** (đường hở) |
-| **SY-11** | **Quan huyện** (D20-5; chỉ hai dữ kiện) | Vân Chương xử lý tin thế nào | [P] Tin tới qua **người Kim Lăng ở tuyến trước + tin đồn dọc đường trạm**. Chàng **ghi đúng hai việc** (*đã đọc chiếu cho dân*; *bị xử*), **không ghi gì ở giữa**. Huyện và quan huyện **không tên** (tờ ghi **chức**, *"chưa rõ tên"*). **Không** hỏi vì sao; **không** kết luận. **Một nhịp ngờ** (S4 beat 5). Rồi **làm tiếp** |
+| **SY-11** *(Pre-Audit)* | **Quan huyện** (D20-5; **chỉ hai dữ kiện**) | Vân Chương chỉ biết đúng hai việc | [P] Tin tới qua **người Kim Lăng ở tuyến trước + tin đồn dọc đường trạm**. Chàng **ghi đúng hai việc** (*đã đọc chiếu cho dân*; *bị Hạ Hầu xử*), **không ghi gì ở giữa**. Huyện và quan huyện **không tên** (tờ ghi **chức**, *"chưa rõ tên"*). **Không** hỏi vì sao; **không** kết luận; **không** nhịp ngờ, **không** suy động cơ (bỏ *"Có thể không phải vì chiếu"*). Phản ứng chỉ bằng **việc**: nhìn hai dòng, đặt tờ xuống, làm tiếp. **LOCK** |
 | **SY-12** | **Gói vỏ quýt** — Ch18 | *"Đi sau."* là **lời Uyển nói với thị nữ**, **không** viết trên gói | [P] **Trên trang Ch20, gói vỏ quýt tới sau thư và **không** có chữ nào**; Vân Chương **không** biết lời *"Đi sau."* Chỉ nói **gói tới sau thư** và **nó là vỏ quýt khô**. **Không** callback chữ |
 | **SY-13** | **Thư Uyển — nét chữ** | Không ký tên | [P] Không ký tên; chàng **nhận ra chữ** (một nhịp, **không** giải thích vì sao). **Không** đáp (S1: người đưa thư hỏi *"Đại nhân có thư đáp?"* — *"Không."*) |
 | **SY-14** | **Tờ xin ra tuyến trước** (cost) | Gửi ai; vì sao ra | [P] Tờ **gửi ấu đế** (thủ tục: chiếu chỉ tới Lạc Thủy), **không ghi lý do**. **Quan giữ ấn** vào đưa tờ ngày mai; thấy tờ trên bàn; hỏi *"Đại nhân đi ngày nào, tờ phong tước ai chứng?"* **Ngoại thích đã hỏi hai lần.** Vân Chương **gấp tờ, cất ngăn kéo** (cùng ngăn có tờ giấy Hán một dòng của Uyển; **không** ngụ ý) |
-| **SY-15** | **Hook** | Một câu; thật/trá; người đưa thư | [P] Người đưa thư (vô danh) tới **cổng thành phía tây ban đêm**, tự mình, **tận tay Tạ đại nhân**; **không qua trạm**. Nói **một câu**: *"Tướng giữ Hổ Lao."* **Trên trang chỉ có câu đầu của thư**: *"Hổ Lao xin hàng."* **Ba điều kiện không đưa lên trang Ch20** (**[CẦN DUYỆT]**; khuyến nghị: đưa vào Ch21) |
+| **SY-15** *(Pre-Audit)* | **Hook** | Một câu; thật/trá; người đưa thư | [P] Người đưa thư (vô danh) tới **cổng thành phía tây ban đêm**, tự mình, **tận tay Tạ đại nhân**; **không qua trạm**. Nói **một câu**: *"Tướng giữ Hổ Lao."* **Trên trang chỉ có câu đầu của thư**: *"Hổ Lao xin hàng."* **Ba điều kiện không đưa lên trang Ch20** → Ch21 (**hook có kiểm soát**). **Vân Chương không tính trước kết quả:** thư là **phản ứng mới đến**, chàng **không** nhẹ nhõm/đắc thắng/*"đã đoán"* (xem SY-18). **LOCK** |
 | **SY-16** | Thầy thuốc | Gate §2: bảo nghỉ, chàng không nghỉ | [P] **Một nhịp** ở S5, **không** đứng riêng (gộp vào beat gói vỏ quýt) |
 | **SY-17** | **Mốc thời gian trang** | GR20-10 cho phép *"sáng"/"ngày thứ hai"/"đêm"* | [P] Thêm **"chiều"** (S2) và **"mấy ngày sau"** (S4 beat 4), **không** số ngày |
+| **SY-18** *(Pre-Audit: tự kiểm)* | Vân Chương **không tính trước kết quả** | *"Hạ Hầu có nhận chiếu này không?"* + hook *"Hổ Lao xin hàng"* dễ đọc thành kế đã định | [P] Câu hỏi ở S3 là **lo của văn quan**, không ai đáp (không phải kế). S4: chàng **thử hai đường vì không biết đường nào ăn**. S5: thư Hổ Lao là **việc mới đến**; chàng **không ngạc nhiên giả, không nhẹ nhõm, không đắc thắng, không *"như đã dự"***; phản ứng chỉ **đọc hai lần, giữ người đưa thư lại, chưa đáp**. **LOCK** |
 
 ---
 
 ## 0. RÀNG BUỘC ĐÃ LOCK (nhắc lại)
 
-1. **POV Vân Chương** (GR20-1): chỉ điều chàng **thấy, nghe, làm, biết, suy (ghi là suy)**. **Hiện diện:** Vân Chương; sĩ quan thủy quân; thư lại soạn; quan giữ ấn; ba nhóm (ông già tóc bạc, tướng thủy quân râu quai nón, ông áo tía); ấu đế; quan trạm; sĩ quan Kim Lăng tuyến trước (qua lời); thầy thuốc; người hầu; người đưa thư vô danh. **Vắng:** Dịch, Chiêu, Hàn, Uyển (chỉ thư + gói), Chỉ/A Quy/Dạ Kiêu, Ôn, Tô, Phùng Bảo, Bàng, Hạ Hầu Liệt (chỉ qua tin), Khả hãn, Hách Liên.
+1. **POV Vân Chương** (GR20-1): chỉ điều chàng **thấy, nghe, làm, biết, suy (ghi là suy)**. **Hiện diện:** Vân Chương; sĩ quan thủy quân; thư lại soạn; quan giữ ấn; ba nhóm (ông già tóc bạc, tướng râu quai nón, ông áo tía); ấu đế; quan trạm; sĩ quan Kim Lăng tuyến trước (qua lời); thầy thuốc; người hầu; người đưa thư vô danh. **Vắng:** Dịch, Chiêu, Hàn, Uyển (chỉ thư + gói), Chỉ/A Quy/Dạ Kiêu, Ôn, Tô, Phùng Bảo, Bàng, Hạ Hầu Liệt (chỉ qua tin), Khả hãn, Hách Liên.
 2. **R2 = hợp thức hóa hậu quả, không ủy quyền** (GR20-16): chiếu **không** trao quyền/chức/quân cho Dịch; Dịch **vẫn là "sứ Ích Châu"**; **không** câu "Dịch nay thuộc Kim Lăng"; chiếu **chỉ nhắc** lời đã hứa **như sự việc đã xảy ra**.
 3. **DANH-A / GR20-2:** không "điện hạ"; không công nhận Dịch là hoàng tử/Tiêu; chiếu: *"sứ Ích Châu Trình Dịch"*.
 4. **Không combo hoàn hảo** (GR20-17): mỗi công cụ có **chỗ hở đọc được** (mục 4); Vân Chương **thử nhiều hướng vì không biết hướng nào ăn**; **cấm** *"mọi việc đúng như tính"*, *"kế hoạch đã hoàn thành"*; kết quả cuối = **dấu hiệu chia rẽ**, **không** "Hạ Hầu bị cô lập".
@@ -65,7 +66,7 @@
 | Người | Muốn / sợ | Điều chàng thấy |
 |---|---|---|
 | **Ông già tóc bạc (văn quan)** | Giữ pháp độ; sợ *"bỏ pháp"* | Phản đối ân xá rộng; chấp nhận khi **sau hạn pháp trở lại + ruộng sung công**; hỏi *"Hạ Hầu có nhận chiếu này không?"* |
-| **Tướng thủy quân râu quai nón** | Công, đất, tước; sợ công về tay người ngoài | *"Chiếu ghi sứ Ích Châu. Quân ta không có chữ nào."*; *"Hạn là bao giờ?"*; *"Quân ta ăn lương của ai?"*; **cúi đầu** sau hôn phối |
+| **Tướng râu quai nón** | Công, đất, tước; sợ công về tay người ngoài | *"Chiếu ghi sứ Ích Châu. Quân ta không có chữ nào."*; *"Hạn là bao giờ?"*; *"Quân ta ăn lương của ai?"*; **cúi đầu** sau hôn phối |
 | **Ông áo tía (ngoại thích)** | Giữ ấu đế, giữ ấn tước và hôn phối | **Nhận hôn phối**; **vẫn hỏi ai giữ ấn tước**; **không hài lòng** |
 | **Quan giữ ấn** | Làm đúng thủ tục | Chỉ chỗ cho ấu đế đặt tay; **S5: hỏi ai chứng ấn tước khi Vân Chương vắng** |
 | **Ấu đế** | (trẻ con) | Hỏi *"Đóng ở đâu?"*, *"Tạ đại nhân ho vì sao?"* |
@@ -128,16 +129,16 @@
 
 ### S3 — Chiếu (phòng nghị, ngày thứ hai) · khoảng 2.000 ký tự
 
-**Nơi chốn:** phòng nghị; ngai; hộp ấn; ba nhóm. **Có mặt:** Vân Chương; ấu đế; quan giữ ấn; ông già tóc bạc; tướng thủy quân râu quai nón; ông áo tía.
+**Nơi chốn:** phòng nghị; ngai; hộp ấn; ba nhóm. **Có mặt:** Vân Chương; ấu đế; quan giữ ấn; ông già tóc bạc; tướng râu quai nón; ông áo tía.
 
 **Chức năng:** **Thắng không chiến trường, nhưng không trọn vẹn** (còn một nhóm không hài lòng; câu hỏi chính danh **không ai đáp**).
 
 **Beats:**
 1. Mở bằng **ai, ở đâu, vật:** ngày thứ hai; ngai **quá lớn**, ấu đế **hai chân không chạm đất**; hộp ấn trên bàn thấp; quan giữ ấn **đứng cạnh**. Vân Chương **đứng thấp hơn ngai một bậc**, **đọc to chiếu một lần** *(SY-9)*:
    > *Nhân danh bệ hạ. Theo lệ cũ: ai đã mở cửa, hoặc mở cửa, hàng, buông giáp trước hạn, không bị hỏi tội vì đã phục Hạ Hầu. Quan cũ giữ việc cho tới khi có người thay hợp lệ. Thuế giữ theo lệ cũ. Như lời đã hứa ở Dĩnh Xuyên của sứ Ích Châu Trình Dịch, nay triều đình xác nhận. Hạn tính từ ngày chiếu tới.*
-2. **Ông già tóc bạc** (văn quan): *"Ân xá rộng như vậy là bỏ pháp."* — Vân Chương: *"Sau hạn, pháp trở lại. Ruộng nhà của kẻ không hàng sung vào công."* — *"Ghi vào chiếu."* — *"Ghi."* **Thêm một câu** *(SY-3a)*. Ông **im**.
-3. **Tướng thủy quân** (râu quai nón): *"Chiếu ghi sứ Ích Châu. Quân ta không có chữ nào."* — Vân Chương: *"Ruộng sung công, quân Kim Lăng nhận phần đầu. Tờ phong tước cho người giữ thủy lộ, đóng ấn cùng ngày chiếu."* *(SY-3b.)* Tướng: *"Hạn là bao giờ?"* — *"Kể từ ngày chiếu tới."* — *"Mỗi nơi một ngày."* — *"Phải."* *(Chỗ hở, không sửa.)* Tướng: *"Quân ta ăn lương của ai?"* — *"Của kho triều đình. Phát theo tờ có ấn."* Tướng **nhìn hộp ấn, nhìn đứa trẻ, không nói nữa.**
-4. **Ông áo tía** (ngoại thích): *"Ấn tước, ai giữ?"* — *"Ấn giữ nơi ấn vẫn giữ. Đóng thì có hai người chứng."* — *"Hai người nào?"* — *"Ta và quan giữ ấn."* Ông **nhìn quan giữ ấn**, **không nói**. **Hôn phối (một nhịp; SY-4):** Vân Chương: *"Con gái ông và con trai tướng quân: triều đình xin chủ hôn. Hôn thư đóng ấn cùng ngày chiếu."* **Hai người đàn ông nhìn nhau; cúi đầu.** **Không** tên người trẻ; **không** ai bình luận.
+2. **Ông già tóc bạc** (văn quan): *"Ân xá rộng như vậy là bỏ pháp."* — Vân Chương: *"Sau hạn, pháp trở lại. Ruộng nhà của kẻ không hàng sung vào công."* — *"Ai ghi sổ ruộng?"* — *"Văn quan ghi."* — *"Ghi vào chiếu: sau hạn, pháp trở lại."* — *"Ghi."* **Thêm một câu** *(SY-3a)*. Ông **nhượng**, đổi lấy sổ trong tay mình; **không** nói *"tạ ơn"*, không cười. *(Mỗi bên nhượng một thứ.)*
+3. **Tướng râu quai nón**: *"Chiếu ghi sứ Ích Châu. Quân ta không có chữ nào."* — Vân Chương: *"Ruộng sung công, quân Kim Lăng nhận phần đầu."* — *"Hạn là bao giờ?"* — *"Kể từ ngày chiếu tới."* — *"Mỗi nơi một ngày."* — *"Phải."* *(Chỗ hở, không sửa.)* Tướng: *"Quân ta ăn lương của ai?"* — *"Của kho triều đình. Phát theo tờ có ấn."* Tướng **nhìn hộp ấn, nhìn đứa trẻ, không nói nữa** — **không gật**: **chưa chịu** (chỉ nhượng khi tới hôn phối ở beat 4).
+4. **Ông áo tía** (ngoại thích): *"Ấn tước, ai giữ?"* — *"Ấn giữ nơi ấn vẫn giữ. Đóng thì có hai người chứng."* — *"Hai người nào?"* — *"Ta và quan giữ ấn."* Ông **nhìn quan giữ ấn**, **không nói**. **Hôn phối — một nhịp mặc cả (SY-4):** Vân Chương: *"Con gái ông và con trai tướng quân: triều đình xin chủ hôn."* — ông áo tía: *"Hôn thư đóng trước chiếu."* — *"Cùng ngày."* **Hai người đàn ông nhìn nhau; cúi đầu.** **Không** tên người trẻ; **không** bình luận; **không** nhắc lại hôn sự về sau. *(Ông áo tía được hôn, **không** được ấn tước.)*
 5. **Câu hỏi không ai đáp (SY-6):** ông già tóc bạc, **chậm**: *"Hạ Hầu có nhận chiếu này không?"* **Không ai đáp** (kể cả Vân Chương). **Một nhịp im.** Quan giữ ấn: *"Bệ hạ."*
 6. **Ấn (SY-8):** quan giữ ấn **mở hộp**, **chỉ chỗ** trên giấy; ấu đế **đưa tay**, hỏi: *"Đóng ở đâu?"* — quan: *"Ở đây, bệ hạ."* Tay đứa trẻ **đặt lên ấn**; quan **ấn xuống**. **Ông áo tía không bước tới** để cúi chào chiếu (**nhóm không hài lòng**; hiện bằng **việc**). Vân Chương **ho**; ấu đế nhìn chàng: *"Tạ đại nhân ho vì sao?"* — *"Thần nhiễm lạnh, bệ hạ."* **Hết cảnh.**
 
@@ -146,7 +147,9 @@
 - **Hôn phối:** một nhịp; không dựng cảnh tình cảm; **hai người trẻ không ở đó**.
 - **Không** câu *"bảo vệ ↔ sử dụng"*; **không** cử chỉ ẩn dụ (không giữ cổ tay; chỉ thao tác chỉ chỗ).
 - **Không** *"Vân Chương nắm hết"*, **không** *"hắn đã thắng"*; ông áo tía **vẫn chưa hài lòng**.
-- **Không** số quân/tướng; *"người giữ thủy lộ"* không tên.
+- **Không** thắng ba nhóm bằng một lần nói: **ba lượt riêng**, mỗi nhóm **nhượng một phần vì lợi ích riêng**, Vân Chương **cũng nhượng** (sổ ruộng cho văn quan; phần đầu cho võ tướng; hôn thư trước/cùng ngày).
+- **Hôn phối không mở subplot**; tướng râu quai nón **không** thành nhân vật mới (chỉ đại diện võ tướng + một đầu hôn sự).
+- **Không** số quân/tướng; **không** *"thủy quân"*, *"thủy lộ"*.
 
 ---
 
@@ -158,15 +161,16 @@
 
 **Beats:**
 1. Mở bằng **ai, ở đâu, vật:** sáng; chiếu đã **sao thành nhiều bản**, mực còn ẩm. **Quan trạm** đứng chờ **bản công khai**: *"Gửi theo trạm?"* — *"Theo trạm."* — *"Đường ấy… có thể bị đọc."* — *"Phải."* **Chàng ký lệnh gửi.** *(Dùng đường hở, chấp nhận Hạ Hầu đọc; **không** truy nguồn, **không** đổi người ở trạm, **không** K2.)* Quan trạm **nhận**, **đi**.
-2. **Thư riêng (SY-10):** thư lại đặt **ống tre sáp** + **tờ phong tước** (*"giữ nguyên chức, thêm tước cho ai hàng trước hạn"*) lên bàn. *"Gửi theo chức trong sổ cũ."* — Thư lại: *"Sổ ghi chức, không ghi người đang giữ."* — *"Ai giữ chức, người ấy nhận."* Chàng đóng ấn **vào tờ phong tước** (**quan giữ ấn đứng cạnh**; *"hai người chứng"*; **một nhịp**); giao **người của thủy quân** (đi **thuyền**). *(Chỗ hở: **không biết tới tay ai**; ấn tước **đóng bởi chàng**.)*
+2. **Thư riêng (SY-10):** thư lại đặt **ống tre sáp** + **tờ phong tước** (*"giữ nguyên chức, thêm tước cho ai hàng trước hạn"*) lên bàn. *"Gửi theo chức trong sổ cũ."* — Thư lại: *"Sổ ghi chức, không ghi người đang giữ."* — *"Ai giữ chức, người ấy nhận."* Chàng đóng ấn **vào tờ phong tước** (**quan giữ ấn đứng cạnh**; *"hai người chứng"*; **một nhịp**); giao **người của thủy quân** (đi **thuyền**). *(Chỗ hở: **không biết tới tay ai**; ấn tước **đóng bởi chàng**. Chàng **gửi hai đường vì không biết đường nào ăn** — **không** lời nào nói chàng *"muốn chia rẽ"*.)*
 3. **Mấy ngày sau:** **người báo** của Kim Lăng ở tuyến trước tới, **hai dữ kiện** (SY-11):
    — *"Chiếu tới hai nơi. Ở một huyện phía tây, quan huyện đọc chiếu cho dân trước cửa huyện."*
    — *"Sau đó?"*
    — *"Treo ở cổng huyện. Hạ Hầu xử."* *(Tin đồn dọc đường trạm cũng nói vậy; **không** thêm gì.)*
-4. Vân Chương **hỏi tên**. — *"Chưa rõ tên."* — **Tờ riêng:** chàng **ghi đúng hai việc**: *"Quan huyện — đã đọc chiếu cho dân."* *"Quan huyện — bị Hạ Hầu xử."* **Không** ghi gì ở giữa. Chàng **nhìn** hai dòng, **một nhịp ngờ** *(ghi là ngờ)*: *"Có thể không phải vì chiếu."* — **chỉ một câu**, **không** khẳng định.
+4. Vân Chương **hỏi tên**. — *"Chưa rõ tên."* — **Tờ riêng:** chàng **ghi đúng hai việc**: *"Quan huyện — đã đọc chiếu cho dân."* *"Quan huyện — bị Hạ Hầu xử."* **Không** ghi gì ở giữa; **không** hỏi vì sao; **không** nhịp ngờ, **không** suy động cơ. Chàng **nhìn hai dòng** một lúc; **không** nói.
 5. **Làm tiếp:** chàng đặt tờ riêng vào **chồng giấy**; lấy tờ kế; **cơn ho** tới, **khô và dài** (callback cuối Ch13, **không** nêu); chàng **đợi qua**, **viết tiếp**. **Hết cảnh.** *(Không dựng cảnh thương tiếc.)*
 
 **Guardrail:**
+- **Vân Chương chỉ biết đúng hai việc** (đã đọc chiếu / bị Hạ Hầu xử); **không** suy động cơ, **không** *"có thể không vì chiếu"*, **không** *"có thể vì chiếu"*.
 - **Không** khóa **vì sao** quan huyện bị xử; **không** ai báo Hạ Hầu; **không** quan huyện có tự nguyện hay không; **không** dân phản ứng; Vân Chương **không** kết luận.
 - **Không** Kha Trọng, K2, *"rò"*, *"nhà buôn tin"*; **không** đổi người ở trạm; **không** *"tin giả"*.
 - **Không** moralize; **không** *"chàng thấy mình có lỗi"*; **không** *"quyền lực là…"*.
@@ -186,10 +190,10 @@
 2. **Tờ xin (SY-14):** chàng đã viết **một tờ gửi ấu đế**: *"Xin ra tuyến trước, Lạc Thủy."* **Không ghi lý do.** **Quan giữ ấn** vào đưa **tờ phong tước ngày mai**; **thấy tờ xin trên bàn**: *"Đại nhân đi ngày nào, tờ phong tước ai chứng?"* — *"Ông chứng."* — *"Hạ quan chỉ giữ ấn, không chứng. Ông áo tía đã hỏi hai lần ai chứng."* **Một nhịp im.** Chàng **nhìn tờ xin**, **gấp lại**, **cất vào ngăn kéo** (**cùng ngăn** với tờ giấy Hán một dòng). **Không** lời, **không** bi kịch hóa. Quan giữ ấn **đặt tờ phong tước xuống bàn**, lui.
 3. **Uyển:** chàng **cầm bát**, **uống hết**. **Không** *"cảm ơn"*, **không** *"nhớ"*, **không** nhắc thư, **không** nhắc câu chàng không hỏi.
 4. **Hook:** người hầu: *"Có người ở cổng thành phía tây. Nói chỉ đưa tận tay."* — *"Cho vào."* Người đưa thư (bụi đường, tay trống), **một câu**: *"Tướng giữ Hổ Lao."* — chàng nhận phong thư, **niêm chức dấu**, **không tên**. *"Ông tới bằng đường nào?"* — *"Đường riêng."* *(SY-15.)* Chàng bóc, **đọc hết**, **đọc lại từ đầu**. *"Ông ở lại phòng bên. Ta đáp sau."* Người ấy lui.
-5. **Câu cuối chương = dòng đầu của thư** (SY-15; một câu): chàng đặt thư cạnh bát đã cạn; **dòng đầu nằm ngửa dưới ánh đèn, bốn chữ:** *"Hổ Lao xin hàng."* **Hết.** *(Vân Chương **không** đoán thật/trá; **không** ba điều kiện trên trang.)*
+5. **Câu cuối chương = dòng đầu của thư** (SY-15; một câu): chàng đặt thư cạnh bát đã cạn; **dòng đầu nằm ngửa dưới ánh đèn, bốn chữ:** *"Hổ Lao xin hàng."* **Hết.** *(Vân Chương **không** đoán thật/trá; **không** ba điều kiện trên trang; **không** ngạc nhiên giả, **không** nhẹ nhõm/đắc thắng, **không** *"như đã dự"*: thư là việc **mới đến**; SY-18.)*
 
 **Guardrail:**
-- **Không** *"chàng thấy mình bị giam"*; **không** diễn giải tờ gấp; **không** *"ngăn kéo chứa…"* như ẩn dụ (chỉ vị trí vật).
+- **"Không thể rời" đến từ việc** *(cần người giữ ấn/chứng ấn; ngoại thích đã hỏi hai lần; lương đi theo ấn)* — **không** diễn giải thành cảm giác; **không** *"chàng thấy mình bị giam"*; **không** diễn giải tờ gấp; **không** *"ngăn kéo chứa…"* như ẩn dụ (chỉ vị trí vật).
 - **Không** monologue về Uyển; **không** *"nước vỏ quýt…"* gợi ký ức.
 - **Hook = một câu**, **không** giải thích thật/trá; Vân Chương **không** *"đoán"*.
 - **Không** *"Hạ Hầu đã bị cô lập"*; **không** *"kế đã thành"*.
@@ -203,7 +207,7 @@
 |---|---|---|
 | Danh nghĩa tiểu hoàng đế | S3: chiếu đóng ấn, ấu đế đặt tay | **"Hạ Hầu có nhận chiếu này không?"** — **không ai đáp** |
 | Ân xá | S2–S3: ba ý + *"Sau hạn, pháp trở lại"* | **"Hạn"**: *"Kể từ ngày chiếu tới"* — *"Mỗi nơi một ngày"* — **để nguyên** |
-| Lợi ích | S3: ruộng sung công cho văn quan và tướng thủy quân | **Ông áo tía vẫn không hài lòng** (ấn tước) |
+| Lợi ích | S3: ruộng sung công (sổ do văn quan ghi; phần đầu cho võ tướng) | **Ông áo tía vẫn không hài lòng** (ấn tước) |
 | Phong tước | S4: tờ phong tước theo *chức* | Sổ ghi chức, **không ghi người**; **không biết tới tay ai**; ấn do chàng đóng → **cost** |
 | Hôn phối | S3: một mối | **Hai người trẻ không được hỏi** |
 | Chia rẽ | S4: bản công khai (trạm hở) + thư riêng (thuyền) | **Hạ Hầu đọc bản nào lúc nào không biết**; quan huyện **bị xử** (động cơ OPEN) |
@@ -236,7 +240,7 @@
 | **Quan huyện đọc chiếu rồi bị xử** | Ch20 | Major | Ch21+ (động cơ OPEN) |
 | **Ông áo tía không hài lòng** (ấn tước) | Ch20 | Major | Ch23, Ch28 |
 | **Đường trạm hở** (Ch14) dùng có chủ ý | Ch14 → Ch20 | Major | Ch21 (thông tin giả) |
-| **Hôn thư tướng thủy quân – ngoại thích** | Ch20 | Supporting | Ch23 |
+| **Hôn thư tướng râu quai nón – ngoại thích** | Ch20 | Supporting | Ch23 |
 | **Ho của Vân Chương** (seed 9) | Ch4 → Ch13 → Ch20 | Major | **Ch27** |
 | **Thư Uyển + gói vỏ quýt, không đáp** | Ch18 → Ch20 | Supporting | OPEN |
 
@@ -265,7 +269,7 @@
 | Thế | Có | Ấn tước trong tay Vân Chương; ngai có người ngồi |
 | Mưu | Rất mạnh | Hợp thức hóa hậu quả; hai đường |
 | Gián | Rất mạnh | Thư riêng theo chức; dấu hiệu chia rẽ (chưa chắc) |
-| Quân tâm | Có | Tướng thủy quân **nhận phần**; vẫn hỏi *"ăn lương của ai"* |
+| Quân tâm | Có | Tướng râu quai nón **nhận phần**; vẫn hỏi *"ăn lương của ai"* |
 | Ngoại giao | Rất mạnh | Chiếu + hôn thư + tờ phong tước |
 | Danh | Rất mạnh | Ấu đế đặt tay; chiếu nhân danh bệ hạ |
 
@@ -276,18 +280,18 @@
 | # | Đề xuất | Khuyến nghị |
 |---|---|---|
 | P-20-1 | 5 cảnh: S1 tờ giấy không ấn / S2 câu nêu Dịch / S3 chiếu / S4 hai đường / S5 không đi được | Duyệt |
-| P-20-2 | **Tướng thủy quân râu quai nón** = chủ tướng thủy quân (cấp trên phó tướng Ch16–19); **vô danh** | Duyệt (SY-2) |
-| P-20-3 | **Lợi ích:** văn quan *"sau hạn pháp trở lại"* + ruộng sung công; tướng thủy quân phần đầu + tờ phong tước | Duyệt (SY-3) |
-| P-20-4 | **Hôn phối:** con trai tướng thủy quân — con gái ông áo tía; hôn thư đóng ấn cùng ngày | Duyệt (SY-4) |
+| P-20-2 | **Tướng râu quai nón** = chủ tướng râu quai nón (cấp trên phó tướng Ch16–19); **vô danh** | Duyệt (SY-2) |
+| P-20-3 | **Lợi ích:** văn quan *"sau hạn pháp trở lại"* + ruộng sung công; tướng râu quai nón phần đầu; **mỗi nhóm nhượng một phần** | **LOCK** (SY-3) |
+| P-20-4 | **Hôn phối:** một nhịp mặc cả (*"Hôn thư đóng trước chiếu"* — *"Cùng ngày"*); không subplot | **LOCK** (SY-4) |
 | P-20-5 | **Hạn** *"kể từ ngày chiếu tới"* + *"mỗi nơi một ngày"* **để nguyên** | Duyệt (SY-5) |
 | P-20-6 | **"Hạ Hầu có nhận chiếu này không?"** không ai đáp | Duyệt (SY-6) |
 | P-20-7 | **"Quân ta ăn lương của ai?"** — *"Của kho triều đình. Phát theo tờ có ấn."* | Duyệt (SY-7) |
 | P-20-8 | **Ấu đế:** *"Đóng ở đâu?"* + *"Tạ đại nhân ho vì sao?"* (hai câu trẻ con) | Duyệt (SY-8) |
 | P-20-9 | **Gói vỏ quýt không chữ** (không callback *"Đi sau."*) | Duyệt (SY-12) |
 | P-20-10 | **Thư riêng theo chức** (không biết tới tay ai) | Duyệt (SY-10) |
-| P-20-11 | **Quan huyện: ghi đúng hai việc**, một nhịp ngờ | Duyệt (SY-11) |
+| P-20-11 | **Quan huyện: ghi đúng hai việc**, **không suy động cơ** | **LOCK** (SY-11) |
 | P-20-12 | **Tờ xin ra tuyến trước gấp bỏ** vì quan giữ ấn hỏi ai chứng | Duyệt (SY-14) |
-| P-20-13 | **Hook:** câu cuối = **dòng đầu thư** *"Hổ Lao xin hàng."*; **ba điều kiện không lên trang Ch20** | **[CẦN DUYỆT]** (SY-15) |
+| P-20-13 | **Hook:** câu cuối = **dòng đầu thư** *"Hổ Lao xin hàng."*; **ba điều kiện không lên trang Ch20** | **LOCK** (SY-15; hook có kiểm soát) |
 | P-20-14 | Mốc *"chiều"*, *"mấy ngày sau"* (không số) | Duyệt (SY-17) |
 
 ---
@@ -322,10 +326,10 @@ S1 1.400 + S2 1.700 + S3 2.000 + S4 1.600 + S5 1.400 = **~8.100** ký tự (khun
 - **Hách Liên Chước tập quân:** Vân Chương chưa biết → Ch25.
 - **Câu Vân Chương không hỏi Uyển** → OPEN.
 - **K2; nguồn rò Ch14; Kha Trọng; Tiết tướng quân; Chu Hạc; Khương lão tướng:** OPEN (G-1, G-2).
-- **Tên:** ấu đế (không tên húy), văn quan, tướng thủy quân, ông áo tía, quan giữ ấn, quan trạm, quan huyện, tướng Hổ Lao, người đưa thư, thầy thuốc: **vô danh.**
+- **Tên:** ấu đế (không tên húy), văn quan, tướng râu quai nón, ông áo tía, quan giữ ấn, quan trạm, quan huyện, tướng Hổ Lao, người đưa thư, thầy thuốc: **vô danh.**
 
 ---
 
 ## 13. TRẠNG THÁI
 
-**SCENE BIBLE CH20: v1 — chờ Pre-Audit.** Bước tiếp: Pre-Audit → v2 → LOCK → Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch20.
+**SCENE BIBLE CH20: v2 — LOCK** (sau Pre-Audit PASS CÓ ĐIỀU KIỆN; không mở lại Gate Ch20, Ch18–19). Bước tiếp: Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch20.
