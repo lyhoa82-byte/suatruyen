@@ -2,7 +2,7 @@
 
 ## CHƯƠNG 20 — ĐỨA TRẺ TRÊN NGÔI
 
-*(DRAFT v2 — chưa phải canon; sửa theo Audit)*
+*(CHAPTER LOCKED — CANON)*
 
 ---
 

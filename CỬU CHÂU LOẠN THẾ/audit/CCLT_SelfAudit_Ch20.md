@@ -53,3 +53,16 @@ Toàn file 7.716 ký tự (thân ~7.626). S1 ~1.360 · S2 ~1.170 · S3 ~2.480 ·
 
 ## 7. Trạng thái
 **DRAFT v1 + SELF-AUDIT xong.** Chờ Audit của chị → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update Ch20.
+
+---
+
+## 8. SELF-AUDIT LẠI SAU AUDIT (Draft v2)
+
+Audit Draft v1: PASS CÓ ĐIỀU KIỆN (3 điểm). Đã sửa:
+1. **Bắt buộc:** S5 *"Ông đặt một phong thư…"* → *"Người đưa thư đặt một phong thư lên bàn."* — xong.
+2. **Nên chỉnh:** S4 ống tre = **xấp thư riêng đã niêm, mỗi phong đề một chức**, cùng **các bản** tờ phong tước; Vân Chương đóng ấn lên **từng bản**; cả xấp bỏ vào ống tre — xong.
+3. **Giữ nguyên:** S2, S3, hai dòng quan huyện, "sĩ quan thủy quân" (đã định ở Scene Bible SY-1).
+
+**Kiểm lại:** grep từ cấm (điện hạ / Đêm ấy / A Chiêu / Hoắc Chiêu / Bàng / Hách / Bắc Nhung / rò / tin giả / Kha / Đi sau / bị giam / cô lập) = 0; *Hoắc Tam Lang* một lần; câu cuối vẫn *"Hổ Lao xin hàng."*; không thêm dữ kiện mới. Độ dài file LOCKED **7.799** (khung 7.000–8.500).
+
+**Trạng thái:** **CHAPTER LOCKED.** Canon Update Ch20 đã viết (`canon/CCLT_Canon_Update_Ch20.md`).
