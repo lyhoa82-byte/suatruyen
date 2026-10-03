@@ -402,4 +402,4 @@
 
 ## 17. TRẠNG THÁI
 
-**FOUNDATION GATE CH22: v2 — chờ chị audit lần cuối trước LOCK.** Đã sửa theo Pre-Audit: **(i)** lỗi canon Ch17 → **Chiêu/Hoắc vắng hoàn toàn** (hướng A; D22-5 khóa); **(ii)** cổng bến → **cổng khu đầu bến, không phải cổng thành chính** (GR22-22); **(iii)** Bàng không lên trang (D22-8 khóa); **(iv)** hook chiếu giữ (D22-9 = A). Hai khóa **L1, L2** và **GR22-H1/H2** nguyên vẹn. **Chưa dựng Scene Bible.** Bước tiếp: chị audit → **LOCK** → Scene Bible Ch22 v1 → … (Sonnet high).
+**FOUNDATION GATE CH22: v2 — 🔒 LOCKED (chị: PASS).** Khóa: L1 (Lạc Kinh chưa bị chiếm; Dịch vào Lạc Kinh ở Ch28); L2 + GR22-H1/H2 (Dịch chỉ biết lịch lương; mọi chiến thuật Dịch tự đọc, tự quyết); D22-5 (Chiêu/Hoắc vắng, không retcon Ch17); GR22-22 (cổng bến = cổng khu đầu bến, không phải cổng thành chính); D22-8 (Bàng không lên trang); D22-9 = A (chiếu Ch20 dán lên cổng bởi thư lại Hổ Lao). **Bước tiếp: Scene Bible Ch22 v1** (Sonnet high) → Pre-Audit → v2 LOCK → Draft.
