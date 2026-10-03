@@ -1,12 +1,14 @@
 # CỬU CHÂU LOẠN THẾ — FOUNDATION GATE TRƯỚC CHƯƠNG 20
 
-*(v1 — **chờ Pre-Audit**. **Author-truth**; chi tiết chỉ thành canon khi Ch20 LOCK. Nền: Canon Ch1–Ch19 LOCKED; Canon Update Ch18, Ch19 (mục IX); Gate Ch8 Vân Chương; Production Bible; Chapter Bible Ch20. Độ dài trên trang: **7.000–8.500** ký tự (còn 90.527 cho 13 chương, ~6.963/chương; Ch20 là chương chuyển tiếp nên **không** dài hơn 8.500). Mục cần chị chọn đánh dấu **[CẦN DUYỆT]**; khuyến nghị ở cột cuối. **Ch20 là Sonnet high** (Ch28–32 mới dùng Opus).)*
+*(v2 — **LOCK** sau Pre-Audit: PASS CÓ ĐIỀU KIỆN; đã khóa **D20-1 = R2** (chỉ **hợp thức hóa hậu quả/lời hứa đã xảy ra**, **không** trao quyền cho Dịch), **D20-2 = A** (tướng giữ Hổ Lao), **quan huyện chỉ khóa "đọc chiếu rồi bị Hạ Hầu xử"**, **"xuất hiện dấu hiệu chia rẽ; một tướng xin hàng"**, **sáu công cụ không phải combo hoàn hảo**, **ấu đế = thao tác hành chính**. **Không mở lại Ch18–19; không đụng Ch21–23.** **Author-truth**; chi tiết chỉ thành canon khi Ch20 LOCK. Nền: Canon Ch1–Ch19 LOCKED; Canon Update Ch18, Ch19 (mục IX); Gate Ch8 Vân Chương; Production Bible; Chapter Bible Ch20. Độ dài trên trang: **7.000–8.500** ký tự (còn 90.527 cho 13 chương, ~6.963/chương; Ch20 là chương chuyển tiếp nên **không** dài hơn 8.500). Mục cần chị chọn đánh dấu **[CẦN DUYỆT]**; khuyến nghị ở cột cuối. **Ch20 là Sonnet high** (Ch28–32 mới dùng Opus).)*
 
 **Chapter Bible Ch20 — ĐỨA TRẺ TRÊN NGÔI.** POV **Tạ Vân Chương** (narration **"Vân Chương"/"chàng"**). Arc: **Political Maneuver**. Vai trò: đưa Vân Chương lên trung tâm quyền lực; hắn thắng bằng **"phạt mưu"**; tiểu hoàng đế là **nguồn chính danh**. **Goal:** cô lập Hạ Hầu khỏi đồng minh quan trọng. **Obstacle:** Hạ Hầu có quân; nhiều phe không muốn Kim Lăng kiểm soát họ. **Decision:** dùng danh nghĩa tiểu hoàng đế, lợi ích, hôn phối, phong tước, ân xá, chia rẽ. **Cost:** càng ngày càng trở thành người kiểm soát một triều đình mà chính mình không thể rời khỏi. **New info:** Vân Chương có thể thắng mà không cần chiến trường. **Seed:** tiểu hoàng đế; chính thống; Vân Chương kiểm soát triều đình; ranh giới giữa **bảo vệ** chính thống và **sử dụng** chính thống. **Payoff → Ch23, Ch28, Ch32.** **Emotional:** muốn kết thúc chiến tranh → chấp nhận trở thành người dùng quyền lực lạnh lùng. **Six axes:** Thế Có · Mưu Rất mạnh · Gián Rất mạnh · Quân tâm Có · Ngoại giao Rất mạnh · Danh Rất mạnh. **Hook:** một tướng của Hạ Hầu đề nghị đầu hàng.
 
-> **Trục (không câu nào phát biểu trên trang):** *Ở Dĩnh Xuyên, một lời hứa không có ấn đã mở một cánh cổng. Ở Kim Lăng, Vân Chương đóng ấn lên lời hứa ấy; từ lúc đóng ấn, lời ấy không còn là của người đã hứa. Nó là lời của một đứa trẻ sáu tuổi, người không biết mình đang ký gì.*
+> **Trục (không câu nào phát biểu trên trang):** *Ở Dĩnh Xuyên, một lời hứa không có ấn đã mở một cánh cổng. Ở Kim Lăng, Vân Chương đóng ấn để cái đã xảy ra có người đứng ra nhận. Người đứng tên là một đứa trẻ sáu tuổi.*
 >
-> **Core:** nhận tin (lời hứa của Dịch + thư ngắn và gói vỏ quýt của Uyển) → thấy lời hứa vượt quyền, và ân xá chỉ có một người đứng tên được là ấu đế → soạn chiếu **xác nhận bằng "lệ cũ", không công nhận Dịch là ai** → triều nghị: các phe không muốn → thắng bằng lợi ích và hôn phối, **không bằng chiến trường** → đưa lời đi bằng đường **đã biết là hở** → có người trả giá vì lời ấy → Vân Chương không rời được → hook: một tướng Hạ Hầu xin hàng.
+> **TRỌNG TÂM (khóa Pre-Audit):** lời hứa của Dịch → chiếu của ấu đế → cái giá → Vân Chương không thể rời → hook Hổ Lao. Mọi cảnh phục vụ chuỗi này; mọi thứ khác là phụ.
+>
+> **Core:** nhận tin (lời hứa của Dịch + thư ngắn và gói vỏ quýt của Uyển) → thấy lời đã hứa **vượt quyền** và cái đã xảy ra **cần người đứng ra nhận** → soạn chiếu **xác nhận hậu quả theo "lệ cũ"**, **không trao quyền/chức cho Dịch, không công nhận Dịch là ai** → triều nghị: các phe cản → **thắng một phần** bằng lợi ích và hôn phối, **không bằng chiến trường**, **không trọn vẹn** → đưa lời đi bằng đường **đã biết là hở**, **không truy nguồn** → một quan huyện đọc chiếu rồi bị Hạ Hầu xử → Vân Chương không rời được → hook: một tướng giữ Hổ Lao xin hàng.
 
 ---
 
@@ -40,11 +42,11 @@
 
 | # | OPEN | Gate Ch20 **khóa** | Gate Ch20 **giữ OPEN** |
 |---|---|---|---|
-| 1 | **Kim Lăng/Vân Chương phản ứng lời hứa vượt quyền của Dịch** | **Ratify bằng chiếu** (mục 3, **D20-1 = R2**) | Phản ứng của Dịch, Ôn, Chiêu → Ch22–24 |
+| 1 | **Kim Lăng/Vân Chương phản ứng lời hứa vượt quyền của Dịch** | **Hợp thức hóa hậu quả bằng chiếu** (mục 3, **D20-1 = R2**); **không** trao quyền cho Dịch | Phản ứng của Dịch, Ôn, Chiêu → Ch22–24 |
 | 2 | **Thư ngắn + gói vỏ quýt của Uyển** | Vân Chương **đọc thư, uống nước vỏ quýt, không đáp thư** (mục 6) | **Câu chàng không hỏi Uyển**; Uyển nghĩ gì |
 | 3 | **Tờ nhất thư Bàng, Bàng** | **Không chạm** | Ch21+ |
 | 4 | **Kỵ nhẹ Hoắc quân/hạn 42; Chiêu về biên hay ở lại** | **Không khóa** (chỉ qua báo cáo: *"không vào thành"*) | Ch21–22 |
-| 5 | **Hạ Hầu/Bàng phản ứng mất Dĩnh Xuyên** | Hạ Hầu **xử một người** vì chiếu (mục 4B, cái giá); **không** phản công quy mô | Phản công thật → Ch21+ |
+| 5 | **Hạ Hầu/Bàng phản ứng mất Dĩnh Xuyên** | Một quan huyện **đọc chiếu rồi bị Hạ Hầu xử** (mục 4B; **chỉ hai dữ kiện**); **không** phản công quy mô | Động cơ/nhân quả của việc xử; phản công thật → Ch21+ |
 | 6 | **K2 (viên quan gửi ngựa), nguồn rò Ch14, Kha Trọng** | **Không chạm.** Vân Chương **dùng** đường hở, **không truy** | OPEN |
 | 7 | **Ôn muối trần; ấn tới sau** | Ôn **vắng**; chiếu **dùng chữ "sứ Ích Châu"** (không gọi "người tự nhận" nữa) | Ôn phản ứng → Ch24 |
 
@@ -76,47 +78,52 @@
 
 ---
 
-## 3. SYNC #3 — LỜI HỨA CỦA DỊCH: VÂN CHƯƠNG QUYẾT THẾ NÀO **[CẦN DUYỆT: D20-1]**
+## 3. SYNC #3 — LỜI HỨA CỦA DỊCH: VÂN CHƯƠNG QUYẾT THẾ NÀO **[LOCK: D20-1 = R2]**
 
-**Vấn đề:** lời hứa *"Ai mở cửa, không bị hỏi tội vì đã phục Hạ Hầu"* đã **mở một thành**. Nhưng nó **không có ấn**, người ký là **"sứ Ích Châu"** (**không có quyền ân xá**: ân xá thuộc về **người ngồi trên ngai**). Nếu Kim Lăng **im lặng**, người trong Dĩnh Xuyên có thể bị Hạ Hầu hoặc chính Kim Lăng truy sau; lời của Dịch **vỡ**, và **thành tiếp theo sẽ không mở**. Nếu Kim Lăng **bác**, mất cánh cửa. Nếu Kim Lăng **nhận**, Kim Lăng **ôm** món nợ của Dịch.
+**Vấn đề:** lời *"Ai mở cửa, không bị hỏi tội vì đã phục Hạ Hầu"* đã **được dùng và đã có hậu quả**: thành mở, người đã mở cửa, tờ giấy dán trên cổng. Nhưng lời ấy **không có ấn**, người ký là **"sứ Ích Châu"** (**không có quyền ân xá**: ân xá thuộc người ngồi trên ngai). Nếu Kim Lăng im lặng, người đã mở cửa có thể bị Hạ Hầu hoặc chính Kim Lăng truy; nếu bác, thành sau không mở nữa. **Cái đã xảy ra cần người đứng ra nhận.**
 
 | Phương án | Nội dung | Được | Mất / Rủi ro |
 |---|---|---|---|
-| **R1 — Bác** | *"Sứ Ích Châu vượt quyền, lời ấy không có giá trị."* | Giữ trọn thẩm quyền ân xá của ngai | **Dịch mất uy tín; Dĩnh Xuyên bị truy**; không thành nào mở nữa. Vân Chương **tự tay phản bội Dịch sớm** và vô ích |
-| **R2 — Xác nhận có hình (KHUYẾN NGHỊ)** | **Chiếu ân xá nhân danh ấu đế**, **căn cứ "lệ cũ"**, **nêu "Trình Dịch, sứ Ích Châu" là người đã nhân danh lệ cũ hứa trước**; **không** gọi "Tiêu", **không** hoàng tử, **không** công nhận Dịch là ai; **mở rộng** cho **mọi ai mở cửa/hàng** (không chỉ Dĩnh Xuyên) | **Tiểu hoàng đế thành nguồn chính danh**; lời hứa của Dịch **thành luật** → thành sau mở; Dịch được che | **Kim Lăng ôm món nợ**; **Dịch trở thành "sứ" dưới chiếu** (Ôn *"không theo ai"* sẽ phản ứng → Ch24); ngai nắm công của Dịch |
-| **R3 — Xác nhận một phần** | Chỉ ân xá **Dĩnh Xuyên**, không mở rộng | Rẻ; ít cản ở triều | **Không cô lập được Hạ Hầu** (mục tiêu chương); các thành khác không có lý do mở |
+| **R1 — Bác** | *"Sứ Ích Châu vượt quyền, lời ấy không có giá trị."* | Giữ trọn thẩm quyền ân xá của ngai | Người đã mở cửa bị truy; không thành nào mở nữa; Vân Chương tự tay phản bội Dịch sớm và vô ích |
+| **R2 — Hợp thức hóa hậu quả (LOCK)** | **Chiếu ân xá nhân danh ấu đế, căn cứ "lệ cũ", xác nhận rằng *những ai đã mở cửa* (và những ai mở cửa/hàng sau này) không bị hỏi tội.** Chiếu **chỉ nhắc** *"theo lời đã hứa của sứ Ích Châu Trình Dịch ở Dĩnh Xuyên"* như **sự việc đã xảy ra**, **không** nêu Tiêu/hoàng tử, **không** ủy nhiệm, **không** trao chức/quyền/quân cho Dịch | Người đã mở cửa an toàn; lời hứa thành luật → thành sau có lý do mở; ngai thành nguồn chính danh | **Kim Lăng ôm hậu quả** của một lời không phải của mình (nếu Hạ Hầu giữ được thành nào thì người ở đó chết); ngai nắm công; Ôn phản ứng → Ch24 |
+| **R3 — Một phần** | Chỉ ân xá Dĩnh Xuyên | Rẻ; ít cản ở triều | Không đủ để thành khác có lý do mở |
 
-**Khuyến nghị: R2.** Lý do (không giải thích trên trang): *trong khi Dịch chỉ có lời, Vân Chương có ngai. R2 là cách duy nhất cả hai lời cùng đứng được*: **lời của Dịch** (đã trả giá bằng muối trả ngay và một tờ giấy dán trên cổng) trở thành **lời của ấu đế**; Kim Lăng **không cần đánh trận** để được nhận thành. Đồng thời **bảo vệ Dịch khỏi bị truy** **và** **lấy công** của Dịch về cho ngai (**ranh giới bảo vệ ↔ sử dụng chính thống**).
+**KHÓA R2 (Pre-Audit): R2 là *hợp thức hóa hậu quả/lời hứa đã xảy ra*, không phải *ủy quyền* cho Dịch.**
+- **Chiếu không biến Dịch thành người được Kim Lăng trao quyền.** Dịch **vẫn là "sứ Ích Châu"** như trước; **không** thành "sứ của Kim Lăng", **không** nhận chức, **không** nhận trách nhiệm mới về mặt chính thức.
+- Điều chiếu làm là **chuyển người đứng ra nhận** (từ "một sứ không có ấn" sang "ngai") **cho cái đã xảy ra**; **không** nói gì về **cái sẽ xảy ra với Dịch**.
+- Vân Chương **biết** chiếu có thể bị đọc như ép Dịch/Ích Châu vào dưới ngai; **không** đưa điều ấy vào chữ chiếu; hậu quả chính trị với Dịch/Ôn **chưa xảy ra** trong Ch20 (**Ch22–24**).
 
-**Chữ trong chiếu (Scene Bible chỉnh lời):** ba ý, đọc được trong audio: (1) **ai mở cửa, hàng, buông giáp trước [hạn]** thì **không bị hỏi tội vì đã phục Hạ Hầu**; (2) **quan cũ giữ việc** cho tới khi có người thay hợp lệ; (3) **thuế giữ theo lệ cũ**. Phần *"Hàng binh không giết, có ăn"* và *"Lương bán theo giá chợ cũ"* **không** đưa vào chiếu (là việc quân và việc chợ của Hàn/Dịch). **Câu nêu Dịch:** *"…theo lời đã hứa của sứ Ích Châu Trình Dịch, nay triều đình xác nhận."* — **một câu**, **không** thêm tính từ.
+**Chữ trong chiếu (Scene Bible chỉnh lời):** ba ý đọc được trong audio: (1) **ai đã mở cửa, hoặc mở cửa/hàng/buông giáp trước [hạn]** thì **không bị hỏi tội vì đã phục Hạ Hầu**; (2) **quan cũ giữ việc** cho tới khi có người thay hợp lệ; (3) **thuế giữ theo lệ cũ**. Câu nêu Dịch: *"…như lời đã hứa ở Dĩnh Xuyên của sứ Ích Châu Trình Dịch, nay triều đình xác nhận."* — **một câu**, **tả việc đã xảy ra**, **không** tính từ. *"Hàng binh không giết, có ăn"* và *"Lương bán theo giá chợ cũ"* **không** đưa vào chiếu (việc quân/chợ của Hàn, Dịch).
 
-**Hậu quả (không giải trên trang):** ngay khi đóng ấn, **Dịch trở thành người đã hứa nhân danh Kim Lăng**, dù hắn không biết. Vân Chương **biết điều này** và **vẫn đóng ấn**.
+## 4. SYNC #4 — "PHẠT MƯU": CƠ CHẾ VÂN CHƯƠNG THẮNG KHÔNG CẦN CHIẾN TRƯỜNG [P] **[LOCK cơ chế; KHÔNG viết như combo hoàn hảo]**
 
----
+> **Mục tiêu:** cô lập Hạ Hầu khỏi đồng minh quan trọng. **Điểm yếu Hạ Hầu (Production Bible):** *khó kiểm soát vùng chiếm đóng; tướng lĩnh có lợi ích riêng; dễ bị cô lập ngoại giao.* Chiếu đánh vào **hai chỗ đầu**: **quan lại cũ** ở vùng Hạ Hầu chiếm và **tướng có lợi ích riêng** bị kẹt sau khi mất cảng. **Không** đánh vào Bắc Nhung/Bàng ở Ch20.
+>
+> **KHÓA PRE-AUDIT:** **cơ chế giữ**, nhưng **trên trang Vân Chương KHÔNG có một "combo hoàn hảo".** Chàng **thử nhiều hướng cùng lúc vì không biết hướng nào ăn**; **mỗi công cụ có một chỗ hở/chỗ không chắc đọc được trên trang**; kết quả **chỉ là dấu hiệu**, không phải thắng toàn bộ.
 
-## 4. SYNC #4 — "PHẠT MƯU": CƠ CHẾ VÂN CHƯƠNG THẮNG KHÔNG CẦN CHIẾN TRƯỜNG [P] **[CẦN DUYỆT]**
+### 4A. Sáu công cụ → việc cụ thể + chỗ hở (mỗi công cụ **một việc**; không công cụ nào "chắc ăn")
 
-> **Mục tiêu (GOAL):** cô lập Hạ Hầu khỏi đồng minh quan trọng. **Điểm yếu Hạ Hầu (Production Bible):** *khó kiểm soát vùng chiếm đóng; tướng lĩnh có lợi ích riêng; dễ bị cô lập ngoại giao.* Chiếu đánh vào **hai chỗ đầu**: **quan lại cũ** ở vùng Hạ Hầu chiếm và **tướng có lợi ích riêng** bị kẹt sau khi mất cảng. **Không** đánh vào Bắc Nhung/Bàng ở Ch20.
+| Công cụ | Việc cụ thể trong Ch20 | Chỗ hở/không chắc **đọc được trên trang** |
+|---|---|---|
+| **Danh nghĩa tiểu hoàng đế** | Chiếu đóng **ấn Kim Lăng**; ấu đế **đặt tay** theo thủ tục (mục 8) | Một quan hỏi *"Hạ Hầu có nhận chiếu này không?"* — **không ai đáp** |
+| **Ân xá** | Ba ý ở mục 3 | **"Hạn"** trong chiếu **không rõ ràng đủ** (một võ tướng nói thẳng: *"Hạn là bao giờ?"* — Vân Chương: *"Chiếu đi tới đâu thì hạn tính từ đó."* — **chỗ hở được để nguyên**) |
+| **Lợi ích** | Ở triều nghị: **đất của kẻ không hàng** (không phải của người mở cửa) chia cho võ tướng và văn quan | **Một nhóm vẫn không hài lòng** (ngoại thích hoặc văn quan; ghi một câu, **không** giải quyết hết) |
+| **Phong tước** | **Một tờ** hứa giữ nguyên chức + thêm tước cho tướng nào hàng **trước hạn** | Tờ ấy **đi qua thuyền**, **không biết** tới tay ai; **ấn tước do ngai ban**: Vân Chương **phải nắm ấn** → tăng quyền (cost) |
+| **Hôn phối** | **Một mối** (S3, **rất ngắn**): con trai một **võ tướng Kim Lăng** — con gái một **ngoại thích**, **nối hai nhóm đang cản** | **Hai người trẻ không được hỏi**; **một nhịp**, không bình luận |
+| **Chia rẽ** | Chiếu đi **hai đường:** **(a) trạm ngựa hở** — bản công khai; **(b) thuyền** — thư riêng cho **vài** tướng/quan (không số) kèm tờ phong tước | **Không biết** Hạ Hầu đọc bản nào lúc nào; **không biết** thư riêng tới tay ai; *"có thể Hạ Hầu nghi tướng của mình"* — **chỉ là khả năng** |
 
-### 4A. Sáu công cụ → việc cụ thể (mỗi công cụ **một việc**, không liệt kê)
+**Ghi chú nhân quả (không viết lên trang như kế hoạch):** Hạ Hầu **có thể** không cấm được lời đã tới, **có thể** không bỏ qua được; **mọi nước đi của Hạ Hầu đều có giá** (xử người = thêm người sợ; không xử = thêm người nghe). Vân Chương **không biết** Hạ Hầu chọn nước nào. **Kết quả cuối chương là *dấu hiệu chia rẽ* (một tướng xin hàng), không phải thắng.**
 
-| Công cụ | Việc cụ thể trong Ch20 | Ai nhận | Giá |
-|---|---|---|---|
-| **Danh nghĩa tiểu hoàng đế** | Chiếu ân xá đóng **ấn Kim Lăng**; ấu đế **đặt tay** lên ấn (Vân Chương giữ cổ tay) | Mọi người ở vùng Hạ Hầu | Đứa trẻ **không hiểu mình ký gì** |
-| **Ân xá** | Ba ý ở mục 3 | Quan lại cũ; tướng bị kẹt | Kim Lăng ôm món nợ của Dịch |
-| **Lợi ích** | Ở triều nghị: đất/tài sản **của kẻ không hàng** (không phải của người mở cửa) **chia cho võ tướng và văn quan**; phần phong tước chờ sau | Võ tướng, văn quan Kim Lăng | **Hứa suông cho tương lai**: nếu không hàng, ai chịu? |
-| **Phong tước** | **Một tờ** hứa **giữ nguyên chức + thêm tước** cho tướng nào hàng **trước hạn** | Tướng Hạ Hầu bị kẹt | Tước **phải do ngai ban**: Vân Chương **nắm ấn tước** → tăng quyền |
-| **Hôn phối** | **Một mối** (S3): con trai một **võ tướng Kim Lăng** — con gái một **ngoại thích**: **nối hai nhóm đang cản** | Hai nhà (vô danh) | **Hai người trẻ không được hỏi** (một nhịp, không bình luận) |
-| **Chia rẽ** | Chiếu đi **hai đường:** (a) **đường trạm ngựa đã biết là hở** — **bản công khai**, để Hạ Hầu **cũng đọc**; (b) **đường thuyền**: **thư riêng** cho **vài tướng/quan** (không số), **kèm tờ phong tước** | Hạ Hầu (nhìn thấy); tướng/quan (nhận riêng) | Hạ Hầu **biết** chiếu và **biết** có người nhận riêng → **nghi tướng của mình** (đây là **chia rẽ**) |
+### 4B. ĐƯỜNG TIN: DÙNG ĐƯỜNG HỞ, KHÔNG TRUY NGUỒN [LOCK]
 
-**Điểm hay (phạt mưu, không magic):** Hạ Hầu **không thể cấm** người của mình biết chiếu (đường hở: lời **đã tới** trước khi hắn kịp bịt), **không thể bỏ qua** (bỏ qua = tướng hàng hàng loạt). **Mọi nước đi của Hạ Hầu đều có giá** (xử người = thêm người sợ; không xử = thêm người nghe). Vân Chương **không chắc** nước nào Hạ Hầu chọn.
+- Vân Chương **biết** trạm ngựa Kim Lăng hở (Chỉ báo, Ch14). Chàng **dùng đường ấy cho bản công khai** vì nó **nhanh nhất và đi xa nhất**, **chấp nhận Hạ Hầu cũng đọc**. Thư riêng đi **bằng thuyền**.
+- **Không** truy nguồn; **không** đổi người ở trạm; **không** nghi ai trên trang; **không** nêu K2/Kha Trọng. **Đây không phải bẫy tung tin giả** (thông tin giả nhiều tầng thuộc **Ch21**, **không** đụng ở Ch20).
 
-### 4B. CÁI GIÁ CÓ THẬT (GR20-6): MỘT NGƯỜI BỊ XỬ VÌ CHIẾU
+### 4C. QUAN HUYỆN: CHỈ KHÓA "ĐỌC CHIẾU RỒI BỊ HẠ HẦU XỬ" [LOCK]
 
-- Ngày ~49–50: tin tới Vân Chương: **một quan huyện** (vô danh) ở **vùng Hạ Hầu chiếm** **đọc chiếu cho dân** (bản công khai) và **bị Hạ Hầu xử** (treo cổng huyện). **Vân Chương không dựng cảnh thương tiếc**; chàng **ghi tên** vào một tờ riêng (mục **Emotional Debt**: *"những người chết vì quyết định của mình"*, Production Bible) và **làm tiếp**. Hạ Hầu **không ngu**: xử một người để dọa; **cùng lúc** dân thêm một lý do ghét.
-- **Kết quả đọc được:** Vân Chương đã **biết** có thể có người chết vì chiếu; chàng **vẫn đóng ấn**.
-
----
+- Ngày ~49–50: tới Vân Chương **hai dữ kiện** (qua báo của người Kim Lăng + tin đồn dọc đường): **(1)** một quan huyện (vô danh) **đã đọc chiếu cho dân**; **(2)** **sau đó bị Hạ Hầu xử** (treo cổng huyện hoặc tương đương, **không** mô tả).
+- **KHÔNG khóa:** vì sao Hạ Hầu xử (do chiếu hay do lý do khác), ai báo Hạ Hầu, quan huyện có tự nguyện hay bị ép, dân phản ứng ra sao, việc xử là **cảnh cáo** hay **hoảng sợ**. **Trang không nói.** Vân Chương **không suy ra** quá nguồn tin; nếu chàng **ngờ** do chiếu, ghi là **ngờ** (một nhịp), **không** khẳng định.
+- Vân Chương **ghi tên** (nếu biết) hoặc **chức** vào một tờ riêng, **làm tiếp**. **Không** dựng cảnh thương tiếc; **không** moralize.
 
 ## 5. SYNC #5 — HOOK: MỘT TƯỚNG CỦA HẠ HẦU ĐỀ NGHỊ ĐẦU HÀNG [P] **[CẦN DUYỆT: D20-2]**
 
@@ -128,7 +135,8 @@
 | **Đường tới** | Đưa **riêng** (người đưa thư vô danh, **ban đêm**), **không** qua trạm ngựa |
 | **Nội dung** | Ngắn: **ba điều kiện**: (1) ân xá **đúng chữ chiếu**; (2) **giữ binh và giữ chức** (**không giao binh cho người ngoài**: ám chỉ Hoắc/Ích Châu, **không nêu tên**); (3) **tờ phong tước** như chiếu đã nói. Ký **tên chức**, **không tên người** trên văn (đọc lên được ở Ch21 nếu cần) |
 | **Ai là tướng** **[CẦN DUYỆT]** | **A (KHUYẾN NGHỊ):** **tướng giữ Hổ Lao** (**vô danh ở Gate**; Scene Bible/Ch21 đặt tên). Lý do: sau Dĩnh Xuyên, Hổ Lao **mất cảng cấp lương**, đang **đói dần**, tướng có **lợi ích riêng** (giữ binh), và **Hổ Lao còn Hạ Hầu giữ** (Ch19). **B:** **Bàng** — **Không khuyến nghị** ở Ch20: kéo tờ nhất, ải Tây, Dịch–Bàng vào sớm; để dành Ch21+. **C:** tướng ở Lạc Kinh — ít liên quan tới chiếu |
-| **Thật hay trá** | **Vân Chương không biết**; trang **không nói**. Chỉ cho thấy chàng **đọc lại hai lần** (**giống Dịch ở Ch19 giỏ thư**: hai lần) và **không đáp ngay** |
+| **Thật hay trá** | **Vân Chương không biết**; trang **không nói**. Chỉ cho thấy chàng **đọc lại hai lần** và **không đáp ngay** |
+| **Ý nghĩa của hook (Pre-Audit)** | **"Xuất hiện dấu hiệu chia rẽ; một tướng xin hàng."** **Không** viết "Hạ Hầu bị cô lập"; **không** viết Vân Chương thắng |
 | **Câu cuối chương** | **Nội dung thư** (câu đầu thư): *"Hổ Lao xin hàng."* **[P]** hoặc lời người đưa thư: *"Hổ Lao có thư."* **Một câu, hết** |
 
 ---
@@ -141,19 +149,20 @@
 
 ---
 
-## 7. SYNC #7 — KHÔNG RỜI ĐƯỢC (COST CHÍNH) [P] **[CẦN DUYỆT]**
+## 7. SYNC #7 — KHÔNG RỜI ĐƯỢC (COST CHÍNH) [P] **[LOCK]**
 
-- Vân Chương **đã viết** (S5) một **tờ xin ra tuyến trước** (Lạc Thủy). **Đốt** hoặc **gấp bỏ** sau khi **nhớ** hai việc ở triều: (a) **chiếu cần người đóng ấn, ấu đế cần chàng cầm cổ tay**; (b) **ngoại thích/võ tướng** nếu chàng đi thì **tách** ấu đế khỏi chàng. Trang **không giải thích**; hiện bằng **việc** (tờ bị gấp vào ngăn kéo; ấu đế hỏi *"Tạ đại nhân đi đâu?"* và chàng đáp *"Ở đây."*).
-- **Đây** là cost **"kiểm soát một triều đình mà mình không thể rời"**.
+- Vân Chương **đã viết** (S5) một **tờ xin ra tuyến trước** (Lạc Thủy). **Gấp bỏ vào ngăn kéo** sau khi **một việc hành chính** chặn lại: một quan giữ ấn/thư lại hỏi **ai đóng ấn** các tờ phong tước **khi chàng vắng**, và **ngoại thích/võ tướng** đã hỏi hai lần ai giữ ấn tước. **Không** diễn giải.
+- **Đây** là cost **"kiểm soát một triều đình mà mình không thể rời"**, hiện bằng **việc** (tờ giấy bị gấp; ấn phải có người cầm), **không** bằng lời nhân vật.
 - **Không** bi kịch hóa; **không** "chàng thấy mình bị giam".
 
 ---
 
-## 8. SYNC #8 — SEED, ẤU ĐẾ VÀ "BẢO VỆ ↔ SỬ DỤNG" [P] **[CẦN DUYỆT]**
+## 8. SYNC #8 — ẤU ĐẾ: THAO TÁC HÀNH CHÍNH, KHÔNG BIỂU TƯỢNG HÓA [LOCK] 
 
-- **Một cảnh ấu đế (S2 hoặc S5)**, **hai–ba câu trẻ con**: ấu đế hỏi *"Đây là gì?"* (về ấn) — *"Là lời của Bệ hạ."* — *"Bệ hạ hứa gì?"* — *"Ai mở cửa thì không bị hỏi tội."* — *"Ai là người mở cửa?"* **Vân Chương không đáp** (hoặc đáp **sai chủ đề bằng việc**: đưa miếng bánh; **không** giải nghĩa).
-- **Ranh giới bảo vệ ↔ sử dụng:** Vân Chương **vừa che chở** đứa trẻ (thay áo, giữ cổ tay, không để quan chạm vào ấu đế) **vừa dùng nó** (cổ tay trong tay chàng khi đóng ấn). **Không câu nào nói ra.** **Không** "chàng áy náy".
-- **Không** để ấu đế **nhắc Dịch là chú**; **không** để ấu đế **tự đoán** chính trị.
+- **Ấu đế (Bệ hạ), ~6 tuổi, vô danh trên trang:** xuất hiện ở **hai thời điểm hành chính**: **(a)** trước **đóng ấn** (S3): ngồi ngai, hai chân không chạm đất, **một viên quan hướng dẫn thủ tục**: ngài **đặt tay lên ấn** theo chỗ quan chỉ; **(b)** (tùy chọn, **một câu**) trước S5: ấu đế hỏi **một câu trẻ con, không chính trị** (ví dụ *"Tạ đại nhân ho vì sao?"* hoặc *"Đóng ở đâu?"*), Vân Chương đáp **ngắn**.
+- **Không** hội thoại chủ đề ("Ai là người mở cửa?"), **không** dụng ý biểu tượng, **không** giữ cổ tay như cử chỉ ẩn dụ (có thể có **một thao tác hành chính**: quan giữ ấn chỉ chỗ), **không** nhắc Dịch là chú, **không** tình cảm chú–cháu, **không** tên húy.
+- **"Bảo vệ ↔ sử dụng"** **không** có câu nào và **không** có cử chỉ nào dành riêng cho nó; người đọc tự thấy từ **việc hành chính** (ai đặt tay, ai cầm ấn).
+- **Ấu đế không thông minh bất thường; không đoán chính trị.**
 
 ---
 
@@ -162,12 +171,12 @@
 | Cảnh | Nội dung | Chức năng (đổi thế cờ) | ~ký tự |
 |---|---|---|---|
 | **S1** | **Thư phòng, sáng:** báo cáo Dĩnh Xuyên + bản chép tờ văn; sau đó thư Uyển (một dòng); Vân Chương **đọc hai lần**; thấy **chữ ký "sứ Ích Châu" không ấn** | Nhận tin; **thấy vấn đề** (lời vượt quyền) | 1.400 |
-| **S2** | **Thư phòng:** soạn chiếu (R2); **một câu Dịch** trong chiếu; ấu đế vào (một nhịp, hỏi *"Đây là gì?"*); chàng **không viết một dòng cho Dịch** | **Quyết định R2** | 1.600 |
-| **S3** | **Triều nghị:** ba nhóm cản; **lợi ích + hôn phối** thắng; võ tướng *"Quân ta ăn lương của ai?"*; **ấu đế đặt tay lên ấn** | **Thắng không chiến trường** (phạt mưu) | 2.000 |
-| **S4** | **Phòng nhỏ / thư phòng:** **hai đường đi tin** (công khai qua trạm hở; riêng qua thuyền); chàng **biết** Hạ Hầu **sẽ đọc**; tin **một quan huyện bị xử** | **Cái giá thật** | 1.700 |
-| **S5** | **Đêm, thư phòng:** gói vỏ quýt (đã sắc, uống); tờ xin ra tuyến trước bị gấp bỏ; **người đưa thư vô danh** vào: thư xin hàng | **Hook** + cost | 1.500 |
+| **S2** | **Thư phòng:** soạn chiếu (R2: **hợp thức hóa hậu quả**); **một câu nêu Dịch** (tả việc đã xảy ra); chàng **cân nhắc rồi không viết một dòng cho Dịch**; **chỗ hở của "hạn" để nguyên** | **Quyết định R2** | 1.700 |
+| **S3** | **Triều nghị:** ba nhóm cản; **lợi ích** + **hôn phối (rất ngắn)** → **thắng một phần** (còn một nhóm không hài lòng; câu hỏi *"Hạ Hầu có nhận chiếu này không?"* không ai đáp); võ tướng *"Quân ta ăn lương của ai?"* / *"Hạn là bao giờ?"*; **ấu đế đặt tay lên ấn theo thủ tục** | **Thắng không chiến trường nhưng không trọn vẹn** | 2.000 |
+| **S4** | **Thư phòng:** **hai đường đi tin** (công khai qua trạm hở; riêng qua thuyền); chàng **biết đường hở, chấp nhận Hạ Hầu cũng đọc, không truy nguồn**; tin **một quan huyện đọc chiếu rồi bị Hạ Hầu xử** (**hai dữ kiện**) | **Cái giá thật** | 1.600 |
+| **S5** | **Đêm, thư phòng:** gói vỏ quýt (đã sắc, uống); **tờ xin ra tuyến trước bị gấp bỏ** (một việc hành chính chặn lại); **người đưa thư vô danh** vào: **thư xin hàng của tướng giữ Hổ Lao** | **Hook** + cost | 1.400 |
 
-**Tổng:** ~**8.200** ký tự (khung 7.000–8.500). Nếu vượt: **rút S1 beat thư Uyển xuống một nhịp**, **gộp S4 một đường tin**, **thu gọn ấu đế một câu**.
+**Tổng:** ~**8.200** ký tự (khung 7.000–8.500). Nếu vượt: **rút S1 beat thư Uyển xuống một nhịp**, **gộp hai đường tin ở S4 thành một đoạn**, **bỏ câu ấu đế ở S5** (**không** rút chuỗi trọng tâm).
 
 ---
 
@@ -184,7 +193,7 @@
 - **KHÔNG BIẾT:** Hách Liên tập quân; Chiêu *"Ta không ký"*; muối vượt trần; Ôn nghĩ gì; nguồn rò; Kha Trọng; K2 gửi cho ai.
 
 ### 11B. CUỐI CH20
-- **FACT:** chiếu đã đóng ấn; đã đi hai đường; **một quan huyện bị xử**; một tướng xin hàng (thật hay trá chưa rõ); chàng **không rời được**; **đã uống nước vỏ quýt, không đáp**.
+- **FACT:** chiếu đã đóng ấn (hợp thức hóa hậu quả); đã đi hai đường; **một quan huyện đã đọc chiếu rồi bị Hạ Hầu xử** (**chỉ hai dữ kiện**); một tướng giữ Hổ Lao xin hàng (thật hay trá chưa rõ); chàng **không rời được**; **đã uống nước vỏ quýt, không đáp**.
 - **KHÔNG BIẾT:** thật/trá của thư xin hàng; Dịch phản ứng ra sao; Ôn phản ứng; Hách Liên; ai trong triều nghe chiếu đầu tiên rồi báo Hạ Hầu.
 
 ---
@@ -193,14 +202,13 @@
 
 | Hạng mục | Tình trạng |
 |---|---|
-| **Chiếu ân xá** | Đóng ấn (ấu đế đặt tay); đi hai đường; **xác nhận "lời đã hứa của sứ Ích Châu Trình Dịch"** |
-| **Dịch (không trên trang)** | **Trở thành người đã hứa nhân danh Kim Lăng**, dù hắn chưa biết |
-| **Triều Kim Lăng** | **Ba nhóm cản bị mua bằng lợi ích + một mối hôn phối**; **Vân Chương nắm ấn tước** |
-| **Hạ Hầu** | Biết chiếu; **xử một quan huyện**; **bị cô lập một phần** (một tướng xin hàng) |
-| **Một quan huyện** | **Chết** (vô danh) |
+| **Chiếu ân xá** | Đóng ấn (ấu đế đặt tay theo thủ tục); đi hai đường; **xác nhận không hỏi tội những ai đã mở cửa/mở cửa hàng, theo lệ cũ; nhắc lời đã hứa ở Dĩnh Xuyên của sứ Ích Châu Trình Dịch như sự việc đã xảy ra** |
+| **Dịch (không trên trang)** | **Vẫn là "sứ Ích Châu"**; **không được trao quyền/chức/ủy nhiệm**; **chưa biết** chiếu |
+| **Triều Kim Lăng** | Ba nhóm cản **bị thuyết phục một phần** (lợi ích + một mối hôn phối); **còn một nhóm không hài lòng**; **Vân Chương nắm ấn tước** |
+| **Hạ Hầu** | Biết chiếu (đường hở); **xuất hiện dấu hiệu chia rẽ: một tướng giữ Hổ Lao xin hàng**; **một quan huyện đọc chiếu rồi bị xử** (động cơ OPEN) |
 | **Vân Chương** | **Không rời Kim Lăng**; ho; đã uống nước vỏ quýt; **không viết một dòng cho Dịch** |
 | **Uyển** | Chưa biết Kim Lăng nhận thư |
-| **Hook** | Thư xin hàng đã tới tay Vân Chương, **chưa đáp** |
+| **Hook** | Thư xin hàng đã tới tay Vân Chương, **chưa đáp**, thật/trá chưa rõ |
 
 ---
 
@@ -209,13 +217,13 @@
 | Mã | Nội dung |
 |---|---|
 | **GR20-1** | **POV Vân Chương xuyên suốt.** Không vào đầu Dịch/Uyển/Hạ Hầu/ấu đế/quan; chỉ **điều chàng thấy, nghe, làm, biết, suy (ghi là suy)** |
-| **GR20-2 (DANH-A)** | **Không "điện hạ"; không công nhận Dịch là hoàng tử/Tiêu**; chiếu chỉ nêu **"sứ Ích Châu Trình Dịch"** là người đã hứa |
-| **GR20-3** | **Phạt mưu thật:** không bàn tay vàng; Hạ Hầu **không ngu** (xử một người để dọa; nghi tướng); chiếu có **giá** và **người trả** |
-| **GR20-4** | **K-1/K-2/G-1/G-2:** Vân Chương **dùng** đường hở, **không truy nguồn**; **không nêu** K2/Kha Trọng/nguồn rò; **không** "rò", "nhà buôn tin" |
-| **GR20-5** | **Ấu đế** là **đứa trẻ** (câu ngắn, hỏi trẻ con); **không** thông minh bất thường; **không** nhắc Dịch là chú; **không** tên húy |
-| **GR20-6** | **Cái giá thật:** **một người chết vì chiếu**; Vân Chương **ghi tên**, **không** bi kịch hóa; **không** moralize |
+| **GR20-2 (DANH-A)** | **Không "điện hạ"; không công nhận Dịch là hoàng tử/Tiêu**; chiếu chỉ **nhắc "sứ Ích Châu Trình Dịch"** như **người đã hứa ở Dĩnh Xuyên (sự việc đã xảy ra)**; **không** trao quyền/chức/ủy nhiệm (xem GR20-16) |
+| **GR20-3** | **Phạt mưu thật:** không bàn tay vàng; Hạ Hầu **không ngu**; chiếu có **giá** và **người trả**; **mọi kết quả chỉ là dấu hiệu** |
+| **GR20-4** | **K-1/K-2/G-1/G-2:** Vân Chương **dùng** đường hở (bản công khai), **chấp nhận Hạ Hầu cũng đọc**, **không truy nguồn**, **không bẫy tin giả (Ch21)**; **không nêu** K2/Kha Trọng/nguồn rò; **không** "rò", "nhà buôn tin" |
+| **GR20-5** | **Ấu đế** là **đứa trẻ**; **chỉ thao tác hành chính** (ngồi ngai, đặt tay lên ấn theo chỗ quan chỉ; tùy chọn **một câu** trẻ con không chính trị); **không** thông minh bất thường; **không** nhắc Dịch là chú; **không** tên húy |
+| **GR20-6** | **Cái giá thật:** **một quan huyện đọc chiếu rồi bị Hạ Hầu xử** (**chỉ hai dữ kiện**); **không** khóa động cơ, **không** nguồn tin vượt Vân Chương; Vân Chương **ngờ** (nếu có) chỉ **một nhịp**; **ghi tên/chức**, **không** bi kịch hóa; **không** moralize |
 | **GR20-7** | **Cost "không rời được" hiện bằng việc** (tờ xin ra tuyến trước bị gấp bỏ); **không** "chàng thấy mình bị giam" |
-| **GR20-8** | **Bảo vệ ↔ sử dụng** hiện bằng việc (giữ cổ tay vừa che chở vừa dùng); **không câu nào nói** |
+| **GR20-8** | **Bảo vệ ↔ sử dụng:** **không** câu nào, **không** cử chỉ ẩn dụ; chỉ **việc hành chính** (ai đặt tay, ai cầm ấn) để người nghe tự thấy |
 | **GR20-9** | **Uyển:** chỉ **thư + gói vỏ quýt**; **một nhịp uống**; **không** monologue; **không đáp**; **không** nói *"câu chàng không hỏi"*; **không** Hách Liên |
 | **GR20-10** | **Không số** quân, tướng, người chết (ngoài "một"); mốc: *"sáng"*, *"ngày thứ hai"*, *"đêm"* |
 | **GR20-11** | **Không "Đêm ấy…", "A Chiêu", "Hoắc Chiêu"** trên trang; Chiêu chỉ là *"Hoắc Tam Lang"* nếu nhắc (một lần, qua báo cáo) |
@@ -223,24 +231,28 @@
 | **GR20-13** | **Không** Bàng, tờ nhất, Bắc Nhung, Hách Liên trong Ch20 (**trừ** thư Uyển một dòng) |
 | **GR20-14** | **Hôn phối:** **một mối**, **một nhịp**, **hai người trẻ không được hỏi**; không bình luận; không dựng cảnh tình cảm |
 | **GR20-15** | **Không** câu tổng kết/triết lý ("quyền lực là…", "ai giữ ngai…"); insight bằng **việc** |
+| **GR20-16 (Pre-Audit)** | **R2 = hợp thức hóa hậu quả**, **không ủy quyền**: chiếu **không** trao quyền/chức/quân/ủy nhiệm cho Dịch; Dịch **vẫn là "sứ Ích Châu"**; **không** câu "Dịch nay thuộc Kim Lăng" |
+| **GR20-17 (Pre-Audit)** | **Không combo hoàn hảo:** mỗi công cụ có **chỗ hở đọc được** (mục 4A); Vân Chương **thử nhiều hướng vì không biết hướng nào ăn**; **cấm** "mọi việc đúng như tính", "kế hoạch đã hoàn thành"; kết quả cuối chương = **dấu hiệu chia rẽ**, **không** "Hạ Hầu bị cô lập" |
+| **GR20-18 (Pre-Audit)** | **Trọng tâm:** lời hứa Dịch → chiếu → cái giá → không rời được → hook Hổ Lao; **không** mở lại Ch18–19; **không** đụng Ch21–23 |
 
 ---
 
-## 14. DANH SÁCH CHỜ DUYỆT
+## 14. DANH SÁCH DUYỆT (sau Pre-Audit)
 
-| Mã | Mục | Khuyến nghị |
+| Mã | Mục | Trạng thái |
 |---|---|---|
-| **D20-1** | **Lời hứa của Dịch → Vân Chương quyết thế nào** (mục 3): **R1 bác / R2 xác nhận có hình / R3 một phần** | **R2** |
-| **D20-2** | **Ai là tướng xin hàng (hook)** (mục 5): **A tướng giữ Hổ Lao / B Bàng / C tướng Lạc Kinh** | **A** (vô danh ở Gate) |
-| D20-3 | Sáu công cụ → **một việc cụ thể** mỗi công cụ (mục 4A) | Duyệt |
-| D20-4 | **Chiếu đi hai đường**: bản công khai qua **trạm hở**; thư riêng qua thuyền (mục 4A) | Duyệt (seed Ch21) |
-| D20-5 | **Cái giá thật:** **một quan huyện** bị xử vì chiếu (mục 4B) | Duyệt |
-| D20-6 | **Ấu đế** (mục 8): câu ngắn; giữ cổ tay; không tên húy; không nhắc Dịch là chú | Duyệt |
-| D20-7 | **Hôn phối** một mối, nối võ tướng và ngoại thích (mục 4A) | Duyệt |
-| D20-8 | **Thư Uyển + gói vỏ quýt**: đọc hai lần, uống, **không đáp** (mục 6) | Duyệt |
-| D20-9 | **Không rời được** (mục 7): tờ xin ra tuyến trước bị gấp bỏ | Duyệt |
-| D20-10 | **Thời gian** ngày ~44–51 (mục 1); **trên trang không số ngày** | Duyệt |
-| D20-11 | **Dịch không nhận một dòng nào từ Vân Chương** trong Ch20 (chàng **không viết**) | Duyệt (seed Ch22–23, debt Vân Chương → Dịch) |
+| **D20-1** | Lời hứa Dịch → **R2: hợp thức hóa hậu quả**, **không ủy quyền** | **LOCK** |
+| **D20-2** | Tướng xin hàng = **A: tướng giữ Hổ Lao** (vô danh ở Gate) | **LOCK** |
+| D20-3 | Sáu công cụ giữ cơ chế, **không combo hoàn hảo** (mục 4A) | **LOCK** |
+| D20-4 | Hai đường tin; dùng đường hở, **không truy nguồn** (mục 4B) | **LOCK** |
+| D20-5 | Quan huyện: **chỉ khóa "đọc chiếu rồi bị Hạ Hầu xử"** (mục 4C) | **LOCK** |
+| D20-6 | Ấu đế: **thao tác hành chính**, không biểu tượng hóa (mục 8) | **LOCK** |
+| D20-7 | Hôn phối **một mối, rất ngắn** | **LOCK** |
+| D20-8 | Thư Uyển + gói vỏ quýt giữ nguyên (đọc hai lần, uống, không đáp) | **LOCK** |
+| D20-9 | Không rời Kim Lăng (mục 7): tờ xin bị gấp bỏ vì việc hành chính | **LOCK** |
+| D20-10 | Thời gian ~ngày 44–51; trên trang không số ngày | **LOCK** |
+| D20-11 | Dịch **không nhận một dòng** nào từ Vân Chương | **LOCK** |
+| D20-12 | Hạ Hầu: **dấu hiệu chia rẽ; một tướng xin hàng** (không "cô lập") | **LOCK** |
 
 ---
 
@@ -258,4 +270,4 @@
 
 ## 16. TRẠNG THÁI
 
-**FOUNDATION GATE CH20: v1 — chờ Pre-Audit.** Chưa dựng Scene Bible. Sau Pre-Audit → v2 → LOCK → Scene Bible Ch20 v1 → Pre-Audit → v2 → LOCK → Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update.
+**FOUNDATION GATE CH20: v2 — LOCK** (sau Pre-Audit PASS CÓ ĐIỀU KIỆN). Bước tiếp: **Scene Bible Ch20 v1** → Pre-Audit → v2 → LOCK → Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → CHAPTER LOCKED → Canon Update.
