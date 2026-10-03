@@ -1,6 +1,6 @@
 # CỬU CHÂU LOẠN THẾ — SCENE BIBLE CHƯƠNG 22: ĐƯỜNG LẠC KINH
 
-*(v1 — **chờ chị Pre-Audit**; chưa LOCK. **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: **Gate Ch22 v2 LOCKED** — **L1** (Lạc Kinh chưa bị chiếm; Hổ Lao = cửa trên tuyến; Dịch chỉ vào Lạc Kinh ở Ch28), **L2 + GR22-H1** (Dịch chỉ biết lịch lương: ngày · lượng lương · đường; mọi chiến thuật Dịch tự đọc, tự quyết), **D22-5** (Chiêu/Hoắc quân **vắng**; không retcon Ch17), **GR22-22** (cổng bến = cổng **khu đầu bến**, không phải cổng thành chính), **D22-8** (Bàng không lên trang), **D22-9 = A** (chiếu Ch20 dán lên cổng bởi thư lại Hổ Lao); Canon Ch1–Ch21 LOCKED; Canon Update Ch21 (II-B, IX); Ch21 LOCKED; Production Bible; Chapter Bible Ch22. **Không mở lại Ch17–21; không đụng Ch23.** Độ dài trên trang **7.000–8.000** (còn 75.601 ký tự cho Ch22–32). **Tiêu đề "ĐƯỜNG LẠC KINH" là đề xuất D22-1 của Gate — chờ chị chốt cuối** (mục 9). **Ch22 viết bằng Sonnet high.**)*
+*(v2 — 🔒 **LOCKED** (chị: PASS CÓ ĐIỀU KIỆN; hai chốt P-22-17 = (a), P-22-19 = “ĐƯỜNG LẠC KINH”; điều kiện = self-check §14 — đã làm). **Không phải canon.** Chi tiết mới đánh dấu **[P]**. Nền **bất biến**: **Gate Ch22 v2 LOCKED** — **L1** (Lạc Kinh chưa bị chiếm; Hổ Lao = cửa trên tuyến; Dịch chỉ vào Lạc Kinh ở Ch28), **L2 + GR22-H1** (Dịch chỉ biết lịch lương: ngày · lượng lương · đường; mọi chiến thuật Dịch tự đọc, tự quyết), **D22-5** (Chiêu/Hoắc quân **vắng**; không retcon Ch17), **GR22-22** (cổng bến = cổng **khu đầu bến**, không phải cổng thành chính), **D22-8** (Bàng không lên trang), **D22-9 = A** (chiếu Ch20 dán lên cổng bởi thư lại Hổ Lao); Canon Ch1–Ch21 LOCKED; Canon Update Ch21 (II-B, IX); Ch21 LOCKED; Production Bible; Chapter Bible Ch22. **Không mở lại Ch17–21; không đụng Ch23.** Độ dài trên trang **7.000–8.000** (còn 75.601 ký tự cho Ch22–32). **Tiêu đề "ĐƯỜNG LẠC KINH" — 🔒 chị chốt.** **Ch22 viết bằng Sonnet high.**)*
 
 **POV:** **Tiêu Dịch**, xuyên suốt. Narration gọi **"Dịch"**, **"hắn"** (như Ch19). Hàn gọi Dịch **"ngươi"**; Dịch gọi Hàn **"ông"**, xưng **"ta"**. Dịch nói **ngắn, thực tế, không diễn thuyết**. **Không** "điện hạ" (trừ khi một người **hỏi** *"họ Tiêu?"* — là câu hỏi, không là xác nhận); **không** "A Chiêu"/"Hoắc Chiêu"; **không** "Đêm ấy…".
 **Thời gian trên trang:** chỉ **"chiều"**, **"đêm thứ ba kể từ đêm nay"**, **"sáng"**, **"hai ngày"**, **"đêm"**, **"hôm sau"**. **Không số ngày tuyệt đối.**
@@ -32,10 +32,10 @@
 | **SY-14** | **Bàng / người giữ Hổ Lao: chỉ "Không thấy."** (D22-8; GR22-12) | **Không** tự khai; **không** vật của Bàng | [P] S4: Dịch hỏi quan cũ: *"Ai giữ thành đêm qua?"* — *"Một tướng của Hạ Hầu. Không thấy từ đêm qua."* — *"Bàng?"* — *"Ông ấy cũng không thấy."* **Hết.** **Không** thêm; **không** nhắc thư; **không** *"hắn đã thua"* |
 | **SY-15** | **Danh (một cảnh nhỏ có đối tượng)** (Gate 8A) | **Không** lặp hào chợ Dĩnh Xuyên (người hỏi khác, câu hỏi khác) | [P] Người hỏi = **quan cũ Hổ Lao** (SY-12c) + **một câu**: *"Ngài là người họ Tiêu?"* — Dịch **không đáp**; **cầm bút ký sổ kho** (**"Trình Dịch, sứ Ích Châu"**, **không ấn**). **Không** *"Ấn tới sau."* nếu vượt độ dài (**cắt được**) |
 | **SY-16** | **Chiêu: người vắng, một nhịp** (D22-5; GR22-14) | **Không** lời, thư, tin; **không** kỵ Hoắc | [P] S1 mở: **gò thấp phía đông trống** (một câu, **không** Dịch nhìn lâu, **không** tên nàng); *hoặc* S3 Dịch **ghi thêm tên** vào sổ người chết (**không** ghi tên Chiêu). **Chỉ một trong hai.** Khuyến nghị: **gò thấp trống** |
-| **SY-17** | **Hook = chiếu dán trên cổng** (Gate 8B; D22-9 = A) | **Gương Ch19**, đảo; không sứ Kim Lăng; không Ch23 | [P] **Sáng hôm sau:** Hàn **mở cổng đê** (lần đầu mở, **do Hàn ra lệnh**) để thóc Dĩnh Xuyên vào. **Một thư lại Hổ Lao** (vô danh) lấy từ trong áo **một tờ giấy khổ lớn, mép gấp, ngả vàng, có ấn đỏ ở cuối**; **dán** lên **cánh cổng đê** (chén hồ, vuốt phẳng) — **gương Ch19**. Một người đọc to: *"…Như lời đã hứa ở Dĩnh Xuyên của sứ Ích Châu Trình Dịch, nay triều đình xác nhận."* (**nguyên văn Ch20**). Dịch **đọc**; **vật:** *ấn đỏ ở cuối tờ* (**hắn có chữ ký, không có ấn**). **Câu cuối:** *"Tên hắn không ở cuối tờ. Nó nằm giữa dòng, trong chữ của người khác."* (**mô tả vật**; Scene Bible chọn dạng cuối — mục 3 S5). **Không** phản ứng giải nghĩa |
+| **SY-17** | **Hook = chiếu dán trên cổng** (Gate 8B; D22-9 = A) | **Gương Ch19**, đảo; không sứ Kim Lăng; không Ch23 | [P] **Sáng hôm sau:** Hàn **mở cổng đê** (lần đầu mở, **do Hàn ra lệnh**) để thóc Dĩnh Xuyên vào. **Một thư lại Hổ Lao** (vô danh) lấy từ trong áo **một tờ giấy khổ lớn, mép gấp, ngả vàng, có ấn đỏ ở cuối**; **dán** lên **cánh cổng đê** (chén hồ, vuốt phẳng) — **gương Ch19**. Một người đọc to: *"…Như lời đã hứa ở Dĩnh Xuyên của sứ Ích Châu Trình Dịch, nay triều đình xác nhận."* (**nguyên văn Ch20**). Dịch **đọc**; **vật:** *ấn đỏ ở cuối tờ* (**hắn có chữ ký, không có ấn**). **Câu cuối:** *"Tên hắn không ở cuối tờ. Nó nằm giữa dòng, trong chữ của người khác."* (**🔒 chị chọn (a)**). **Không** phản ứng giải nghĩa |
 | **SY-18** | **Hook Ch21 *"Cổng thành mở."*** (Gate §3) | Không nhắc, không đính chính | [P] Ch22 **không** dùng cụm *"cổng thành mở"*; **không** ai nói *"cổng thành chính đã mở"* |
 | **SY-19** | **Khung thời gian** (Gate §3; Canon Update Ch21 VII) | Chồng lên Ch21 | [P] **~56** lịch tới; **~57–58** trinh sát thấy dồn quân; **~58 đêm cuối** bộ đi đê; **~59 đêm** thuyền tới, trận; **~60** sáng–chiều; **~61 sáng** chiếu. **Trên trang không số ngày** |
-| **SY-20** | **Tiêu đề** | Gate D22-1: A "LẠC KINH" / **B "ĐƯỜNG LẠC KINH"** / C "HỔ LAO" | [P] **Đề xuất B** (đã ghi ở Gate; chờ chị chốt cuối). **Trong văn không câu nào nói Lạc Kinh đã bị chiếm** |
+| **SY-20** | **Tiêu đề** | Gate D22-1: A "LẠC KINH" / **B "ĐƯỜNG LẠC KINH"** / C "HỔ LAO" | 🔒 **B — chị chốt.** **Trong văn không câu nào nói Lạc Kinh đã bị chiếm** |
 
 ---
 
@@ -296,9 +296,9 @@
 | **P-22-14** | **Bàng/người giữ thành: *"Không thấy."*** (SY-14) | **LOCK** (D22-8) |
 | **P-22-15** | **Danh:** quan cũ hỏi *"họ Tiêu?"*; Dịch **không đáp**; ký **Trình Dịch, sứ Ích Châu** (SY-15) | Duyệt; **cắt được** |
 | **P-22-16** | **Chiêu: một nhịp *gò thấp trống*** (SY-16) | **LOCK** (D22-5) |
-| **P-22-17** | **Hook:** chiếu có **ấn đỏ** dán trên **cổng đê**; **câu cuối (a)** *"Tên hắn không ở cuối tờ. Nó nằm giữa dòng, trong chữ của người khác."* (SY-17) | **Chị chọn (a)/(b)** — khuyến nghị **(a)** |
+| **P-22-17** | **Hook:** chiếu có **ấn đỏ** dán trên **cổng đê**; **câu cuối (a)** *"Tên hắn không ở cuối tờ. Nó nằm giữa dòng, trong chữ của người khác."* (SY-17) | 🔒 **chị chọn (a)** |
 | **P-22-18** | **Không nhắc *"Cổng thành mở."*** (SY-18) | **LOCK** |
-| **P-22-19** | **Tiêu đề "ĐƯỜNG LẠC KINH"** (Gate D22-1 = B) (SY-20) | **Chị chốt cuối** |
+| **P-22-19** | **Tiêu đề "ĐƯỜNG LẠC KINH"** (Gate D22-1 = B) (SY-20) | 🔒 **chị chốt** |
 
 ---
 
@@ -337,6 +337,17 @@ S1 1.500 + S2 2.400 + S3 1.800 + S4 1.200 + S5 600 = **~7.500** (khung 7.000–8
 
 ---
 
+## 14. SELF-CHECK TRƯỚC DRAFT (điều kiện chị)
+
+| Hạng mục | Kết quả |
+|---|---|
+| **GR22-H1** | Dịch chỉ có ngày · lượng · đường + ba ngày trinh sát. Mọi chiến thuật là **đọc từ vật Dịch tự thấy** (dồn quân, đèn thưa, dự bị mặt ra sông). Không thư Hổ Lao, điều (2), Vân Chương, “Cổng thành mở”, Bàng đọc gì. **Ba tay chìa ra** (S4) = ba hướng độc lập (kho — Ích Châu; công — thủy quân; cai trị — quan cũ), **không** ai bị Dịch điều khiển. Phó tướng nói *“Sổ kho… một bản, gửi Kim Lăng”* (thủ tục), **không** *“Kim Lăng muốn…”*. |
+| **Hệ thống cổng** | **Cổng bến** = cổng khu đầu bến (mô tả vật lần đầu: *hẹp, thấp hơn tường thành chính sau lưng nó*). **Cổng đê** đóng từ đêm trận, chỉ mở ở S5 theo lệnh Hàn. **Cổng nối** = khu đầu bến ↔ thành chính, mở sẵn từ đêm; thành chính vào buổi sáng qua cổng nối. Không *“cổng thành”*, *“thành mở”*, *“tự mở”*. |
+| **Chiêu/Hoắc** | Không lên tên/thư/tin; **gò thấp phía đông trống** (một nhịp). *“Kỵ”* trên trang **chỉ là kỵ của Hạ Hầu** (câu hỏi của Dịch nêu rõ *“Kỵ của Hạ Hầu?”*). Lực lượng Dịch: **chỉ bộ Hàn**. |
+| **Điều chỉnh nhỏ khi viết** | (1) **S4 quan cũ** hỏi **trích nguyên câu tờ văn Ch19** (*“Quan cũ giữ việc cho tới khi có người thay hợp lệ. Ai hợp lệ?”*) — vì tờ ấy **đã là chữ của Dịch** từ Ch19, không phải chữ chiếu. (2) **Phó tướng** nói *“Sổ kho Hổ Lao. Một bản, gửi Kim Lăng.”* (thay *“Kim Lăng muốn một bản”*) cho khỏi chạm GR22-H1. (3) Sĩ quan Ích Châu hô tờ văn = *“người từng đứng sau lưng Dịch trước cổng Dĩnh Xuyên”* (khớp Ch19 V; không khẳng định người ấy cầm tờ văn). |
+
+---
+
 ## 13. TRẠNG THÁI
 
-**SCENE BIBLE CH22: v1 — chờ chị Pre-Audit.** Nền: **Gate Ch22 v2 LOCKED**. **Chưa viết Draft.** Bước tiếp: chị Pre-Audit → Scene Bible v2 **LOCK** → Draft v1 + Self-Audit → Audit → Draft v2 → CHAPTER LOCKED → Canon Update Ch22 (Sonnet high).
+**SCENE BIBLE CH22: v2 — 🔒 LOCKED** (chị: PASS CÓ ĐIỀU KIỆN; điều kiện đã self-check §14). Bước tiếp: **Draft v1 + Self-Audit** → Audit → Draft v2 → CHAPTER LOCKED → Canon Update Ch22 (Sonnet high).
