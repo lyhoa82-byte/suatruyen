@@ -24,6 +24,8 @@
 **Quy trình mỗi chương (không bỏ bước):**
 Foundation Gate (author-truth) → Pre-Audit → Gate v2 → **LOCK** → Scene Bible v1 → Pre-Audit → v2 → Pre-Audit Final → **LOCK** → Draft v1 + Self-Audit → Audit → Draft v2 → Final Audit → **CHAPTER LOCKED** (tạo file `_LOCKED.md`, giữ file `_DRAFT.md`) → **Canon Update** (Revision / Canon Change / Canon Sync → Canon mới → Không phải canon/OPEN → Knowledge Matrix → State Ledger → Seed→Payoff → Emotional Debt → Master Timeline → Length → OPEN chuyển tiếp).
 
+**Sau mỗi Canon Update (từ Ch23):** Canon Update ChNN → ghi **delta** vào 3 file `derived/` → **rebuild các mục bị ảnh hưởng** (không chỉ append) → **Consistency Check** → **QA lấy mẫu** → Registry cập nhật. Derived **không bao giờ giải quyết mâu thuẫn Canon**, chỉ chỉ ra (mục `CB-L / RG-L / TL-L`).
+
 **GOLDEN RULE: DRAFT KHÔNG TỰ ĐỘNG TRỞ THÀNH CANON.**
 - Chi tiết mới đánh dấu **[P]** cho tới khi chương LOCK.
 - **Không retcon ngầm.** Mọi thay đổi canon cũ phải ghi **Canon Change** rõ ràng trong Canon Update; **không sửa ngược file Gate/Canon cũ** (giữ làm hồ sơ lịch sử).
@@ -31,6 +33,8 @@ Foundation Gate (author-truth) → Pre-Audit → Gate v2 → **LOCK** → Scene 
 - Giữ OPEN những gì chị chưa quyết. Không mở lại Gate/chương đã LOCK trừ khi có xung đột canon thật.
 - **Không tự quyết thay chị** những lựa chọn có nhiều phương án: đưa phương án + khuyến nghị, chờ duyệt.
 - Không xóa `Cuu_Chau_Loan_The_Chuong_02_DRAFT.md` (giữ đối chiếu lịch sử).
+
+**Quyền canon theo loại file:** LOCKED / Canon Update → Bible quy định → **Derived** (`derived/`, *zero canon authority — chỉ là chỉ mục tiện tra*) → Draft. Derived sai thì sửa/xóa Derived; **không bao giờ sửa Canon để Derived khớp**.
 
 **Thứ tự ưu tiên khi xung đột:** logic / sự thật > Knowledge Matrix > Timeline > State Ledger > Seed/Payoff > Emotional Debt > Chapter Bible > Scene Bible > câu chữ. (Master Bible: LOGIC → NHÂN VẬT → CẢM XÚC → RETENTION.)
 
@@ -191,6 +195,7 @@ Nguồn rò trên tuyến văn thư – trạm ngựa Kim Lăng (G-1); Kha Trọ
 | `scene_bible/` | Scene Bible Ch2–Ch22 |
 | `audit/` | Self-Audit Ch7–Ch22 |
 | `draft/` | Các bản DRAFT (lịch sử) |
+| `derived/` | **DERIVED / NON-CANON** (dựng từ Canon Update Ch1–22; Consistency Check + QA 30 claim vòng 1 + sửa vòng 1): `CHARACTER_BIBLE_DERIVED.md`, `SEED_PAYOFF_EMOTIONAL_DEBT_REGISTRY.md`, `MASTER_TIMELINE_DERIVED_Ch1-Ch22.md`. Mỗi claim có Source Type (CANON_FACT / BELIEF / SUSPICION / INFERENCE / UNKNOWN / PLANNING_NON_CANON) + Source. Báo cáo QA: `audit/DERIVED_*_vong1.md` |
 | `tham_khao/` | Các ghi chú audit cũ của chị (Ch1–Ch2) |
 
 ---
